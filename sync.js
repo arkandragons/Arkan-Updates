@@ -17,7 +17,10 @@ const CONFIG = {
     IGNORE_PATTERS: [
         '.git', '.github', 'sync.js', 'generate-manifest.js', '.env', '.env.example',
         'node_modules', 'package.json', 'package-lock.json', 'manifest-standard.json',
-        'manifest-low.json', '.gitignore', 'journeymap/cache', 'logs', 'backups'
+        'manifest-low.json', '.gitignore', 'journeymap/cache', 'logs', 'backups', '.bak',
+        'config/nexars-drakoria-id-cache', 'config/worldedit/sessions',
+        'config/.puzzle_cache', 'config/bclib/cache.json',
+        'config/voicechat/username-cache.json', 'data/servers_playtime.dat'
     ]
 };
 

@@ -7,6 +7,13 @@ Thumbs.db
 journeymap/cache
 logs/
 backups/
+config/nexars-drakoria-id-cache/
+config/worldedit/sessions/
+config/.puzzle_cache/
+config/bclib/cache.json
+config/voicechat/username-cache.json
+data/servers_playtime.dat
+*.bak
 
 # Manifestos e Scripts (Esses devem ser commitados!)
 #!manifest-standard.json

@@ -17,13 +17,6 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/ArkanCapes/SkinMC-Cape-146772.png"
     },
     {
-      "name": "mojangstudios.png",
-      "path": "config/.puzzle_cache/mojangstudios.png",
-      "hash": "4a0293e3e9c15ae96a28cceae3dd0ef088f7ab5d",
-      "size": 140156,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/.puzzle_cache/mojangstudios.png"
-    },
-    {
       "name": "General.toml",
       "path": "config/CoroUtil/General.toml",
       "hash": "a9f705a2e6e3f8d8e21aaebca406863d872005d4",
@@ -794,13 +787,6 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_controlify_tpp_compat.json"
     },
     {
-      "name": "arkans_controlify_tpp_compat.json.bak-before-test-sync-20260909-230254",
-      "path": "config/arkans_controlify_tpp_compat.json.bak-before-test-sync-20260909-230254",
-      "hash": "42da3fbeddd83b9846d0b346828942e66ad163b0",
-      "size": 662,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_controlify_tpp_compat.json.bak-before-test-sync-20260909-230254"
-    },
-    {
       "name": "arkans_damage_outline.json",
       "path": "config/arkans_damage_outline.json",
       "hash": "f0217ac136ca155b34a1d183ba60579403016ca3",
@@ -820,13 +806,6 @@
       "hash": "03cb89a941a5b7de372206631aaa73d0fee9fc88",
       "size": 13769,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_flight_combat_overhaul.json"
-    },
-    {
-      "name": "arkans_flight_combat_overhaul.json.backup-before-test-defaults-20260711-190253",
-      "path": "config/arkans_flight_combat_overhaul.json.backup-before-test-defaults-20260711-190253",
-      "hash": "8919c9a7e088fdf401639523fcf6446dcb6f712c",
-      "size": 4556,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_flight_combat_overhaul.json.backup-before-test-defaults-20260711-190253"
     },
     {
       "name": "arkans_no_tree_punching.json",
@@ -953,13 +932,6 @@
       "hash": "d3ea183ab99e4a17772af52954c8f2a06c91cef6",
       "size": 188,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/bclib/biomes.json"
-    },
-    {
-      "name": "cache.json",
-      "path": "config/bclib/cache.json",
-      "hash": "0e82a0d9ef8c801f7a913e42e901757251ac1b07",
-      "size": 89,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/bclib/cache.json"
     },
     {
       "name": "client.json",
@@ -1492,13 +1464,6 @@
       "hash": "9dbe3eabea564d10d82ee0bd88012b22afece6f3",
       "size": 9699,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/controlify.json"
-    },
-    {
-      "name": "controlify.json.bak-before-test-sync-20260909-230254",
-      "path": "config/controlify.json.bak-before-test-sync-20260909-230254",
-      "hash": "ad8560a8eeb715b148f4c55aea65666dc4e61fec",
-      "size": 7845,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/controlify.json.bak-before-test-sync-20260909-230254"
     },
     {
       "name": "coolrain.json",
@@ -2059,20 +2024,6 @@
       "hash": "5fbd3e4c2a87ea6af8979b2121fc6042c0554aff",
       "size": 595,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/firstperson.json"
-    },
-    {
-      "name": "fishingreal-common-1.toml.bak",
-      "path": "config/fishingreal-common-1.toml.bak",
-      "hash": "bb8a6c8a7259b20e96e421cd3a1dd6ea25f2c50a",
-      "size": 32,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/fishingreal-common-1.toml.bak"
-    },
-    {
-      "name": "fishingreal-common-2.toml.bak",
-      "path": "config/fishingreal-common-2.toml.bak",
-      "hash": "43b4af4cd8b3320aa537f81f0a909f357d6d6274",
-      "size": 332,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/fishingreal-common-2.toml.bak"
     },
     {
       "name": "fishingreal-common.toml",
@@ -2740,104 +2691,6 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/neruina.json"
     },
     {
-      "name": "gregpool_1086a24d.png",
-      "path": "config/nexars-drakoria-id-cache/skin/gregpool_1086a24d.png",
-      "hash": "21ce5c14f69141558964790e0aa67880bae828f4",
-      "size": 4797,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-cache/skin/gregpool_1086a24d.png"
-    },
-    {
-      "name": "gregpool_29ebd7fd.png",
-      "path": "config/nexars-drakoria-id-cache/skin/gregpool_29ebd7fd.png",
-      "hash": "21ce5c14f69141558964790e0aa67880bae828f4",
-      "size": 4797,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-cache/skin/gregpool_29ebd7fd.png"
-    },
-    {
-      "name": "gregpool_3d1fb3ef.png",
-      "path": "config/nexars-drakoria-id-cache/skin/gregpool_3d1fb3ef.png",
-      "hash": "21ce5c14f69141558964790e0aa67880bae828f4",
-      "size": 4797,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-cache/skin/gregpool_3d1fb3ef.png"
-    },
-    {
-      "name": "gregpool_450c1863.png",
-      "path": "config/nexars-drakoria-id-cache/skin/gregpool_450c1863.png",
-      "hash": "21ce5c14f69141558964790e0aa67880bae828f4",
-      "size": 4797,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-cache/skin/gregpool_450c1863.png"
-    },
-    {
-      "name": "gregpool_4ac7e8f3.png",
-      "path": "config/nexars-drakoria-id-cache/skin/gregpool_4ac7e8f3.png",
-      "hash": "21ce5c14f69141558964790e0aa67880bae828f4",
-      "size": 4797,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-cache/skin/gregpool_4ac7e8f3.png"
-    },
-    {
-      "name": "gregpool_4dc3a43b.png",
-      "path": "config/nexars-drakoria-id-cache/skin/gregpool_4dc3a43b.png",
-      "hash": "21ce5c14f69141558964790e0aa67880bae828f4",
-      "size": 4797,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-cache/skin/gregpool_4dc3a43b.png"
-    },
-    {
-      "name": "gregpool_5775c175.png",
-      "path": "config/nexars-drakoria-id-cache/skin/gregpool_5775c175.png",
-      "hash": "21ce5c14f69141558964790e0aa67880bae828f4",
-      "size": 4797,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-cache/skin/gregpool_5775c175.png"
-    },
-    {
-      "name": "gregpool_8c468a85.png",
-      "path": "config/nexars-drakoria-id-cache/skin/gregpool_8c468a85.png",
-      "hash": "21ce5c14f69141558964790e0aa67880bae828f4",
-      "size": 4797,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-cache/skin/gregpool_8c468a85.png"
-    },
-    {
-      "name": "gregpool_9abae563.png",
-      "path": "config/nexars-drakoria-id-cache/skin/gregpool_9abae563.png",
-      "hash": "21ce5c14f69141558964790e0aa67880bae828f4",
-      "size": 4797,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-cache/skin/gregpool_9abae563.png"
-    },
-    {
-      "name": "gregpool_bbffb927.png",
-      "path": "config/nexars-drakoria-id-cache/skin/gregpool_bbffb927.png",
-      "hash": "21ce5c14f69141558964790e0aa67880bae828f4",
-      "size": 4797,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-cache/skin/gregpool_bbffb927.png"
-    },
-    {
-      "name": "gregpool_c21298af.png",
-      "path": "config/nexars-drakoria-id-cache/skin/gregpool_c21298af.png",
-      "hash": "21ce5c14f69141558964790e0aa67880bae828f4",
-      "size": 4797,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-cache/skin/gregpool_c21298af.png"
-    },
-    {
-      "name": "gregpool_c397bac4.png",
-      "path": "config/nexars-drakoria-id-cache/skin/gregpool_c397bac4.png",
-      "hash": "16f8bbd0ea65cd7ad5648953143fe4cf35ace7ca",
-      "size": 9768,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-cache/skin/gregpool_c397bac4.png"
-    },
-    {
-      "name": "gregpool_d2a02e33.png",
-      "path": "config/nexars-drakoria-id-cache/skin/gregpool_d2a02e33.png",
-      "hash": "21ce5c14f69141558964790e0aa67880bae828f4",
-      "size": 4797,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-cache/skin/gregpool_d2a02e33.png"
-    },
-    {
-      "name": "gregpool_d57bc8b9.png",
-      "path": "config/nexars-drakoria-id-cache/skin/gregpool_d57bc8b9.png",
-      "hash": "21ce5c14f69141558964790e0aa67880bae828f4",
-      "size": 4797,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-cache/skin/gregpool_d57bc8b9.png"
-    },
-    {
       "name": "nexars-spawn-rebalance.toml",
       "path": "config/nexars-spawn-rebalance.toml",
       "hash": "728ab330218ca9596f068a1f480785c8f39c91d3",
@@ -2892,20 +2745,6 @@
       "hash": "ed5e983dd47739d9030afdbbaed4b90fe49bcd26",
       "size": 3359,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/notenoughanimations.json"
-    },
-    {
-      "name": "nyfsspiders-common-1.toml.bak",
-      "path": "config/nyfsspiders-common-1.toml.bak",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "size": 0,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nyfsspiders-common-1.toml.bak"
-    },
-    {
-      "name": "nyfsspiders-common-2.toml.bak",
-      "path": "config/nyfsspiders-common-2.toml.bak",
-      "hash": "35974eddf72712f52d19bc6aa867d49f498c98a1",
-      "size": 125,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nyfsspiders-common-2.toml.bak"
     },
     {
       "name": "nyfsspiders-common.toml",
@@ -3256,13 +3095,6 @@
       "hash": "4419c3d903364d949a488361325fba530f2bcb37",
       "size": 6341,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/simplybows/config.toml"
-    },
-    {
-      "name": "backupconfig.json",
-      "path": "config/simplyswords_extra/backupconfig.json",
-      "hash": "ffea216e6054b4f375275f639b620c00399610f8",
-      "size": 71,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/simplyswords_extra/backupconfig.json"
     },
     {
       "name": "loot_config.json5",
@@ -3690,13 +3522,6 @@
       "hash": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
       "size": 1182,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/voicechat/translations.properties"
-    },
-    {
-      "name": "username-cache.json",
-      "path": "config/voicechat/username-cache.json",
-      "hash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
-      "size": 2,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/voicechat/username-cache.json"
     },
     {
       "name": "voicechat-client.properties",
@@ -4658,13 +4483,6 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/zh-TW/strings.json"
     },
     {
-      "name": "7666c6d1-4273-3b0c-88b6-9590d7e9accd.json",
-      "path": "config/worldedit/sessions/7666c6d1-4273-3b0c-88b6-9590d7e9accd.json",
-      "hash": "edd9066bc9077042a4b1d07002b031747a97f6a2",
-      "size": 139,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/worldedit/sessions/7666c6d1-4273-3b0c-88b6-9590d7e9accd.json"
-    },
-    {
       "name": "worldedit.properties",
       "path": "config/worldedit/worldedit.properties",
       "hash": "18e20b457bef23c893f413edc80804ed779dcc95",
@@ -4782,13 +4600,6 @@
       "hash": "f85b193471fe1fa13b1f9b81bf726af0ed59ba52",
       "size": 238,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/data/fabricDefaultResourcePacks.dat"
-    },
-    {
-      "name": "servers_playtime.dat",
-      "path": "data/servers_playtime.dat",
-      "hash": "8a7693cc1ddcd294c552726f940adc8463c1bb1b",
-      "size": 79,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/data/servers_playtime.dat"
     },
     {
       "name": ".keep",
@@ -8100,13 +7911,6 @@
       "hash": "0746eaace89674e37e7b2a0a949a17a99651134e",
       "size": 16115,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/options.txt"
-    },
-    {
-      "name": "pnpm-lock.yaml",
-      "path": "pnpm-lock.yaml",
-      "hash": "9dedca0d530006c557d580777203412526dd7f24",
-      "size": 8544,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/pnpm-lock.yaml"
     },
     {
       "name": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
@@ -45578,13 +45382,6 @@
       "hash": "fe70948417a891276087ecc2d3607ebbd3ddd1e9",
       "size": 42846985,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/shaderpacks/iterationT%203.2.0.zip"
-    },
-    {
-      "name": "iterationT 3.2.0.zip.bak-title-overlay",
-      "path": "shaderpacks/iterationT 3.2.0.zip.bak-title-overlay",
-      "hash": "ddadd31e7c59cedadc1e704e5f83c872cb3d5e37",
-      "size": 42846966,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/shaderpacks/iterationT%203.2.0.zip.bak-title-overlay"
     },
     {
       "name": "iterationT 3.2.0.zip.broken-no-title-define",
