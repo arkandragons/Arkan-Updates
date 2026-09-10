@@ -3,39 +3,39 @@
   "armor": 8.0,
   "flying_speed": 0.0,
   "abilities": {
-    "tail_attack": {
-      "damage": 8.0
+    "dash_tail_swipe": {
+      "damage": 14.0
     },
     "dash_claw": {
       "damage": 16.0
     },
-    "dash_tail_swipe": {
-      "damage": 14.0
+    "tail_attack": {
+      "damage": 8.0
     },
-    "horn_gore_phase1": {
-      "damage": 16.0
-    },
-    "horn_gore_phase2": {
-      "damage": 20.8
+    "bite_phase2": {
+      "damage": 50.0
     },
     "bite_phase1": {
       "damage": 40.0
     },
-    "bite_phase2": {
-      "damage": 50.0
+    "horn_gore_phase2": {
+      "damage": 20.8
+    },
+    "horn_gore_phase1": {
+      "damage": 16.0
     }
   },
   "extra": {
-    "wild_flying_speed_multiplier": 1.0,
-    "egg_hatch_chance_normal": 3.0,
-    "taming_chance": 6.0,
-    "swim_speed": 1.45,
     "egg_drop_chance": 0.12,
+    "wild_flying_speed_multiplier": 1.0,
+    "taming_chance": 6.0,
+    "egg_hatch_chance_normal": 3.0,
+    "swim_speed": 1.45,
     "taming_chance_base": 20.0,
     "aggressive_wild": false,
     "reactive_terrain_clearing_on_damage_tamed": false,
-    "reactive_terrain_clearing_on_damage": true,
-    "legacy_taming": false
+    "legacy_taming": false,
+    "reactive_terrain_clearing_on_damage": true
   },
   "hints": {
     "taming_chance_base": "Percent chance per feed, from 0 to 100",

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/experience_bottle"
+  },
+  "overrides": [
+    { "predicate": { "pommel:is_held": 1.0 }, "model": "minecraft:item/pommel_held_models/experience_bottle" },
+    { "predicate": { "pommel:is_ground": 1.0 }, "model": "minecraft:item/pommel_held_models/experience_bottle" }
+
+       ]
+}

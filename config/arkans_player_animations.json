@@ -1,0 +1,11 @@
+{
+  "compat_enabled": true,
+  "fa_player_extension_compat_enabled": true,
+  "better_combat_compat_enabled": true,
+  "bow_fix_enabled": true,
+  "eat_drink_fix_enabled": true,
+  "shield_fix_enabled": true,
+  "physics_cape_compat_enabled": true,
+  "fco_boomerang_compat_enabled": true,
+  "animation_blacklist": []
+}

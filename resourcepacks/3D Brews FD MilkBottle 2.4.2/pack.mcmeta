@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": "§3§lRefined 3D Potions     §fby §4§lpatovskiz",
+		"pack_format": 46,
+		"supported_formats": {
+			"min_inclusive": 10,
+			"max_inclusive": 999
+		},
+	"min_format": 10,
+	"max_format": 999
+	    
+  }
+}

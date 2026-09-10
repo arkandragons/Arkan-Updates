@@ -1,0 +1,25 @@
+{
+  "credit": "Adapted from Trusty Tools stone axe pattern",
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": [
+          "ground",
+          "gui",
+          "fixed",
+          "on_shelf"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "arkans_no_tree_punching:item/primitive_axe"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "arkans_no_tree_punching:item/primitive_axe_in_hand"
+    }
+  }
+}

@@ -6,19 +6,19 @@
     "chin_slam": {
       "damage": 8.0
     },
-    "bite": {
-      "damage": 5.0
-    },
     "ground_eating": {
       "damage": 10.0
+    },
+    "bite": {
+      "damage": 5.0
     }
   },
   "extra": {
-    "egg_hatch_time_ticks_normal": 30000.0,
-    "egg_drop_chance": 0.12,
     "taming_chance_base": 1.0,
-    "taming_chance_hearty": 1.0,
+    "egg_drop_chance": 0.12,
+    "egg_hatch_time_ticks_normal": 30000.0,
     "scale_drop_chance_brush": 0.3,
+    "taming_chance_hearty": 1.0,
     "aggressive_wild": false
   },
   "hints": {

@@ -101,7 +101,7 @@
 		"speedMultiplier": 1.0
 	},
 	"bow": {
-		"enabled": false,
+		"enabled": true,
 		"speedMultiplier": 1.0
 	},
 	"pickaxe": {

@@ -63,6 +63,8 @@ transformTeleports = true
 	deleteShipCommandPerms = 2
 	#The permission level required to use the /vs get-air and /vs get-gravity command. Must be 0 <= x <= 4
 	getAirValuesPerms = 0
+	#The permission level required to use the /vs dry command. Must be 0 <= x <= 4
+	dryShipCommandPerms = 2
 [ComputerCraft]
 	#Turtles leaving scaled up/down ship may cause issuesEnable/Disable Turtles Leaving Scaled Ships?
 	canTurtlesLeaveScaledShips = false

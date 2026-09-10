@@ -1,0 +1,40 @@
+{
+  "ui_layouts": {
+    "storage_containers": "spacer_1",
+    "chest": true,
+    "barrel": true,
+    "ender_chest": true,
+    "shulkerbox": true,
+    "processing_units": "spacer_1",
+    "furnace": true,
+    "blast_furnace": true,
+    "smoker": true,
+    "crafting": "spacer_1",
+    "craftingtable": true,
+    "crafter": true,
+    "stone_cutter": true,
+    "redstone_utility": "spacer_1",
+    "hopper": true,
+    "dispenser": true,
+    "dropper": true,
+    "mystic_tools": "spacer_1",
+    "enchanting_table": true,
+    "grindstone": true,
+    "anvil_base": true,
+    "additional_gui": "spacer_1",
+    "beacon": true,
+    "brewing_stand": true,
+    "cartography_table": true,
+    "loom_block": true,
+    "smithing_table": true
+  },
+  "extended_settings": {
+    "player_inventory": "spacer_1",
+    "inventory_style": "paper",
+    "knowledge_book": "spacer_1",
+    "book_theme": "green"
+  },
+  "text_options": {
+    "display_text": true
+  }
+}

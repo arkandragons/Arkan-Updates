@@ -365,7 +365,7 @@
       }
     },
     "rain": {
-      "enabled": true,
+      "enabled": false,
       "opacity": 1.0,
       "duration": {
         "min": 100,

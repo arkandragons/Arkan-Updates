@@ -33,6 +33,8 @@ udpPort = 25565
 	velocityIterations = 2
 	#How fast the physics is running. 1.0 is full speed, 0.5 is 50% speed, etc.
 	physicsSpeed = 1.0
+	#How long ships are held in place after loading so physics and joints can stabilize. Set to 0 to disable.
+	shipLoadFreezeSeconds = 5.0
 	#The detail of the collision LOD of ships, higher values are more detailed but heavier to compute. Setting this to 0 disables Lod.
 	lodDetail = 8192
 	#Sets number of sub-steps used by Krunch

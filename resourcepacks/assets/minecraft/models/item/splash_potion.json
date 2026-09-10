@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/potion_overlay",
+    "layer1": "minecraft:item/splash_potion"
+  },
+  "overrides": [
+    { "predicate": { "pommel:is_held": 1.0 }, "model": "minecraft:item/pommel_held_models/splash_potion" },
+    { "predicate": { "pommel:is_thrown": 1.0 }, "model": "minecraft:item/pommel_held_models/splash_potion" },
+    { "predicate": { "pommel:is_ground": 1.0 }, "model": "minecraft:item/pommel_held_models/splash_potion" }
+
+       ]
+}

@@ -1,5 +1,5 @@
 {
-  "configRevision": 17,
+  "configRevision": 18,
   "enabled": true,
   "debugMode": false,
   "phantomBurnInSunlight": false,
@@ -19,7 +19,7 @@
   "phantomSpeedMultiplier": 3.6,
   "phantomHitboxScaleMultiplier": 3.0,
   "phantomProjectileHitRadius": 2.0,
-  "megaPhantomEnabled": true,
+  "megaPhantomEnabled": false,
   "megaPhantomOrbitExperimental": true,
   "smallWavesBetweenMegaPhantoms": 2,
   "megaPhantomMaxWaveSize": 4,

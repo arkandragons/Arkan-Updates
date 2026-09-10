@@ -1,9 +1,9 @@
 {
   "configVersion": 2,
   "enabledByDefault": true,
-  "xOffset": 6,
-  "sneakXOffset": 6,
-  "sitXOffset": 7,
+  "xOffset": 14,
+  "sneakXOffset": 14,
+  "sitXOffset": 8,
   "renderStuckFeatures": true,
   "vanillaHandsMode": "OFF",
   "dynamicMode": true,

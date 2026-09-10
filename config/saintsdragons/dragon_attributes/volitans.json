@@ -3,11 +3,11 @@
   "armor": 6.0,
   "flying_speed": 0.38,
   "abilities": {
-    "poison_breath": {
-      "damage": 1.4
+    "burrow": {
+      "damage": 30.0
     },
-    "water_breath": {
-      "damage": 1.8
+    "roar_ground": {
+      "damage": 10.0
     },
     "bite": {
       "damage": 12.0
@@ -15,49 +15,49 @@
     "poison_ball": {
       "damage": 12.0
     },
-    "roar_ground": {
-      "damage": 10.0
+    "water_breath": {
+      "damage": 1.8
     },
-    "burrow": {
-      "damage": 30.0
+    "poison_breath": {
+      "damage": 1.4
     },
-    "roar_air_water": {
-      "damage": 7.0
+    "horn_gore": {
+      "damage": 15.0
     },
     "claw": {
       "damage": 11.0
     },
-    "horn_gore": {
-      "damage": 15.0
+    "roar_air_water": {
+      "damage": 7.0
     }
   },
   "extra": {
-    "taming_chance_base": 20.0,
-    "breath_projectile_lifetime": 28.0,
-    "breath_drain_per_tick": 0.004166666666666667,
-    "poison_breath_poison_duration_ticks": 80.0,
-    "roar_ground_poison_duration_ticks": 1200.0,
-    "fish_drop_chance": 0.4,
-    "breath_projectile_speed": 1.6,
-    "breath_active_ticks_max": 240.0,
-    "taming_chance_hearty": 30.0,
-    "roar_ground_poison_level": 3.0,
-    "egg_loot_shipwreck_treasure": 0.12,
-    "spine_drop_chance": 0.3,
-    "poison_ball_poison_duration_ticks": 120.0,
     "scale_drop_chance_brush": 0.3,
-    "breath_regen_per_tick": 0.0025,
-    "roar_air_water_poison_duration_ticks": 200.0,
-    "wild_flying_speed_multiplier": 1.0,
-    "poison_ball_poison_level": 1.0,
-    "poison_breath_poison_level": 1.0,
-    "taming_stun_health": 60.0,
-    "egg_hatch_time_ticks_normal": 18000.0,
-    "breath_projectile_spread": 0.2,
-    "roar_air_water_poison_level": 2.0,
+    "poison_ball_poison_duration_ticks": 120.0,
+    "spine_drop_chance": 0.3,
+    "egg_loot_shipwreck_treasure": 0.12,
+    "roar_ground_poison_level": 3.0,
+    "taming_chance_hearty": 30.0,
+    "breath_active_ticks_max": 240.0,
+    "breath_projectile_speed": 1.6,
+    "fish_drop_chance": 0.4,
+    "roar_ground_poison_duration_ticks": 1200.0,
+    "poison_breath_poison_duration_ticks": 80.0,
+    "breath_drain_per_tick": 0.004166666666666667,
+    "breath_projectile_lifetime": 28.0,
+    "taming_chance_base": 20.0,
     "egg_drop_chance": 0.12,
-    "legacy_taming": false,
-    "aggressive_wild": true
+    "roar_air_water_poison_level": 2.0,
+    "breath_projectile_spread": 0.2,
+    "egg_hatch_time_ticks_normal": 18000.0,
+    "taming_stun_health": 60.0,
+    "poison_breath_poison_level": 1.0,
+    "poison_ball_poison_level": 1.0,
+    "wild_flying_speed_multiplier": 1.0,
+    "roar_air_water_poison_duration_ticks": 200.0,
+    "breath_regen_per_tick": 0.0025,
+    "aggressive_wild": true,
+    "legacy_taming": false
   },
   "hints": {
     "taming_chance_base": "Percent chance per feed, from 0 to 100",

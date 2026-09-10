@@ -101,5 +101,7 @@
     "minecraft:weathered_copper_lantern",
     "minecraft:oxidized_copper_lantern",
     "minecraft:copper_lantern"
-  ]
+  ],
+  "maxBlockingAngle": 15.0,
+  "maxNormalAngle": 50.0
 }

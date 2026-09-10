@@ -52,11 +52,22 @@
     "net.spellcraftgaming.rpghud.gui.GuiSettingsModColor": true,
     "com.iafenvoy.iceandfire.screen.gui.DragonScreen": true,
     "com.iafenvoy.iceandfire.screen.gui.HippogryphScreen": true,
-    "com.drakoria.nexarsdrakoriaid.client.NexarsDrakoriaIdConfigScreen": true
+    "de.maxhenkel.camerautils.gui.ThirdPersonScreen": true,
+    "com.simibubi.create.content.schematics.cannon.SchematicannonScreen": true,
+    "net.diebuddies.physics.settings.GeneralSettingsScreen": true,
+    "net.diebuddies.physics.settings.blocks.BlockSettingsScreen": true,
+    "net.minecraft.class_443": true,
+    "org.orecruncher.dsurround.gui.sound.IndividualSoundControlScreen": true,
+    "net.minecraft.class_410": true,
+    "com.arkan.arkansidloader.client.ArkansIdLoaderConfigScreen": true,
+    "com.b1n_ry.yigd.client.gui.screens.GraveOverviewScreen": true,
+    "dev.tr7zw.trender.gui.client.AbstractConfigScreen$1": true,
+    "dev.isxander.controlify.gui.screen.SubmitUnknownControllerScreen": true
   },
   "hideBackground": {
     "fuzs.mindfuldarkness.client.gui.screens.PixelConfigScreen": true,
     "mezz.jei.gui.recipes.RecipesGui": true,
-    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
+    "com.b1n_ry.yigd.client.gui.screens.GraveOverviewScreen": true
   }
 }

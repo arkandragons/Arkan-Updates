@@ -1,0 +1,22 @@
+{
+  "configVersion": 7,
+  "enabled": true,
+  "controllerInputOnly": true,
+  "enableBetterThirdPersonCompat": true,
+  "enableLeawindThirdPersonCompat": true,
+  "enableInventorioCompat": true,
+  "requireBetterThirdPersonCamera": true,
+  "skipWhileUsingItem": false,
+  "useFluidAnalogYaw": true,
+  "minimumAnalogInput": 0.0,
+  "enableArkanSprint": true,
+  "sprintTriggerMode": "ANALOG",
+  "sprintKeybindMode": "HOLD",
+  "sprintAnalogThreshold": 1.0,
+  "sprintKeybindMovementThreshold": 0.1,
+  "restrictFirstPersonSprintDirection": true,
+  "firstPersonSprintMaxAngleDegrees": 70.0,
+  "suppressControlifySprint": true,
+  "bridgePhase": "START",
+  "debugMode": false
+}

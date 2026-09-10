@@ -1,0 +1,11 @@
+{
+  "maxEyeDistance": 0.85,
+  "bodyContactExpansion": 0.08,
+  "minFacingDot": 0.72,
+  "heartParticles": 6,
+  "particleSpread": 0.12,
+  "particleSpeed": 0.02,
+  "kissSoundVolume": 0.9,
+  "kissSoundPitchMin": 0.98,
+  "kissSoundPitchMax": 1.04
+}

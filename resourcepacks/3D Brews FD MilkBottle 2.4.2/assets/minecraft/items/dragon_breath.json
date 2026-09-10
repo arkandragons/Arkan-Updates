@@ -1,0 +1,22 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": [
+          "gui",  
+          "fixed"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/dragon_breath"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/pommel_held_models/dragon_breath"
+    }
+  }
+}

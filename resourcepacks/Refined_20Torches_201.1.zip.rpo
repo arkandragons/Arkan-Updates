@@ -1,0 +1,16 @@
+{
+  "compatOptions": {
+    "fa_Player": false,
+    "not_Enough_Animations": false
+  },
+  "holdMyItems": {
+    "campfireSmoke": true,
+    "campfireSparkParticles": true,
+    "torchSparkParticles": true,
+    "redstoneTorchDustParticles": true,
+    "soulParticles": true,
+    "torchSounds": false,
+    "campfireSounds": false,
+    "torchHandSwayOnlyWhenSprinting": false
+  }
+}

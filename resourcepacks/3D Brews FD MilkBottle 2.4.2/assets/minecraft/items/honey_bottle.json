@@ -1,0 +1,73 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": [
+          "gui",
+          "fixed"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/honey_bottle"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "property": "minecraft:using_item",
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/pommel_held_models/honey_bottle"
+      },
+      "on_true": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:use_duration",
+        "remaining": true,
+        "scale": 1,
+        "entries": [
+          {
+            "threshold": 25,
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/pommel_held_models/honey_bottle_drink00"
+            }
+          },
+          {
+            "threshold": 15,
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/pommel_held_models/honey_bottle_drink01"
+            }
+          },
+          {
+            "threshold": 10,
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/pommel_held_models/honey_bottle_drink02"
+            }
+          },
+          {
+            "threshold": 5,
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/pommel_held_models/honey_bottle_drink03"
+            }
+          },
+          {
+            "threshold": 0,
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/pommel_held_models/honey_bottle_drink04"
+            }
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/pommel_held_models/honey_bottle_drink04"
+        }
+      }
+    }
+  }
+}

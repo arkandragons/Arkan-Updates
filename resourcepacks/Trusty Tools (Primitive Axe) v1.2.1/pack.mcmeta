@@ -1,8 +1,8 @@
 {
-    "pack": {
-        "min_format": 75,
-        "max_format": 100,
-        "pack_format": 75,
-        "description": "3D tools and weapons \n§8by Zvezdov"
-    }	
+  "pack": {
+    "min_format": 75,
+    "max_format": 100,
+    "pack_format": 75,
+    "description": "Arkan's NoTreePunching - Trusty Tools Compat\nArkan Studios - GregPool & MrKirby83\nOriginal Trusty Tools style by Zvezdov"
+  }
 }

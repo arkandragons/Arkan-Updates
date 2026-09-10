@@ -53,5 +53,17 @@
   {
     "soundEventId": "minecraft:music.menu",
     "volumeScale": 60
+  },
+  {
+    "soundEventId": "wildernature:squirrel_ambient",
+    "volumeScale": 34
+  },
+  {
+    "soundEventId": "wildernature:squirrel_death",
+    "volumeScale": 34
+  },
+  {
+    "soundEventId": "wildernature:squirrel_hurt",
+    "volumeScale": 34
   }
 ]

@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/ominous_bottle"
+  },
+  "overrides": [
+    { "predicate": { "pommel:is_held": 1.0 }, "model": "minecraft:item/pommel_held_models/ominous_bottle" },
+    { "predicate": { "eating": 1.0, "eat": 0.10 }, "model": "minecraft:item/pommel_held_models/ominous_bottle_drink0" },
+    { "predicate": { "eating": 1.0, "eat": 0.35 }, "model": "minecraft:item/pommel_held_models/ominous_bottle_drink1" },
+    { "predicate": { "eating": 1.0, "eat": 0.55 }, "model": "minecraft:item/pommel_held_models/ominous_bottle_drink2" },
+    { "predicate": { "eating": 1.0, "eat": 0.75 }, "model": "minecraft:item/pommel_held_models/ominous_bottle_drink3" },
+    { "predicate": { "eating": 1.0, "eat": 0.90 }, "model": "minecraft:item/pommel_held_models/ominous_bottle_drink4" },
+    { "predicate": { "pommel:is_ground": 1.0 }, "model": "minecraft:item/pommel_held_models/ominous_bottle" }
+
+
+       ]
+}

@@ -1,6 +1,6 @@
 {
-  "version": "1776885629105",
-  "generatedAt": "2026-04-22T19:20:29.105Z",
+  "version": "1789060664628",
+  "generatedAt": "2026-09-10T17:17:44.628Z",
   "files": [
     {
       "name": "SkinMC-Cape-106766.png",
@@ -33,8 +33,8 @@
     {
       "name": "DistantHorizons.toml",
       "path": "config/DistantHorizons.toml",
-      "hash": "4e1aa45b9c24305846582e14448111979bea8177",
-      "size": 32486,
+      "hash": "69f9e2414632806d1832720839bc7342f27ea4da",
+      "size": 37810,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/DistantHorizons.toml"
     },
     {
@@ -761,29 +761,85 @@
     {
       "name": "arkans-id-loader-client.json",
       "path": "config/arkans-id-loader-client.json",
-      "hash": "2276bbc35c8eae95fc4acc2427d5a6556c741306",
-      "size": 73,
+      "hash": "041a90ab3720c446890a6bca18fa5958a73e4ce6",
+      "size": 51,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans-id-loader-client.json"
     },
     {
       "name": "arkans-id-loader-server.json",
       "path": "config/arkans-id-loader-server.json",
-      "hash": "3372fefea149c0a7b7cf2d67db00488d10b03699",
-      "size": 301,
+      "hash": "c22c44a17c1f8a92d27358b4e43237701195a7e7",
+      "size": 302,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans-id-loader-server.json"
+    },
+    {
+      "name": "arkans_book_of_dragons_port.json",
+      "path": "config/arkans_book_of_dragons_port.json",
+      "hash": "7f5313233ecc85e796e765cf109bfad669b18298",
+      "size": 3339,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_book_of_dragons_port.json"
+    },
+    {
+      "name": "arkans_controlify_btt_compat.json",
+      "path": "config/arkans_controlify_btt_compat.json",
+      "hash": "6a13508abbb18083cb01c09fa963a737b30d8950",
+      "size": 545,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_controlify_btt_compat.json"
+    },
+    {
+      "name": "arkans_controlify_tpp_compat.json",
+      "path": "config/arkans_controlify_tpp_compat.json",
+      "hash": "42da3fbeddd83b9846d0b346828942e66ad163b0",
+      "size": 662,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_controlify_tpp_compat.json"
+    },
+    {
+      "name": "arkans_controlify_tpp_compat.json.bak-before-test-sync-20260909-230254",
+      "path": "config/arkans_controlify_tpp_compat.json.bak-before-test-sync-20260909-230254",
+      "hash": "42da3fbeddd83b9846d0b346828942e66ad163b0",
+      "size": 662,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_controlify_tpp_compat.json.bak-before-test-sync-20260909-230254"
+    },
+    {
+      "name": "arkans_damage_outline.json",
+      "path": "config/arkans_damage_outline.json",
+      "hash": "f0217ac136ca155b34a1d183ba60579403016ca3",
+      "size": 328,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_damage_outline.json"
+    },
+    {
+      "name": "arkans_fa_player_compat.json",
+      "path": "config/arkans_fa_player_compat.json",
+      "hash": "86ff8957f4c38956080f6aa3eefed2d573a5748f",
+      "size": 32,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_fa_player_compat.json"
     },
     {
       "name": "arkans_flight_combat_overhaul.json",
       "path": "config/arkans_flight_combat_overhaul.json",
-      "hash": "7ba4f9271634a8902b1c796364ec3bfef70aab6f",
-      "size": 2077,
+      "hash": "03cb89a941a5b7de372206631aaa73d0fee9fc88",
+      "size": 13769,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_flight_combat_overhaul.json"
+    },
+    {
+      "name": "arkans_flight_combat_overhaul.json.backup-before-test-defaults-20260711-190253",
+      "path": "config/arkans_flight_combat_overhaul.json.backup-before-test-defaults-20260711-190253",
+      "hash": "8919c9a7e088fdf401639523fcf6446dcb6f712c",
+      "size": 4556,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_flight_combat_overhaul.json.backup-before-test-defaults-20260711-190253"
+    },
+    {
+      "name": "arkans_no_tree_punching.json",
+      "path": "config/arkans_no_tree_punching.json",
+      "hash": "debb5544c15054f25ea6dfe2390ad8c8188ff082",
+      "size": 687,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_no_tree_punching.json"
     },
     {
       "name": "arkans_phantom_repurpose.json",
       "path": "config/arkans_phantom_repurpose.json",
-      "hash": "b90d9029122e5d89dd1dec2031d89f9341013949",
-      "size": 1166,
+      "hash": "fe19036831ad14849edf93a11d4005d8d388ce25",
+      "size": 1167,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_phantom_repurpose.json"
     },
     {
@@ -792,6 +848,34 @@
       "hash": "9a8b0b821e579ea0935d6ceac3a9b926abf2917a",
       "size": 31,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_phantom_repurpose_client.json"
+    },
+    {
+      "name": "arkans_physics_compat.json",
+      "path": "config/arkans_physics_compat.json",
+      "hash": "9ea2af4df5d690d427730738c9ebb3eed7cfefec",
+      "size": 94,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_physics_compat.json"
+    },
+    {
+      "name": "arkans_player_animations.json",
+      "path": "config/arkans_player_animations.json",
+      "hash": "0ed65b57df7a9cb0740fc2c6b2e13b7a2e821476",
+      "size": 312,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_player_animations.json"
+    },
+    {
+      "name": "arkans_social_interactions.json",
+      "path": "config/arkans_social_interactions.json",
+      "hash": "45a1d6ec05e01a9864a52dab46dff8e5349b120c",
+      "size": 242,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkans_social_interactions.json"
+    },
+    {
+      "name": "arkansrevive.json",
+      "path": "config/arkansrevive.json",
+      "hash": "eb41a42350e2657cfb722231af4e6afe091b7555",
+      "size": 3162,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/arkansrevive.json"
     },
     {
       "name": "armoroftheages.json",
@@ -824,21 +908,21 @@
     {
       "name": "awesomedungeon_1.properties",
       "path": "config/awesomedungeon_1.properties",
-      "hash": "f18d121b7aebd02c955175d46882fdb63f0dd0a3",
+      "hash": "9302645d6887a5dc14001eafb847a2410ac1e5ca",
       "size": 1393,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/awesomedungeon_1.properties"
     },
     {
       "name": "awesomedungeonend_1.properties",
       "path": "config/awesomedungeonend_1.properties",
-      "hash": "ffbcc890b11eb93de18b548bdd4359ecf7b72178",
+      "hash": "6258fa0afe692f6ca98f8942c4212688f5fe0b66",
       "size": 437,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/awesomedungeonend_1.properties"
     },
     {
       "name": "awesomedungeonnether_1.properties",
       "path": "config/awesomedungeonnether_1.properties",
-      "hash": "053127abd1e71b6dadf81a0d934aa686f87f4e55",
+      "hash": "5dcc16ed2d6e198d22eafafca12bc2f6dcce0090",
       "size": 1006,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/awesomedungeonnether_1.properties"
     },
@@ -848,6 +932,20 @@
       "hash": "004a6ad0c9370fb754cd80615f576a59beb5fe82",
       "size": 1529,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/awesomedungeonocean_1.properties"
+    },
+    {
+      "name": "azurelib.json",
+      "path": "config/azurelib.json",
+      "hash": "9b664f0a5d48fb8a25dfd7f5d1c5bd731b5e93c5",
+      "size": 509,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/azurelib.json"
+    },
+    {
+      "name": "config.json5",
+      "path": "config/bc_particle/config.json5",
+      "hash": "511c87d65e4646c0673fcfebfdf3bb85d713446e",
+      "size": 609,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/bc_particle/config.json5"
     },
     {
       "name": "biomes.json",
@@ -906,6 +1004,20 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/betteradvancements.json"
     },
     {
+      "name": "capes.json",
+      "path": "config/bettercapes/capes.json",
+      "hash": "284ad23a6206963797894503a03232a6832632b7",
+      "size": 3083550,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/bettercapes/capes.json"
+    },
+    {
+      "name": "config.json",
+      "path": "config/bettercapes/config.json",
+      "hash": "fedc9591aebfc3918fab6eb3681baef060e5a121",
+      "size": 2127981,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/bettercapes/config.json"
+    },
+    {
       "name": "README.txt",
       "path": "config/bettercaves/README.txt",
       "hash": "3c98cdf993a30712d4a0c6a008845a61ca8915b9",
@@ -929,8 +1041,8 @@
     {
       "name": "client.json5",
       "path": "config/bettercombat/client.json5",
-      "hash": "784b2b724807c0dd80197fcbed5ac34afdf0c8c1",
-      "size": 551,
+      "hash": "f80eb0aee4b780834fb53b67d81d0888f1e82e1b",
+      "size": 554,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/bettercombat/client.json5"
     },
     {
@@ -1137,6 +1249,13 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/betteroceanmonuments-fabric-1_20.toml"
     },
     {
+      "name": "bettersearch.json",
+      "path": "config/bettersearch.json",
+      "hash": "86819f38fef899da7ebb1fda9f83deea10a6a09e",
+      "size": 2638,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/bettersearch.json"
+    },
+    {
       "name": "README.txt",
       "path": "config/betterstrongholds/README.txt",
       "hash": "c998f33867863c69c0ee99af679ecfad189513bd",
@@ -1184,6 +1303,13 @@
       "hash": "34d67ce716672a9f111927b64d98126074ca52f3",
       "size": 145,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/betterstrongholds-fabric-1_20.toml"
+    },
+    {
+      "name": "betterthirdperson.json5",
+      "path": "config/betterthirdperson.json5",
+      "hash": "ccc4ce55f817522bcb4291c77aad39523a2ee368",
+      "size": 639,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/betterthirdperson.json5"
     },
     {
       "name": "betterwitchhuts-fabric-1_20.toml",
@@ -1237,7 +1363,7 @@
     {
       "name": "camerautils.properties",
       "path": "config/camerautils/camerautils.properties",
-      "hash": "ea4a31f4981e2e48c2ff209fdc2f8a122b69d3c9",
+      "hash": "17aac517f6fc1dd879b5482e69e9332c3a2d3586",
       "size": 756,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/camerautils/camerautils.properties"
     },
@@ -1361,6 +1487,20 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/continuity.json"
     },
     {
+      "name": "controlify.json",
+      "path": "config/controlify.json",
+      "hash": "9dbe3eabea564d10d82ee0bd88012b22afece6f3",
+      "size": 9699,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/controlify.json"
+    },
+    {
+      "name": "controlify.json.bak-before-test-sync-20260909-230254",
+      "path": "config/controlify.json.bak-before-test-sync-20260909-230254",
+      "hash": "ad8560a8eeb715b148f4c55aea65666dc4e61fec",
+      "size": 7845,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/controlify.json.bak-before-test-sync-20260909-230254"
+    },
+    {
       "name": "coolrain.json",
       "path": "config/coolrain.json",
       "hash": "437c855cf6107ef5d82bb067dfab696d39d094ed",
@@ -1466,6 +1606,48 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/cycletitlescreensplash.json5"
     },
     {
+      "name": "doggytalents-client.toml",
+      "path": "config/doggytalents-client.toml",
+      "hash": "b7636b587541b6c40b13c47fbdbde07a7434f3cc",
+      "size": 6386,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/doggytalents-client.toml"
+    },
+    {
+      "name": "doggytalents-dog_custom_skins.toml",
+      "path": "config/doggytalents-dog_custom_skins.toml",
+      "hash": "c44003d19dfaf64d6d78da32645b67f125d64999",
+      "size": 427,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/doggytalents-dog_custom_skins.toml"
+    },
+    {
+      "name": "doggytalents-dog_custom_skins_client.toml",
+      "path": "config/doggytalents-dog_custom_skins_client.toml",
+      "hash": "dbdca8434fa9ee49c81ce60f39895edfc5425ea6",
+      "size": 509,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/doggytalents-dog_custom_skins_client.toml"
+    },
+    {
+      "name": "doggytalents-respawn_tags_to_remove.toml",
+      "path": "config/doggytalents-respawn_tags_to_remove.toml",
+      "hash": "92fe89d893d6538d79fcf3b230747484919fa338",
+      "size": 478,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/doggytalents-respawn_tags_to_remove.toml"
+    },
+    {
+      "name": "doggytalents-server.toml",
+      "path": "config/doggytalents-server.toml",
+      "hash": "80642506aa3967a51737c51f4756694fe91b87c0",
+      "size": 7967,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/doggytalents-server.toml"
+    },
+    {
+      "name": "doggytalents-talents.toml",
+      "path": "config/doggytalents-talents.toml",
+      "hash": "f9c85a4c33faa86fff239e664157e3cf0c484b84",
+      "size": 1255,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/doggytalents-talents.toml"
+    },
+    {
       "name": "doubledoors.json5",
       "path": "config/doubledoors.json5",
       "hash": "637a177420ad5471e1e421479677f51c8715cd8c",
@@ -1489,8 +1671,8 @@
     {
       "name": "soundconfig.json",
       "path": "config/dsurround/soundconfig.json",
-      "hash": "ed4ae6c138df6fe17707965b2c69b6fc71be2555",
-      "size": 1125,
+      "hash": "5b64002e31ea21ae1bfc5c02cf9a6d277fd58e18",
+      "size": 1372,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/dsurround/soundconfig.json"
     },
     {
@@ -1557,6 +1739,20 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/effectual.json"
     },
     {
+      "name": "emotecraft.json",
+      "path": "config/emotecraft.json",
+      "hash": "212357de0d0bc3432e2ca5a1ac866e88e89b2e69",
+      "size": 647,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/emotecraft.json"
+    },
+    {
+      "name": "emotecraft_emote_map.json",
+      "path": "config/emotecraft_emote_map.json",
+      "hash": "be63473ca7f8286a8827f2e151fff6ce4016ff4d",
+      "size": 117,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/emotecraft_emote_map.json"
+    },
+    {
       "name": "endermanoverhaul-client.jsonc",
       "path": "config/endermanoverhaul-client.jsonc",
       "hash": "48bce33baf967eefbd1aac8cdd7761d668c54f56",
@@ -1573,8 +1769,8 @@
     {
       "name": "enhancedvisuals-client.json",
       "path": "config/enhancedvisuals-client.json",
-      "hash": "3db0eaa31bfb9835270b3266850bfccfd6191e07",
-      "size": 8145,
+      "hash": "b2641036cb412f20886410c5963f7e3bdb0e6009",
+      "size": 8146,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/enhancedvisuals-client.json"
     },
     {
@@ -1587,8 +1783,8 @@
     {
       "name": "entity_model_features.json",
       "path": "config/entity_model_features.json",
-      "hash": "3caf3134ca562f16d3e1cd718aba8597ebee3003",
-      "size": 1144,
+      "hash": "7fefe690037952896b8f0d2cdf1f27f6ac53a58d",
+      "size": 1242,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/entity_model_features.json"
     },
     {
@@ -1699,7 +1895,7 @@
     {
       "name": "indigo-renderer.properties",
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "8c4d654a26d049a3ea35772602cbc1399f3d1cba",
+      "hash": "1b6d3e9b56a50a2afb432ca68a0afe2f044de275",
       "size": 290,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/fabric/indigo-renderer.properties"
     },
@@ -1776,7 +1972,7 @@
     {
       "name": "title_screen_layout.txt",
       "path": "config/fancymenu/customization/title_screen_layout.txt",
-      "hash": "1e0c7782ea492d155ec6745cba5f1699162c23cf",
+      "hash": "cc449c06e760e2d1d1acc0789eeb2600bf4d4e8b",
       "size": 37856,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/fancymenu/customization/title_screen_layout.txt"
     },
@@ -1797,8 +1993,8 @@
     {
       "name": "options.txt",
       "path": "config/fancymenu/options.txt",
-      "hash": "986b5fc23b163059cb7aa050446abb2d8b8b821b",
-      "size": 2128,
+      "hash": "8c3c9ba621741fa065dadc9dbbd73b5a4a8c1a68",
+      "size": 2129,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/fancymenu/options.txt"
     },
     {
@@ -1860,9 +2056,23 @@
     {
       "name": "firstperson.json",
       "path": "config/firstperson.json",
-      "hash": "0519c8e55ceb6ffb5ad45a87a534a7433c2ed444",
-      "size": 593,
+      "hash": "5fbd3e4c2a87ea6af8979b2121fc6042c0554aff",
+      "size": 595,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/firstperson.json"
+    },
+    {
+      "name": "fishingreal-common-1.toml.bak",
+      "path": "config/fishingreal-common-1.toml.bak",
+      "hash": "bb8a6c8a7259b20e96e421cd3a1dd6ea25f2c50a",
+      "size": 32,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/fishingreal-common-1.toml.bak"
+    },
+    {
+      "name": "fishingreal-common-2.toml.bak",
+      "path": "config/fishingreal-common-2.toml.bak",
+      "hash": "43b4af4cd8b3320aa537f81f0a909f357d6d6274",
+      "size": 332,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/fishingreal-common-2.toml.bak"
     },
     {
       "name": "fishingreal-common.toml",
@@ -1898,6 +2108,13 @@
       "hash": "4c39ac50b96d1baa2a1120614cb5a9b21642d469",
       "size": 1517,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/fpsreducer.json"
+    },
+    {
+      "name": "freecam.json5",
+      "path": "config/freecam.json5",
+      "hash": "427b08355ce2eadbbde56feeb5eac6a0e1b7fd2c",
+      "size": 549,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/freecam.json5"
     },
     {
       "name": "keybinds.toml",
@@ -1986,7 +2203,7 @@
     {
       "name": "indium-renderer.properties",
       "path": "config/indium-renderer.properties",
-      "hash": "33faa39aca4ceadf22e4e588ba7a0fbe383ce941",
+      "hash": "352776230ae2589e61726076f6a2eec9599f3488",
       "size": 115,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/indium-renderer.properties"
     },
@@ -2049,8 +2266,8 @@
     {
       "name": "unrecognized.json",
       "path": "config/invmove/unrecognized.json",
-      "hash": "80217cca58171fbd0e8e47e87aa270ebe61932c2",
-      "size": 3562,
+      "hash": "5f61fc8e47ed521809de825632dd85ec87d456d6",
+      "size": 4266,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/invmove/unrecognized.json"
     },
     {
@@ -2070,7 +2287,7 @@
     {
       "name": "iris.properties",
       "path": "config/iris.properties",
-      "hash": "1a5b165e744fa683690e1b48709fd8876079eea2",
+      "hash": "4624606d575b2b3752885bd6df4ef1f9b5767f9b",
       "size": 296,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/iris.properties"
     },
@@ -2084,8 +2301,8 @@
     {
       "name": "known_suspicious_jars.txt",
       "path": "config/jamlib/known_suspicious_jars.txt",
-      "hash": "f076fd94886c31a123757a4b9c27da40881dfb07",
-      "size": 77,
+      "hash": "9102ae9a4afd2546f27428fc1fb03f080986b63c",
+      "size": 75,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/jamlib/known_suspicious_jars.txt"
     },
     {
@@ -2098,8 +2315,8 @@
     {
       "name": "ingredient-list-mod-sort-order.ini",
       "path": "config/jei/ingredient-list-mod-sort-order.ini",
-      "hash": "703b1165b428ca4528f755fd1d7853e7cf45aacc",
-      "size": 1477,
+      "hash": "9ec059e75317d447ccc830f0ce278b7a36887fef",
+      "size": 1555,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/jei/ingredient-list-mod-sort-order.ini"
     },
     {
@@ -2150,41 +2367,6 @@
       "hash": "7eabaf9e947a605639a309914eecc4bdf2b53d7a",
       "size": 40,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/jei/world/local/New_World/bookmarks.ini"
-    },
-    {
-      "name": "lookupHistory.ini",
-      "path": "config/jei/world/local/New_World/lookupHistory.ini",
-      "hash": "ab0cd55893123a9078d823cc5fa209951b20476a",
-      "size": 505,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/jei/world/local/New_World/lookupHistory.ini"
-    },
-    {
-      "name": "lookupHistory.ini",
-      "path": "config/jei/world/local/New_World__2/lookupHistory.ini",
-      "hash": "d71a69498cc37b4bd579a41cdfdb6fd757fb9068",
-      "size": 174,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/jei/world/local/New_World__2/lookupHistory.ini"
-    },
-    {
-      "name": "lookupHistory.ini",
-      "path": "config/jei/world/local/SEED_BOA/lookupHistory.ini",
-      "hash": "2a5bf06df9f6e82a1e79519d9c58664d01f6b196",
-      "size": 308,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/jei/world/local/SEED_BOA/lookupHistory.ini"
-    },
-    {
-      "name": "lookupHistory.ini",
-      "path": "config/jei/world/local/Teste/lookupHistory.ini",
-      "hash": "a3791caa61ef03437178c7a72ac90b63807849b8",
-      "size": 41,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/jei/world/local/Teste/lookupHistory.ini"
-    },
-    {
-      "name": "lookupHistory.ini",
-      "path": "config/jei/world/server/Drakoria_GPMP_9ef135c2/lookupHistory.ini",
-      "hash": "683554ff9b58bd425d35498354795b4957c4d1d9",
-      "size": 1177,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/jei/world/server/Drakoria_GPMP_9ef135c2/lookupHistory.ini"
     },
     {
       "name": "jmi-client.json",
@@ -2285,6 +2467,13 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/leahs-immersive-thunder.toml"
     },
     {
+      "name": "leawind_third_person.json",
+      "path": "config/leawind_third_person.json",
+      "hash": "9e85af32dfef11f304559fb27e93ccdc554b6f62",
+      "size": 1988,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/leawind_third_person.json"
+    },
+    {
       "name": "libgui.json5",
       "path": "config/libgui.json5",
       "hash": "aa2f828b3903fa48180cb314feb1107f4b4e42f2",
@@ -2315,7 +2504,7 @@
     {
       "name": "libraryferret_1.properties",
       "path": "config/libraryferret_1.properties",
-      "hash": "15e85a06b89d27aa49cc41feef328b724df86ccf",
+      "hash": "418d589763ca69117f179732f09c820fec208dbe",
       "size": 193,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/libraryferret_1.properties"
     },
@@ -2346,6 +2535,13 @@
       "hash": "030172b1d2dea6da1b2dfca65f01d55d6e069528",
       "size": 1214,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/lootr.json"
+    },
+    {
+      "name": "lsp.json",
+      "path": "config/lsp.json",
+      "hash": "9c4f60c179f77e676b6133a6a42c5d7e0d9bce6a",
+      "size": 223,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/lsp.json"
     },
     {
       "name": "lying_skeletons_config.properties",
@@ -2446,6 +2642,13 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/midnightlib.json"
     },
     {
+      "name": "mindfuldarkness-client.toml",
+      "path": "config/mindfuldarkness-client.toml",
+      "hash": "16fe8784a8952ae7e76144ac5cd84a90d68155eb",
+      "size": 2315,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/mindfuldarkness-client.toml"
+    },
+    {
       "name": "mobcontrol.toml",
       "path": "config/mobcontrol.toml",
       "hash": "8d33537fa87bc09a4039aea2ebd9f38b10b48a04",
@@ -2507,6 +2710,13 @@
       "hash": "6159edf36bc48c22491bfd9ad820609a3e8e220d",
       "size": 20,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/mossylib.json5"
+    },
+    {
+      "name": "mousewheelie.hjson",
+      "path": "config/mousewheelie.hjson",
+      "hash": "b2c0df5f2c6695fd5e898f5da99e4e502db47b38",
+      "size": 7557,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/mousewheelie.hjson"
     },
     {
       "name": "namepain.toml",
@@ -2628,20 +2838,6 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-cache/skin/gregpool_d57bc8b9.png"
     },
     {
-      "name": "nexars-drakoria-id-client.json",
-      "path": "config/nexars-drakoria-id-client.json",
-      "hash": "0a484d717e21798838d7affbe0cf400a7d9dafbe",
-      "size": 25,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-client.json"
-    },
-    {
-      "name": "nexars-drakoria-id-server.json",
-      "path": "config/nexars-drakoria-id-server.json",
-      "hash": "449e2f4cbcc870d545023e6f0e7ec4c697fc887a",
-      "size": 319,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nexars-drakoria-id-server.json"
-    },
-    {
       "name": "nexars-spawn-rebalance.toml",
       "path": "config/nexars-spawn-rebalance.toml",
       "hash": "728ab330218ca9596f068a1f480785c8f39c91d3",
@@ -2693,8 +2889,8 @@
     {
       "name": "notenoughanimations.json",
       "path": "config/notenoughanimations.json",
-      "hash": "384c2eefbdda6a0fe356740933c401b88bf8fe05",
-      "size": 3305,
+      "hash": "ed5e983dd47739d9030afdbbaed4b90fe49bcd26",
+      "size": 3359,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/notenoughanimations.json"
     },
     {
@@ -2721,8 +2917,8 @@
     {
       "name": "packetfixer.properties",
       "path": "config/packetfixer.properties",
-      "hash": "e3207420b514e4cb702922826e418d44cf11a62f",
-      "size": 488,
+      "hash": "f9f745c94a9b86c1ae435cc8a74e35f48973b123",
+      "size": 3419,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/packetfixer.properties"
     },
     {
@@ -2784,7 +2980,7 @@
     {
       "name": "physics_client_config.json",
       "path": "config/physicsmod/physics_client_config.json",
-      "hash": "67a38f9f0cb4ceaf805ab4d3b3303d51cdf593ea",
+      "hash": "b619be24e9e1813dd1b082e95e148b6321d3a1b6",
       "size": 5062,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/physicsmod/physics_client_config.json"
     },
@@ -2798,8 +2994,8 @@
     {
       "name": "physics_mobs_client_config.json",
       "path": "config/physicsmod/physics_mobs_client_config.json",
-      "hash": "693740f07858ed33454136c3269ceed0c2df90e0",
-      "size": 109637,
+      "hash": "92002a31f72ec8f6d2cf60b3b09be1a3297b45a4",
+      "size": 117374,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/physicsmod/physics_mobs_client_config.json"
     },
     {
@@ -2812,8 +3008,8 @@
     {
       "name": "physics_vines_client_config.json",
       "path": "config/physicsmod/physics_vines_client_config.json",
-      "hash": "b71d47dc8b344223a364a347f2b5b895559472d3",
-      "size": 11084,
+      "hash": "2ad955ca7b0991b930721de918538f3bd38a6f33",
+      "size": 11423,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/physicsmod/physics_vines_client_config.json"
     },
     {
@@ -2854,7 +3050,7 @@
     {
       "name": "polymorph-integrations.toml",
       "path": "config/polymorph-integrations.toml",
-      "hash": "f1ec0a2fbb209a62700a5ad997aa1c9f1cefa6e2",
+      "hash": "218a301c4bd78e1f437a0764608a4bf41519580c",
       "size": 294,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/polymorph-integrations.toml"
     },
@@ -2880,10 +3076,17 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/presencefootsteps/userconfig.json"
     },
     {
+      "name": "merged_animation_selection.json",
+      "path": "config/punchy/merged_animation_selection.json",
+      "hash": "fa3429e9b7c50daa32792902dbed56325f829d58",
+      "size": 2779,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/punchy/merged_animation_selection.json"
+    },
+    {
       "name": "punchy_config.json",
       "path": "config/punchy/punchy_config.json",
-      "hash": "6c695112e5fa8c74cf17aa0f18b4e10bf566bb2d",
-      "size": 1296,
+      "hash": "56cbcd0877c9eab6356eb7ef5731c130cbd55d41",
+      "size": 1292,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/punchy/punchy_config.json"
     },
     {
@@ -2899,6 +3102,13 @@
       "hash": "3c08905e4a3a9f34dac2fe9e690233baaf1073f8",
       "size": 412,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/puzzle.json"
+    },
+    {
+      "name": "replaymod.json",
+      "path": "config/replaymod.json",
+      "hash": "dc56ca12a73a351adfa3e8a150684c0859abf101",
+      "size": 1813,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/replaymod.json"
     },
     {
       "name": "resourceful-config-web.json",
@@ -2966,65 +3176,86 @@
     {
       "name": "cindervane.json",
       "path": "config/saintsdragons/dragon_attributes/cindervane.json",
-      "hash": "0e631d8757b4972869082f6997c45f4dea1ecdaf",
+      "hash": "0de50f3c24678c53557396db000653dccf13bccc",
       "size": 3427,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/saintsdragons/dragon_attributes/cindervane.json"
     },
     {
       "name": "ignivorus.json",
       "path": "config/saintsdragons/dragon_attributes/ignivorus.json",
-      "hash": "b83b7750d472e466ed3502e9a3f89c177c2ca61f",
+      "hash": "318a0def0b5d5dfb3206feea85853ede2cbb26db",
       "size": 5004,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/saintsdragons/dragon_attributes/ignivorus.json"
     },
     {
       "name": "nulljaw.json",
       "path": "config/saintsdragons/dragon_attributes/nulljaw.json",
-      "hash": "b9d38bd3a7f17ac02d718552c684d93adf859b90",
+      "hash": "779cf7d52c99d8618b89fcdd3c959d25b4bbd245",
       "size": 3337,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/saintsdragons/dragon_attributes/nulljaw.json"
     },
     {
       "name": "raevyx.json",
       "path": "config/saintsdragons/dragon_attributes/raevyx.json",
-      "hash": "fbbeb6910a8c748cfaa56807fe0100f48992cf8a",
+      "hash": "2d4eafe38e2f0c4e7564ad7838ebf65e3bfa4d6e",
       "size": 3492,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/saintsdragons/dragon_attributes/raevyx.json"
     },
     {
       "name": "stegonaut.json",
       "path": "config/saintsdragons/dragon_attributes/stegonaut.json",
-      "hash": "b14ae218633635029cfd21abaf71d6933dd6b450",
+      "hash": "90cb80b5ea3d8df4c092ef63a6e9ebcc87e5f810",
       "size": 2974,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/saintsdragons/dragon_attributes/stegonaut.json"
     },
     {
       "name": "varasuchus.json",
       "path": "config/saintsdragons/dragon_attributes/varasuchus.json",
-      "hash": "87cad027cec1633446bd9b0cd031e9846a6b8ca7",
+      "hash": "e4758e84d3201678975b487a8ea0074c915be8b9",
       "size": 3327,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/saintsdragons/dragon_attributes/varasuchus.json"
     },
     {
       "name": "volitans.json",
       "path": "config/saintsdragons/dragon_attributes/volitans.json",
-      "hash": "6c77bbc2753860014eec239a5a4f2d921037aeb2",
+      "hash": "b855d9f57bda60913f4e6308ae58613c937cf313",
       "size": 5556,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/saintsdragons/dragon_attributes/volitans.json"
     },
     {
       "name": "saintsdragonsspawning.toml",
       "path": "config/saintsdragonsspawning.toml",
-      "hash": "71c697787fc45896ca7958934276e8ce91ef1f55",
-      "size": 1261,
+      "hash": "4b1da556f0b2edd2cfc4052b26be8a8e82a6bb23",
+      "size": 1262,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/saintsdragonsspawning.toml"
     },
     {
       "name": "client.json5",
       "path": "config/seriousplayeranimations/client.json5",
-      "hash": "3b3f19039841364c876394925c8d404c5cf4ab50",
-      "size": 2182,
+      "hash": "607b031e9ce78878a2b69c2e4707368d8808e435",
+      "size": 2181,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/seriousplayeranimations/client.json5"
+    },
+    {
+      "name": "config.yml",
+      "path": "config/servercore/config.yml",
+      "hash": "7f4f36407cae80a7168b9098fb33bd127c2e133f",
+      "size": 11398,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/servercore/config.yml"
+    },
+    {
+      "name": "optimizations.yml",
+      "path": "config/servercore/optimizations.yml",
+      "hash": "d0c0d5a96f32b856fbd1a8f80dd538b2c87c65ac",
+      "size": 1204,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/servercore/optimizations.yml"
+    },
+    {
+      "name": "config.toml",
+      "path": "config/simplybows/config.toml",
+      "hash": "4419c3d903364d949a488361325fba530f2bcb37",
+      "size": 6341,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/simplybows/config.toml"
     },
     {
       "name": "backupconfig.json",
@@ -3090,6 +3321,13 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/simplyswords_main/weapon_attributes.json5"
     },
     {
+      "name": "config.toml",
+      "path": "config/simplytooltips/config.toml",
+      "hash": "e97dfa580a08b305de4470027b69d28ba2862584",
+      "size": 342,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/simplytooltips/config.toml"
+    },
+    {
       "name": "skinlayers.json",
       "path": "config/skinlayers.json",
       "hash": "9552e0366319f47881639dbcb36713bbfad98a58",
@@ -3141,8 +3379,8 @@
     {
       "name": "occlusion.properties",
       "path": "config/sound_physics_remastered/occlusion.properties",
-      "hash": "63e8843f243c38bc7aa44d99ce4f562991890350",
-      "size": 4831,
+      "hash": "5eac9cfb94e24fa3256faab120c97e3d1615cce5",
+      "size": 4879,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/sound_physics_remastered/occlusion.properties"
     },
     {
@@ -3155,8 +3393,8 @@
     {
       "name": "sound_rates.properties",
       "path": "config/sound_physics_remastered/sound_rates.properties",
-      "hash": "fdee420ca659887ba8bb6190df46d1cf587bc5c3",
-      "size": 115434,
+      "hash": "81aa56e911ed52cb9e52d40e802718ab60906473",
+      "size": 117946,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/sound_physics_remastered/sound_rates.properties"
     },
     {
@@ -3342,6 +3580,20 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/trender.json"
     },
     {
+      "name": "trmt-client.json",
+      "path": "config/trmt-client.json",
+      "hash": "dba3b8b1d33116b71cdcc2a9dfcdcb0e02a9a583",
+      "size": 23,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/trmt-client.json"
+    },
+    {
+      "name": "trmt.json",
+      "path": "config/trmt.json",
+      "hash": "efdf1a67eab94c02ae999f66b7544a630deae2f6",
+      "size": 1683,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/trmt.json"
+    },
+    {
       "name": "tumbleweed.properties",
       "path": "config/tumbleweed.properties",
       "hash": "3f4bbdd13cdedf66af5c5016469aa5724a3e225f",
@@ -3372,15 +3624,15 @@
     {
       "name": "valkyrienskies-server.toml",
       "path": "config/valkyrienskies/valkyrienskies-server.toml",
-      "hash": "709ec276a3f5d10865524834a81dfc700baacfa1",
-      "size": 5122,
+      "hash": "9c430016bda742069a28538754870a8eeda25680",
+      "size": 5229,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/valkyrienskies/valkyrienskies-server.toml"
     },
     {
       "name": "vs-core-server.toml",
       "path": "config/valkyrienskies/vs-core-server.toml",
-      "hash": "57bda810fd293af3716371a8bb75965a658bfcfa",
-      "size": 3863,
+      "hash": "8ca7a7b1ef3f98e25ebae29c834c78b2096310ec",
+      "size": 4001,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/valkyrienskies/vs-core-server.toml"
     },
     {
@@ -4415,7 +4667,7 @@
     {
       "name": "worldedit.properties",
       "path": "config/worldedit/worldedit.properties",
-      "hash": "87ee79331e04c46d81ff6e032b4d1a9cc05d9427",
+      "hash": "18e20b457bef23c893f413edc80804ed779dcc95",
       "size": 2541,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/worldedit/worldedit.properties"
     },
@@ -4527,15 +4779,15 @@
     {
       "name": "fabricDefaultResourcePacks.dat",
       "path": "data/fabricDefaultResourcePacks.dat",
-      "hash": "33a8e52a75dbae5dccf9d6f36251b0869e0e4551",
-      "size": 200,
+      "hash": "f85b193471fe1fa13b1f9b81bf726af0ed59ba52",
+      "size": 238,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/data/fabricDefaultResourcePacks.dat"
     },
     {
       "name": "servers_playtime.dat",
       "path": "data/servers_playtime.dat",
-      "hash": "6d80815648381755cf9e3111c771a0253327088f",
-      "size": 32,
+      "hash": "8a7693cc1ddcd294c552726f940adc8463c1bb1b",
+      "size": 79,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/data/servers_playtime.dat"
     },
     {
@@ -4569,8 +4821,8 @@
     {
       "name": "colorpalette.json",
       "path": "journeymap/colorpalette.json",
-      "hash": "92ffbc3285af534ba81b48bce8d32a27af36c9ba",
-      "size": 203957,
+      "hash": "7c6331752e1d9a5b8c5bb11cc6a23631cdfacae1",
+      "size": 205264,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/journeymap/colorpalette.json"
     },
     {
@@ -5199,8 +5451,8 @@
     {
       "name": "journeymap.log",
       "path": "journeymap/journeymap.log",
-      "hash": "1257d054ac805a3fc0dbdc2b79a7ec808f58b873",
-      "size": 39464,
+      "hash": "f241e31f249483d5675bd3b61ff68fb7e3657a9d",
+      "size": 39473,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/journeymap/journeymap.log"
     },
     {
@@ -5232,11 +5484,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/Aquamirae+6.jar"
     },
     {
-      "name": "Armor%20of%20the%20Ages-fabric-1.20.1-1.3.12.jar",
-      "path": "mods/Armor%20of%20the%20Ages-fabric-1.20.1-1.3.12.jar",
+      "name": "Armor_20of_20the_20Ages-fabric-1.20.1-1.3.12.jar",
+      "path": "mods/Armor_20of_20the_20Ages-fabric-1.20.1-1.3.12.jar",
       "hash": "1dae968297d744c02599aa4faf7c6f0bf94ab76d",
       "size": 335025,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/Armor%2520of%2520the%2520Ages-fabric-1.20.1-1.3.12.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/Armor_20of_20the_20Ages-fabric-1.20.1-1.3.12.jar"
     },
     {
       "name": "BOMD-1.7.5-1.20.1.jar",
@@ -5281,11 +5533,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/BridgingMod-2.5.1+1.20.1.fabric-release.jar"
     },
     {
-      "name": "CameraOverhaul-v2.0.6-fabric%2Bmc%5B1.20.0-1.20.5%5D.jar",
-      "path": "mods/CameraOverhaul-v2.0.6-fabric%2Bmc%5B1.20.0-1.20.5%5D.jar",
+      "name": "CameraOverhaul-v2.0.6-fabric_2Bmc_5B1.20.0-1.20.5_5D.jar",
+      "path": "mods/CameraOverhaul-v2.0.6-fabric_2Bmc_5B1.20.0-1.20.5_5D.jar",
       "hash": "f607ee5446bc6cab6ba9b0522ec13884593bd046",
       "size": 140784,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/CameraOverhaul-v2.0.6-fabric%252Bmc%255B1.20.0-1.20.5%255D.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/CameraOverhaul-v2.0.6-fabric_2Bmc_5B1.20.0-1.20.5_5D.jar"
     },
     {
       "name": "Chimes-v2.1.1-1.20.1-Fabric.jar",
@@ -5358,11 +5610,18 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/DisableCustomWorldsAdvice-4.1.jar"
     },
     {
-      "name": "DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
-      "path": "mods/DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
-      "hash": "ce3814dd5971edda4d04c3a42ef0df5c6cf8e10d",
-      "size": 25378978,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar"
+      "name": "DistantHorizons-3.0.3-b-1.20.1-fabric-forge.jar.replaced",
+      "path": "mods/DistantHorizons-3.0.3-b-1.20.1-fabric-forge.jar.replaced",
+      "hash": "90de462112b43f58686573c4e08bfe42e3352133",
+      "size": 29467253,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/DistantHorizons-3.0.3-b-1.20.1-fabric-forge.jar.replaced"
+    },
+    {
+      "name": "DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar",
+      "path": "mods/DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar",
+      "hash": "5667440fdca4d4543c345c9ba6fda2dda64928ca",
+      "size": 29561297,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar"
     },
     {
       "name": "DustyDecoRefabricated-1.1-1.20.1+1.20.2.jar",
@@ -5442,6 +5701,13 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar"
     },
     {
+      "name": "FpsReducer2-fabric-1.20-2.5.jar",
+      "path": "mods/FpsReducer2-fabric-1.20-2.5.jar",
+      "hash": "4ab443f92814c5e75bbb775ad7f784ff16c8feee",
+      "size": 111668,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/FpsReducer2-fabric-1.20-2.5.jar"
+    },
+    {
       "name": "IceAndFireCE-1.2.5-1.20.1-fabric.jar",
       "path": "mods/IceAndFireCE-1.2.5-1.20.1-fabric.jar",
       "hash": "6af34354d662468d676e5d653d4907b552b7f7d2",
@@ -5456,11 +5722,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/IllagerInvasion-v8.0.7-1.20.1-Fabric.jar"
     },
     {
-      "name": "ImmediatelyFast-Fabric-1.5.4%2B1.20.4.jar",
-      "path": "mods/ImmediatelyFast-Fabric-1.5.4%2B1.20.4.jar",
+      "name": "ImmediatelyFast-Fabric-1.5.4_2B1.20.4.jar",
+      "path": "mods/ImmediatelyFast-Fabric-1.5.4_2B1.20.4.jar",
       "hash": "bb9e7a507bb7a442cba451d79b5c1fde74aea07c",
       "size": 354883,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/ImmediatelyFast-Fabric-1.5.4%252B1.20.4.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/ImmediatelyFast-Fabric-1.5.4_2B1.20.4.jar"
     },
     {
       "name": "ImmersiveThunder-1.20.1+1.2.2.jar",
@@ -5477,11 +5743,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/ImmersiveUI-FABRIC-0.3.0.jar"
     },
     {
-      "name": "InvMove-0.9.3%2B1.20.1-Fabric.jar",
-      "path": "mods/InvMove-0.9.3%2B1.20.1-Fabric.jar",
+      "name": "InvMove-0.9.3_2B1.20.1-Fabric.jar",
+      "path": "mods/InvMove-0.9.3_2B1.20.1-Fabric.jar",
       "hash": "044f04566fffba604cb4286dca035d6a5d6c429e",
       "size": 84095,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/InvMove-0.9.3%252B1.20.1-Fabric.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/InvMove-0.9.3_2B1.20.1-Fabric.jar"
     },
     {
       "name": "InvMoveCompats-0.5.0+1.20.4-Fabric.jar",
@@ -5491,11 +5757,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/InvMoveCompats-0.5.0+1.20.4-Fabric.jar"
     },
     {
-      "name": "InventoryParticles-1.5.0%2B1.20.1%2Bfabric.jar",
-      "path": "mods/InventoryParticles-1.5.0%2B1.20.1%2Bfabric.jar",
+      "name": "InventoryParticles-1.5.0_2B1.20.1_2Bfabric.jar",
+      "path": "mods/InventoryParticles-1.5.0_2B1.20.1_2Bfabric.jar",
       "hash": "29cba93405b82a968065a2fe522e64d21a636796",
       "size": 1544714,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/InventoryParticles-1.5.0%252B1.20.1%252Bfabric.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/InventoryParticles-1.5.0_2B1.20.1_2Bfabric.jar"
     },
     {
       "name": "ItemsDisplayed - v1.3-1.20.1.jar",
@@ -5554,11 +5820,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/MoogsVoyagerStructures-1.20-5.0.4.jar"
     },
     {
-      "name": "MossyLib-1.1.0%2B1.20.1%2Bfabric.jar",
-      "path": "mods/MossyLib-1.1.0%2B1.20.1%2Bfabric.jar",
+      "name": "MossyLib-1.1.0_2B1.20.1_2Bfabric.jar",
+      "path": "mods/MossyLib-1.1.0_2B1.20.1_2Bfabric.jar",
       "hash": "d9d4105572e4aa68603b0610aa5b6ceadb615cff",
       "size": 188502,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/MossyLib-1.1.0%252B1.20.1%252Bfabric.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/MossyLib-1.1.0_2B1.20.1_2Bfabric.jar"
     },
     {
       "name": "Necronomicon-Fabric-1.6.0+1.20.1.jar",
@@ -5568,11 +5834,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/Necronomicon-Fabric-1.6.0+1.20.1.jar"
     },
     {
-      "name": "Nordic_Structure%201.1.1.jar",
-      "path": "mods/Nordic_Structure%201.1.1.jar",
+      "name": "Nordic_Structure_201.1.1.jar",
+      "path": "mods/Nordic_Structure_201.1.1.jar",
       "hash": "5aad63629503451285b4428f64be43056fbfa780",
       "size": 806401,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/Nordic_Structure%25201.1.1.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/Nordic_Structure_201.1.1.jar"
     },
     {
       "name": "Nullscape_1.20.x_v1.2.8.jar",
@@ -5638,11 +5904,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/PuzzlesLib-v8.1.33-1.20.1-Fabric.jar"
     },
     {
-      "name": "Resourcify%20(1.20.1-fabric)-1.8.1.jar",
-      "path": "mods/Resourcify%20(1.20.1-fabric)-1.8.1.jar",
+      "name": "Resourcify_20(1.20.1-fabric)-1.8.1.jar",
+      "path": "mods/Resourcify_20(1.20.1-fabric)-1.8.1.jar",
       "hash": "93f8678f1e699e8d82e221dfcd0bc4ff6a66d5a0",
       "size": 2592914,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/Resourcify%2520(1.20.1-fabric)-1.8.1.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/Resourcify_20(1.20.1-fabric)-1.8.1.jar"
     },
     {
       "name": "Ribbits-1.20.1-Fabric-3.0.5.jar",
@@ -5664,6 +5930,13 @@
       "hash": "ffbce7e75dbede02dd9f86fc8fb543598d1c336d",
       "size": 27596,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/ShowMeWhatYouGot-1.20-1.1.1.jar"
+    },
+    {
+      "name": "SimplyTooltips-fabric-0.1.3.jar",
+      "path": "mods/SimplyTooltips-fabric-0.1.3.jar",
+      "hash": "0d8749647009e3105f7270bc6ecf405fd65aa725",
+      "size": 5319689,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/SimplyTooltips-fabric-0.1.3.jar"
     },
     {
       "name": "SnowRealMagic-1.20.1-Fabric-10.7.0.jar",
@@ -5974,25 +6247,81 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/architectury-9.2.14-fabric.jar"
     },
     {
-      "name": "arkans-flight-combat-overhaul-3.2.jar",
-      "path": "mods/arkans-flight-combat-overhaul-3.2.jar",
-      "hash": "b76845feee02686fab484b44ec39b5c6449471bb",
-      "size": 219879,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/arkans-flight-combat-overhaul-3.2.jar"
+      "name": "arkans-book-of-dragons-port-9.5.jar",
+      "path": "mods/arkans-book-of-dragons-port-9.5.jar",
+      "hash": "9a921cd8e929bcf74fb92c38b4992f4fff4f934c",
+      "size": 3375392,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/arkans-book-of-dragons-port-9.5.jar"
     },
     {
-      "name": "arkans-id-loader-2.9.jar",
-      "path": "mods/arkans-id-loader-2.9.jar",
-      "hash": "7776c4cc6f2747a2666f66a4f54c2f8ccd6ad418",
-      "size": 132008,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/arkans-id-loader-2.9.jar"
+      "name": "arkans-controlify-fork-1.0+controlify-2.1.2+1.20.1-fabric.jar",
+      "path": "mods/arkans-controlify-fork-1.0+controlify-2.1.2+1.20.1-fabric.jar",
+      "hash": "7edffc08e998af5fba13d41a39c21c49ae2437ff",
+      "size": 4238608,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/arkans-controlify-fork-1.0+controlify-2.1.2+1.20.1-fabric.jar"
     },
     {
-      "name": "arkans-phantom-repurpose-2.0.jar",
-      "path": "mods/arkans-phantom-repurpose-2.0.jar",
-      "hash": "5253250966b8cd6c5337d3a6ad3a443ef8fb68d0",
-      "size": 87366,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/arkans-phantom-repurpose-2.0.jar"
+      "name": "arkans-damage-outline-2.0.jar",
+      "path": "mods/arkans-damage-outline-2.0.jar",
+      "hash": "9d37e17c737fa7299b711205dd69f79024862eda",
+      "size": 34284,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/arkans-damage-outline-2.0.jar"
+    },
+    {
+      "name": "arkans-flight-combat-overhaul-8.16.jar",
+      "path": "mods/arkans-flight-combat-overhaul-8.16.jar",
+      "hash": "128eee18a5e1e0f1a471e32f9201b4f2b59d6322",
+      "size": 2107111,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/arkans-flight-combat-overhaul-8.16.jar"
+    },
+    {
+      "name": "arkans-id-loader-2.13.jar",
+      "path": "mods/arkans-id-loader-2.13.jar",
+      "hash": "661efc99dda6730d6c9b93ed2f6304679c0d617e",
+      "size": 141264,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/arkans-id-loader-2.13.jar"
+    },
+    {
+      "name": "arkans-no-tree-punching-1.2.jar",
+      "path": "mods/arkans-no-tree-punching-1.2.jar",
+      "hash": "4059a2b04b0bf97eec2575d12f88862e8cff4099",
+      "size": 55914,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/arkans-no-tree-punching-1.2.jar"
+    },
+    {
+      "name": "arkans-phantom-repurpose-2.4.jar",
+      "path": "mods/arkans-phantom-repurpose-2.4.jar",
+      "hash": "c18df6869548ac7f7e628cde6728f463955e5e43",
+      "size": 100362,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/arkans-phantom-repurpose-2.4.jar"
+    },
+    {
+      "name": "arkans-physics-mod-1.1.jar",
+      "path": "mods/arkans-physics-mod-1.1.jar",
+      "hash": "c2232da45e0f6c430b57a1cc5c249cc2652a253e",
+      "size": 139277032,
+      "url": "https://github.com/LucasPaixaoCL/Arkan-Updates/releases/download/v1.0.0-assets/arkans-physics-mod-1.1.jar"
+    },
+    {
+      "name": "arkans-player-animations-2.1.jar",
+      "path": "mods/arkans-player-animations-2.1.jar",
+      "hash": "7100ebbf9de537962eebf377cd922f5112df920e",
+      "size": 449857,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/arkans-player-animations-2.1.jar"
+    },
+    {
+      "name": "arkans-revive-system-1.2.jar",
+      "path": "mods/arkans-revive-system-1.2.jar",
+      "hash": "0cc7684531b121e4687db3fe5358b16b3033a419",
+      "size": 162299,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/arkans-revive-system-1.2.jar"
+    },
+    {
+      "name": "arkans-social-interactions-1.1.jar",
+      "path": "mods/arkans-social-interactions-1.1.jar",
+      "hash": "b1a490f2aa4609bfff83f1e7ae8f971ef099e8ef",
+      "size": 15823,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/arkans-social-interactions-1.1.jar"
     },
     {
       "name": "arrow-entity-loot-drop-1.2.1+1.20.1.jar",
@@ -6044,6 +6373,13 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/awesomedungeonnether-fabric-1.20.1-3.1.1.jar"
     },
     {
+      "name": "azurelib-fabric-1.20.1-3.1.9.jar",
+      "path": "mods/azurelib-fabric-1.20.1-3.1.9.jar",
+      "hash": "7ba6a484ac743f7f032f7bc0d1bea58a2ea79390",
+      "size": 1063022,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/azurelib-fabric-1.20.1-3.1.9.jar"
+    },
+    {
       "name": "badpackets-fabric-0.4.3.jar",
       "path": "mods/badpackets-fabric-0.4.3.jar",
       "hash": "87b7ef4e9c9bff0fd8cdcc79156e9c7ac7b26690",
@@ -6056,6 +6392,13 @@
       "hash": "833370d2a28be5673537b177e332918668e829e0",
       "size": 609150,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/balm-fabric-1.20.1-7.3.38.jar"
+    },
+    {
+      "name": "bc_particle-0.0.6-fabric-1.20.1.jar",
+      "path": "mods/bc_particle-0.0.6-fabric-1.20.1.jar",
+      "hash": "fb11f4145f0a43358758e6c3d130fbd08a3bfc2b",
+      "size": 390075,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/bc_particle-0.0.6-fabric-1.20.1.jar"
     },
     {
       "name": "bclib-3.0.14.jar",
@@ -6107,6 +6450,13 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/bettercombat-fabric-1.9.0%252B1.20.1.jar"
     },
     {
+      "name": "bettersearch-fabric-1.20.1-1.4.2.jar",
+      "path": "mods/bettersearch-fabric-1.20.1-1.4.2.jar",
+      "hash": "e51070a83d4e4237aadc34b4e52cb81e951958ff",
+      "size": 313902,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/bettersearch-fabric-1.20.1-1.4.2.jar"
+    },
+    {
       "name": "biolith-fabric-1.0.1-alpha.1.jar",
       "path": "mods/biolith-fabric-1.0.1-alpha.1.jar",
       "hash": "0a4de9ec0ba206349f6759a4fb1b996926b59cb7",
@@ -6119,13 +6469,6 @@
       "hash": "2beeda2d5042cee068d45fd750f126da1f5537df",
       "size": 28543,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/birdsboids-1.3.1+1.20.1.jar"
-    },
-    {
-      "name": "camerautils-fabric-1.20.1-1.0.14.jar",
-      "path": "mods/camerautils-fabric-1.20.1-1.0.14.jar",
-      "hash": "4fd8e01e0c48f0015a07d6825eb5049e28eeec7f",
-      "size": 323996,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/camerautils-fabric-1.20.1-1.0.14.jar"
     },
     {
       "name": "camps_castles_carriages-2.3.4.jar",
@@ -6149,11 +6492,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/castle_dungeons-4.0.0-1.20-fabric.jar"
     },
     {
-      "name": "castleshift-0.1.0%2B1.20.1-fabric.jar",
-      "path": "mods/castleshift-0.1.0%2B1.20.1-fabric.jar",
+      "name": "castleshift-0.1.0_2B1.20.1-fabric.jar",
+      "path": "mods/castleshift-0.1.0_2B1.20.1-fabric.jar",
       "hash": "64cf6185a7a61f9d51b95f8de65fa362f8813478",
       "size": 158612,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/castleshift-0.1.0%252B1.20.1-fabric.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/castleshift-0.1.0_2B1.20.1-fabric.jar"
     },
     {
       "name": "cave_dust-1.4.1.jar",
@@ -6191,11 +6534,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/citadel-1.20.1-1.0.0.jar"
     },
     {
-      "name": "clientsort-fabric-2.2.1%2B1.20.1.jar",
-      "path": "mods/clientsort-fabric-2.2.1%2B1.20.1.jar",
+      "name": "clientsort-fabric-2.2.1_2B1.20.1.jar",
+      "path": "mods/clientsort-fabric-2.2.1_2B1.20.1.jar",
       "hash": "de50d019ba670ec8591591826df267c59dfa7001",
       "size": 314152,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/clientsort-fabric-2.2.1%252B1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/clientsort-fabric-2.2.1_2B1.20.1.jar"
     },
     {
       "name": "cloth-config-11.1.136-fabric.jar",
@@ -6261,25 +6604,25 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/coroutil-fabric-1.20.1-1.3.7.jar"
     },
     {
-      "name": "cosycritters-0.3.1%2B1.20.1-fabric.jar",
-      "path": "mods/cosycritters-0.3.1%2B1.20.1-fabric.jar",
+      "name": "cosycritters-0.3.1_2B1.20.1-fabric.jar",
+      "path": "mods/cosycritters-0.3.1_2B1.20.1-fabric.jar",
       "hash": "3f96503900ae759a6e61cf6483deb39d30e489df",
       "size": 95787,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/cosycritters-0.3.1%252B1.20.1-fabric.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/cosycritters-0.3.1_2B1.20.1-fabric.jar"
     },
     {
-      "name": "crawlondemand-1.20-1.20.1-1.2.0%2Bfabric.jar",
-      "path": "mods/crawlondemand-1.20-1.20.1-1.2.0%2Bfabric.jar",
+      "name": "crawlondemand-1.20-1.20.1-1.2.0_2Bfabric.jar",
+      "path": "mods/crawlondemand-1.20-1.20.1-1.2.0_2Bfabric.jar",
       "hash": "2a2f018576d492811d938ba4a7d33cc9cf36f417",
       "size": 24789,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/crawlondemand-1.20-1.20.1-1.2.0%252Bfabric.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/crawlondemand-1.20-1.20.1-1.2.0_2Bfabric.jar"
     },
     {
-      "name": "create-fabric-6.0.8.1%2Bbuild.1744-mc1.20.1.jar",
-      "path": "mods/create-fabric-6.0.8.1%2Bbuild.1744-mc1.20.1.jar",
+      "name": "create-fabric-6.0.8.1_2Bbuild.1744-mc1.20.1.jar",
+      "path": "mods/create-fabric-6.0.8.1_2Bbuild.1744-mc1.20.1.jar",
       "hash": "f750d019bc1230c8c7a8a4ccf549d1db192d7a69",
       "size": 32189889,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/create-fabric-6.0.8.1%252Bbuild.1744-mc1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/create-fabric-6.0.8.1_2Bbuild.1744-mc1.20.1.jar"
     },
     {
       "name": "create-structures-0.1.1-1.20.1-FABRIC.jar",
@@ -6303,11 +6646,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/create_structures_arise-156.29.28-fabric-1.20.1.jar"
     },
     {
-      "name": "createaddition-fabric%2B1.20.1-1.3.4.jar",
-      "path": "mods/createaddition-fabric%2B1.20.1-1.3.4.jar",
+      "name": "createaddition-fabric_2B1.20.1-1.3.4.jar",
+      "path": "mods/createaddition-fabric_2B1.20.1-1.3.4.jar",
       "hash": "22843b7edd3f1b151a8aaeffe72ec3c827929b36",
       "size": 1647722,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/createaddition-fabric%252B1.20.1-1.3.4.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/createaddition-fabric_2B1.20.1-1.3.4.jar"
     },
     {
       "name": "createbigcannons-5.11.2-mc.1.20.1-fabric.jar",
@@ -6354,8 +6697,8 @@
     {
       "name": "delightful-creators-1.3-1.20.x-FDR-support.jar",
       "path": "mods/delightful-creators-1.3-1.20.x-FDR-support.jar",
-      "hash": "bd9f9aafd77e90422fa16953fbf5881fa57a94d7",
-      "size": 456835,
+      "hash": "59a97247e4aea6bed38e28a51b20da4ae511601c",
+      "size": 424524,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/delightful-creators-1.3-1.20.x-FDR-support.jar"
     },
     {
@@ -6408,6 +6751,13 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/effectual-fabric-1.3.1-1.20.1.jar"
     },
     {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+      "path": "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+      "hash": "222c93e8a63a6b486f223714a5b20b2e0f206954",
+      "size": 873611,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar"
+    },
+    {
       "name": "endermanoverhaul-fabric-1.20.1-1.0.4.jar",
       "path": "mods/endermanoverhaul-fabric-1.20.1-1.0.4.jar",
       "hash": "77bb161d696a4bb3c890ce942500ca96db61f12d",
@@ -6415,25 +6765,18 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/endermanoverhaul-fabric-1.20.1-1.0.4.jar"
     },
     {
-      "name": "entity_model_features_1.20.1-fabric-3.0.12.jar",
-      "path": "mods/entity_model_features_1.20.1-fabric-3.0.12.jar",
-      "hash": "9001e7e0c4a74d5f7c102e45b1fb92f5189984b1",
-      "size": 496324,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/entity_model_features_1.20.1-fabric-3.0.12.jar"
+      "name": "entity_model_features-3.2.4-1.20.1-fabric.jar",
+      "path": "mods/entity_model_features-3.2.4-1.20.1-fabric.jar",
+      "hash": "648a454bb671322811ba204331d975cde88d22e1",
+      "size": 565302,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/entity_model_features-3.2.4-1.20.1-fabric.jar"
     },
     {
-      "name": "entity_sound_features_1.20.4-fabric-0.7.1.jar",
-      "path": "mods/entity_sound_features_1.20.4-fabric-0.7.1.jar",
-      "hash": "20987b005bb8ba4ec4d92346cb8080948ebe95ee",
-      "size": 98247,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/entity_sound_features_1.20.4-fabric-0.7.1.jar"
-    },
-    {
-      "name": "entity_texture_features_1.20.1-fabric-7.0.9.jar",
-      "path": "mods/entity_texture_features_1.20.1-fabric-7.0.9.jar",
-      "hash": "6c36f10621d1ff9ac9f615ab4bdbb74bf9c3a409",
-      "size": 736086,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/entity_texture_features_1.20.1-fabric-7.0.9.jar"
+      "name": "entity_texture_features_1.20.1-fabric-7.1.jar",
+      "path": "mods/entity_texture_features_1.20.1-fabric-7.1.jar",
+      "hash": "481aa5c55f237b525b3d8aef11b56274910d92b2",
+      "size": 753298,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/entity_texture_features_1.20.1-fabric-7.1.jar"
     },
     {
       "name": "entityculling-fabric-1.10.0-mc1.20.1.jar",
@@ -6464,25 +6807,25 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/exposure-fabric-1.20.1-1.9.20.jar"
     },
     {
-      "name": "extrasounds-1.5.4%2B1.20.1-fabric.jar",
-      "path": "mods/extrasounds-1.5.4%2B1.20.1-fabric.jar",
+      "name": "extrasounds-1.5.4_2B1.20.1-fabric.jar",
+      "path": "mods/extrasounds-1.5.4_2B1.20.1-fabric.jar",
       "hash": "b761f645bf54f113471321720dd524ab3613bf29",
       "size": 370876,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/extrasounds-1.5.4%252B1.20.1-fabric.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/extrasounds-1.5.4_2B1.20.1-fabric.jar"
     },
     {
-      "name": "fabric-api-0.92.7%2B1.20.1.jar",
-      "path": "mods/fabric-api-0.92.7%2B1.20.1.jar",
-      "hash": "85117a1e8984a45c972b85571c8e075cee45039a",
-      "size": 2107977,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/fabric-api-0.92.7%252B1.20.1.jar"
+      "name": "fabric-api-0.92.9%2B1.20.1.jar",
+      "path": "mods/fabric-api-0.92.9%2B1.20.1.jar",
+      "hash": "89c79de1c8e17f3d34fded3a2fe401e7e60a707d",
+      "size": 2111565,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/fabric-api-0.92.9%252B1.20.1.jar"
     },
     {
-      "name": "fabric-language-kotlin-1.13.10%2Bkotlin.2.3.20.jar",
-      "path": "mods/fabric-language-kotlin-1.13.10%2Bkotlin.2.3.20.jar",
-      "hash": "9873294abf498f509453d37b0a5ba019f4570ffb",
-      "size": 7796348,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/fabric-language-kotlin-1.13.10%252Bkotlin.2.3.20.jar"
+      "name": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+      "path": "mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+      "hash": "2bc17bb4275cc70a12e4ac35d139a71a30845720",
+      "size": 8076848,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar"
     },
     {
       "name": "fabric-medievalend-1.0.1.jar",
@@ -6504,13 +6847,6 @@
       "hash": "08f3f26228b75b0dab315dd9ea664c0a1e9cc570",
       "size": 4005714,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/fallingtrees-0.12-fabric-1.20.jar"
-    },
-    {
-      "name": "fancymenu_fabric_3.8.1_MC_1.20.1.jar",
-      "path": "mods/fancymenu_fabric_3.8.1_MC_1.20.1.jar",
-      "hash": "67208d4ef2fe6a691f2cf863139077dd4b1d9c8f",
-      "size": 4472279,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/fancymenu_fabric_3.8.1_MC_1.20.1.jar"
     },
     {
       "name": "ferritecore-6.0.1-fabric.jar",
@@ -6590,11 +6926,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/fpm-combat-fix-1.0.2.jar"
     },
     {
-      "name": "fwa%2B1.20.1-1.2.6.jar",
-      "path": "mods/fwa%2B1.20.1-1.2.6.jar",
+      "name": "fwa_2B1.20.1-1.2.6.jar",
+      "path": "mods/fwa_2B1.20.1-1.2.6.jar",
       "hash": "05bf7e3bbf9a6b81005664be04b656b8917258c9",
       "size": 348372,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/fwa%252B1.20.1-1.2.6.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/fwa_2B1.20.1-1.2.6.jar"
     },
     {
       "name": "fzzy_config-0.7.6+1.20.1.jar",
@@ -6611,11 +6947,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/gamemenuremovegfarb-fabric-mc1.19.4-2.1.2.jar"
     },
     {
-      "name": "geckolib-fabric-1.20.1-4.8.3.jar",
-      "path": "mods/geckolib-fabric-1.20.1-4.8.3.jar",
-      "hash": "4ed1ca003d1ba6c48bace04ba5797616854157a1",
-      "size": 1069327,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/geckolib-fabric-1.20.1-4.8.3.jar"
+      "name": "geckolib-fabric-1.20.1-4.8.4.jar",
+      "path": "mods/geckolib-fabric-1.20.1-4.8.4.jar",
+      "hash": "e405fa2399333ebc98ae0e4889ae5f1303efb061",
+      "size": 969015,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/geckolib-fabric-1.20.1-4.8.4.jar"
     },
     {
       "name": "gpumemleakfix-fabric-1.20.1-1.8.jar",
@@ -6625,11 +6961,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/gpumemleakfix-fabric-1.20.1-1.8.jar"
     },
     {
-      "name": "grim-kingdoms-lost-structures-ruins-v1.0.3%201.20.jar",
-      "path": "mods/grim-kingdoms-lost-structures-ruins-v1.0.3%201.20.jar",
+      "name": "grim-kingdoms-lost-structures-ruins-v1.0.3_201.20.jar",
+      "path": "mods/grim-kingdoms-lost-structures-ruins-v1.0.3_201.20.jar",
       "hash": "0cbe5b526eb115e7930688a2f1a649933385e013",
       "size": 7052281,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/grim-kingdoms-lost-structures-ruins-v1.0.3%25201.20.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/grim-kingdoms-lost-structures-ruins-v1.0.3_201.20.jar"
     },
     {
       "name": "guardvillagers-2.0.9-1.20.1.jar",
@@ -6709,11 +7045,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/iris-1.7.6+mc1.20.1.jar"
     },
     {
-      "name": "jamlib-fabric-1.3.6%2B1.20.1.jar",
-      "path": "mods/jamlib-fabric-1.3.6%2B1.20.1.jar",
+      "name": "jamlib-fabric-1.3.6_2B1.20.1.jar",
+      "path": "mods/jamlib-fabric-1.3.6_2B1.20.1.jar",
       "hash": "430fdc45b11ea8a98f1f305e8f1f949848bf6e24",
       "size": 239867,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/jamlib-fabric-1.3.6%252B1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/jamlib-fabric-1.3.6_2B1.20.1.jar"
     },
     {
       "name": "jei-1.20.1-fabric-15.20.0.129.jar",
@@ -6744,11 +7080,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/jumpoverfences-fabric-1.20.1-1.3.1.jar"
     },
     {
-      "name": "jungle_treehouse_village-1.0.1%20Fabric%201.20.1.jar",
-      "path": "mods/jungle_treehouse_village-1.0.1%20Fabric%201.20.1.jar",
+      "name": "jungle_treehouse_village-1.0.1_20Fabric_201.20.1.jar",
+      "path": "mods/jungle_treehouse_village-1.0.1_20Fabric_201.20.1.jar",
       "hash": "9877d079d49c3e17647292aa0ff7ca6c17db110d",
       "size": 67709,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/jungle_treehouse_village-1.0.1%2520Fabric%25201.20.1.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/jungle_treehouse_village-1.0.1_20Fabric_201.20.1.jar"
     },
     {
       "name": "jupiter-2.3.7-1.20.1-fabric.jar",
@@ -6793,6 +7129,13 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/lambdynamiclights-4.4.0+1.20.1.jar"
     },
     {
+      "name": "lanserverproperties-1.11.1-fabric.jar",
+      "path": "mods/lanserverproperties-1.11.1-fabric.jar",
+      "hash": "875575b9764cf1f88d69e5035b9b7e166d672d22",
+      "size": 43918,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/lanserverproperties-1.11.1-fabric.jar"
+    },
+    {
       "name": "lazydfu-0.1.3.jar",
       "path": "mods/lazydfu-0.1.3.jar",
       "hash": "0dfa8b03ed408fb7fdada29e01cfebba02af1049",
@@ -6805,6 +7148,13 @@
       "hash": "389fe8f15a7aeae7930223c025935ae8fb6c4ab1",
       "size": 26528,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/leafmealone-1.0.1.jar"
+    },
+    {
+      "name": "leawind_third_person-v2.2.0-mc1.20-1.20.1-fabric.jar",
+      "path": "mods/leawind_third_person-v2.2.0-mc1.20-1.20.1-fabric.jar",
+      "hash": "55b58e22003e4a7900765add418646a3d03be8f1",
+      "size": 344243,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/leawind_third_person-v2.2.0-mc1.20-1.20.1-fabric.jar"
     },
     {
       "name": "letsdo-API-fabric-1.2.15-fabric.jar",
@@ -6823,8 +7173,8 @@
     {
       "name": "letsdo-bloomingnature-fabric-1.0.12.jar",
       "path": "mods/letsdo-bloomingnature-fabric-1.0.12.jar",
-      "hash": "58bef2ded3639a6929faae48894eabad3fe82658",
-      "size": 4093239,
+      "hash": "9d90a9f6fce4bd05af8fd05abd91261981329e0a",
+      "size": 4055885,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/letsdo-bloomingnature-fabric-1.0.12.jar"
     },
     {
@@ -7003,25 +7353,25 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/mcw-trapdoors-1.1.5-mc1.20.1fabric.jar"
     },
     {
-      "name": "mebahel-creatures-draugr-1.6.0-fabric-1.20.1.jar",
-      "path": "mods/mebahel-creatures-draugr-1.6.0-fabric-1.20.1.jar",
-      "hash": "21e4ecb6651adbf62e3b6f52ffed89cc0776cc0a",
-      "size": 3681615,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/mebahel-creatures-draugr-1.6.0-fabric-1.20.1.jar"
+      "name": "mebahel-creatures-draugr-1.8.5-fabric-1.20.1.jar",
+      "path": "mods/mebahel-creatures-draugr-1.8.5-fabric-1.20.1.jar",
+      "hash": "cd01c5d019052c659dc28911570249f1ad2f07fc",
+      "size": 8506001,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/mebahel-creatures-draugr-1.8.5-fabric-1.20.1.jar"
     },
     {
-      "name": "mebahel-creatures-dwarven-1.0.5b-fabric-1.20.1.jar",
-      "path": "mods/mebahel-creatures-dwarven-1.0.5b-fabric-1.20.1.jar",
-      "hash": "a1f9beb232542e20d8756604037f30cd3b683670",
-      "size": 3870661,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/mebahel-creatures-dwarven-1.0.5b-fabric-1.20.1.jar"
+      "name": "mebahel-creatures-dwarven-1.0.7-fabric-1.20.1.jar",
+      "path": "mods/mebahel-creatures-dwarven-1.0.7-fabric-1.20.1.jar",
+      "hash": "23e4a33cf0c84b214ee850f2bb73e0125da44a52",
+      "size": 4015477,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/mebahel-creatures-dwarven-1.0.7-fabric-1.20.1.jar"
     },
     {
-      "name": "mebahels-api-1.0.18-fabric-1.20.1.jar",
-      "path": "mods/mebahels-api-1.0.18-fabric-1.20.1.jar",
-      "hash": "86270c043b3d66af743a60f662a13657fe7371b0",
-      "size": 50954,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/mebahels-api-1.0.18-fabric-1.20.1.jar"
+      "name": "mebahels-api-1.0.20-fabric-1.20.1.jar",
+      "path": "mods/mebahels-api-1.0.20-fabric-1.20.1.jar",
+      "hash": "dc197f4745c28e2ca6caaac76f5e73daac51a5ef",
+      "size": 50933,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/mebahels-api-1.0.20-fabric-1.20.1.jar"
     },
     {
       "name": "medieval_buildings-1.20.1-1.1.3-fabric.jar",
@@ -7059,11 +7409,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/mes-1.4.6-1.20-fabric.jar"
     },
     {
-      "name": "midnightlib-fabric-1.9.2%2B1.20.1.jar",
-      "path": "mods/midnightlib-fabric-1.9.2%2B1.20.1.jar",
+      "name": "midnightlib-fabric-1.9.2_2B1.20.1.jar",
+      "path": "mods/midnightlib-fabric-1.9.2_2B1.20.1.jar",
       "hash": "40abb8a47d30f387a3c2110fc23ea0c364034c09",
       "size": 58575,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/midnightlib-fabric-1.9.2%252B1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/midnightlib-fabric-1.9.2_2B1.20.1.jar"
     },
     {
       "name": "mob_explosion_griefing-1.1.0_1.20.x.jar",
@@ -7073,18 +7423,18 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/mob_explosion_griefing-1.1.0_1.20.x.jar"
     },
     {
-      "name": "modefite_item_definitions-1.0.3%2B1.20.1.jar",
-      "path": "mods/modefite_item_definitions-1.0.3%2B1.20.1.jar",
+      "name": "modefite_item_definitions-1.0.3_2B1.20.1.jar",
+      "path": "mods/modefite_item_definitions-1.0.3_2B1.20.1.jar",
       "hash": "d053d5ca7f61652446d54c400500733297460282",
       "size": 189936,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/modefite_item_definitions-1.0.3%252B1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/modefite_item_definitions-1.0.3_2B1.20.1.jar"
     },
     {
-      "name": "modernfix-fabric-5.25.2%2Bmc1.20.1.jar",
-      "path": "mods/modernfix-fabric-5.25.2%2Bmc1.20.1.jar",
+      "name": "modernfix-fabric-5.25.2_2Bmc1.20.1.jar",
+      "path": "mods/modernfix-fabric-5.25.2_2Bmc1.20.1.jar",
       "hash": "be03b9eb570c1e9df7593e68623f0fecbd039460",
       "size": 545175,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/modernfix-fabric-5.25.2%252Bmc1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/modernfix-fabric-5.25.2_2Bmc1.20.1.jar"
     },
     {
       "name": "modernworldcreation_fabric_2.0.1_MC_1.20.1.jar",
@@ -7143,25 +7493,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/namepain-1.5.3+fabric-1.20.x.jar"
     },
     {
-      "name": "neruina-3.2.2%2B1.20.1-fabric.jar",
-      "path": "mods/neruina-3.2.2%2B1.20.1-fabric.jar",
+      "name": "neruina-3.2.2_2B1.20.1-fabric.jar",
+      "path": "mods/neruina-3.2.2_2B1.20.1-fabric.jar",
       "hash": "d28e1bd766265e513eab7e5c2af25cc762a217eb",
       "size": 843876,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/neruina-3.2.2%252B1.20.1-fabric.jar"
-    },
-    {
-      "name": "nexars-primitive-axe-0.8.15.jar",
-      "path": "mods/nexars-primitive-axe-0.8.15.jar",
-      "hash": "20bbbde1dbd2868e6e0e0fe5d734dc102716605e",
-      "size": 165700,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/nexars-primitive-axe-0.8.15.jar"
-    },
-    {
-      "name": "nexars-revive-2.0.6.jar",
-      "path": "mods/nexars-revive-2.0.6.jar",
-      "hash": "20bbbde1dbd2868e6e0e0fe5d734dc102716605e",
-      "size": 165700,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/nexars-revive-2.0.6.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/neruina-3.2.2_2B1.20.1-fabric.jar"
     },
     {
       "name": "noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
@@ -7171,11 +7507,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/noisium-fabric-2.3.0+mc1.20-1.20.1.jar"
     },
     {
-      "name": "notenoughanimations-fabric-1.11.3-mc1.20.1.jar",
-      "path": "mods/notenoughanimations-fabric-1.11.3-mc1.20.1.jar",
-      "hash": "e7208cf7fbd8ff97c20446be454f17e7c4177812",
-      "size": 1921654,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/notenoughanimations-fabric-1.11.3-mc1.20.1.jar"
+      "name": "notenoughanimations-fabric-1.12.4-mc1.20.1.jar",
+      "path": "mods/notenoughanimations-fabric-1.12.4-mc1.20.1.jar",
+      "hash": "220aea191b2fc5045ff7121b07aedbe00e2ff4c6",
+      "size": 1944718,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/notenoughanimations-fabric-1.12.4-mc1.20.1.jar"
     },
     {
       "name": "nyfsarcheryplus-fabric-1.20.1-1.1.1.jar",
@@ -7213,11 +7549,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/pandalib-0.2.1-fabric-1.20.jar"
     },
     {
-      "name": "particlerain-4.0.0-beta.8%2B1.20.1-fabric.jar",
-      "path": "mods/particlerain-4.0.0-beta.8%2B1.20.1-fabric.jar",
+      "name": "particlerain-4.0.0-beta.8_2B1.20.1-fabric.jar",
+      "path": "mods/particlerain-4.0.0-beta.8_2B1.20.1-fabric.jar",
       "hash": "915ad37a21ecc59894055f5b003a82f0408a5572",
       "size": 602284,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/particlerain-4.0.0-beta.8%252B1.20.1-fabric.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/particlerain-4.0.0-beta.8_2B1.20.1-fabric.jar"
     },
     {
       "name": "particular-1.1.2+1.20.1.jar",
@@ -7239,13 +7575,6 @@
       "hash": "3c19f3388612e6eb450ba33931edfbcd70ff8e10",
       "size": 346469,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/pescatore-1.0.0+1.20.1.jar"
-    },
-    {
-      "name": "physics-mod-pro-v171l-fabric-1.20.1.jar",
-      "path": "mods/physics-mod-pro-v171l-fabric-1.20.1.jar",
-      "hash": "9378d076ab851481de3d27d420f596390d3dae20",
-      "size": 139283825,
-      "url": "https://github.com/LucasPaixaoCL/Arkan-Updates/releases/download/v1.0.0-assets/physics-mod-pro-v171l-fabric-1.20.1.jar"
     },
     {
       "name": "pirates-1.20.1-1.9.3-fabric.jar",
@@ -7297,18 +7626,18 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/poses-1.20.x-1.0.0.jar"
     },
     {
-      "name": "punchy-2.4.4-HOTFIX-fabric-1.20.1.jar",
-      "path": "mods/punchy-2.4.4-HOTFIX-fabric-1.20.1.jar",
-      "hash": "58d86d10e04a48c159aa5dbb1665d52d6e4f2e8d",
-      "size": 1164476,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/punchy-2.4.4-HOTFIX-fabric-1.20.1.jar"
+      "name": "punchy-2.6.1-fabric-1.20.1.jar",
+      "path": "mods/punchy-2.6.1-fabric-1.20.1.jar",
+      "hash": "4a2cd6dd8c3864dfbbb3c18b29fc578310f1e3c8",
+      "size": 1746510,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/punchy-2.6.1-fabric-1.20.1.jar"
     },
     {
-      "name": "puzzle-fabric-2.3.0%2B1.20.1.jar",
-      "path": "mods/puzzle-fabric-2.3.0%2B1.20.1.jar",
+      "name": "puzzle-fabric-2.3.0_2B1.20.1.jar",
+      "path": "mods/puzzle-fabric-2.3.0_2B1.20.1.jar",
       "hash": "161652a04e173d06fbcfcdbce3f1a318875a87b7",
       "size": 144445,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/puzzle-fabric-2.3.0%252B1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/puzzle-fabric-2.3.0_2B1.20.1.jar"
     },
     {
       "name": "qraftyfied-6.jar",
@@ -7330,6 +7659,13 @@
       "hash": "9b203c4a11c326781cfd4d2f5293dd3b9cd17377",
       "size": 1364522,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/reds-more-structures-1.0.8-common.jar"
+    },
+    {
+      "name": "replaymod-1.20.1-2.6.13.jar",
+      "path": "mods/replaymod-1.20.1-2.6.13.jar",
+      "hash": "a7d1cf1041c1b869dbe25d98abe81138ef634936",
+      "size": 13075030,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/replaymod-1.20.1-2.6.13.jar"
     },
     {
       "name": "resourcefulconfig-fabric-1.20.1-2.1.3.jar",
@@ -7393,6 +7729,13 @@
       "hash": "73ab88b365b66d0105a44a66ea5243411fc5868a",
       "size": 159669,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/seriousplayeranimations-1.1.1.jar"
+    },
+    {
+      "name": "simplybows-fabric-0.1.2.jar",
+      "path": "mods/simplybows-fabric-0.1.2.jar",
+      "hash": "bfb7c4bb764ea110cdd4df687c2b16e1f9ef4067",
+      "size": 7082662,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/simplybows-fabric-0.1.2.jar"
     },
     {
       "name": "simplyswords-1.56.0-1.20.1.jar",
@@ -7570,6 +7913,13 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/trinkets-3.7.2.jar"
     },
     {
+      "name": "trmt-0.5-1.20+1.20.1.jar",
+      "path": "mods/trmt-0.5-1.20+1.20.1.jar",
+      "hash": "237c535f757ad8c2c229609f0569afbff6d4853a",
+      "size": 126050,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/trmt-0.5-1.20+1.20.1.jar"
+    },
+    {
       "name": "twoplayersonehorse-fabric-1.20.1-1.0.3.jar",
       "path": "mods/twoplayersonehorse-fabric-1.20.1-1.0.3.jar",
       "hash": "735f0c1c81d70f29d91ec4392094358f9da80d24",
@@ -7591,11 +7941,18 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/uranus-2.2.6-1.20.1-fabric.jar"
     },
     {
-      "name": "valkyrienskies-120-2.4.10.jar",
-      "path": "mods/valkyrienskies-120-2.4.10.jar",
+      "name": "valkyrienskies-120-2.4.10.jar.replaced-20260909",
+      "path": "mods/valkyrienskies-120-2.4.10.jar.replaced-20260909",
       "hash": "1b9ac6e5141bc5395f8ae6030b7c7caa18fcc233",
       "size": 33267882,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/valkyrienskies-120-2.4.10.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/valkyrienskies-120-2.4.10.jar.replaced-20260909"
+    },
+    {
+      "name": "valkyrienskies-120-2.4.11.jar",
+      "path": "mods/valkyrienskies-120-2.4.11.jar",
+      "hash": "35cd1572a6c1b7ef8060b2232a059c5f894a8b41",
+      "size": 33767879,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/valkyrienskies-120-2.4.11.jar"
     },
     {
       "name": "visuality-0.7.1+1.20.jar",
@@ -7612,11 +7969,11 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/visualoverhaul-fabric-5.0.1.jar"
     },
     {
-      "name": "vlib-1.20.1-0.1.1%2Bfabric.jar",
-      "path": "mods/vlib-1.20.1-0.1.1%2Bfabric.jar",
+      "name": "vlib-1.20.1-0.1.1_2Bfabric.jar",
+      "path": "mods/vlib-1.20.1-0.1.1_2Bfabric.jar",
       "hash": "6f982ff1cffc70df747faa8c7ceb7c26d13ccc3a",
       "size": 628049,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/vlib-1.20.1-0.1.1%252Bfabric.jar"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/mods/vlib-1.20.1-0.1.1_2Bfabric.jar"
     },
     {
       "name": "voicechat-fabric-1.20.1-2.6.12.jar",
@@ -7740,9 +8097,30 @@
     {
       "name": "options.txt",
       "path": "options.txt",
-      "hash": "4008f12af3fedb57b8d9a062efbf0757e5ebc95c",
-      "size": 15002,
+      "hash": "0746eaace89674e37e7b2a0a949a17a99651134e",
+      "size": 16115,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/options.txt"
+    },
+    {
+      "name": "pnpm-lock.yaml",
+      "path": "pnpm-lock.yaml",
+      "hash": "9dedca0d530006c557d580777203412526dd7f24",
+      "size": 8544,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/pnpm-lock.yaml"
+    },
+    {
+      "name": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+      "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+      "hash": "362e06d72658326bda991b586582ad8aae8e4841",
+      "size": 323619,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/-1.21.2%20Fresh%20Moves%20v3.1%20(With%20Animated%20Eyes).zip"
+    },
+    {
+      "name": "3D Brews 2.4.2.zip",
+      "path": "resourcepacks/3D Brews 2.4.2.zip",
+      "hash": "61273ac866f472d1bce4f9afc2e61f45843335da",
+      "size": 92297,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%202.4.2.zip"
     },
     {
       "name": "milk_bottle.json",
@@ -7915,8 +8293,8 @@
     {
       "name": "honey_bottle.json",
       "path": "resourcepacks/3D Brews ARKAN 1.2/assets/minecraft/models/item/honey_bottle.json",
-      "hash": "9bb6c1dcba7345cea209634343a75ecb4d2fc2bc",
-      "size": 1526,
+      "hash": "98eecd382c6283327110f2d90b2f20b986a84718",
+      "size": 1532,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20ARKAN%201.2/assets/minecraft/models/item/honey_bottle.json"
     },
     {
@@ -7929,16 +8307,9 @@
     {
       "name": "ominous_bottle.json",
       "path": "resourcepacks/3D Brews ARKAN 1.2/assets/minecraft/models/item/ominous_bottle.json",
-      "hash": "10e1acc7f5991415966e509ff02286c62b80cef4",
-      "size": 961,
+      "hash": "f91508c21b5e8469d2b81a8bfd99271208c64dd4",
+      "size": 967,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20ARKAN%201.2/assets/minecraft/models/item/ominous_bottle.json"
-    },
-    {
-      "name": "desktop.ini",
-      "path": "resourcepacks/3D Brews ARKAN 1.2/assets/minecraft/models/item/pommel_held_models/desktop.ini",
-      "hash": "bc2b6b6d4dccdceb95bb5f5d15c01f86d3b1ee79",
-      "size": 76,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20ARKAN%201.2/assets/minecraft/models/item/pommel_held_models/desktop.ini"
     },
     {
       "name": "dragon_breath.json",
@@ -8111,8 +8482,8 @@
     {
       "name": "potion.json",
       "path": "resourcepacks/3D Brews ARKAN 1.2/assets/minecraft/models/item/potion.json",
-      "hash": "db37176c684ca7a553319d20f4bc9f621651d6e7",
-      "size": 1541,
+      "hash": "11d5635469bc99ce5f42434a1825fc6c9577a022",
+      "size": 1547,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20ARKAN%201.2/assets/minecraft/models/item/potion.json"
     },
     {
@@ -8361,11 +8732,494 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20ARKAN%201.2/pack.png"
     },
     {
+      "name": "milk_bottle.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/farmersdelight/items/milk_bottle.json",
+      "hash": "49e99240d794d6bca4aedb5d425f475c3b37a58e",
+      "size": 2198,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/farmersdelight/items/milk_bottle.json"
+    },
+    {
+      "name": "milk_bottle.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/farmersdelight/models/item/milk_bottle.json",
+      "hash": "f66fb45a3c60a92ad3c823c7d8e54a0d858b781d",
+      "size": 272,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/farmersdelight/models/item/milk_bottle.json"
+    },
+    {
+      "name": "milk_bottle.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/farmersdelight/models/item/pommel_held_models/milk_bottle.json",
+      "hash": "4e60e56508c32d9bbe8e4306bd8c35b7ab5e9671",
+      "size": 4899,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/farmersdelight/models/item/pommel_held_models/milk_bottle.json"
+    },
+    {
+      "name": "milk_bottle_drink00.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/farmersdelight/models/item/pommel_held_models/milk_bottle_drink00.json",
+      "hash": "a12efecb871df7945b1c3861b727ea46ade13076",
+      "size": 5995,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/farmersdelight/models/item/pommel_held_models/milk_bottle_drink00.json"
+    },
+    {
+      "name": "milk_bottle_drink01.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/farmersdelight/models/item/pommel_held_models/milk_bottle_drink01.json",
+      "hash": "ec2bc04bc16c106072d026794fc94675574e0e65",
+      "size": 6637,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/farmersdelight/models/item/pommel_held_models/milk_bottle_drink01.json"
+    },
+    {
+      "name": "milk_bottle_drink02.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/farmersdelight/models/item/pommel_held_models/milk_bottle_drink02.json",
+      "hash": "8fd106d66a8f91e6b98e5438765927842046b240",
+      "size": 6629,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/farmersdelight/models/item/pommel_held_models/milk_bottle_drink02.json"
+    },
+    {
+      "name": "milk_bottle_drink03.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/farmersdelight/models/item/pommel_held_models/milk_bottle_drink03.json",
+      "hash": "d91625891b0387a1cc6bd9c42d4b6b8571284a3b",
+      "size": 5993,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/farmersdelight/models/item/pommel_held_models/milk_bottle_drink03.json"
+    },
+    {
+      "name": "milk_bottle_drink04.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/farmersdelight/models/item/pommel_held_models/milk_bottle_drink04.json",
+      "hash": "27c2bc76f6081c418ffe59bea7aee8f58982e701",
+      "size": 5230,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/farmersdelight/models/item/pommel_held_models/milk_bottle_drink04.json"
+    },
+    {
+      "name": "milk_bottle.png",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/farmersdelight/textures/item/pommel_held_models/milk_bottle.png",
+      "hash": "1a5c3e8f542edb282e28bd03bf6cee037ab20c8a",
+      "size": 675,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/farmersdelight/textures/item/pommel_held_models/milk_bottle.png"
+    },
+    {
+      "name": "milk_bottle_drink.png",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/farmersdelight/textures/item/pommel_held_models/milk_bottle_drink.png",
+      "hash": "fbf07aa5a16e884f692e8d76f7f996a71e7a2901",
+      "size": 732,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/farmersdelight/textures/item/pommel_held_models/milk_bottle_drink.png"
+    },
+    {
+      "name": "hand_relative_addon.lua",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/holdmyitems/hand_relative_addon.lua",
+      "hash": "dc2097d2c14b6cf23e6923f7b7c1e56afc9dbfde",
+      "size": 561,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/holdmyitems/hand_relative_addon.lua"
+    },
+    {
+      "name": "item_addon.lua",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/holdmyitems/item_addon.lua",
+      "hash": "074a66faad67c44e0c2e23d797c5cac717496c8c",
+      "size": 2385,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/holdmyitems/item_addon.lua"
+    },
+    {
+      "name": "dragon_breath.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/items/dragon_breath.json",
+      "hash": "3aac5ff89f0298725e0cb84235325a414c17d4cc",
+      "size": 440,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/items/dragon_breath.json"
+    },
+    {
+      "name": "experience_bottle.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/items/experience_bottle.json",
+      "hash": "00afb7407bc1c3dfbc24157276880842bcb920f6",
+      "size": 446,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/items/experience_bottle.json"
+    },
+    {
+      "name": "glass_bottle.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/items/glass_bottle.json",
+      "hash": "538ebb08a241d100d7f5be92f891fe82c136f25f",
+      "size": 436,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/items/glass_bottle.json"
+    },
+    {
+      "name": "honey_bottle.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/items/honey_bottle.json",
+      "hash": "489d68c2e60887181da0087bcf7fe0fc388275e9",
+      "size": 1946,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/items/honey_bottle.json"
+    },
+    {
+      "name": "lingering_potion.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/items/lingering_potion.json",
+      "hash": "1ae2ab34cd65dc1d28e1bd766ae2bfdf4d3c482a",
+      "size": 698,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/items/lingering_potion.json"
+    },
+    {
+      "name": "ominous_bottle.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/items/ominous_bottle.json",
+      "hash": "3cca9343018f0dc94e1d51a5f8ff3ec144f76754",
+      "size": 1962,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/items/ominous_bottle.json"
+    },
+    {
+      "name": "potion.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/items/potion.json",
+      "hash": "f084ca787fb5bd67846a3fee73208965ae469e13",
+      "size": 3473,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/items/potion.json"
+    },
+    {
+      "name": "splash_potion.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/items/splash_potion.json",
+      "hash": "dd6b51ad0c4782001b47da46c368864562cd1868",
+      "size": 692,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/items/splash_potion.json"
+    },
+    {
+      "name": "dragon_breath.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/dragon_breath.json",
+      "hash": "80e042fffba036c266d6d7846f15462dfd7a791b",
+      "size": 352,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/dragon_breath.json"
+    },
+    {
+      "name": "experience_bottle.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/experience_bottle.json",
+      "hash": "a72d962d9cb162419b5ef1921767a2170ca18069",
+      "size": 364,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/experience_bottle.json"
+    },
+    {
+      "name": "glass_bottle.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/glass_bottle.json",
+      "hash": "dc3ad9fad8650cd95feb496e8701e0fd221c7c10",
+      "size": 350,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/glass_bottle.json"
+    },
+    {
+      "name": "honey_bottle.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/honey_bottle.json",
+      "hash": "9bb6c1dcba7345cea209634343a75ecb4d2fc2bc",
+      "size": 1526,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/honey_bottle.json"
+    },
+    {
+      "name": "lingering_potion.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/lingering_potion.json",
+      "hash": "29be85c2eaf3ceaecf293e4d2602eb3620bc46be",
+      "size": 521,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/lingering_potion.json"
+    },
+    {
+      "name": "ominous_bottle.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/ominous_bottle.json",
+      "hash": "10e1acc7f5991415966e509ff02286c62b80cef4",
+      "size": 961,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/ominous_bottle.json"
+    },
+    {
+      "name": "desktop.ini",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/desktop.ini",
+      "hash": "bc2b6b6d4dccdceb95bb5f5d15c01f86d3b1ee79",
+      "size": 76,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/desktop.ini"
+    },
+    {
+      "name": "dragon_breath.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/dragon_breath.json",
+      "hash": "e51b8e36dbd89983ad41cd885624fe5fcd9471fb",
+      "size": 4168,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/dragon_breath.json"
+    },
+    {
+      "name": "experience_bottle.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/experience_bottle.json",
+      "hash": "e3f38e60f04674ba999a84d4399c21d5a58d86b7",
+      "size": 4239,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/experience_bottle.json"
+    },
+    {
+      "name": "experience_bottle2.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/experience_bottle2.json",
+      "hash": "9ba43d2cbd7d94c5501d3291f2b56621e2f432a0",
+      "size": 4085,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/experience_bottle2.json"
+    },
+    {
+      "name": "glass_bottle.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/glass_bottle.json",
+      "hash": "cac0891677f0b5ab8a65258fbd131bb7371c444b",
+      "size": 3968,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/glass_bottle.json"
+    },
+    {
+      "name": "honey_bottle.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/honey_bottle.json",
+      "hash": "800c7c7c7e97733504e2cfd08cd3568ec0bed1a2",
+      "size": 4446,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/honey_bottle.json"
+    },
+    {
+      "name": "honey_bottle_drink00.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink00.json",
+      "hash": "3f6b385a525160c602dab46a57846ba304c86481",
+      "size": 4446,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink00.json"
+    },
+    {
+      "name": "honey_bottle_drink01.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink01.json",
+      "hash": "e174cea2a83be7bc85e4593bce7a0bc5a51802e4",
+      "size": 4509,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink01.json"
+    },
+    {
+      "name": "honey_bottle_drink02.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink02.json",
+      "hash": "284f8b5cb97cf4e9e53b71e2b3c87b89dd032de2",
+      "size": 4521,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink02.json"
+    },
+    {
+      "name": "honey_bottle_drink03.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink03.json",
+      "hash": "ebd1e80c84f64ae229530a5619bc99fd64d9c1bf",
+      "size": 4535,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink03.json"
+    },
+    {
+      "name": "honey_bottle_drink04.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink04.json",
+      "hash": "122a5e7f5d45cb635dd1b6f6835bd1d66230e0bf",
+      "size": 4057,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink04.json"
+    },
+    {
+      "name": "lingering_potion.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/lingering_potion.json",
+      "hash": "5a52ad3e423248a65775e68642be30c285a470a8",
+      "size": 5119,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/lingering_potion.json"
+    },
+    {
+      "name": "ominous_bottle.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/ominous_bottle.json",
+      "hash": "7370dadc275ba14bc01bdcc975240f96d4c122eb",
+      "size": 4922,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/ominous_bottle.json"
+    },
+    {
+      "name": "ominous_bottle_drink00.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink00.json",
+      "hash": "cc637a3c7ff43213a8a92ac7ef471f5c4deab0d3",
+      "size": 5457,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink00.json"
+    },
+    {
+      "name": "ominous_bottle_drink01.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink01.json",
+      "hash": "79af819c6790b2e01cb8ff68f7038ab6e01a4fdd",
+      "size": 6043,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink01.json"
+    },
+    {
+      "name": "ominous_bottle_drink02.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink02.json",
+      "hash": "effabe2eeb9bd460bea4c2659148cab32fe81f8f",
+      "size": 6041,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink02.json"
+    },
+    {
+      "name": "ominous_bottle_drink03.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink03.json",
+      "hash": "c3d452cb917b3b2daec69929f457eaa82331914e",
+      "size": 5539,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink03.json"
+    },
+    {
+      "name": "ominous_bottle_drink04.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink04.json",
+      "hash": "b5adf449851abaa83d98c6f9044f0b143da7278b",
+      "size": 5035,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink04.json"
+    },
+    {
+      "name": "potion.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/potion.json",
+      "hash": "c6d58b38f2a5657b3a55471ea5e62fcfb8e90083",
+      "size": 4881,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/potion.json"
+    },
+    {
+      "name": "potion_drink00.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/potion_drink00.json",
+      "hash": "2f8c8e1741af1dbf55ccfc3f873d2cd1a0dd4636",
+      "size": 5975,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/potion_drink00.json"
+    },
+    {
+      "name": "potion_drink01.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/potion_drink01.json",
+      "hash": "2a24deb8923709271ad9bc36f5fb5c40b9f2f923",
+      "size": 6617,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/potion_drink01.json"
+    },
+    {
+      "name": "potion_drink02.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/potion_drink02.json",
+      "hash": "e6cbe46c173ef4c8d2ba146a1587612cdb18714c",
+      "size": 6609,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/potion_drink02.json"
+    },
+    {
+      "name": "potion_drink03.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/potion_drink03.json",
+      "hash": "2e378cdb525ca56926cf79d937d9440338565bd8",
+      "size": 5973,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/potion_drink03.json"
+    },
+    {
+      "name": "potion_drink04.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/potion_drink04.json",
+      "hash": "6459d31a6217111dc7b0c5cad5912d4b3c01eab0",
+      "size": 5210,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/potion_drink04.json"
+    },
+    {
+      "name": "splash_potion.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/pommel_held_models/splash_potion.json",
+      "hash": "c389656c008f007b52658cc761383b69e65d1b46",
+      "size": 4752,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/pommel_held_models/splash_potion.json"
+    },
+    {
+      "name": "potion.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/potion.json",
+      "hash": "db37176c684ca7a553319d20f4bc9f621651d6e7",
+      "size": 1541,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/potion.json"
+    },
+    {
+      "name": "splash_potion.json",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/models/item/splash_potion.json",
+      "hash": "2afbc1ea29ad95668ceadf2a8944b9b14a4719d5",
+      "size": 509,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/models/item/splash_potion.json"
+    },
+    {
+      "name": "honey_bottle.png",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/textures/item/honey_bottle.png",
+      "hash": "a6baebefbafc86cc3a4278ad36b087e0ce3aec6e",
+      "size": 368,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/textures/item/honey_bottle.png"
+    },
+    {
+      "name": "dragon_breath.png",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/textures/item/pommel_held_models/dragon_breath.png",
+      "hash": "9c9efa64d25da0955db1378af9b95b2d69faef6d",
+      "size": 693,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/textures/item/pommel_held_models/dragon_breath.png"
+    },
+    {
+      "name": "experience_bottle.png",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/textures/item/pommel_held_models/experience_bottle.png",
+      "hash": "3d5978ac926124cc9a0375f211df23e34fd0a4e4",
+      "size": 569,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/textures/item/pommel_held_models/experience_bottle.png"
+    },
+    {
+      "name": "honey_bottle.png",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/textures/item/pommel_held_models/honey_bottle.png",
+      "hash": "0bfb7adf10b5d36550ded93c5d04582172230ce2",
+      "size": 643,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/textures/item/pommel_held_models/honey_bottle.png"
+    },
+    {
+      "name": "honey_bottle_drinking.png",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/textures/item/pommel_held_models/honey_bottle_drinking.png",
+      "hash": "434e82d73e5815774022f602fd42299e99a7b5ce",
+      "size": 682,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/textures/item/pommel_held_models/honey_bottle_drinking.png"
+    },
+    {
+      "name": "lingering_potion.png",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/textures/item/pommel_held_models/lingering_potion.png",
+      "hash": "a81bf77485949dd3ab8fd19d006dbf7087eb4d18",
+      "size": 907,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/textures/item/pommel_held_models/lingering_potion.png"
+    },
+    {
+      "name": "ominous_bottle.png",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/textures/item/pommel_held_models/ominous_bottle.png",
+      "hash": "42918162542eb7da9014cd9db48bdc1ff9157de2",
+      "size": 863,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/textures/item/pommel_held_models/ominous_bottle.png"
+    },
+    {
+      "name": "ominous_bottle_drink.png",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/textures/item/pommel_held_models/ominous_bottle_drink.png",
+      "hash": "a573c23aa547acb99fd087567e8050b742ffddda",
+      "size": 657,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/textures/item/pommel_held_models/ominous_bottle_drink.png"
+    },
+    {
+      "name": "potion_drink.png",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/textures/item/pommel_held_models/potion_drink.png",
+      "hash": "20b002e4dbbf15f5dd7f164e42f0ca3bd5d916b7",
+      "size": 897,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/textures/item/pommel_held_models/potion_drink.png"
+    },
+    {
+      "name": "potion_s.png",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/assets/minecraft/textures/item/pommel_held_models/potion_s.png",
+      "hash": "7a2ef8922b40e96de3e9f0216555e50a47f424b7",
+      "size": 788,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/assets/minecraft/textures/item/pommel_held_models/potion_s.png"
+    },
+    {
+      "name": "pack.mcmeta",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/pack.mcmeta",
+      "hash": "a43aace11635a35613ef51d7bf8b9c72554940bb",
+      "size": 235,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/pack.mcmeta"
+    },
+    {
+      "name": "pack.png",
+      "path": "resourcepacks/3D Brews FD MilkBottle 2.4.2/pack.png",
+      "hash": "08ce1a6a530c3f5e83559cbf217039021f6dd44e",
+      "size": 43959,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D%20Brews%20FD%20MilkBottle%202.4.2/pack.png"
+    },
+    {
       "name": "3D-animated-totem-of-undying-1.21_11.zip",
       "path": "resourcepacks/3D-animated-totem-of-undying-1.21_11.zip",
       "hash": "b561c879c89a77041fab3eac5a170c30e19fd169",
       "size": 63402,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3D-animated-totem-of-undying-1.21_11.zip"
+    },
+    {
+      "name": "3DLichen.zip",
+      "path": "resourcepacks/3DLichen.zip",
+      "hash": "618f485c72ef60e389056aa3634057547c6349fd",
+      "size": 182562,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3DLichen.zip"
+    },
+    {
+      "name": "3d_items-v5.zip",
+      "path": "resourcepacks/3d_items-v5.zip",
+      "hash": "057a53ec6c7139264f09d033018688eecad8cab5",
+      "size": 136137,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/3d_items-v5.zip"
+    },
+    {
+      "name": "A Good Place Sample Pack.zip",
+      "path": "resourcepacks/A Good Place Sample Pack.zip",
+      "hash": "300672256aaddd8ffbf3d4fc86adc766c02371dd",
+      "size": 14945,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/A%20Good%20Place%20Sample%20Pack.zip"
+    },
+    {
+      "name": "A Little Taste of Jerm V2.6-1.21.10.zip",
+      "path": "resourcepacks/A Little Taste of Jerm V2.6-1.21.10.zip",
+      "hash": "348e43fd6964fb2965f6c1735180994c10923fe7",
+      "size": 5689587,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/A%20Little%20Taste%20of%20Jerm%20V2.6-1.21.10.zip"
     },
     {
       "name": "splashes.txt",
@@ -8377,16 +9231,177 @@
     {
       "name": "pack.mcmeta",
       "path": "resourcepacks/ARKAN-Splashes 1.0/pack.mcmeta",
-      "hash": "35151f44d4232089f093ef3ee0d754d07b852a6f",
-      "size": 86,
+      "hash": "1ae569084946a0ef4b6467ca66c84bab81bbadf6",
+      "size": 84,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN-Splashes%201.0/pack.mcmeta"
+    },
+    {
+      "name": "ARKAN_S Player Animations Pack 1.0.zip",
+      "path": "resourcepacks/ARKAN_S Player Animations Pack 1.0.zip",
+      "hash": "5d3482a6a442fd4af44bb3f1ce3786dce1c34aa4",
+      "size": 191604,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN_S%20Player%20Animations%20Pack%201.0.zip"
+    },
+    {
+      "name": "a_player_variables.jpm",
+      "path": "resourcepacks/ARKAN_s FA Player Compat Pack 1.0/assets/minecraft/emf/cem/a_player_variables.jpm",
+      "hash": "a8ca76d812e73d2df42552704275c2a3c4e3f97e",
+      "size": 21628,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN_s%20FA%20Player%20Compat%20Pack%201.0/assets/minecraft/emf/cem/a_player_variables.jpm"
+    },
+    {
+      "name": "player.jem",
+      "path": "resourcepacks/ARKAN_s FA Player Compat Pack 1.0/assets/minecraft/emf/cem/player.jem",
+      "hash": "492565733889ae89f9051b912573192c98c01ff0",
+      "size": 12344,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN_s%20FA%20Player%20Compat%20Pack%201.0/assets/minecraft/emf/cem/player.jem"
+    },
+    {
+      "name": "player_slim.jem",
+      "path": "resourcepacks/ARKAN_s FA Player Compat Pack 1.0/assets/minecraft/emf/cem/player_slim.jem",
+      "hash": "cf9993144ba851efffe19701b1fa866ed81f0820",
+      "size": 12344,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN_s%20FA%20Player%20Compat%20Pack%201.0/assets/minecraft/emf/cem/player_slim.jem"
+    },
+    {
+      "name": "pack.mcmeta",
+      "path": "resourcepacks/ARKAN_s FA Player Compat Pack 1.0/pack.mcmeta",
+      "hash": "2d37a77eeb5d1110f2857c44a3a42d86da0055de",
+      "size": 186,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN_s%20FA%20Player%20Compat%20Pack%201.0/pack.mcmeta"
+    },
+    {
+      "name": "pack.png",
+      "path": "resourcepacks/ARKAN_s FA Player Compat Pack 1.0/pack.png",
+      "hash": "c79d5592a1af2aaaa0152f5164d2b1356697d92c",
+      "size": 181361,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN_s%20FA%20Player%20Compat%20Pack%201.0/pack.png"
+    },
+    {
+      "name": "ARKAN_s FA Player Compat Pack 1.0.zip",
+      "path": "resourcepacks/ARKAN_s FA Player Compat Pack 1.0.zip",
+      "hash": "1279eda8bd15412e47c555ff9acc6e19c90a328b",
+      "size": 191140,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN_s%20FA%20Player%20Compat%20Pack%201.0.zip"
+    },
+    {
+      "name": "a_player_variables.jpm",
+      "path": "resourcepacks/ARKAN_s FA Player Compat Pack 1.1/assets/minecraft/emf/cem/a_player_variables.jpm",
+      "hash": "a8ca76d812e73d2df42552704275c2a3c4e3f97e",
+      "size": 21628,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN_s%20FA%20Player%20Compat%20Pack%201.1/assets/minecraft/emf/cem/a_player_variables.jpm"
+    },
+    {
+      "name": "player.jem",
+      "path": "resourcepacks/ARKAN_s FA Player Compat Pack 1.1/assets/minecraft/emf/cem/player.jem",
+      "hash": "492565733889ae89f9051b912573192c98c01ff0",
+      "size": 12344,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN_s%20FA%20Player%20Compat%20Pack%201.1/assets/minecraft/emf/cem/player.jem"
+    },
+    {
+      "name": "player_slim.jem",
+      "path": "resourcepacks/ARKAN_s FA Player Compat Pack 1.1/assets/minecraft/emf/cem/player_slim.jem",
+      "hash": "cf9993144ba851efffe19701b1fa866ed81f0820",
+      "size": 12344,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN_s%20FA%20Player%20Compat%20Pack%201.1/assets/minecraft/emf/cem/player_slim.jem"
+    },
+    {
+      "name": "pack.mcmeta",
+      "path": "resourcepacks/ARKAN_s FA Player Compat Pack 1.1/pack.mcmeta",
+      "hash": "01d00a45ae9754aa42adb5dde6075f94a276d58a",
+      "size": 186,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN_s%20FA%20Player%20Compat%20Pack%201.1/pack.mcmeta"
+    },
+    {
+      "name": "pack.png",
+      "path": "resourcepacks/ARKAN_s FA Player Compat Pack 1.1/pack.png",
+      "hash": "c79d5592a1af2aaaa0152f5164d2b1356697d92c",
+      "size": 181361,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN_s%20FA%20Player%20Compat%20Pack%201.1/pack.png"
+    },
+    {
+      "name": "ARKAN_s FA Player Compat Pack 1.1.zip",
+      "path": "resourcepacks/ARKAN_s FA Player Compat Pack 1.1.zip",
+      "hash": "7b4164df8c723a2618d9db99bc7611e62d059ff0",
+      "size": 191247,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN_s%20FA%20Player%20Compat%20Pack%201.1.zip"
+    },
+    {
+      "name": "ARKAN_s FA Player Compat Pack 1.2.zip",
+      "path": "resourcepacks/ARKAN_s FA Player Compat Pack 1.2.zip",
+      "hash": "5f838c610d8b0dc38e822974a944c25ac55a32a6",
+      "size": 191596,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN_s%20FA%20Player%20Compat%20Pack%201.2.zip"
+    },
+    {
+      "name": "Actually 3D Stuff.zip",
+      "path": "resourcepacks/Actually 3D Stuff.zip",
+      "hash": "81a7719e2d663365dfd206f95178ea0e3a3577b6",
+      "size": 2979426,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Actually%203D%20Stuff.zip"
+    },
+    {
+      "name": "splashes.txt",
+      "path": "resourcepacks/Arkan_Splashes_Only_Resourcepack/assets/minecraft/texts/splashes.txt",
+      "hash": "9e8cccb7a39bb96ca3e7b24731ca724ce241bf41",
+      "size": 393,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Arkan_Splashes_Only_Resourcepack/assets/minecraft/texts/splashes.txt"
+    },
+    {
+      "name": "pack.mcmeta",
+      "path": "resourcepacks/Arkan_Splashes_Only_Resourcepack/pack.mcmeta",
+      "hash": "97b39363262ee9cd4a5fba0f6e6887b0dca3764f",
+      "size": 83,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Arkan_Splashes_Only_Resourcepack/pack.mcmeta"
     },
     {
       "name": "Better Minecarts.zip",
       "path": "resourcepacks/Better Minecarts.zip",
-      "hash": "fd2cd8abd780ff3774f83d5596b0c16531265be6",
-      "size": 91994,
+      "hash": "2be9c15e957a9b2cb24e6e0c16af8e7c573ef3ed",
+      "size": 76370,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Better%20Minecarts.zip"
+    },
+    {
+      "name": "Better Vanilla GUI (Without OptiGUI) - MC 1.20.1 - 3.1.0.zip",
+      "path": "resourcepacks/Better Vanilla GUI (Without OptiGUI) - MC 1.20.1 - 3.1.0.zip",
+      "hash": "20c1b7d9292611cf1d3d97dba010852be5d0bf8d",
+      "size": 12423253,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Better%20Vanilla%20GUI%20(Without%20OptiGUI)%20-%20MC%201.20.1%20-%203.1.0.zip"
+    },
+    {
+      "name": "Better Vanilla GUI (Without OptiGUI) - MC 1.20.1 - 3.1.0.zip.rpo",
+      "path": "resourcepacks/Better Vanilla GUI (Without OptiGUI) - MC 1.20.1 - 3.1.0.zip.rpo",
+      "hash": "51d137d5dfd8defa236f0a00c9d7c3faf7f6f104",
+      "size": 938,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Better%20Vanilla%20GUI%20(Without%20OptiGUI)%20-%20MC%201.20.1%20-%203.1.0.zip.rpo"
+    },
+    {
+      "name": "Better+Lanterns+v1.2(mc-1.20.1).zip",
+      "path": "resourcepacks/Better+Lanterns+v1.2(mc-1.20.1).zip",
+      "hash": "705b7fa82c39ff568f0b2ea4ebebe71ce2c9be19",
+      "size": 51369,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Better+Lanterns+v1.2(mc-1.20.1).zip"
+    },
+    {
+      "name": "Bushy pink petals, wildflowers & leaf litter.zip",
+      "path": "resourcepacks/Bushy pink petals, wildflowers & leaf litter.zip",
+      "hash": "325537283de095a0f180f23d5045addc0fdf8fe4",
+      "size": 373017,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Bushy%20pink%20petals,%20wildflowers%20&%20leaf%20litter.zip"
+    },
+    {
+      "name": "Bushy pink petals, wildflowers & leaf litter.zip.rpo",
+      "path": "resourcepacks/Bushy pink petals, wildflowers & leaf litter.zip.rpo",
+      "hash": "10de12a5ae15ff0c610d1b7dbf35f413b4f40ee1",
+      "size": 71,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Bushy%20pink%20petals,%20wildflowers%20&%20leaf%20litter.zip.rpo"
+    },
+    {
+      "name": "Clean_Connected_Glass(1.20_fix_with_DiagonalWindows_mod).zip",
+      "path": "resourcepacks/Clean_Connected_Glass(1.20_fix_with_DiagonalWindows_mod).zip",
+      "hash": "1d39a8d9136c51bd377a8dcecde16344959f23fc",
+      "size": 563420,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Clean_Connected_Glass(1.20_fix_with_DiagonalWindows_mod).zip"
     },
     {
       "name": "Enchanting%20Table%20Magic%20Circle%20v2.4%20(1.19%20-%201.20.4).zip",
@@ -8394,6 +9409,27 @@
       "hash": "da3af4c71a2de440e104221c9874683c0edfb625",
       "size": 24861384,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Enchanting%2520Table%2520Magic%2520Circle%2520v2.4%2520(1.19%2520-%25201.20.4).zip"
+    },
+    {
+      "name": "Enchanting%20Table%20Magic%20Circle%20v2.4%20(1.19%20-%201.20.4).zip.rpo",
+      "path": "resourcepacks/Enchanting%20Table%20Magic%20Circle%20v2.4%20(1.19%20-%201.20.4).zip.rpo",
+      "hash": "6f46097e0a82b7ae1267bab6f27c080cc4e6f0dc",
+      "size": 67,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Enchanting%2520Table%2520Magic%2520Circle%2520v2.4%2520(1.19%2520-%25201.20.4).zip.rpo"
+    },
+    {
+      "name": "Enchanting_20Table_20Magic_20Circle_20v2.4_20(1.19_20-_201.20.4).zip",
+      "path": "resourcepacks/Enchanting_20Table_20Magic_20Circle_20v2.4_20(1.19_20-_201.20.4).zip",
+      "hash": "da3af4c71a2de440e104221c9874683c0edfb625",
+      "size": 24861384,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Enchanting_20Table_20Magic_20Circle_20v2.4_20(1.19_20-_201.20.4).zip"
+    },
+    {
+      "name": "Enchanting_20Table_20Magic_20Circle_20v2.4_20(1.19_20-_201.20.4).zip.rpo",
+      "path": "resourcepacks/Enchanting_20Table_20Magic_20Circle_20v2.4_20(1.19_20-_201.20.4).zip.rpo",
+      "hash": "6f46097e0a82b7ae1267bab6f27c080cc4e6f0dc",
+      "size": 67,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Enchanting_20Table_20Magic_20Circle_20v2.4_20(1.19_20-_201.20.4).zip.rpo"
     },
     {
       "name": "Excalibur Waystones 1.0.zip",
@@ -18259,6 +19295,13 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/optifine/ctm/foliage/grass/15%25_brightness_overlay.png"
     },
     {
+      "name": "15__brightness_overlay.png",
+      "path": "resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/optifine/ctm/foliage/grass/15__brightness_overlay.png",
+      "hash": "271716f191fa5750d40a94d05f2e0f5cef4bbe8b",
+      "size": 184,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/optifine/ctm/foliage/grass/15__brightness_overlay.png"
+    },
+    {
       "name": "1.png",
       "path": "resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/optifine/ctm/foliage/grass/east_west/1.png",
       "hash": "277392a58db0c95af492502826f1a21b18cb8d1c",
@@ -22751,6 +23794,13 @@
       "hash": "20c781872cf47992d92d72f35e611234a054a41e",
       "size": 467,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/sounds.json"
+    },
+    {
+      "name": "splashes.txt",
+      "path": "resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/texts/splashes.txt",
+      "hash": "9e8cccb7a39bb96ca3e7b24731ca724ce241bf41",
+      "size": 393,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/texts/splashes.txt"
     },
     {
       "name": "acacia_door_bottom.png",
@@ -35248,6 +36298,13 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/textures/gui/tab_button.png"
     },
     {
+      "name": "aaaminecraft.png",
+      "path": "resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/textures/gui/title/aaaminecraft.png",
+      "hash": "3ad776490d556d95ecbfdb63bb86cb3d28b83650",
+      "size": 302038,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/textures/gui/title/aaaminecraft.png"
+    },
+    {
       "name": "panorama_0.png",
       "path": "resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/textures/gui/title/background/Old/panorama_0.png",
       "hash": "773937b5e604c81f97cbf036d5c186b0a333df09",
@@ -35337,6 +36394,13 @@
       "hash": "aa989c42ed2520169f24b9a71be0fea9a48b7913",
       "size": 1113551,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/textures/gui/title/background/panorama_5.png"
+    },
+    {
+      "name": "panorama_overlay.png",
+      "path": "resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/textures/gui/title/background/panorama_overlay.png",
+      "hash": "f3f60c750ec3e5057a1772a4a061794166c5e9c6",
+      "size": 2213,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
     },
     {
       "name": "edition.png",
@@ -41893,8 +42957,8 @@
     {
       "name": "pack.mcmeta",
       "path": "resourcepacks/Excalibur-ARKAN_V1.20/pack.mcmeta",
-      "hash": "1f5b5492457f952aa63aedbb4d43e0067db50064",
-      "size": 87,
+      "hash": "6e1b02601102bf6fbe35fac8326b79353247f28d",
+      "size": 85,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Excalibur-ARKAN_V1.20/pack.mcmeta"
     },
     {
@@ -41910,6 +42974,13 @@
       "hash": "9a9b09afc6b3701bd8878336dad843fc4eaba25d",
       "size": 77791,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Excalibur_Lootr_v1.1.zip"
+    },
+    {
+      "name": "Excalibur_V1.20.zip",
+      "path": "resourcepacks/Excalibur_V1.20.zip",
+      "hash": "5a49050cd16d898a29d329c21a3006b2381a0dcc",
+      "size": 17107369,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Excalibur_V1.20.zip"
     },
     {
       "name": "FA%2BAll_Extensions-v1.8.zip",
@@ -41933,11 +43004,67 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/FA%252BSpiders-v2.1.zip"
     },
     {
+      "name": "FA+Player-v1.0.zip",
+      "path": "resourcepacks/FA+Player-v1.0.zip",
+      "hash": "ff722654d6bc9e1a2d2cb1b811b7ea9281198c1e",
+      "size": 124472,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/FA+Player-v1.0.zip"
+    },
+    {
+      "name": "FA_2BAll_Extensions-v1.8.zip",
+      "path": "resourcepacks/FA_2BAll_Extensions-v1.8.zip",
+      "hash": "a3ab4566cad0095dfaea1dfb009ff5703af13324",
+      "size": 426974,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/FA_2BAll_Extensions-v1.8.zip"
+    },
+    {
+      "name": "FA_2BClassic_Horses-v1.5.zip",
+      "path": "resourcepacks/FA_2BClassic_Horses-v1.5.zip",
+      "hash": "d36cbbec797dcc25cdffa593e218b09d68993811",
+      "size": 325299,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/FA_2BClassic_Horses-v1.5.zip"
+    },
+    {
+      "name": "FA_2BPlayer-v1.0.zip",
+      "path": "resourcepacks/FA_2BPlayer-v1.0.zip",
+      "hash": "7368df4abb7255c7117bdd3763fb0a1abf212bc5",
+      "size": 124699,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/FA_2BPlayer-v1.0.zip"
+    },
+    {
+      "name": "FA_2BQuivers-v2.2.zip",
+      "path": "resourcepacks/FA_2BQuivers-v2.2.zip",
+      "hash": "77ce13ecb80c2fc1cf5e0f37b73bebbf7c938a3d",
+      "size": 90049,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/FA_2BQuivers-v2.2.zip"
+    },
+    {
+      "name": "FA_2BSpiders-v2.1.zip",
+      "path": "resourcepacks/FA_2BSpiders-v2.1.zip",
+      "hash": "f524033e4079b49d833d393189559a90f8c32343",
+      "size": 77447,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/FA_2BSpiders-v2.1.zip"
+    },
+    {
       "name": "Farm%203D.zip",
       "path": "resourcepacks/Farm%203D.zip",
       "hash": "fc3e7812a9f32b731b8dff53cd500740cd7a72ad",
       "size": 395408,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Farm%25203D.zip"
+    },
+    {
+      "name": "Farm_203D.zip",
+      "path": "resourcepacks/Farm_203D.zip",
+      "hash": "fc3e7812a9f32b731b8dff53cd500740cd7a72ad",
+      "size": 395408,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Farm_203D.zip"
+    },
+    {
+      "name": "Farmer_s3D_v1.0_beta5_Normal_mc1.18.2-1.20.1.zip",
+      "path": "resourcepacks/Farmer_s3D_v1.0_beta5_Normal_mc1.18.2-1.20.1.zip",
+      "hash": "7f4ac896b40434d53dffd3efa1be3ab0a429b761",
+      "size": 83441,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Farmer_s3D_v1.0_beta5_Normal_mc1.18.2-1.20.1.zip"
     },
     {
       "name": "FarmersDelightExcaliburSupport.zip",
@@ -41947,11 +43074,39 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/FarmersDelightExcaliburSupport.zip"
     },
     {
+      "name": "Fresh Better Horses v1.0 1.21.zip",
+      "path": "resourcepacks/Fresh Better Horses v1.0 1.21.zip",
+      "hash": "6107820ab5b42116e87a00a49f2a9f6312125490",
+      "size": 1588687,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Fresh%20Better%20Horses%20v1.0%201.21.zip"
+    },
+    {
+      "name": "Fresh Flowers and Plants 1.4.6.zip",
+      "path": "resourcepacks/Fresh Flowers and Plants 1.4.6.zip",
+      "hash": "55600121ec38b70ff55ee742aef47d6571a9fee7",
+      "size": 834597,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Fresh%20Flowers%20and%20Plants%201.4.6.zip"
+    },
+    {
+      "name": "Fresh Flowers and Plants 1.4.6.zip.rpo",
+      "path": "resourcepacks/Fresh Flowers and Plants 1.4.6.zip.rpo",
+      "hash": "e1174e5b17d386e73abe9082f2cbcaf464ab60ea",
+      "size": 136,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Fresh%20Flowers%20and%20Plants%201.4.6.zip.rpo"
+    },
+    {
       "name": "Fresh Food 1.3.3.zip",
       "path": "resourcepacks/Fresh Food 1.3.3.zip",
-      "hash": "2099111e9e4d685b9ef75b0175c9762f8242e64e",
-      "size": 1426718,
+      "hash": "8c2b13cce0b23f17a6df44c64e071d3cc88b6fe9",
+      "size": 1342636,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Fresh%20Food%201.3.3.zip"
+    },
+    {
+      "name": "Fresh Food 1.3.3.zip.rpo",
+      "path": "resourcepacks/Fresh Food 1.3.3.zip.rpo",
+      "hash": "e1174e5b17d386e73abe9082f2cbcaf464ab60ea",
+      "size": 136,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Fresh%20Food%201.3.3.zip.rpo"
     },
     {
       "name": "FreshAnimations_v1.10.4.zip",
@@ -41959,6 +43114,20 @@
       "hash": "ce7674486f6544dce444ef11a2b42d81e5063d68",
       "size": 853912,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/FreshAnimations_v1.10.4.zip"
+    },
+    {
+      "name": "Fresh_20Food_201.3.2.zip",
+      "path": "resourcepacks/Fresh_20Food_201.3.2.zip",
+      "hash": "57591bddc5d778dbb8fb2f36002f4c010ee6eb2c",
+      "size": 1180951,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Fresh_20Food_201.3.2.zip"
+    },
+    {
+      "name": "Fresh_20Food_201.3.2.zip.rpo",
+      "path": "resourcepacks/Fresh_20Food_201.3.2.zip.rpo",
+      "hash": "fae5e3b126899e2b274c9b3c38fe74332df88379",
+      "size": 54,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Fresh_20Food_201.3.2.zip.rpo"
     },
     {
       "name": "Freshly Modded 3.0.1.zip",
@@ -41970,9 +43139,37 @@
     {
       "name": "HumanEraVillagersIllagers[3.91.2].zip",
       "path": "resourcepacks/HumanEraVillagersIllagers[3.91.2].zip",
-      "hash": "c6f66207ed558e4beed3b17cdb7809841d8b8dcd",
-      "size": 8562130,
+      "hash": "096deb06ffdc77980ad822980aa5aeb78c5f9f9a",
+      "size": 8367651,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/HumanEraVillagersIllagers%5B3.91.2%5D.zip"
+    },
+    {
+      "name": "HumanVillagersGuard[1.21.x - 1.20.x](1.5).zip",
+      "path": "resourcepacks/HumanVillagersGuard[1.21.x - 1.20.x](1.5).zip",
+      "hash": "058da41620adb1a6ac6528730f2a15170f83e559",
+      "size": 349040,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/HumanVillagersGuard%5B1.21.x%20-%201.20.x%5D(1.5).zip"
+    },
+    {
+      "name": "HyperPunchy-v2.4+.zip",
+      "path": "resourcepacks/HyperPunchy-v2.4+.zip",
+      "hash": "4a54dd12e4eedc000ed23c32d43fbd495b783ba3",
+      "size": 1446898,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/HyperPunchy-v2.4+.zip"
+    },
+    {
+      "name": "HyperPunchy-v2.4+.zip.rpo",
+      "path": "resourcepacks/HyperPunchy-v2.4+.zip.rpo",
+      "hash": "ce77889e554b765af05b5e2f3a5555501277f307",
+      "size": 43,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/HyperPunchy-v2.4+.zip.rpo"
+    },
+    {
+      "name": "Just Fancy Torches v2.0.zip",
+      "path": "resourcepacks/Just Fancy Torches v2.0.zip",
+      "hash": "d1359c7b5e8bab9360a5866029d8106f60d30c15",
+      "size": 146197,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Just%20Fancy%20Torches%20v2.0.zip"
     },
     {
       "name": "Luminous1.4.zip",
@@ -41982,11 +43179,46 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Luminous1.4.zip"
     },
     {
+      "name": "MedievalMenu1.20.1_V.3.1.zip",
+      "path": "resourcepacks/MedievalMenu1.20.1_V.3.1.zip",
+      "hash": "4ff3c00051cc069915e7b472a869673fd3aaf3fe",
+      "size": 24350644,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/MedievalMenu1.20.1_V.3.1.zip"
+    },
+    {
+      "name": "MickeyJoesFlowers 26.1.zip",
+      "path": "resourcepacks/MickeyJoesFlowers 26.1.zip",
+      "hash": "f1740c5e91098b19178cce214da16f899f501839",
+      "size": 466940,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/MickeyJoesFlowers%2026.1.zip"
+    },
+    {
       "name": "Os' Cleaner Signs with White Background.zip",
       "path": "resourcepacks/Os' Cleaner Signs with White Background.zip",
+      "hash": "5d1e37654b2dbec9b849244be7bca15c8ec21f2c",
+      "size": 152433,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Os'%20Cleaner%20Signs%20with%20White%20Background.zip"
+    },
+    {
+      "name": "Os_ Cleaner Signs with White Background.zip",
+      "path": "resourcepacks/Os_ Cleaner Signs with White Background.zip",
       "hash": "b1fa090703cc3d1752f1585ab358d856c756d166",
       "size": 173323,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Os'%20Cleaner%20Signs%20with%20White%20Background.zip"
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Os_%20Cleaner%20Signs%20with%20White%20Background.zip"
+    },
+    {
+      "name": "Os_ Colorful Grasses (Mix).zip",
+      "path": "resourcepacks/Os_ Colorful Grasses (Mix).zip",
+      "hash": "b01bc0cc7ec15c9ae3e90eecda704bcc419c3482",
+      "size": 294362,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Os_%20Colorful%20Grasses%20(Mix).zip"
+    },
+    {
+      "name": "Os_ Colorful Grasses (Short).zip",
+      "path": "resourcepacks/Os_ Colorful Grasses (Short).zip",
+      "hash": "19a237b036a24cbc5a862110bb3fe0026400a1cb",
+      "size": 181220,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Os_%20Colorful%20Grasses%20(Short).zip"
     },
     {
       "name": "Overdetailed Saplings 1.20.1.zip",
@@ -41996,10 +43228,17 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Overdetailed%20Saplings%201.20.1.zip"
     },
     {
+      "name": "PA-FA-Compat-v1.zip",
+      "path": "resourcepacks/PA-FA-Compat-v1.zip",
+      "hash": "615c25c9940e0cb8014bdffc628a1beb3b03d449",
+      "size": 191982,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/PA-FA-Compat-v1.zip"
+    },
+    {
       "name": "Prettier-Horses-1.4.1(Fresh-Animations).zip",
       "path": "resourcepacks/Prettier-Horses-1.4.1(Fresh-Animations).zip",
-      "hash": "53c4ec1004751bef242ddd9c60485d341312bce1",
-      "size": 457987,
+      "hash": "cd300eef1ed6f8d4b6dedb6fcb31b703f7d310c1",
+      "size": 361516,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Prettier-Horses-1.4.1(Fresh-Animations).zip"
     },
     {
@@ -42010,11 +43249,81 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Refined%20Buckets%202.2.zip"
     },
     {
+      "name": "Refined_20Torches_201.1.zip",
+      "path": "resourcepacks/Refined_20Torches_201.1.zip",
+      "hash": "8a1787d3462e07dbe9141aada19301cc126e08a3",
+      "size": 1293607,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Refined_20Torches_201.1.zip"
+    },
+    {
+      "name": "Refined_20Torches_201.1.zip.rpo",
+      "path": "resourcepacks/Refined_20Torches_201.1.zip.rpo",
+      "hash": "b22ed6e0850e02c725b24840b1d15ee457c82d81",
+      "size": 373,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Refined_20Torches_201.1.zip.rpo"
+    },
+    {
       "name": "Ribbits_ Excalibur-Addon_Resource _Pack_1.0.zip",
       "path": "resourcepacks/Ribbits_ Excalibur-Addon_Resource _Pack_1.0.zip",
       "hash": "a930ec911fb3a9fa0b2cb7dda0764babc8b7a539",
       "size": 112022,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Ribbits_%20Excalibur-Addon_Resource%20_Pack_1.0.zip"
+    },
+    {
+      "name": "TZP+Mutant+1.20.1-1.3.zip",
+      "path": "resourcepacks/TZP+Mutant+1.20.1-1.3.zip",
+      "hash": "d1ab9276514985c4a9d01dbe9d984ecdb1420d60",
+      "size": 2818462,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/TZP+Mutant+1.20.1-1.3.zip"
+    },
+    {
+      "name": "TZP_1.20.1_2.7.zip",
+      "path": "resourcepacks/TZP_1.20.1_2.7.zip",
+      "hash": "442c6005536d454f91e77f0998a71f439054967f",
+      "size": 14099145,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/TZP_1.20.1_2.7.zip"
+    },
+    {
+      "name": "primitive_axe.json",
+      "path": "resourcepacks/Trusty Tools (Primitive Axe) v1.2.1/assets/arkans_no_tree_punching/items/primitive_axe.json",
+      "hash": "29f327c54180a053e08ca8721ce2d3c013854310",
+      "size": 555,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Trusty%20Tools%20(Primitive%20Axe)%20v1.2.1/assets/arkans_no_tree_punching/items/primitive_axe.json"
+    },
+    {
+      "name": "primitive_axe.json",
+      "path": "resourcepacks/Trusty Tools (Primitive Axe) v1.2.1/assets/arkans_no_tree_punching/models/item/primitive_axe.json",
+      "hash": "af82f4031099429c0138c83a631bf583584cfa5f",
+      "size": 121,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Trusty%20Tools%20(Primitive%20Axe)%20v1.2.1/assets/arkans_no_tree_punching/models/item/primitive_axe.json"
+    },
+    {
+      "name": "primitive_axe_in_hand.json",
+      "path": "resourcepacks/Trusty Tools (Primitive Axe) v1.2.1/assets/arkans_no_tree_punching/models/item/primitive_axe_in_hand.json",
+      "hash": "d55d1223efa1400b2c4a3f4909ead1d1cea050a5",
+      "size": 243,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Trusty%20Tools%20(Primitive%20Axe)%20v1.2.1/assets/arkans_no_tree_punching/models/item/primitive_axe_in_hand.json"
+    },
+    {
+      "name": "template_primitive_axe_in_hand.json",
+      "path": "resourcepacks/Trusty Tools (Primitive Axe) v1.2.1/assets/arkans_no_tree_punching/models/item/template_primitive_axe_in_hand.json",
+      "hash": "818020cccfcb88772418248d067a092f92c75e25",
+      "size": 3488,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Trusty%20Tools%20(Primitive%20Axe)%20v1.2.1/assets/arkans_no_tree_punching/models/item/template_primitive_axe_in_hand.json"
+    },
+    {
+      "name": "primitive_axe.png",
+      "path": "resourcepacks/Trusty Tools (Primitive Axe) v1.2.1/assets/arkans_no_tree_punching/textures/item/primitive_axe.png",
+      "hash": "065722170b033f14cb917b209dc3f28d5d111bad",
+      "size": 271,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Trusty%20Tools%20(Primitive%20Axe)%20v1.2.1/assets/arkans_no_tree_punching/textures/item/primitive_axe.png"
+    },
+    {
+      "name": "primitive_axe_in_hand.png",
+      "path": "resourcepacks/Trusty Tools (Primitive Axe) v1.2.1/assets/arkans_no_tree_punching/textures/item/primitive_axe_in_hand.png",
+      "hash": "6904a8787a3a801c6fc2236879dfa33dd44f2a43",
+      "size": 592,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Trusty%20Tools%20(Primitive%20Axe)%20v1.2.1/assets/arkans_no_tree_punching/textures/item/primitive_axe_in_hand.png"
     },
     {
       "name": "bow.json",
@@ -43725,52 +45034,10 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Trusty%20Tools%20(Primitive%20Axe)%20v1.2.1/assets/minecraft/textures/item/wooden_sword_in_hand.png"
     },
     {
-      "name": "primitive_axe.json",
-      "path": "resourcepacks/Trusty Tools (Primitive Axe) v1.2.1/assets/nexars_primitive_axe/items/primitive_axe.json",
-      "hash": "d209c421364b50f381cd34a1f807d98aa8329034",
-      "size": 549,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Trusty%20Tools%20(Primitive%20Axe)%20v1.2.1/assets/nexars_primitive_axe/items/primitive_axe.json"
-    },
-    {
-      "name": "primitive_axe.json",
-      "path": "resourcepacks/Trusty Tools (Primitive Axe) v1.2.1/assets/nexars_primitive_axe/models/item/primitive_axe.json",
-      "hash": "3ca1111ab67f778fbb3a87eac82c50e0604f2d5a",
-      "size": 118,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Trusty%20Tools%20(Primitive%20Axe)%20v1.2.1/assets/nexars_primitive_axe/models/item/primitive_axe.json"
-    },
-    {
-      "name": "primitive_axe_in_hand.json",
-      "path": "resourcepacks/Trusty Tools (Primitive Axe) v1.2.1/assets/nexars_primitive_axe/models/item/primitive_axe_in_hand.json",
-      "hash": "78b84168e8d3d094674714b4aae54def704d00fa",
-      "size": 240,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Trusty%20Tools%20(Primitive%20Axe)%20v1.2.1/assets/nexars_primitive_axe/models/item/primitive_axe_in_hand.json"
-    },
-    {
-      "name": "template_primitive_axe_in_hand.json",
-      "path": "resourcepacks/Trusty Tools (Primitive Axe) v1.2.1/assets/nexars_primitive_axe/models/item/template_primitive_axe_in_hand.json",
-      "hash": "818020cccfcb88772418248d067a092f92c75e25",
-      "size": 3488,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Trusty%20Tools%20(Primitive%20Axe)%20v1.2.1/assets/nexars_primitive_axe/models/item/template_primitive_axe_in_hand.json"
-    },
-    {
-      "name": "primitive_axe.png",
-      "path": "resourcepacks/Trusty Tools (Primitive Axe) v1.2.1/assets/nexars_primitive_axe/textures/item/primitive_axe.png",
-      "hash": "065722170b033f14cb917b209dc3f28d5d111bad",
-      "size": 271,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Trusty%20Tools%20(Primitive%20Axe)%20v1.2.1/assets/nexars_primitive_axe/textures/item/primitive_axe.png"
-    },
-    {
-      "name": "primitive_axe_in_hand.png",
-      "path": "resourcepacks/Trusty Tools (Primitive Axe) v1.2.1/assets/nexars_primitive_axe/textures/item/primitive_axe_in_hand.png",
-      "hash": "6904a8787a3a801c6fc2236879dfa33dd44f2a43",
-      "size": 592,
-      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Trusty%20Tools%20(Primitive%20Axe)%20v1.2.1/assets/nexars_primitive_axe/textures/item/primitive_axe_in_hand.png"
-    },
-    {
       "name": "pack.mcmeta",
       "path": "resourcepacks/Trusty Tools (Primitive Axe) v1.2.1/pack.mcmeta",
-      "hash": "9922301317f791743609965a845f3f1502993d2e",
-      "size": 166,
+      "hash": "92c44705e1a6ee5548f1e527dfea0d9fa3b66818",
+      "size": 231,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Trusty%20Tools%20(Primitive%20Axe)%20v1.2.1/pack.mcmeta"
     },
     {
@@ -43788,11 +45055,417 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/Trusty%20Tools%20v1.2.1.zip"
     },
     {
+      "name": "YFs - BMB.zip",
+      "path": "resourcepacks/YFs - BMB.zip",
+      "hash": "9a9404f7f86be3499acb53fad5ece2d3f1d341c9",
+      "size": 598084,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/YFs%20-%20BMB.zip"
+    },
+    {
+      "name": "hand_relative_addon.lua",
+      "path": "resourcepacks/assets/minecraft/holdmyitems/hand_relative_addon.lua",
+      "hash": "31c81a2f728e90229462a66fb5ddda7284987741",
+      "size": 416,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/holdmyitems/hand_relative_addon.lua"
+    },
+    {
+      "name": "item_addon.lua",
+      "path": "resourcepacks/assets/minecraft/holdmyitems/item_addon.lua",
+      "hash": "f730652dfb557356008b68c540bf69e6248f87d6",
+      "size": 2065,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/holdmyitems/item_addon.lua"
+    },
+    {
+      "name": "dragon_breath.json",
+      "path": "resourcepacks/assets/minecraft/items/dragon_breath.json",
+      "hash": "3aac5ff89f0298725e0cb84235325a414c17d4cc",
+      "size": 440,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/items/dragon_breath.json"
+    },
+    {
+      "name": "experience_bottle.json",
+      "path": "resourcepacks/assets/minecraft/items/experience_bottle.json",
+      "hash": "00afb7407bc1c3dfbc24157276880842bcb920f6",
+      "size": 446,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/items/experience_bottle.json"
+    },
+    {
+      "name": "glass_bottle.json",
+      "path": "resourcepacks/assets/minecraft/items/glass_bottle.json",
+      "hash": "538ebb08a241d100d7f5be92f891fe82c136f25f",
+      "size": 436,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/items/glass_bottle.json"
+    },
+    {
+      "name": "honey_bottle.json",
+      "path": "resourcepacks/assets/minecraft/items/honey_bottle.json",
+      "hash": "489d68c2e60887181da0087bcf7fe0fc388275e9",
+      "size": 1946,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/items/honey_bottle.json"
+    },
+    {
+      "name": "lingering_potion.json",
+      "path": "resourcepacks/assets/minecraft/items/lingering_potion.json",
+      "hash": "1ae2ab34cd65dc1d28e1bd766ae2bfdf4d3c482a",
+      "size": 698,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/items/lingering_potion.json"
+    },
+    {
+      "name": "ominous_bottle.json",
+      "path": "resourcepacks/assets/minecraft/items/ominous_bottle.json",
+      "hash": "3cca9343018f0dc94e1d51a5f8ff3ec144f76754",
+      "size": 1962,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/items/ominous_bottle.json"
+    },
+    {
+      "name": "potion.json",
+      "path": "resourcepacks/assets/minecraft/items/potion.json",
+      "hash": "f084ca787fb5bd67846a3fee73208965ae469e13",
+      "size": 3473,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/items/potion.json"
+    },
+    {
+      "name": "splash_potion.json",
+      "path": "resourcepacks/assets/minecraft/items/splash_potion.json",
+      "hash": "dd6b51ad0c4782001b47da46c368864562cd1868",
+      "size": 692,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/items/splash_potion.json"
+    },
+    {
+      "name": "dragon_breath.json",
+      "path": "resourcepacks/assets/minecraft/models/item/dragon_breath.json",
+      "hash": "80e042fffba036c266d6d7846f15462dfd7a791b",
+      "size": 352,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/dragon_breath.json"
+    },
+    {
+      "name": "experience_bottle.json",
+      "path": "resourcepacks/assets/minecraft/models/item/experience_bottle.json",
+      "hash": "a72d962d9cb162419b5ef1921767a2170ca18069",
+      "size": 364,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/experience_bottle.json"
+    },
+    {
+      "name": "glass_bottle.json",
+      "path": "resourcepacks/assets/minecraft/models/item/glass_bottle.json",
+      "hash": "dc3ad9fad8650cd95feb496e8701e0fd221c7c10",
+      "size": 350,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/glass_bottle.json"
+    },
+    {
+      "name": "honey_bottle.json",
+      "path": "resourcepacks/assets/minecraft/models/item/honey_bottle.json",
+      "hash": "9bb6c1dcba7345cea209634343a75ecb4d2fc2bc",
+      "size": 1526,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/honey_bottle.json"
+    },
+    {
+      "name": "lingering_potion.json",
+      "path": "resourcepacks/assets/minecraft/models/item/lingering_potion.json",
+      "hash": "29be85c2eaf3ceaecf293e4d2602eb3620bc46be",
+      "size": 521,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/lingering_potion.json"
+    },
+    {
+      "name": "ominous_bottle.json",
+      "path": "resourcepacks/assets/minecraft/models/item/ominous_bottle.json",
+      "hash": "10e1acc7f5991415966e509ff02286c62b80cef4",
+      "size": 961,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/ominous_bottle.json"
+    },
+    {
+      "name": "desktop.ini",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/desktop.ini",
+      "hash": "bc2b6b6d4dccdceb95bb5f5d15c01f86d3b1ee79",
+      "size": 76,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/desktop.ini"
+    },
+    {
+      "name": "dragon_breath.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/dragon_breath.json",
+      "hash": "e51b8e36dbd89983ad41cd885624fe5fcd9471fb",
+      "size": 4168,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/dragon_breath.json"
+    },
+    {
+      "name": "experience_bottle.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/experience_bottle.json",
+      "hash": "e3f38e60f04674ba999a84d4399c21d5a58d86b7",
+      "size": 4239,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/experience_bottle.json"
+    },
+    {
+      "name": "experience_bottle2.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/experience_bottle2.json",
+      "hash": "9ba43d2cbd7d94c5501d3291f2b56621e2f432a0",
+      "size": 4085,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/experience_bottle2.json"
+    },
+    {
+      "name": "glass_bottle.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/glass_bottle.json",
+      "hash": "cac0891677f0b5ab8a65258fbd131bb7371c444b",
+      "size": 3968,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/glass_bottle.json"
+    },
+    {
+      "name": "honey_bottle.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/honey_bottle.json",
+      "hash": "800c7c7c7e97733504e2cfd08cd3568ec0bed1a2",
+      "size": 4446,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/honey_bottle.json"
+    },
+    {
+      "name": "honey_bottle_drink00.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink00.json",
+      "hash": "3f6b385a525160c602dab46a57846ba304c86481",
+      "size": 4446,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink00.json"
+    },
+    {
+      "name": "honey_bottle_drink01.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink01.json",
+      "hash": "e174cea2a83be7bc85e4593bce7a0bc5a51802e4",
+      "size": 4509,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink01.json"
+    },
+    {
+      "name": "honey_bottle_drink02.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink02.json",
+      "hash": "284f8b5cb97cf4e9e53b71e2b3c87b89dd032de2",
+      "size": 4521,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink02.json"
+    },
+    {
+      "name": "honey_bottle_drink03.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink03.json",
+      "hash": "ebd1e80c84f64ae229530a5619bc99fd64d9c1bf",
+      "size": 4535,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink03.json"
+    },
+    {
+      "name": "honey_bottle_drink04.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink04.json",
+      "hash": "122a5e7f5d45cb635dd1b6f6835bd1d66230e0bf",
+      "size": 4057,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/honey_bottle_drink04.json"
+    },
+    {
+      "name": "lingering_potion.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/lingering_potion.json",
+      "hash": "5a52ad3e423248a65775e68642be30c285a470a8",
+      "size": 5119,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/lingering_potion.json"
+    },
+    {
+      "name": "ominous_bottle.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/ominous_bottle.json",
+      "hash": "7370dadc275ba14bc01bdcc975240f96d4c122eb",
+      "size": 4922,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/ominous_bottle.json"
+    },
+    {
+      "name": "ominous_bottle_drink00.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink00.json",
+      "hash": "cc637a3c7ff43213a8a92ac7ef471f5c4deab0d3",
+      "size": 5457,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink00.json"
+    },
+    {
+      "name": "ominous_bottle_drink01.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink01.json",
+      "hash": "79af819c6790b2e01cb8ff68f7038ab6e01a4fdd",
+      "size": 6043,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink01.json"
+    },
+    {
+      "name": "ominous_bottle_drink02.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink02.json",
+      "hash": "effabe2eeb9bd460bea4c2659148cab32fe81f8f",
+      "size": 6041,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink02.json"
+    },
+    {
+      "name": "ominous_bottle_drink03.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink03.json",
+      "hash": "c3d452cb917b3b2daec69929f457eaa82331914e",
+      "size": 5539,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink03.json"
+    },
+    {
+      "name": "ominous_bottle_drink04.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink04.json",
+      "hash": "b5adf449851abaa83d98c6f9044f0b143da7278b",
+      "size": 5035,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/ominous_bottle_drink04.json"
+    },
+    {
+      "name": "potion.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/potion.json",
+      "hash": "c6d58b38f2a5657b3a55471ea5e62fcfb8e90083",
+      "size": 4881,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/potion.json"
+    },
+    {
+      "name": "potion_drink00.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/potion_drink00.json",
+      "hash": "2f8c8e1741af1dbf55ccfc3f873d2cd1a0dd4636",
+      "size": 5975,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/potion_drink00.json"
+    },
+    {
+      "name": "potion_drink01.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/potion_drink01.json",
+      "hash": "2a24deb8923709271ad9bc36f5fb5c40b9f2f923",
+      "size": 6617,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/potion_drink01.json"
+    },
+    {
+      "name": "potion_drink02.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/potion_drink02.json",
+      "hash": "e6cbe46c173ef4c8d2ba146a1587612cdb18714c",
+      "size": 6609,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/potion_drink02.json"
+    },
+    {
+      "name": "potion_drink03.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/potion_drink03.json",
+      "hash": "2e378cdb525ca56926cf79d937d9440338565bd8",
+      "size": 5973,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/potion_drink03.json"
+    },
+    {
+      "name": "potion_drink04.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/potion_drink04.json",
+      "hash": "6459d31a6217111dc7b0c5cad5912d4b3c01eab0",
+      "size": 5210,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/potion_drink04.json"
+    },
+    {
+      "name": "splash_potion.json",
+      "path": "resourcepacks/assets/minecraft/models/item/pommel_held_models/splash_potion.json",
+      "hash": "c389656c008f007b52658cc761383b69e65d1b46",
+      "size": 4752,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/pommel_held_models/splash_potion.json"
+    },
+    {
+      "name": "potion.json",
+      "path": "resourcepacks/assets/minecraft/models/item/potion.json",
+      "hash": "db37176c684ca7a553319d20f4bc9f621651d6e7",
+      "size": 1541,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/potion.json"
+    },
+    {
+      "name": "splash_potion.json",
+      "path": "resourcepacks/assets/minecraft/models/item/splash_potion.json",
+      "hash": "2afbc1ea29ad95668ceadf2a8944b9b14a4719d5",
+      "size": 509,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/models/item/splash_potion.json"
+    },
+    {
+      "name": "honey_bottle.png",
+      "path": "resourcepacks/assets/minecraft/textures/item/honey_bottle.png",
+      "hash": "a6baebefbafc86cc3a4278ad36b087e0ce3aec6e",
+      "size": 368,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/textures/item/honey_bottle.png"
+    },
+    {
+      "name": "dragon_breath.png",
+      "path": "resourcepacks/assets/minecraft/textures/item/pommel_held_models/dragon_breath.png",
+      "hash": "9c9efa64d25da0955db1378af9b95b2d69faef6d",
+      "size": 693,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/textures/item/pommel_held_models/dragon_breath.png"
+    },
+    {
+      "name": "experience_bottle.png",
+      "path": "resourcepacks/assets/minecraft/textures/item/pommel_held_models/experience_bottle.png",
+      "hash": "3d5978ac926124cc9a0375f211df23e34fd0a4e4",
+      "size": 569,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/textures/item/pommel_held_models/experience_bottle.png"
+    },
+    {
+      "name": "honey_bottle.png",
+      "path": "resourcepacks/assets/minecraft/textures/item/pommel_held_models/honey_bottle.png",
+      "hash": "0bfb7adf10b5d36550ded93c5d04582172230ce2",
+      "size": 643,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/textures/item/pommel_held_models/honey_bottle.png"
+    },
+    {
+      "name": "honey_bottle_drinking.png",
+      "path": "resourcepacks/assets/minecraft/textures/item/pommel_held_models/honey_bottle_drinking.png",
+      "hash": "434e82d73e5815774022f602fd42299e99a7b5ce",
+      "size": 682,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/textures/item/pommel_held_models/honey_bottle_drinking.png"
+    },
+    {
+      "name": "lingering_potion.png",
+      "path": "resourcepacks/assets/minecraft/textures/item/pommel_held_models/lingering_potion.png",
+      "hash": "a81bf77485949dd3ab8fd19d006dbf7087eb4d18",
+      "size": 907,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/textures/item/pommel_held_models/lingering_potion.png"
+    },
+    {
+      "name": "ominous_bottle.png",
+      "path": "resourcepacks/assets/minecraft/textures/item/pommel_held_models/ominous_bottle.png",
+      "hash": "42918162542eb7da9014cd9db48bdc1ff9157de2",
+      "size": 863,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/textures/item/pommel_held_models/ominous_bottle.png"
+    },
+    {
+      "name": "ominous_bottle_drink.png",
+      "path": "resourcepacks/assets/minecraft/textures/item/pommel_held_models/ominous_bottle_drink.png",
+      "hash": "a573c23aa547acb99fd087567e8050b742ffddda",
+      "size": 657,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/textures/item/pommel_held_models/ominous_bottle_drink.png"
+    },
+    {
+      "name": "potion_drink.png",
+      "path": "resourcepacks/assets/minecraft/textures/item/pommel_held_models/potion_drink.png",
+      "hash": "20b002e4dbbf15f5dd7f164e42f0ca3bd5d916b7",
+      "size": 897,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/textures/item/pommel_held_models/potion_drink.png"
+    },
+    {
+      "name": "potion_s.png",
+      "path": "resourcepacks/assets/minecraft/textures/item/pommel_held_models/potion_s.png",
+      "hash": "7a2ef8922b40e96de3e9f0216555e50a47f424b7",
+      "size": 788,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/assets/minecraft/textures/item/pommel_held_models/potion_s.png"
+    },
+    {
       "name": "bushy-leaves-1-6-5.zip",
       "path": "resourcepacks/bushy-leaves-1-6-5.zip",
-      "hash": "65bf56acef3b53441422fe4b342783cef0cc1628",
-      "size": 2460827,
+      "hash": "397bcd2f6027e8d89cb72fca03055bbef30f0618",
+      "size": 2298327,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/bushy-leaves-1-6-5.zip"
+    },
+    {
+      "name": "pack.mcmeta",
+      "path": "resourcepacks/pack.mcmeta",
+      "hash": "a43aace11635a35613ef51d7bf8b9c72554940bb",
+      "size": 235,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/pack.mcmeta"
+    },
+    {
+      "name": "pack.png",
+      "path": "resourcepacks/pack.png",
+      "hash": "08ce1a6a530c3f5e83559cbf217039021f6dd44e",
+      "size": 43959,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/pack.png"
+    },
+    {
+      "name": "§2Refined Tools 2.2.1.zip",
+      "path": "resourcepacks/§2Refined Tools 2.2.1.zip",
+      "hash": "2f008e612e09d2efb641b2a21dc3f0cec8e56f53",
+      "size": 855103,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/%C2%A72Refined%20Tools%202.2.1.zip"
+    },
+    {
+      "name": "§2Refined Tools 2.2.1.zip.rpo",
+      "path": "resourcepacks/§2Refined Tools 2.2.1.zip.rpo",
+      "hash": "92c4f39a13379dbf946557abbfbce4c6d51ba96f",
+      "size": 79,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/%C2%A72Refined%20Tools%202.2.1.zip.rpo"
     },
     {
       "name": "§3Blue's §fBetter Zombies §7v0.13.zip",
@@ -43802,11 +45475,53 @@
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/%C2%A73Blue's%20%C2%A7fBetter%20Zombies%20%C2%A77v0.13.zip"
     },
     {
+      "name": "§3Blue_s §fBetter Zombies §7v0.13.zip",
+      "path": "resourcepacks/§3Blue_s §fBetter Zombies §7v0.13.zip",
+      "hash": "0ce69ebea763deb055f47b6eec678c5f293a75f2",
+      "size": 923392,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/%C2%A73Blue_s%20%C2%A7fBetter%20Zombies%20%C2%A77v0.13.zip"
+    },
+    {
+      "name": "§6Immersive§8_§6Interfaces§8.zip",
+      "path": "resourcepacks/§6Immersive§8_§6Interfaces§8.zip",
+      "hash": "bafc82177445bd3fbceccffdac76cbc156fab0de",
+      "size": 1195419,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/%C2%A76Immersive%C2%A78_%C2%A76Interfaces%C2%A78.zip"
+    },
+    {
+      "name": "§7Better§bOres§93D§0v5.0.zip",
+      "path": "resourcepacks/§7Better§bOres§93D§0v5.0.zip",
+      "hash": "f1e129cdaae6f15e31e615ecd04ce741a8ca3241",
+      "size": 603439,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/%C2%A77Better%C2%A7bOres%C2%A793D%C2%A70v5.0.zip"
+    },
+    {
+      "name": "§eThe_Corners§r_§7Yearning_Canal§r.zip",
+      "path": "resourcepacks/§eThe_Corners§r_§7Yearning_Canal§r.zip",
+      "hash": "707e64c4baf638d0b7acff94d9d2ef9e48cfdfa6",
+      "size": 3245457,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/%C2%A7eThe_Corners%C2%A7r_%C2%A77Yearning_Canal%C2%A7r.zip"
+    },
+    {
+      "name": "§eTorches§8-§eReimagined§0_§8[v1.7.2]§0.zip",
+      "path": "resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.7.2]§0.zip",
+      "hash": "6ee5b7b3cff0ade20b340ef55f6261e1f82c4b34",
+      "size": 186249,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/%C2%A7eTorches%C2%A78-%C2%A7eReimagined%C2%A70_%C2%A78%5Bv1.7.2%5D%C2%A70.zip"
+    },
+    {
       "name": "§e§lAllure 3D Plants§r§0.zip",
       "path": "resourcepacks/§e§lAllure 3D Plants§r§0.zip",
       "hash": "dc240658b0624dbaa63663474066b6ed3d190eb8",
       "size": 326890,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/%C2%A7e%C2%A7lAllure%203D%20Plants%C2%A7r%C2%A70.zip"
+    },
+    {
+      "name": "§f§lActually §6§l3D §fBlocks & Items!§7.zip",
+      "path": "resourcepacks/§f§lActually §6§l3D §fBlocks & Items!§7.zip",
+      "hash": "98b4e41b7698af9cf9ed8dab30c0fedd65fcc32a",
+      "size": 8583104,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/%C2%A7f%C2%A7lActually%20%C2%A76%C2%A7l3D%20%C2%A7fBlocks%20&%20Items!%C2%A77.zip"
     },
     {
       "name": "§f§lActually §6§l3D §r§aPlants§7.zip",
@@ -43825,7 +45540,7 @@
     {
       "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt",
       "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt",
-      "hash": "550c26deea292cee06cc0f64fc078f00466b9de7",
+      "hash": "b27360af2a80202c44fa806fd8a024ad065c6314",
       "size": 364,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt"
     },
@@ -43839,8 +45554,8 @@
     {
       "name": "Bloop-1.8.0-Alpha-3.zip.txt",
       "path": "shaderpacks/Bloop-1.8.0-Alpha-3.zip.txt",
-      "hash": "3403318cff14229500d5cbba11ca8aa947e80215",
-      "size": 49,
+      "hash": "f792096d48d4089afc3240dce060c60cb401d8af",
+      "size": 47,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/shaderpacks/Bloop-1.8.0-Alpha-3.zip.txt"
     },
     {
@@ -43853,9 +45568,30 @@
     {
       "name": "MakeUp-UltraFast-9.4c.zip.txt",
       "path": "shaderpacks/MakeUp-UltraFast-9.4c.zip.txt",
-      "hash": "73676290bcc16c74530e3ce9b5000d18d02ede5b",
-      "size": 68,
+      "hash": "dd934d60bdd8b0da97c3b4a27aec0a35709cf3d8",
+      "size": 65,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/shaderpacks/MakeUp-UltraFast-9.4c.zip.txt"
+    },
+    {
+      "name": "iterationT 3.2.0.zip",
+      "path": "shaderpacks/iterationT 3.2.0.zip",
+      "hash": "fe70948417a891276087ecc2d3607ebbd3ddd1e9",
+      "size": 42846985,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/shaderpacks/iterationT%203.2.0.zip"
+    },
+    {
+      "name": "iterationT 3.2.0.zip.bak-title-overlay",
+      "path": "shaderpacks/iterationT 3.2.0.zip.bak-title-overlay",
+      "hash": "ddadd31e7c59cedadc1e704e5f83c872cb3d5e37",
+      "size": 42846966,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/shaderpacks/iterationT%203.2.0.zip.bak-title-overlay"
+    },
+    {
+      "name": "iterationT 3.2.0.zip.broken-no-title-define",
+      "path": "shaderpacks/iterationT 3.2.0.zip.broken-no-title-define",
+      "hash": "7088cb1dac10d6651ba7a1bcfa097ee9956e0d97",
+      "size": 42858972,
+      "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/shaderpacks/iterationT%203.2.0.zip.broken-no-title-define"
     },
     {
       "name": "photon-voxy-support.zip",
@@ -43867,8 +45603,8 @@
     {
       "name": "photon-voxy-support.zip.txt",
       "path": "shaderpacks/photon-voxy-support.zip.txt",
-      "hash": "fa75c6e9353aa46c3e4cd53b79672d9b046ea423",
-      "size": 77,
+      "hash": "0e6aa424667978ea19543c1a5d0866858e5537d3",
+      "size": 59,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/shaderpacks/photon-voxy-support.zip.txt"
     }
   ]

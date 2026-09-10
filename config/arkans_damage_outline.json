@@ -1,0 +1,14 @@
+{
+  "configSchemaVersion": 2,
+  "modEnabled": true,
+  "removeDamageTint": true,
+  "outlineEnabled": true,
+  "targetMode": "ALL_LIVING",
+  "overrideExistingGlowColor": true,
+  "outlineThroughWalls": false,
+  "outlineDurationMultiplier": 0.5,
+  "outlineRed": 255,
+  "outlineGreen": 59,
+  "outlineBlue": 48,
+  "outlineAlpha": 255
+}

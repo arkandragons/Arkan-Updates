@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/potion_overlay",
+    "layer1": "minecraft:item/glass_bottle"
+  },
+  "overrides": [
+    { "predicate": { "pommel:is_held": 1.0 }, "model": "minecraft:item/pommel_held_models/potion" },
+    { "predicate": { "drinking": 1.0, "drink": 0.05 }, "model": "minecraft:item/potion" },
+    { "predicate": { "drinking": 1.0, "drink": 0.05, "pommel:is_held": 1.0 }, "model": "minecraft:item/pommel_held_models/potion_drink0" },
+    { "predicate": { "drinking": 1.0, "drink": 0.25 }, "model": "minecraft:item/potion" },
+    { "predicate": { "drinking": 1.0, "drink": 0.25, "pommel:is_held": 1.0 }, "model": "minecraft:item/pommel_held_models/potion_drink1" },
+    { "predicate": { "drinking": 1.0, "drink": 0.45 }, "model": "minecraft:item/potion" },
+    { "predicate": { "drinking": 1.0, "drink": 0.45, "pommel:is_held": 1.0 }, "model": "minecraft:item/pommel_held_models/potion_drink2" },
+    { "predicate": { "drinking": 1.0, "drink": 0.75 }, "model": "minecraft:item/potion" },
+    { "predicate": { "drinking": 1.0, "drink": 0.75, "pommel:is_held": 1.0 }, "model": "minecraft:item/pommel_held_models/potion_drink3" },
+    { "predicate": { "drinking": 1.0, "drink": 0.90 }, "model": "minecraft:item/potion" },
+    { "predicate": { "drinking": 1.0, "drink": 0.90, "pommel:is_held": 1.0 }, "model": "minecraft:item/pommel_held_models/potion_drink4" },
+    { "predicate": { "pommel:is_ground": 1.0 }, "model": "minecraft:item/pommel_held_models/potion" }
+
+
+
+       ]
+}

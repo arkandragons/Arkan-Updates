@@ -3,32 +3,32 @@
   "armor": 4.0,
   "flying_speed": 0.6,
   "abilities": {
-    "slash_grab_hit1": {
-      "damage": 5.0
+    "slash_grab_hit2": {
+      "damage": 7.0
     },
     "fire_body": {
       "damage": 3.0
     },
-    "slash_grab_hit2": {
-      "damage": 7.0
-    },
-    "bite": {
-      "damage": 12.0
+    "slash_grab_hit1": {
+      "damage": 5.0
     },
     "magma_volley": {
       "damage": 20.0
+    },
+    "bite": {
+      "damage": 12.0
     }
   },
   "extra": {
-    "fire_body_explosion_damage": 200.0,
-    "egg_hatch_time_ticks_normal": 12000.0,
-    "egg_drop_chance": 0.12,
-    "wild_flying_speed_multiplier": 1.0,
     "taming_chance_hearty": 2.0,
-    "scale_drop_chance_brush": 0.3,
-    "taming_chance_base": 4.0,
-    "fire_body_self_damage_on_crash": 40.0,
+    "wild_flying_speed_multiplier": 1.0,
+    "egg_drop_chance": 0.12,
+    "egg_hatch_time_ticks_normal": 12000.0,
+    "fire_body_explosion_damage": 200.0,
     "taming_chance_chicken": 33.3333,
+    "fire_body_self_damage_on_crash": 40.0,
+    "taming_chance_base": 4.0,
+    "scale_drop_chance_brush": 0.3,
     "aggressive_wild": false
   },
   "hints": {

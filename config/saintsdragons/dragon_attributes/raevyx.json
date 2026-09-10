@@ -6,35 +6,35 @@
     "lightning_beam": {
       "damage": 35.0
     },
-    "horn_gore": {
-      "damage": 15.0
+    "dash": {
+      "damage": 10.0
     },
     "bite": {
       "damage": 15.0
     },
-    "dash": {
-      "damage": 10.0
+    "horn_gore": {
+      "damage": 15.0
     }
   },
   "extra": {
-    "scale_drop_chance_brush": 0.35,
-    "egg_drop_chance": 0.12,
-    "summon_storm_supercharge_damage_multiplier": 2.0,
-    "egg_loot_ancient_city": 0.15,
-    "beam_regen_per_tick": 0.0025,
-    "summon_storm_supercharge_ticks": 1200.0,
-    "wild_flying_speed_multiplier": 1.0,
-    "summon_storm_cooldown_ticks": 4800.0,
-    "beam_drain_per_tick": 0.014,
     "egg_loot_pillager_outpost": 0.2,
-    "summon_storm_duration_ticks": 1200.0,
-    "taming_chance_base": 5.0,
-    "taming_chance_hearty": 3.0,
-    "egg_hatch_time_ticks_thunder": 9600.0,
-    "taming_stun_health": 60.0,
+    "beam_drain_per_tick": 0.014,
+    "summon_storm_cooldown_ticks": 4800.0,
+    "wild_flying_speed_multiplier": 1.0,
+    "summon_storm_supercharge_ticks": 1200.0,
+    "beam_regen_per_tick": 0.0025,
+    "egg_loot_ancient_city": 0.15,
+    "summon_storm_supercharge_damage_multiplier": 2.0,
+    "egg_drop_chance": 0.12,
+    "scale_drop_chance_brush": 0.35,
     "egg_hatch_time_ticks_normal": 18000.0,
-    "legacy_taming": true,
-    "aggressive_wild": false
+    "taming_stun_health": 60.0,
+    "egg_hatch_time_ticks_thunder": 9600.0,
+    "taming_chance_hearty": 3.0,
+    "taming_chance_base": 5.0,
+    "summon_storm_duration_ticks": 1200.0,
+    "aggressive_wild": false,
+    "legacy_taming": true
   },
   "hints": {
     "taming_chance_base": "Percent chance per feed, from 0 to 100",

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "arkans_no_tree_punching:item/primitive_axe"
+  }
+}
