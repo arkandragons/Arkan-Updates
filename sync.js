@@ -3,6 +3,7 @@ const fs = require('fs-extra');
 const crypto = require('crypto');
 const path = require('path');
 const axios = require('axios');
+const { execFileSync } = require('child_process');
 
 /**
  * CONFIGURAÇÕES
@@ -43,6 +44,14 @@ async function calculateHash(filePath) {
         stream.on('end', () => resolve(hash.digest('hex')));
         stream.on('error', err => reject(err));
     });
+}
+
+// GitHub Raw serves the bytes stored in Git, after Git's clean/EOL filters.
+// Hashing the Windows working-tree bytes made CRLF text files fail integrity
+// checks after download. Compute the distribution bytes exactly as Git does.
+function getGitDistributionBytes(file) {
+    const objectId = execFileSync('git', ['hash-object', '-w', `--path=${file.relativePath}`, file.fullPath], { encoding: 'utf8' }).trim();
+    return execFileSync('git', ['cat-file', 'blob', objectId], { encoding: null, maxBuffer: Math.max(file.size * 2, 10 * 1024 * 1024) });
 }
 
 async function getFiles(dir) {
@@ -134,7 +143,10 @@ async function run() {
     for (const file of localFiles) {
         const sizeMB = file.size / 1024 / 1024;
         const isLarge = sizeMB > CONFIG.LARGE_THRESHOLD;
-        const hash = await calculateHash(file.fullPath);
+        const distributionBytes = isLarge ? null : getGitDistributionBytes(file);
+        const hash = isLarge
+            ? await calculateHash(file.fullPath)
+            : crypto.createHash('sha1').update(distributionBytes).digest('hex');
         const fileName = path.basename(file.relativePath);
 
         let url = `${CONFIG.RAW_BASE_URL}${encodeURI(file.relativePath)}`;
@@ -173,7 +185,7 @@ async function run() {
             name: fileName,
             path: file.relativePath,
             hash: hash,
-            size: file.size,
+            size: isLarge ? file.size : distributionBytes.length,
             url: url
         });
     }

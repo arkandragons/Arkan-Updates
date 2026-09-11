@@ -1,6 +1,6 @@
 {
-  "version": "1789060664628",
-  "generatedAt": "2026-09-10T17:17:44.628Z",
+  "version": "1789113137721",
+  "generatedAt": "2026-09-11T07:52:17.721Z",
   "files": [
     {
       "name": "SkinMC-Cape-106766.png",
@@ -19,22 +19,22 @@
     {
       "name": "General.toml",
       "path": "config/CoroUtil/General.toml",
-      "hash": "a9f705a2e6e3f8d8e21aaebca406863d872005d4",
-      "size": 129,
+      "hash": "2eebd781c85a9658b5a25eec5c956b9580c4a398",
+      "size": 121,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/CoroUtil/General.toml"
     },
     {
       "name": "DistantHorizons.toml",
       "path": "config/DistantHorizons.toml",
-      "hash": "69f9e2414632806d1832720839bc7342f27ea4da",
-      "size": 37810,
+      "hash": "bf775b725e3d34dd03b5adfb136a478aa4f88027",
+      "size": 36847,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/DistantHorizons.toml"
     },
     {
       "name": "RPG-HUD",
       "path": "config/RPG-HUD",
-      "hash": "55daefeae9c4e9bbd63f537c9a3faf2b4bbdc970",
-      "size": 2786,
+      "hash": "6bcf8725460edb20b995b1976162e695447ee0e3",
+      "size": 2687,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/RPG-HUD"
     },
     {
@@ -887,22 +887,22 @@
     {
       "name": "awesomedungeon_1.properties",
       "path": "config/awesomedungeon_1.properties",
-      "hash": "9302645d6887a5dc14001eafb847a2410ac1e5ca",
-      "size": 1393,
+      "hash": "e502238616bcde585c611613bd85eec84034eba3",
+      "size": 1355,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/awesomedungeon_1.properties"
     },
     {
       "name": "awesomedungeonend_1.properties",
       "path": "config/awesomedungeonend_1.properties",
-      "hash": "6258fa0afe692f6ca98f8942c4212688f5fe0b66",
-      "size": 437,
+      "hash": "032619d623dc9d2a784fd6142b9c98568b79f721",
+      "size": 427,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/awesomedungeonend_1.properties"
     },
     {
       "name": "awesomedungeonnether_1.properties",
       "path": "config/awesomedungeonnether_1.properties",
-      "hash": "5dcc16ed2d6e198d22eafafca12bc2f6dcce0090",
-      "size": 1006,
+      "hash": "646c7298bf8171ab23622771e7e965c60402d3d0",
+      "size": 980,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/awesomedungeonnether_1.properties"
     },
     {
@@ -1328,15 +1328,15 @@
     {
       "name": "cameraoverhaul.toml",
       "path": "config/cameraoverhaul.toml",
-      "hash": "9d94f02f5f915a280cc919d888148ffb9413812e",
-      "size": 5421,
+      "hash": "9708f501ade81345d41ca7ffdf9f2836ea02a194",
+      "size": 5280,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/cameraoverhaul.toml"
     },
     {
       "name": "camerautils.properties",
       "path": "config/camerautils/camerautils.properties",
-      "hash": "17aac517f6fc1dd879b5482e69e9332c3a2d3586",
-      "size": 756,
+      "hash": "324d3f6c666c86cbb75760c0154a6733f27f5d59",
+      "size": 731,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/camerautils/camerautils.properties"
     },
     {
@@ -1440,8 +1440,8 @@
     {
       "name": "comforts-server.toml",
       "path": "config/comforts-server.toml",
-      "hash": "28ab4c7c925eff47d552dc3ef7eb404ddfc6336f",
-      "size": 1852,
+      "hash": "6469c2cf767bc919a764df4c95dfecb8b9987b07",
+      "size": 1814,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/comforts-server.toml"
     },
     {
@@ -1461,8 +1461,8 @@
     {
       "name": "controlify.json",
       "path": "config/controlify.json",
-      "hash": "9dbe3eabea564d10d82ee0bd88012b22afece6f3",
-      "size": 9699,
+      "hash": "a2fbb79eee35c86018ca59617da2630d50c8a475",
+      "size": 9427,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/controlify.json"
     },
     {
@@ -1489,36 +1489,36 @@
     {
       "name": "create-client.toml",
       "path": "config/create-client.toml",
-      "hash": "8b0262a52cc1592e20c7e79ec0c26e664b45fb61",
-      "size": 4762,
+      "hash": "5e8a441a32d364994b11dd9e1a80959bd0e2ae39",
+      "size": 4623,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/create-client.toml"
     },
     {
       "name": "create-common.toml",
       "path": "config/create-common.toml",
-      "hash": "eeb60a2bebe041d74118246f0353028f23c82242",
-      "size": 153,
+      "hash": "62ed6cc65a2043b7ddc4cb4f7c4f1d42855293de",
+      "size": 146,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/create-common.toml"
     },
     {
       "name": "create-server.toml",
       "path": "config/create-server.toml",
-      "hash": "e22ea9e9750c3cfb53486c8aa884d8a172ecaa42",
-      "size": 15969,
+      "hash": "4916021f7b7686c0948f936d49189e24ecc4da1a",
+      "size": 15437,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/create-server.toml"
     },
     {
       "name": "createaddition-common.toml",
       "path": "config/createaddition-common.toml",
-      "hash": "c1295aa14163d986f7f8f05b61fd9b26442dc139",
-      "size": 4789,
+      "hash": "e933dcb7e2b7d43bdb1b30804d180f827b3b6b4a",
+      "size": 4649,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/createaddition-common.toml"
     },
     {
       "name": "createbigcannons-client.toml",
       "path": "config/createbigcannons-client.toml",
-      "hash": "24ede44bc02f2f3279777921b67fcdbc201c4d33",
-      "size": 3386,
+      "hash": "a251c39b7bc87457ae42260576cd3b370ae39cb5",
+      "size": 3238,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/createbigcannons-client.toml"
     },
     {
@@ -1531,8 +1531,8 @@
     {
       "name": "createbigcannons-server.toml",
       "path": "config/createbigcannons-server.toml",
-      "hash": "6d51aa9cb6b9e32c520dc1d2bf9c52cd84a7d05c",
-      "size": 9346,
+      "hash": "3b63d7f69adaa34e18a842a071fb18ea2d967655",
+      "size": 9058,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/createbigcannons-server.toml"
     },
     {
@@ -1671,29 +1671,29 @@
     {
       "name": "easyanvils-client.toml",
       "path": "config/easyanvils-client.toml",
-      "hash": "b65dc47acceafd314f1e8e9195546c4ce1c162ed",
-      "size": 71,
+      "hash": "be778e0d52a009f2caa788ecefe41a395c6958e4",
+      "size": 69,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/easyanvils-client.toml"
     },
     {
       "name": "easyanvils-server.toml",
       "path": "config/easyanvils-server.toml",
-      "hash": "6f09605e545222dbc0e20d66cb79fd82e314345c",
-      "size": 3476,
+      "hash": "3a5145c93f00ed2356baa243e72f892fea144301",
+      "size": 3416,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/easyanvils-server.toml"
     },
     {
       "name": "easymagic-client.toml",
       "path": "config/easymagic-client.toml",
-      "hash": "2294a9a4bd628940b6b855a0164a7d855b6cf5e3",
-      "size": 975,
+      "hash": "83f47a091a543259f894d29de7f988eb5ca4d0b2",
+      "size": 957,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/easymagic-client.toml"
     },
     {
       "name": "easymagic-server.toml",
       "path": "config/easymagic-server.toml",
-      "hash": "2a40dc85a67298301eded7fc813ada03c8cd38d8",
-      "size": 1905,
+      "hash": "240cf0b16ac82e8be54e78419b59da35a14013bb",
+      "size": 1876,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/easymagic-server.toml"
     },
     {
@@ -1832,22 +1832,22 @@
     {
       "name": "exposure-client.toml",
       "path": "config/exposure-client.toml",
-      "hash": "bebc1c9453615ca5c74f9ceaaa737b452538f422",
-      "size": 7525,
+      "hash": "0d5d951f0c56fab53906c088e58dc5a2ae079588",
+      "size": 7391,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/exposure-client.toml"
     },
     {
       "name": "exposure-common.toml",
       "path": "config/exposure-common.toml",
-      "hash": "47cda6e0f7e2e487ea385f480943b83ed390b092",
-      "size": 560,
+      "hash": "f16255cbf31bb17a2d09b02b6a6e62d7e3699650",
+      "size": 550,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/exposure-common.toml"
     },
     {
       "name": "exposure-server.toml",
       "path": "config/exposure-server.toml",
-      "hash": "62e69e9c7c117eea87bcd23582d9c7fa011b368c",
-      "size": 5137,
+      "hash": "5a57b00baf8f5ef9e3a5089a0d3590dd4bf59000",
+      "size": 5036,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/exposure-server.toml"
     },
     {
@@ -1860,8 +1860,8 @@
     {
       "name": "indigo-renderer.properties",
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "1b6d3e9b56a50a2afb432ca68a0afe2f044de275",
-      "size": 290,
+      "hash": "b2178a429932953a3ddb36dd7c44119f58aa0a01",
+      "size": 281,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/fabric/indigo-renderer.properties"
     },
     {
@@ -1986,15 +1986,15 @@
     {
       "name": "farmersdelight-client.toml",
       "path": "config/farmersdelight-client.toml",
-      "hash": "922ef1cdf87795d0134ca8c0c4b1a9eb290f0ec6",
-      "size": 365,
+      "hash": "b305bfd98921c359369acef3e14e93d80e51fcd9",
+      "size": 357,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/farmersdelight-client.toml"
     },
     {
       "name": "farmersdelight-common.toml",
       "path": "config/farmersdelight-common.toml",
-      "hash": "2035ae7d42bc022e3a75369c6f469ef9622eb387",
-      "size": 4512,
+      "hash": "fe58482ef395e6e788504e85699ef24614e9efd9",
+      "size": 4409,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/farmersdelight-common.toml"
     },
     {
@@ -2007,8 +2007,8 @@
     {
       "name": "ferritecore.mixin.properties",
       "path": "config/ferritecore.mixin.properties",
-      "hash": "69e297dba67843f367101f4efc5d27bbcda27c1e",
-      "size": 1525,
+      "hash": "e6eac06b86e77a90218f36997cbe0a33fb1e4a82",
+      "size": 1503,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/ferritecore.mixin.properties"
     },
     {
@@ -2028,8 +2028,8 @@
     {
       "name": "fishingreal-common.toml",
       "path": "config/fishingreal-common.toml",
-      "hash": "43b4af4cd8b3320aa537f81f0a909f357d6d6274",
-      "size": 332,
+      "hash": "d0bfc9d2d7a60035da20253d15476da6907d3e39",
+      "size": 326,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/fishingreal-common.toml"
     },
     {
@@ -2049,8 +2049,8 @@
     {
       "name": "forgeconfigapiport.toml",
       "path": "config/forgeconfigapiport.toml",
-      "hash": "37d9782f7c1a42a52bee3b6702eede79663518db",
-      "size": 1580,
+      "hash": "8addf46311b1d6ae7afc15d452d8d55be2e0048a",
+      "size": 1567,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/forgeconfigapiport.toml"
     },
     {
@@ -2119,8 +2119,8 @@
     {
       "name": "illagerinvasion-server.toml",
       "path": "config/illagerinvasion-server.toml",
-      "hash": "e93d9342d58b5b9d4fcb2bf797a00ed957e78c91",
-      "size": 1387,
+      "hash": "42148e59ef1f231bd022f221cc42a8ebd4bb1e62",
+      "size": 1348,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/illagerinvasion-server.toml"
     },
     {
@@ -2154,8 +2154,8 @@
     {
       "name": "indium-renderer.properties",
       "path": "config/indium-renderer.properties",
-      "hash": "352776230ae2589e61726076f6a2eec9599f3488",
-      "size": 115,
+      "hash": "03c3a2db9eb9022e7126395a4e7c772942bc8ba2",
+      "size": 111,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/indium-renderer.properties"
     },
     {
@@ -2238,8 +2238,8 @@
     {
       "name": "iris.properties",
       "path": "config/iris.properties",
-      "hash": "4624606d575b2b3752885bd6df4ef1f9b5767f9b",
-      "size": 296,
+      "hash": "b41584f66b443291ffef5a7ec5881c042570c435",
+      "size": 288,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/iris.properties"
     },
     {
@@ -2266,8 +2266,8 @@
     {
       "name": "ingredient-list-mod-sort-order.ini",
       "path": "config/jei/ingredient-list-mod-sort-order.ini",
-      "hash": "9ec059e75317d447ccc830f0ce278b7a36887fef",
-      "size": 1555,
+      "hash": "7d9d99a2b557827171ed8c189f9130f64b39e3e3",
+      "size": 1468,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/jei/ingredient-list-mod-sort-order.ini"
     },
     {
@@ -2280,29 +2280,29 @@
     {
       "name": "jei-client.ini",
       "path": "config/jei/jei-client.ini",
-      "hash": "0f021f42f3b972d0e6a3af28cda01e290611329e",
-      "size": 8658,
+      "hash": "6a4f27ff333350facf5fa2ed7b05a107cbdc158d",
+      "size": 8398,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/jei/jei-client.ini"
     },
     {
       "name": "jei-colors.ini",
       "path": "config/jei/jei-colors.ini",
-      "hash": "a9467c371d970f3bb88284e5878460e052589fc1",
-      "size": 1338,
+      "hash": "32a73fb9c7f3908af5244f8bf5800c526b6467d4",
+      "size": 1330,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/jei/jei-colors.ini"
     },
     {
       "name": "jei-debug.ini",
       "path": "config/jei/jei-debug.ini",
-      "hash": "f9bc860103810eed50e7e116dd960c2cb961f55e",
-      "size": 918,
+      "hash": "fe437b5c282bdc6d0ea3f9f8d61299d4b470d426",
+      "size": 886,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/jei/jei-debug.ini"
     },
     {
       "name": "jei-mod-id-format.ini",
       "path": "config/jei/jei-mod-id-format.ini",
-      "hash": "463229eb371eb1ddedf018aca6199c85267b41f2",
-      "size": 463,
+      "hash": "6acf79c1e4cc52fa3daaf1c1b73de2da8b4a715c",
+      "size": 452,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/jei/jei-mod-id-format.ini"
     },
     {
@@ -2455,8 +2455,8 @@
     {
       "name": "libraryferret_1.properties",
       "path": "config/libraryferret_1.properties",
-      "hash": "418d589763ca69117f179732f09c820fec208dbe",
-      "size": 193,
+      "hash": "871920d754f900a90cf2b6be559e2e0f262b62d8",
+      "size": 190,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/libraryferret_1.properties"
     },
     {
@@ -2749,15 +2749,15 @@
     {
       "name": "nyfsspiders-common.toml",
       "path": "config/nyfsspiders-common.toml",
-      "hash": "c062a164c0bf10613e577a8e5c5e6b03d624e915",
-      "size": 189,
+      "hash": "2ca21c3f24e52eed56215df9a57090ceb2de5fd0",
+      "size": 185,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/nyfsspiders-common.toml"
     },
     {
       "name": "packetfixer.properties",
       "path": "config/packetfixer.properties",
-      "hash": "f9f745c94a9b86c1ae435cc8a74e35f48973b123",
-      "size": 3419,
+      "hash": "ed1dc5e35f8dbab3ae2f3b615781cbf9fe2ed994",
+      "size": 3403,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/packetfixer.properties"
     },
     {
@@ -2854,15 +2854,15 @@
     {
       "name": "pickupnotifier-client.toml",
       "path": "config/pickupnotifier/pickupnotifier-client.toml",
-      "hash": "ca7cb226d7d130439eb36c79a11f9d1e9016b7f4",
-      "size": 3347,
+      "hash": "f10c7f57aac84ff80aadbd78bcb50eb989e4e771",
+      "size": 3283,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/pickupnotifier/pickupnotifier-client.toml"
     },
     {
       "name": "pickupnotifier-server.toml",
       "path": "config/pickupnotifier/pickupnotifier-server.toml",
-      "hash": "34025cec554653eba73c4cd649f1ad223766205e",
-      "size": 211,
+      "hash": "0a68564c4256d76a17b66404c64773fa89dcfe90",
+      "size": 208,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/pickupnotifier/pickupnotifier-server.toml"
     },
     {
@@ -2896,8 +2896,8 @@
     {
       "name": "ponder-client.toml",
       "path": "config/ponder-client.toml",
-      "hash": "77ec8ffa9143c05dd95b800dc9077c660b1d7905",
-      "size": 617,
+      "hash": "4ece0a2c5d004af5e9656848e104b85a09cc46bb",
+      "size": 598,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/ponder-client.toml"
     },
     {
@@ -2994,8 +2994,8 @@
     {
       "name": "ritchiesprojectilelib-server.toml",
       "path": "config/ritchiesprojectilelib-server.toml",
-      "hash": "aa302fab717423f6481b8bcacf47266012bcde95",
-      "size": 643,
+      "hash": "301d862a5a6382e7d8c09c440ecd252e89787edd",
+      "size": 627,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/ritchiesprojectilelib-server.toml"
     },
     {
@@ -3211,29 +3211,29 @@
     {
       "name": "occlusion.properties",
       "path": "config/sound_physics_remastered/occlusion.properties",
-      "hash": "5eac9cfb94e24fa3256faab120c97e3d1615cce5",
-      "size": 4879,
+      "hash": "050f649f76421f1fa161cd61ea4ebe7f34b1d174",
+      "size": 4660,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/sound_physics_remastered/occlusion.properties"
     },
     {
       "name": "reflectivity.properties",
       "path": "config/sound_physics_remastered/reflectivity.properties",
-      "hash": "95feb43eb67757038518212b08739cb39bb9763e",
-      "size": 4713,
+      "hash": "f535269c4173ed9c499611b9f595befc02d512cf",
+      "size": 4500,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/sound_physics_remastered/reflectivity.properties"
     },
     {
       "name": "sound_rates.properties",
       "path": "config/sound_physics_remastered/sound_rates.properties",
-      "hash": "81aa56e911ed52cb9e52d40e802718ab60906473",
-      "size": 117946,
+      "hash": "cafcffd2074ed6f3e34e9cb112f14960999dc8fc",
+      "size": 114857,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/sound_physics_remastered/sound_rates.properties"
     },
     {
       "name": "soundphysics.properties",
       "path": "config/sound_physics_remastered/soundphysics.properties",
-      "hash": "d28f5f62aebcbe96ce0ad333b8cb8298776d20f8",
-      "size": 5104,
+      "hash": "f19e89b002596ede2b4b5a528ddb12180db6ac93",
+      "size": 5005,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/sound_physics_remastered/soundphysics.properties"
     },
     {
@@ -3351,8 +3351,8 @@
     {
       "name": "terrablender.toml",
       "path": "config/terrablender.toml",
-      "hash": "a5a39b3aba47450b5ed3900425f88d070c0ec4fa",
-      "size": 550,
+      "hash": "ae21d159fa018d387a56beeb5c4d74d9f3baa3ff",
+      "size": 533,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/terrablender.toml"
     },
     {
@@ -3393,15 +3393,15 @@
     {
       "name": "treechop-client.toml",
       "path": "config/treechop-client.toml",
-      "hash": "b8d0d6ad7b61ca3c48adfa0671391fa2a67f750a",
-      "size": 1617,
+      "hash": "cc619577d6e0ac6889e7c7110626158d3b42eb9d",
+      "size": 1585,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/treechop-client.toml"
     },
     {
       "name": "treechop-common.toml",
       "path": "config/treechop-common.toml",
-      "hash": "b6b7fb20a901e9f7e8e6ec46ba70bb1b95fdeba4",
-      "size": 7028,
+      "hash": "ddf98bf2c0920b79c4f8f16a027d3336331676d9",
+      "size": 6899,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/treechop-common.toml"
     },
     {
@@ -3442,36 +3442,36 @@
     {
       "name": "valkyrienskies-client.toml",
       "path": "config/valkyrienskies/valkyrienskies-client.toml",
-      "hash": "aa0a5731beadadf91d6d97390d50084b67f658b4",
-      "size": 1146,
+      "hash": "05cada825e22f2909e7b30ebb47e4e858041a2f3",
+      "size": 1119,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/valkyrienskies/valkyrienskies-client.toml"
     },
     {
       "name": "valkyrienskies-common.toml",
       "path": "config/valkyrienskies/valkyrienskies-common.toml",
-      "hash": "e20c6e9442d09e8b20e20167060e0560caec7f7a",
-      "size": 190,
+      "hash": "3315e54a957c452546ae10b4e61529ac8c367cc1",
+      "size": 187,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/valkyrienskies/valkyrienskies-common.toml"
     },
     {
       "name": "valkyrienskies-server.toml",
       "path": "config/valkyrienskies/valkyrienskies-server.toml",
-      "hash": "9c430016bda742069a28538754870a8eeda25680",
-      "size": 5229,
+      "hash": "fcaf83f47404fa7b5bfaf1c59f6a716f0abb8a71",
+      "size": 5134,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/valkyrienskies/valkyrienskies-server.toml"
     },
     {
       "name": "vs-core-server.toml",
       "path": "config/valkyrienskies/vs-core-server.toml",
-      "hash": "8ca7a7b1ef3f98e25ebae29c834c78b2096310ec",
-      "size": 4001,
+      "hash": "5558da445d5a9c7cf6487555e40e797ad10e75fb",
+      "size": 3929,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/valkyrienskies/vs-core-server.toml"
     },
     {
       "name": "vs_eureka.toml",
       "path": "config/valkyrienskies/vs_eureka.toml",
-      "hash": "af104ccc06576145b4e4966b97f77258f7e162c1",
-      "size": 4501,
+      "hash": "c555b47070fbbdb81071bcd144aa9dc8ce53acb2",
+      "size": 4405,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/valkyrienskies/vs_eureka.toml"
     },
     {
@@ -3498,43 +3498,43 @@
     {
       "name": "visualworkbench-client.toml",
       "path": "config/visualworkbench-client.toml",
-      "hash": "60f7d3a3530d1fde1c9f2e4ab91a7e3c8f344c92",
-      "size": 313,
+      "hash": "e1b1aca8b6e864f4d2cb8177e9d11d518f7b9733",
+      "size": 307,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/visualworkbench-client.toml"
     },
     {
       "name": "category-volumes.properties",
       "path": "config/voicechat/category-volumes.properties",
-      "hash": "c9f8fd05a81e609071657f5c4c27d5cd377c5b12",
-      "size": 46,
+      "hash": "8416bbe0743249676e7ebadf8905f06bc3f7d6ac",
+      "size": 44,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/voicechat/category-volumes.properties"
     },
     {
       "name": "player-volumes.properties",
       "path": "config/voicechat/player-volumes.properties",
-      "hash": "c77eeb6fb16c2844e9bbcf19667d30c9401212d5",
-      "size": 44,
+      "hash": "7dfbbc24e0f07706c5f2f837c6acb2510e5140ae",
+      "size": 42,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/voicechat/player-volumes.properties"
     },
     {
       "name": "translations.properties",
       "path": "config/voicechat/translations.properties",
-      "hash": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
-      "size": 1182,
+      "hash": "51ed6d74ce390b2219a85fb3cfdad19c85039d79",
+      "size": 1168,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/voicechat/translations.properties"
     },
     {
       "name": "voicechat-client.properties",
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "c5e86e8c30a9af699dcf1161ac976e2e75026890",
-      "size": 4942,
+      "hash": "82abb01beb04d65e73f0d8fba5299416b3fd1da8",
+      "size": 4838,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/voicechat/voicechat-client.properties"
     },
     {
       "name": "voicechat-server.properties",
       "path": "config/voicechat/voicechat-server.properties",
-      "hash": "18c3502db415f6ccbac2a3f403a543a6105a392e",
-      "size": 2442,
+      "hash": "ecf56146f1a9914c3dd16dd8fe3b51d06bf23a08",
+      "size": 2391,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/voicechat/voicechat-server.properties"
     },
     {
@@ -3617,22 +3617,22 @@
     {
       "name": "wardenhorn-server.toml",
       "path": "config/wardenhorn-server.toml",
-      "hash": "9b263f932a6eb93abab9f9635a2fa6ebcb472659",
-      "size": 600,
+      "hash": "a2ba17282fd3b703f678f274555279c74e2b4a3e",
+      "size": 585,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/wardenhorn-server.toml"
     },
     {
       "name": "watut-client.toml",
       "path": "config/watut-client.toml",
-      "hash": "34ca44bd7f869e4e550003a18322d14e67829c4e",
-      "size": 2237,
+      "hash": "3351d6e40c07503e878c89e7d98edbda906771b5",
+      "size": 2190,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/watut-client.toml"
     },
     {
       "name": "watut-common.toml",
       "path": "config/watut-common.toml",
-      "hash": "50518c07384efed3c20f87e8a1fb6988daf1d840",
-      "size": 140,
+      "hash": "538c1ee364d9a374272d7cb7b2c695570b801fdd",
+      "size": 133,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/watut-common.toml"
     },
     {
@@ -4485,8 +4485,8 @@
     {
       "name": "worldedit.properties",
       "path": "config/worldedit/worldedit.properties",
-      "hash": "18e20b457bef23c893f413edc80804ed779dcc95",
-      "size": 2541,
+      "hash": "0a3a21ad5d97ce4cfd686277cb350d521e20eb44",
+      "size": 2495,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/config/worldedit/worldedit.properties"
     },
     {
@@ -4639,50 +4639,50 @@
     {
       "name": "journeymap.core.config",
       "path": "journeymap/config/5.10/journeymap.core.config",
-      "hash": "241886a4a8334e2b6bb23c18e39bca65dfebeea1",
-      "size": 1864,
+      "hash": "f0624ebff4b69e806de81d4f037ade870401207c",
+      "size": 1861,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/journeymap/config/5.10/journeymap.core.config"
     },
     {
       "name": "journeymap.fullmap.config",
       "path": "journeymap/config/5.10/journeymap.fullmap.config",
-      "hash": "38c08b2cb8631b6b4b8ab4c7d9c6ecbb0d63d169",
-      "size": 872,
+      "hash": "e6e574c3f4ad92532501c608d94b7497969087ea",
+      "size": 869,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/journeymap/config/5.10/journeymap.fullmap.config"
     },
     {
       "name": "journeymap.minimap.config",
       "path": "journeymap/config/5.10/journeymap.minimap.config",
-      "hash": "376fd4e4f92b504dbff47506ec72a249d09689aa",
-      "size": 1661,
+      "hash": "4b53b7b588e903c6c9f51ed717dda53927d0f97f",
+      "size": 1658,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/journeymap/config/5.10/journeymap.minimap.config"
     },
     {
       "name": "journeymap.minimap2.config",
       "path": "journeymap/config/5.10/journeymap.minimap2.config",
-      "hash": "43b2fa1f3b34187215461ee36fa1f30b0f44c02b",
-      "size": 1664,
+      "hash": "d9006b75adf38ed14bcf48af6c8043f30eccb9b4",
+      "size": 1661,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/journeymap/config/5.10/journeymap.minimap2.config"
     },
     {
       "name": "journeymap.topo.config",
       "path": "journeymap/config/5.10/journeymap.topo.config",
-      "hash": "2f1132a2a0e472a687ab697c8b837131db957fa9",
-      "size": 964,
+      "hash": "ba093b8b7a8ad107ce74dfdf2c2c229b2babd7a6",
+      "size": 962,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/journeymap/config/5.10/journeymap.topo.config"
     },
     {
       "name": "journeymap.waypoint.config",
       "path": "journeymap/config/5.10/journeymap.waypoint.config",
-      "hash": "8f47eeac88d26584c05067f3b2c4b0e9583c8468",
-      "size": 897,
+      "hash": "3b904d48bd426b6ffcdbff94657730f14faed1d4",
+      "size": 894,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/journeymap/config/5.10/journeymap.waypoint.config"
     },
     {
       "name": "journeymap.webmap.config",
       "path": "journeymap/config/5.10/journeymap.webmap.config",
-      "hash": "dfa3dd45f2e22f45148ed0021de0f490a612f135",
-      "size": 155,
+      "hash": "1f6df0006996a83276bd5b24c9992d949ca3aac9",
+      "size": 152,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/journeymap/config/5.10/journeymap.webmap.config"
     },
     {
@@ -5262,8 +5262,8 @@
     {
       "name": "journeymap.log",
       "path": "journeymap/journeymap.log",
-      "hash": "f241e31f249483d5675bd3b61ff68fb7e3657a9d",
-      "size": 39473,
+      "hash": "7a9081475f985c25a120c31a80fba5413a44648a",
+      "size": 39424,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/journeymap/journeymap.log"
     },
     {
@@ -7901,15 +7901,15 @@
     {
       "name": "news.json",
       "path": "news.json",
-      "hash": "8a516511d6f3494a130ab2cb67ad030e42ba75b1",
-      "size": 943,
+      "hash": "b5a40fffaef51d77c37090d7a35d9c2dfc2f53aa",
+      "size": 925,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/news.json"
     },
     {
       "name": "options.txt",
       "path": "options.txt",
-      "hash": "0746eaace89674e37e7b2a0a949a17a99651134e",
-      "size": 16115,
+      "hash": "a5cee3b1b9be56f5f14165d7415191c758d50203",
+      "size": 15785,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/options.txt"
     },
     {
@@ -9070,8 +9070,8 @@
     {
       "name": "pack.mcmeta",
       "path": "resourcepacks/ARKAN_s FA Player Compat Pack 1.0/pack.mcmeta",
-      "hash": "2d37a77eeb5d1110f2857c44a3a42d86da0055de",
-      "size": 186,
+      "hash": "45a9907352dde24e4f0b955cc90f29f40f20fb07",
+      "size": 185,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN_s%20FA%20Player%20Compat%20Pack%201.0/pack.mcmeta"
     },
     {
@@ -9112,8 +9112,8 @@
     {
       "name": "pack.mcmeta",
       "path": "resourcepacks/ARKAN_s FA Player Compat Pack 1.1/pack.mcmeta",
-      "hash": "01d00a45ae9754aa42adb5dde6075f94a276d58a",
-      "size": 186,
+      "hash": "6003f3c117f3dde30fae9d2a0d2b632dfd150b77",
+      "size": 185,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/resourcepacks/ARKAN_s%20FA%20Player%20Compat%20Pack%201.1/pack.mcmeta"
     },
     {
@@ -45344,8 +45344,8 @@
     {
       "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt",
       "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt",
-      "hash": "b27360af2a80202c44fa806fd8a024ad065c6314",
-      "size": 364,
+      "hash": "63714323cab37a79ba28ee95c71fbf2b32d261f5",
+      "size": 348,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt"
     },
     {
@@ -45400,8 +45400,8 @@
     {
       "name": "photon-voxy-support.zip.txt",
       "path": "shaderpacks/photon-voxy-support.zip.txt",
-      "hash": "0e6aa424667978ea19543c1a5d0866858e5537d3",
-      "size": 59,
+      "hash": "2b6a5283c22ba94ff762bbedeec24c842385dc93",
+      "size": 57,
       "url": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-Updates/main/shaderpacks/photon-voxy-support.zip.txt"
     }
   ]
