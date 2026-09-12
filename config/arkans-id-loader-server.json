@@ -5,7 +5,7 @@
   "cacheExpirySeconds": 300,
   "requestTimeoutMs": 5000,
   "permissionLevel": 2,
-  "profileUrlTemplate": "https://arkan-beige.vercel.app/api/users/profile/{nickname}",
+  "profileUrlTemplate": "https://arkandragons.vercel.app/api/users/profile/{nickname}",
   "assetBaseUrl": "",
-  "userAgent": "ArkansIdLoader/2.13"
+  "userAgent": "ArkansIdLoader/2.14"
 }
