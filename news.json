@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Arkan GPMP: Nova Era",
     "description": "Seja bem-vindo ao novo Arkan Launcher. Uma interface totalmente reformulada para oferecer a melhor experiência medieval imersiva. Explore agora a nova Sidebar e o console em tempo real.",
-    "image": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-updates/main/config/fancymenu/assets/background.png",
+    "image": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/fancymenu/assets/background.png",
     "date": "07 Abr 2026",
     "link": "https://discord.gg/seuservidor"
   },
@@ -11,8 +11,8 @@
     "id": 2,
     "title": "Otimização de Performance",
     "description": "Nesta atualização, reduzimos o uso de memória RAM em 80% durante a verificação de arquivos. O jogo agora inicia muito mais rápido e sem travamentos no launcher.",
-    "image": "https://raw.githubusercontent.com/LucasPaixaoCL/Arkan-updates/main/config/fancymenu/assets/logo.png",
+    "image": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/fancymenu/assets/logo.png",
     "date": "07 Abr 2026",
-    "link": "https://github.com/LucasPaixaoCL/Arkan-Launcher"
+    "link": "https://github.com/arkandragons/Arkan-Launcher"
   }
 ]
