@@ -1,6 +1,6 @@
 {
-  "version": "1789113137721",
-  "generatedAt": "2026-09-11T07:52:17.721Z",
+  "version": "1789531676000",
+  "generatedAt": "2026-09-16T01:27:56.000Z",
   "files": [
     {
       "name": "SkinMC-Cape-106766.png",
@@ -6086,11 +6086,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-flight-combat-overhaul-8.16.jar"
     },
     {
-      "name": "arkans-id-loader-2.14.jar",
-      "path": "mods/arkans-id-loader-2.14.jar",
-      "hash": "8df91caa0d3b7134fdbf90a3d8d4a323cd5341e6",
-      "size": 141227,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-id-loader-2.14.jar"
+      "name": "arkans-id-loader-2.16.jar",
+      "path": "mods/arkans-id-loader-2.16.jar",
+      "hash": "0d9b5754a46ba16fa47382793c24c53712c50af4",
+      "size": 168104,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-id-loader-2.16.jar"
     },
     {
       "name": "arkans-no-tree-punching-1.2.jar",
