@@ -1,6 +1,6 @@
 {
-  "version": "1789531676000",
-  "generatedAt": "2026-09-16T01:27:56.000Z",
+  "version": "1789926905465",
+  "generatedAt": "2026-09-20T17:55:05.465Z",
   "files": [
     {
       "name": "SkinMC-Cape-106766.png",
@@ -45403,6 +45403,13 @@
       "hash": "2b6a5283c22ba94ff762bbedeec24c842385dc93",
       "size": 57,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/shaderpacks/photon-voxy-support.zip.txt"
+    },
+    {
+      "name": "Zoomify-2.13.4+1.20.1.jar",
+      "path": "mods/Zoomify-2.13.4+1.20.1.jar",
+      "hash": "b4f5191b342f4c4535671c51ae292106f63ae373",
+      "size": 1064869,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Zoomify-2.13.4%2B1.20.1.jar"
     }
   ]
 }
