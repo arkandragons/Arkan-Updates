@@ -761,8 +761,8 @@
     {
       "name": "arkans-id-loader-server.json",
       "path": "config/arkans-id-loader-server.json",
-      "hash": "c22c44a17c1f8a92d27358b4e43237701195a7e7",
-      "size": 302,
+      "hash": "8c9ab1aba373b445c12202905b6f9933ce3cb309",
+      "size": 304,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/arkans-id-loader-server.json"
     },
     {
@@ -7901,8 +7901,8 @@
     {
       "name": "news.json",
       "path": "news.json",
-      "hash": "b5a40fffaef51d77c37090d7a35d9c2dfc2f53aa",
-      "size": 925,
+      "hash": "50969e2fef6628b2e710e0d170da45c7abdff3dc",
+      "size": 922,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/news.json"
     },
     {
