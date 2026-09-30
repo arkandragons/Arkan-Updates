@@ -1,0 +1,58 @@
+{
+  "max_health": 300.0,
+  "armor": 4.0,
+  "flying_speed": 0.2,
+  "abilities": {
+    "magma_pillar": {
+      "damage": 18.0
+    },
+    "bulldoze": {
+      "damage": 10.0
+    },
+    "stomp": {
+      "damage": 18.0
+    },
+    "fire_breath": {
+      "damage": 80.0
+    },
+    "leap_slam": {
+      "damage": 50.0
+    },
+    "body_slam": {
+      "damage": 40.0
+    },
+    "fireball": {
+      "damage": 70.0
+    },
+    "ultimate": {
+      "damage": 200.0
+    },
+    "bite": {
+      "damage": 50.0
+    },
+    "wing_swipe": {
+      "damage": 15.0
+    }
+  },
+  "extra": {
+    "fire_breath_drain_per_tick": 0.004166666666666667,
+    "egg_loot_ancient_city": 0.1,
+    "fire_breath_regen_per_tick": 0.0025,
+    "scale_drop_chance_brush": 0.35,
+    "ultimate_penalty_health": 50.0,
+    "taming_chance_beef": 20.0,
+    "egg_loot_bastion_treasure": 0.15,
+    "egg_loot_nether_bridge": 0.15,
+    "taming_chance_hearty": 4.0,
+    "egg_hatch_time_ticks_normal": 36000.0,
+    "wild_flying_speed_multiplier": 1.0,
+    "taming_stun_health": 100.0,
+    "taming_chance_base": 7.0,
+    "egg_drop_chance": 0.12,
+    "aggressive_wild": true,
+    "legacy_taming": true,
+    "ultimate_trigger_health_fraction": 0.5,
+    "taming_chance_mutton": 14.2857,
+    "taming_chance_porkchop": 14.2857
+  }
+}

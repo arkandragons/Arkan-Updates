@@ -1,4 +1,7 @@
 {
   "armorOpacity": 1.0,
-  "selectedCapeFile": ""
+  "selectedCapeFile": "",
+  "showArkanFullNames": true,
+  "showArkanTreatments": true,
+  "arkanHudEnabled": true
 }

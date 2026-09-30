@@ -7,5 +7,6 @@
   "shield_fix_enabled": true,
   "physics_cape_compat_enabled": true,
   "fco_boomerang_compat_enabled": true,
+  "emotecraft_compat_enabled": true,
   "animation_blacklist": []
 }

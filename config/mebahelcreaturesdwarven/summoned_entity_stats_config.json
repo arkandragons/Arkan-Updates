@@ -1,0 +1,10 @@
+{
+  "summonLifetimeTicks": 1200,
+  "summonedSphereHealth": 45.0,
+  "summonedSphereArmor": 5.0,
+  "summonedSphereMeleeDamage": 8.0,
+  "summonedSphereBonusArrowDamage": 2.0,
+  "summonedSpiderHealth": 35.0,
+  "summonedSpiderArmor": 4.0,
+  "summonedSpiderMeleeDamage": 6.0
+}

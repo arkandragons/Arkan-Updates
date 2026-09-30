@@ -62,12 +62,15 @@
     "com.arkan.arkansidloader.client.ArkansIdLoaderConfigScreen": true,
     "com.b1n_ry.yigd.client.gui.screens.GraveOverviewScreen": true,
     "dev.tr7zw.trender.gui.client.AbstractConfigScreen$1": true,
-    "dev.isxander.controlify.gui.screen.SubmitUnknownControllerScreen": true
+    "dev.isxander.controlify.gui.screen.SubmitUnknownControllerScreen": true,
+    "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true,
+    "io.github.kosmx.emotes.arch.gui.screen.ingame.FullScreenListImpl": true
   },
   "hideBackground": {
     "fuzs.mindfuldarkness.client.gui.screens.PixelConfigScreen": true,
     "mezz.jei.gui.recipes.RecipesGui": true,
     "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
-    "com.b1n_ry.yigd.client.gui.screens.GraveOverviewScreen": true
+    "com.b1n_ry.yigd.client.gui.screens.GraveOverviewScreen": true,
+    "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true
   }
 }

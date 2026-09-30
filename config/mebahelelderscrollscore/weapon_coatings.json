@@ -1,0 +1,23 @@
+{
+  "secondsPerCharge": 2,
+  "minimumCharges": 8,
+  "maximumCharges": 128,
+  "instantDamageCharges": 8,
+  "chargeMultiplier": 1.3,
+  "normalEffectSeconds": 8,
+  "longEffectSeconds": 10,
+  "strongEffectSeconds": 6,
+  "coatingMenuPause": false,
+  "showCoatingConfirmationPopup": true,
+  "showWeaponSelectionConfirmationPopup": true,
+  "allowedPotions": [
+    "minecraft:poison",
+    "minecraft:long_poison",
+    "minecraft:strong_poison",
+    "minecraft:harming",
+    "minecraft:strong_harming",
+    "mebahelelderscrollscore:deathbell",
+    "mebahelelderscrollscore:long_deathbell",
+    "mebahelelderscrollscore:strong_deathbell"
+  ]
+}

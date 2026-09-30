@@ -1,0 +1,42 @@
+{
+  "max_health": 200.0,
+  "armor": 8.0,
+  "flying_speed": 0.0,
+  "abilities": {
+    "bite_phase2": {
+      "damage": 25.0
+    },
+    "bite_phase1": {
+      "damage": 15.0
+    },
+    "dash_claw": {
+      "damage": 15.0
+    },
+    "claw_attack": {
+      "damage": 8.0
+    },
+    "dash_tail_swipe": {
+      "damage": 10.0
+    },
+    "tail_attack": {
+      "damage": 7.0
+    },
+    "horn_gore_phase2": {
+      "damage": 15.8
+    },
+    "horn_gore_phase1": {
+      "damage": 8.0
+    }
+  },
+  "extra": {
+    "egg_drop_chance": 0.12,
+    "egg_hatch_time_ticks_normal": 24000.0,
+    "scale_drop_chance_brush": 0.3,
+    "taming_chance": 16.6667,
+    "swim_speed": 1.45,
+    "taming_chance_tropical": 25.0,
+    "aggressive_wild": true,
+    "legacy_taming": false,
+    "taming_chance_beef": 16.6667
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data_version": 5,
+  "spawn_configuration": [
+    {
+      "weight": 5,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_birds:rooster",
+      "biomes": "hybrid_birds:rooster_spawn_biomes",
+      "group": "hybrid_birds:terrestrial_bird"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_birds:turkey",
+      "biomes": "hybrid_birds:turkey_spawn_biomes",
+      "group": "hybrid_birds:terrestrial_bird"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_birds:peacock",
+      "biomes": "minecraft:is_jungle",
+      "group": "hybrid_birds:terrestrial_bird"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_birds:guinea_fowl",
+      "biomes": "minecraft:is_savanna",
+      "group": "hybrid_birds:terrestrial_bird"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 5,
+      "type": "hybrid_birds:puffin",
+      "biomes": "hybrid_birds:puffin_spawn_biomes",
+      "group": "hybrid_birds:aquatic_bird"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 5,
+      "type": "hybrid_birds:seagull",
+      "biomes": "hybrid_birds:seagull_spawn_biomes",
+      "group": "hybrid_birds:aquatic_bird"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 5,
+      "type": "hybrid_birds:albatross",
+      "biomes": "hybrid_birds:albatross_spawn_biomes",
+      "group": "hybrid_birds:aquatic_bird"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_birds:pelican",
+      "biomes": "hybrid_birds:pelican_spawn_biomes",
+      "group": "hybrid_birds:aquatic_bird"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_birds:duck",
+      "biomes": "hybrid_birds:duck_spawn_biomes",
+      "group": "hybrid_birds:aquatic_bird"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_birds:goose",
+      "biomes": "hybrid_birds:goose_spawn_biomes",
+      "group": "hybrid_birds:aquatic_bird"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_birds:swan",
+      "biomes": "hybrid_birds:swan_spawn_biomes",
+      "group": "hybrid_birds:aquatic_bird"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "max_health": 100.0,
+  "armor": 15.0,
+  "flying_speed": 0.0,
+  "abilities": {
+    "chin_slam": {
+      "damage": 8.0
+    },
+    "ground_eating": {
+      "damage": 10.0
+    },
+    "bite": {
+      "damage": 5.0
+    }
+  },
+  "extra": {
+    "taming_chance_base": 1.0,
+    "egg_drop_chance": 0.12,
+    "egg_hatch_time_ticks_normal": 30000.0,
+    "scale_drop_chance_brush": 0.3,
+    "taming_chance_hearty": 1.0,
+    "aggressive_wild": false
+  }
+}

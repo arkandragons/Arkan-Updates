@@ -1,0 +1,46 @@
+{
+  "enabled": true,
+  "checkIntervalTicks": 240,
+  "chancePercent": 10.0,
+  "requireCovered": true,
+  "structures": [
+    "mebahelcreaturesdraugr:draugr_bastion",
+    "mebahelcreaturesdraugr:draugr_crypt",
+    "mebahelcreaturesdwarven:blackreach",
+    "mebahelcreaturesdwarven:raldbthar"
+  ],
+  "minPitch": 0.9,
+  "maxPitch": 1.1,
+  "soundGroups": [
+    {
+      "weight": 2,
+      "sounds": [
+        "mebahelelderscrollscore:ambient_crumble_1",
+        "mebahelelderscrollscore:ambient_crumble_2",
+        "mebahelelderscrollscore:ambient_crumble_3",
+        "mebahelelderscrollscore:ambient_crumble_4"
+      ],
+      "volume": 0.75,
+      "minDistance": 3.0,
+      "maxDistance": 5.0,
+      "maxSideOffset": 3.0,
+      "maxVerticalOffset": 2.0
+    },
+    {
+      "weight": 1,
+      "sounds": [
+        "mebahelelderscrollscore:ambient_spooky_1",
+        "mebahelelderscrollscore:ambient_spooky_2",
+        "mebahelelderscrollscore:ambient_spooky_3",
+        "mebahelelderscrollscore:ambient_wind_1",
+        "mebahelelderscrollscore:ambient_wind_2",
+        "mebahelelderscrollscore:ambient_wind_3"
+      ],
+      "volume": 0.4,
+      "minDistance": 6.0,
+      "maxDistance": 9.0,
+      "maxSideOffset": 4.0,
+      "maxVerticalOffset": 3.0
+    }
+  ]
+}

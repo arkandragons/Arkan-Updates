@@ -36,6 +36,9 @@
             "controlify:sneak": {
               "button": "controlify:button/left_stick"
             },
+            "controlify:drop": {},
+            "controlify:pick_block": {},
+            "controlify:open_chat": {},
             "fabric-key-binding-api-v1:key.arkans_book_of_dragons_port.breath": {
               "button": "controlify:button/dpad_down"
             },
@@ -68,10 +71,7 @@
             },
             "fabric-key-binding-api-v1:key.leawind_third_person.toggle_side": {
               "button": "controlify:button/dpad_up"
-            },
-            "controlify:drop": {},
-            "controlify:pick_block": {},
-            "controlify:open_chat": {}
+            }
           }
         },
         "controlify:config/generic": {
@@ -95,6 +95,49 @@
             "controlify:master": 1.0,
             "controlify:world": 1.0
           }
+        }
+      }
+    },
+    "d97a54fa-2cb5-374f-bdda-1af8d6ff498e": {
+      "config": {
+        "controlify:input": {
+          "h_look_sensitivity": 1.0,
+          "v_look_sensitivity": 0.9,
+          "v_look_invert": false,
+          "virtual_mouse_sensitivity": 1.0,
+          "reduce_aiming_sensitivity": true,
+          "button_activation_threshold": 0.5,
+          "is_l_c_e": false,
+          "deadzones": {},
+          "deadzones_calibrated": false,
+          "delayed_calibration": false,
+          "mixed_input": false,
+          "keep_default_bindings": false,
+          "radial_actions": [
+            "controlify:toggle_hud_visibility",
+            "controlify:change_perspective",
+            "controlify:drop_stack",
+            "controlify:open_chat",
+            "controlify:swap_hands",
+            "controlify:pick_block",
+            "controlify:take_screenshot",
+            "controlify:show_player_list"
+          ],
+          "radial_button_focus_timeout_ticks": 20,
+          "mapping": null,
+          "bindings": {}
+        },
+        "controlify:config/generic": {
+          "nickname": null,
+          "auto_jump": false,
+          "toggle_sprint": true,
+          "toggle_sneak": true,
+          "disable_fly_drifting": false,
+          "show_ingame_guide": true,
+          "ingame_guide_bottom": false,
+          "show_screen_guides": true,
+          "show_on_screen_keyboard": true,
+          "dont_show_controller_submission": false
         }
       }
     },
@@ -201,49 +244,6 @@
             "controlify:master": 1.0,
             "controlify:world": 1.0
           }
-        }
-      }
-    },
-    "d97a54fa-2cb5-374f-bdda-1af8d6ff498e": {
-      "config": {
-        "controlify:input": {
-          "h_look_sensitivity": 1.0,
-          "v_look_sensitivity": 0.9,
-          "v_look_invert": false,
-          "virtual_mouse_sensitivity": 1.0,
-          "reduce_aiming_sensitivity": true,
-          "button_activation_threshold": 0.5,
-          "is_l_c_e": false,
-          "deadzones": {},
-          "deadzones_calibrated": false,
-          "delayed_calibration": false,
-          "mixed_input": false,
-          "keep_default_bindings": false,
-          "radial_actions": [
-            "controlify:toggle_hud_visibility",
-            "controlify:change_perspective",
-            "controlify:drop_stack",
-            "controlify:open_chat",
-            "controlify:swap_hands",
-            "controlify:pick_block",
-            "controlify:take_screenshot",
-            "controlify:show_player_list"
-          ],
-          "radial_button_focus_timeout_ticks": 20,
-          "mapping": null,
-          "bindings": {}
-        },
-        "controlify:config/generic": {
-          "nickname": null,
-          "auto_jump": false,
-          "toggle_sprint": true,
-          "toggle_sneak": true,
-          "disable_fly_drifting": false,
-          "show_ingame_guide": true,
-          "ingame_guide_bottom": false,
-          "show_screen_guides": true,
-          "show_on_screen_keyboard": true,
-          "dont_show_controller_submission": false
         }
       }
     }

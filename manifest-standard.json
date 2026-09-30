@@ -1,7 +1,27 @@
 {
-  "version": "1789926905465",
-  "generatedAt": "2026-09-20T17:55:05.465Z",
+  "schemaVersion": 2,
+  "pack": {
+    "schemaVersion": 1,
+    "packId": "arkan",
+    "displayName": "Arkan",
+    "edition": "standard",
+    "version": "1.0.0",
+    "minecraftVersion": "1.20.1",
+    "modLoader": "fabric",
+    "modLoaderVersion": "0.19.5",
+    "promotedFrom": "Arkan (Modded) n1",
+    "releasedAt": "2026-09-30T00:41:49.422-03:00"
+  },
+  "version": "1790741465531",
+  "generatedAt": "2026-09-30T04:11:05.531Z",
   "files": [
+    {
+      "name": ".arkan-pack.json",
+      "path": ".arkan-pack.json",
+      "hash": "ea8903c3690b57b5938d2051329f85831f935f6b",
+      "size": 296,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/.arkan-pack.json"
+    },
     {
       "name": "SkinMC-Cape-106766.png",
       "path": "ArkanCapes/SkinMC-Cape-106766.png",
@@ -26,8 +46,8 @@
     {
       "name": "DistantHorizons.toml",
       "path": "config/DistantHorizons.toml",
-      "hash": "bf775b725e3d34dd03b5adfb136a478aa4f88027",
-      "size": 36847,
+      "hash": "5bdcd31599e159da20a65c772bdbf903a46ff9e4",
+      "size": 40240,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/DistantHorizons.toml"
     },
     {
@@ -38,11 +58,25 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/RPG-HUD"
     },
     {
+      "name": "RPG-HUD.cfg",
+      "path": "config/RPG-HUD.cfg",
+      "hash": "008a8453691ec435781dac66df383d872a5e221c",
+      "size": 2783,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/RPG-HUD.cfg"
+    },
+    {
       "name": "SittingPlusConfig.json",
       "path": "config/SittingPlusConfig.json",
       "hash": "ad0fe208cbb0ebff292adcb31f96b7562f19b3c5",
       "size": 157,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/SittingPlusConfig.json"
+    },
+    {
+      "name": "underlay.json",
+      "path": "config/Underlay/underlay.json",
+      "hash": "99670bd3239448cb5a5cc0c07f61f81d7d1d8ab6",
+      "size": 168,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/Underlay/underlay.json"
     },
     {
       "name": "abridged.json",
@@ -752,18 +786,32 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/appleskin.json5"
     },
     {
+      "name": "arkan_optimizer.json",
+      "path": "config/arkan_optimizer.json",
+      "hash": "421bc86bc06bc07a108381b5a23f363672da03a3",
+      "size": 226,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/arkan_optimizer.json"
+    },
+    {
       "name": "arkans-id-loader-client.json",
       "path": "config/arkans-id-loader-client.json",
-      "hash": "041a90ab3720c446890a6bca18fa5958a73e4ce6",
-      "size": 51,
+      "hash": "b0daf819ed7f23ca3bcb1cbe5fd5587c59d6b0b6",
+      "size": 139,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/arkans-id-loader-client.json"
     },
     {
       "name": "arkans-id-loader-server.json",
       "path": "config/arkans-id-loader-server.json",
-      "hash": "8c9ab1aba373b445c12202905b6f9933ce3cb309",
-      "size": 304,
+      "hash": "1c18cbbfe2287d0d40a688ad594003bc0d635e94",
+      "size": 482,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/arkans-id-loader-server.json"
+    },
+    {
+      "name": "arkans-worldgen.json",
+      "path": "config/arkans-worldgen.json",
+      "hash": "aea60cc0c33b98d1dfb98670756938100628f939",
+      "size": 25741,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/arkans-worldgen.json"
     },
     {
       "name": "arkans_book_of_dragons_port.json",
@@ -803,8 +851,8 @@
     {
       "name": "arkans_flight_combat_overhaul.json",
       "path": "config/arkans_flight_combat_overhaul.json",
-      "hash": "03cb89a941a5b7de372206631aaa73d0fee9fc88",
-      "size": 13769,
+      "hash": "f1d681b354a10c9a412575fabe296aba5c37bcb7",
+      "size": 13757,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/arkans_flight_combat_overhaul.json"
     },
     {
@@ -838,8 +886,8 @@
     {
       "name": "arkans_player_animations.json",
       "path": "config/arkans_player_animations.json",
-      "hash": "0ed65b57df7a9cb0740fc2c6b2e13b7a2e821476",
-      "size": 312,
+      "hash": "92a0c5360bfeb7d2c9dcff3e444aa7afae2371b7",
+      "size": 349,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/arkans_player_animations.json"
     },
     {
@@ -859,8 +907,8 @@
     {
       "name": "armoroftheages.json",
       "path": "config/armoroftheages.json",
-      "hash": "de9e4edbafa3da4d874b206d309cd04e2e6aff5a",
-      "size": 2604,
+      "hash": "1d320cb0c0ddcd5b7bf0132a45084b5546bf4658",
+      "size": 2719,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/armoroftheages.json"
     },
     {
@@ -887,21 +935,21 @@
     {
       "name": "awesomedungeon_1.properties",
       "path": "config/awesomedungeon_1.properties",
-      "hash": "e502238616bcde585c611613bd85eec84034eba3",
+      "hash": "a553cd189dc475471f72260d103e5e6e2aaa4fdd",
       "size": 1355,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/awesomedungeon_1.properties"
     },
     {
       "name": "awesomedungeonend_1.properties",
       "path": "config/awesomedungeonend_1.properties",
-      "hash": "032619d623dc9d2a784fd6142b9c98568b79f721",
+      "hash": "7c9f81f473d8c5cb356b30943c9a3f4970b3312c",
       "size": 427,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/awesomedungeonend_1.properties"
     },
     {
       "name": "awesomedungeonnether_1.properties",
       "path": "config/awesomedungeonnether_1.properties",
-      "hash": "646c7298bf8171ab23622771e7e965c60402d3d0",
+      "hash": "f7a420be527c5f49077e954463757b71a03f4e8b",
       "size": 980,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/awesomedungeonnether_1.properties"
     },
@@ -1305,6 +1353,13 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/bloomingnature.json"
     },
     {
+      "name": "boids.json5",
+      "path": "config/boids.json5",
+      "hash": "2ca826f12ca8f701e4afcc42e834c2ba53aabe0e",
+      "size": 727,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/boids.json5"
+    },
+    {
       "name": "bosses_of_mass_destruction.json5",
       "path": "config/bosses_of_mass_destruction.json5",
       "hash": "e5607f4671e197dbb342ee1b6e51198b2cbce41d",
@@ -1328,8 +1383,8 @@
     {
       "name": "cameraoverhaul.toml",
       "path": "config/cameraoverhaul.toml",
-      "hash": "9708f501ade81345d41ca7ffdf9f2836ea02a194",
-      "size": 5280,
+      "hash": "c8686ecd4e2848d6180e3705970b9938780bbf23",
+      "size": 6875,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/cameraoverhaul.toml"
     },
     {
@@ -1356,8 +1411,8 @@
     {
       "name": "cavedust.json",
       "path": "config/cavedust.json",
-      "hash": "5bed8693f16b90b462c07d4cb48558acfbc087d2",
-      "size": 296,
+      "hash": "db62b1e33ccf7492d49123a3dac42099e13aef23",
+      "size": 40945,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/cavedust.json"
     },
     {
@@ -1375,13 +1430,6 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/chunky/config.json"
     },
     {
-      "name": "overworld.properties",
-      "path": "config/chunky/tasks/minecraft/overworld.properties",
-      "hash": "4acfdb3ee030b09486bc3b57b8adce59e0b72082",
-      "size": 168,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/chunky/tasks/minecraft/overworld.properties"
-    },
-    {
       "name": "clientsort-server.json",
       "path": "config/clientsort-server.json",
       "hash": "4a36c1968fef84b1b6fa88674b606e1cd070d063",
@@ -1391,8 +1439,8 @@
     {
       "name": "clientsort.json",
       "path": "config/clientsort.json",
-      "hash": "dc6b4ca13ba48004c79a6d3a5c90a894a7898e35",
-      "size": 5437,
+      "hash": "07cd1528dd4c1e82882e5429138d6877ec497857",
+      "size": 5558,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/clientsort.json"
     },
     {
@@ -1447,8 +1495,8 @@
     {
       "name": "connectiblechains.toml",
       "path": "config/connectiblechains.toml",
-      "hash": "b97137271e5ef398b2afcdf110d4c0eb011c7417",
-      "size": 115,
+      "hash": "dc5a6156fe01bbeb6c0fed41795b9cf09e0f0f9c",
+      "size": 142,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/connectiblechains.toml"
     },
     {
@@ -1461,8 +1509,8 @@
     {
       "name": "controlify.json",
       "path": "config/controlify.json",
-      "hash": "a2fbb79eee35c86018ca59617da2630d50c8a475",
-      "size": 9427,
+      "hash": "89887bd4c8912ab3385f4017ed48eddda52b234b",
+      "size": 9426,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/controlify.json"
     },
     {
@@ -1517,8 +1565,8 @@
     {
       "name": "createbigcannons-client.toml",
       "path": "config/createbigcannons-client.toml",
-      "hash": "a251c39b7bc87457ae42260576cd3b370ae39cb5",
-      "size": 3238,
+      "hash": "65ce1a475286634c965e918f9ca83d38e2eb1675",
+      "size": 3273,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/createbigcannons-client.toml"
     },
     {
@@ -1669,6 +1717,13 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/dynamiclights.json"
     },
     {
+      "name": "e4all.toml",
+      "path": "config/e4all/e4all.toml",
+      "hash": "c9c5827c9a63bff1dd487dc8c447d8c1b78069f6",
+      "size": 3406,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/e4all/e4all.toml"
+    },
+    {
       "name": "easyanvils-client.toml",
       "path": "config/easyanvils-client.toml",
       "hash": "be778e0d52a009f2caa788ecefe41a395c6958e4",
@@ -1699,15 +1754,15 @@
     {
       "name": "effectual.json",
       "path": "config/effectual.json",
-      "hash": "cfaf48ba5deb24e76877761209857c83c0badf47",
-      "size": 615,
+      "hash": "5f047ce9fca81c4015e4aac36f62ceb16e5e4e39",
+      "size": 638,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/effectual.json"
     },
     {
       "name": "emotecraft.json",
       "path": "config/emotecraft.json",
-      "hash": "212357de0d0bc3432e2ca5a1ac866e88e89b2e69",
-      "size": 647,
+      "hash": "7f980671c2d45d340f60f7b0f7c5e12bbff1ff53",
+      "size": 818,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/emotecraft.json"
     },
     {
@@ -1732,10 +1787,17 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/endermanoverhaul.jsonc"
     },
     {
+      "name": "enhanced-cats.json",
+      "path": "config/enhanced-cats.json",
+      "hash": "6ad9bb33e1f6c3285707a5e482a3f6ab4d9cbb78",
+      "size": 731,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/enhanced-cats.json"
+    },
+    {
       "name": "enhancedvisuals-client.json",
       "path": "config/enhancedvisuals-client.json",
-      "hash": "b2641036cb412f20886410c5963f7e3bdb0e6009",
-      "size": 8146,
+      "hash": "dcc2e9b5f84e3876864c1ae080968c5a1c55194b",
+      "size": 8281,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/enhancedvisuals-client.json"
     },
     {
@@ -1748,8 +1810,8 @@
     {
       "name": "entity_model_features.json",
       "path": "config/entity_model_features.json",
-      "hash": "7fefe690037952896b8f0d2cdf1f27f6ac53a58d",
-      "size": 1242,
+      "hash": "067ba1f9805b8421b20b708dbafddf3459c717e5",
+      "size": 1293,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/entity_model_features.json"
     },
     {
@@ -1762,15 +1824,15 @@
     {
       "name": "entity_texture_features.json",
       "path": "config/entity_texture_features.json",
-      "hash": "0c6f24de039524572d381135891103ff4f3c4930",
-      "size": 1421,
+      "hash": "5fc3d7567c74811f362b997baa24dc25c2163b6e",
+      "size": 1452,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/entity_texture_features.json"
     },
     {
       "name": "entityculling.json",
       "path": "config/entityculling.json",
-      "hash": "d61877c33f48dfceaf2991fe8987bd7c946e4345",
-      "size": 1897,
+      "hash": "866a03f94a24d1efb19aa56cc5dd1da52cda4f8d",
+      "size": 2248,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/entityculling.json"
     },
     {
@@ -1860,7 +1922,7 @@
     {
       "name": "indigo-renderer.properties",
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "b2178a429932953a3ddb36dd7c44119f58aa0a01",
+      "hash": "ab9222997e43e49ba1a9beef28d74246a43b9dc8",
       "size": 281,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/fabric/indigo-renderer.properties"
     },
@@ -1986,15 +2048,15 @@
     {
       "name": "farmersdelight-client.toml",
       "path": "config/farmersdelight-client.toml",
-      "hash": "b305bfd98921c359369acef3e14e93d80e51fcd9",
-      "size": 357,
+      "hash": "376d9f84ec76953b4cd907387f4fc55069350250",
+      "size": 470,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/farmersdelight-client.toml"
     },
     {
       "name": "farmersdelight-common.toml",
       "path": "config/farmersdelight-common.toml",
-      "hash": "fe58482ef395e6e788504e85699ef24614e9efd9",
-      "size": 4409,
+      "hash": "9cf03c3870e67b81acb4e92a125aae6757d95912",
+      "size": 3856,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/farmersdelight-common.toml"
     },
     {
@@ -2103,6 +2165,20 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/hybrid-birds.json"
     },
     {
+      "name": "hybrid_aquatic.json",
+      "path": "config/hybrid_aquatic.json",
+      "hash": "7c4edd834717f6ede9c2e3d52ac77f84b4721507",
+      "size": 79076,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/hybrid_aquatic.json"
+    },
+    {
+      "name": "hybrid_birds.json",
+      "path": "config/hybrid_birds.json",
+      "hash": "321cef01368378ca334c837334322d7b873927cd",
+      "size": 2451,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/hybrid_birds.json"
+    },
+    {
       "name": "iaf-client.json",
       "path": "config/iceandfire/iaf-client.json",
       "hash": "9e73308e7fa6fa3bfc32bfbb51016f4b876d817d",
@@ -2138,6 +2214,13 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/immersive-horse-riding.json"
     },
     {
+      "name": "immersive_horse_riding.json",
+      "path": "config/immersive_horse_riding.json",
+      "hash": "990a5293d2f5d5c5c8ea620b066e4ece33336017",
+      "size": 399,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/immersive_horse_riding.json"
+    },
+    {
       "name": "immersive_paintings.json",
       "path": "config/immersive_paintings.json",
       "hash": "3fda63d6a6fe8e4eafe9872c58fa8695283e3986",
@@ -2154,7 +2237,7 @@
     {
       "name": "indium-renderer.properties",
       "path": "config/indium-renderer.properties",
-      "hash": "03c3a2db9eb9022e7126395a4e7c772942bc8ba2",
+      "hash": "07a5f26c435d73a45415ea42c690bb45109686f3",
       "size": 111,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/indium-renderer.properties"
     },
@@ -2175,8 +2258,8 @@
     {
       "name": "inventory_particles.json5",
       "path": "config/inventory_particles.json5",
-      "hash": "cba6706515a79e91a67efdfa805a686b11c8111f",
-      "size": 1425,
+      "hash": "4fbd1775b87739cba02c10b7d3c3cd5cd006c3d9",
+      "size": 1675,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/inventory_particles.json5"
     },
     {
@@ -2217,8 +2300,8 @@
     {
       "name": "unrecognized.json",
       "path": "config/invmove/unrecognized.json",
-      "hash": "5f61fc8e47ed521809de825632dd85ec87d456d6",
-      "size": 4266,
+      "hash": "b4ac6a25067bec107b8f3df52ca1e4ee0204d5a6",
+      "size": 4495,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/invmove/unrecognized.json"
     },
     {
@@ -2238,7 +2321,7 @@
     {
       "name": "iris.properties",
       "path": "config/iris.properties",
-      "hash": "b41584f66b443291ffef5a7ec5881c042570c435",
+      "hash": "67912b5c4701a4498b5a280360904044e38289d1",
       "size": 288,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/iris.properties"
     },
@@ -2262,6 +2345,76 @@
       "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
       "size": 0,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/jei/blacklist.cfg"
+    },
+    {
+      "name": "blacklist.json",
+      "path": "config/jei/blacklist.json",
+      "hash": "7a9c83de081216d9061bffda2d30114104ef6ee3",
+      "size": 19,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/jei/blacklist.json"
+    },
+    {
+      "name": "jei-client.ini",
+      "path": "config/jei/client/default/jei-client.ini",
+      "hash": "3b24ecddcb5f1cd8288859098fa51236bd661e89",
+      "size": 14129,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/jei/client/default/jei-client.ini"
+    },
+    {
+      "name": "jei-colors.ini",
+      "path": "config/jei/client/default/jei-colors.ini",
+      "hash": "a0b5388f559355560719adc93408da864a72d3e8",
+      "size": 1639,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/jei/client/default/jei-colors.ini"
+    },
+    {
+      "name": "jei-debug.ini",
+      "path": "config/jei/client/default/jei-debug.ini",
+      "hash": "21114b8d222eb2a62d43404e1496664037119b8d",
+      "size": 1138,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/jei/client/default/jei-debug.ini"
+    },
+    {
+      "name": "jei-mod-id-format.ini",
+      "path": "config/jei/client/default/jei-mod-id-format.ini",
+      "hash": "a78ca513a5da04416aff948ed306253b15a2710a",
+      "size": 847,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/jei/client/default/jei-mod-id-format.ini"
+    },
+    {
+      "name": "ingredient-list-mod-sort-order.ini",
+      "path": "config/jei/client/ingredient-list-mod-sort-order.ini",
+      "hash": "d9282d36433ece540959685afe4c42d4aca87ee0",
+      "size": 1924,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/jei/client/ingredient-list-mod-sort-order.ini"
+    },
+    {
+      "name": "ingredient-list-type-sort-order.ini",
+      "path": "config/jei/client/ingredient-list-type-sort-order.ini",
+      "hash": "077a37b71c8ba3df1c7ae63ca1695a1be7781a56",
+      "size": 107,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/jei/client/ingredient-list-type-sort-order.ini"
+    },
+    {
+      "name": "jei-client.ini",
+      "path": "config/jei/client/jei-client.ini",
+      "hash": "3b24ecddcb5f1cd8288859098fa51236bd661e89",
+      "size": 14129,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/jei/client/jei-client.ini"
+    },
+    {
+      "name": "jei-debug.ini",
+      "path": "config/jei/client/jei-debug.ini",
+      "hash": "21114b8d222eb2a62d43404e1496664037119b8d",
+      "size": 1138,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/jei/client/jei-debug.ini"
+    },
+    {
+      "name": "recipe-category-sort-order.ini",
+      "path": "config/jei/client/recipe-category-sort-order.ini",
+      "hash": "1cb0e0c2e844d9d55518626d1a580016688de5c0",
+      "size": 1554,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/jei/client/recipe-category-sort-order.ini"
     },
     {
       "name": "ingredient-list-mod-sort-order.ini",
@@ -2313,11 +2466,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/jei/recipe-category-sort-order.ini"
     },
     {
-      "name": "bookmarks.ini",
-      "path": "config/jei/world/local/New_World/bookmarks.ini",
-      "hash": "7eabaf9e947a605639a309914eecc4bdf2b53d7a",
-      "size": 40,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/jei/world/local/New_World/bookmarks.ini"
+      "name": "jei-server.properties",
+      "path": "config/jei-server.properties",
+      "hash": "8476f4824f0f11f1ea875f5e010932193acfbe6a",
+      "size": 362,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/jei-server.properties"
     },
     {
       "name": "jmi-client.json",
@@ -2420,8 +2573,8 @@
     {
       "name": "leawind_third_person.json",
       "path": "config/leawind_third_person.json",
-      "hash": "9e85af32dfef11f304559fb27e93ccdc554b6f62",
-      "size": 1988,
+      "hash": "aff6eb87022e3e66548bf5b46daea87ac185b61a",
+      "size": 1985,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/leawind_third_person.json"
     },
     {
@@ -2455,7 +2608,7 @@
     {
       "name": "libraryferret_1.properties",
       "path": "config/libraryferret_1.properties",
-      "hash": "871920d754f900a90cf2b6be559e2e0f262b62d8",
+      "hash": "0409903e826475bc97a0411b7f9b0176ae053dbc",
       "size": 190,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/libraryferret_1.properties"
     },
@@ -2511,8 +2664,8 @@
     {
       "name": "README.txt",
       "path": "config/mebahelcreaturesdraugr/README.txt",
-      "hash": "2faf4248c080fb81e9621204f47b7dfa635db60d",
-      "size": 5472,
+      "hash": "8113f621936ebbaa292784c630059789709eb165",
+      "size": 5739,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mebahelcreaturesdraugr/README.txt"
     },
     {
@@ -2521,6 +2674,13 @@
       "hash": "825388b9928f52a91cad1049a6f3206cd2942ac1",
       "size": 338,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mebahelcreaturesdraugr/combat_balancing_config.json"
+    },
+    {
+      "name": "draugr_raid_config.json",
+      "path": "config/mebahelcreaturesdraugr/draugr_raid_config.json",
+      "hash": "7979dba25f359921b28cb3337c0fedbdd778cc32",
+      "size": 1554,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mebahelcreaturesdraugr/draugr_raid_config.json"
     },
     {
       "name": "entity_armor_config.json",
@@ -2558,11 +2718,88 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mebahelcreaturesdraugr/spawn_rate_config.json"
     },
     {
+      "name": "spell_caster_trap_config.json",
+      "path": "config/mebahelcreaturesdraugr/spell_caster_trap_config.json",
+      "hash": "c3a741f3cf830b78cf7fee7ab9097e914724d4b9",
+      "size": 692,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mebahelcreaturesdraugr/spell_caster_trap_config.json"
+    },
+    {
+      "name": "entity_armor_config.json",
+      "path": "config/mebahelcreaturesdwarven/entity_armor_config.json",
+      "hash": "b23dc591e6396d9ee4b50df2bb5853c0b640a097",
+      "size": 141,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mebahelcreaturesdwarven/entity_armor_config.json"
+    },
+    {
+      "name": "entity_damage_config.json",
+      "path": "config/mebahelcreaturesdwarven/entity_damage_config.json",
+      "hash": "e1548466944a1d93b16ce595fab9d167f4e1f65f",
+      "size": 397,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mebahelcreaturesdwarven/entity_damage_config.json"
+    },
+    {
+      "name": "entity_health_config.json",
+      "path": "config/mebahelcreaturesdwarven/entity_health_config.json",
+      "hash": "3e4667fa9f7479dc25c85175be34b88dfbcc422b",
+      "size": 150,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mebahelcreaturesdwarven/entity_health_config.json"
+    },
+    {
       "name": "multiplayer_chest_config.json",
       "path": "config/mebahelcreaturesdwarven/multiplayer_chest_config.json",
       "hash": "8d1b743d883ac0dc13caea7cacfbb3f84b6f1d05",
       "size": 42,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mebahelcreaturesdwarven/multiplayer_chest_config.json"
+    },
+    {
+      "name": "summoned_entity_stats_config.json",
+      "path": "config/mebahelcreaturesdwarven/summoned_entity_stats_config.json",
+      "hash": "998010efb5735f6c130c368fb1cdf8d817d92308",
+      "size": 270,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mebahelcreaturesdwarven/summoned_entity_stats_config.json"
+    },
+    {
+      "name": "alchemy.json",
+      "path": "config/mebahelelderscrollscore/alchemy.json",
+      "hash": "01164610311c11a58c5052adce9754f202aa4513",
+      "size": 8579,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mebahelelderscrollscore/alchemy.json"
+    },
+    {
+      "name": "lockpicking.json",
+      "path": "config/mebahelelderscrollscore/lockpicking.json",
+      "hash": "b5f18028a5129864d2ca73a7fa3197c2aaf29812",
+      "size": 3254,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mebahelelderscrollscore/lockpicking.json"
+    },
+    {
+      "name": "soul_trap.json",
+      "path": "config/mebahelelderscrollscore/soul_trap.json",
+      "hash": "9d921f5e040298005c3bae750293add95616fe2c",
+      "size": 407,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mebahelelderscrollscore/soul_trap.json"
+    },
+    {
+      "name": "standing_stones.json",
+      "path": "config/mebahelelderscrollscore/standing_stones.json",
+      "hash": "1f80a6f2eea4d83e965291e9bb14bbf6f114830b",
+      "size": 234,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mebahelelderscrollscore/standing_stones.json"
+    },
+    {
+      "name": "structure_ambience.json",
+      "path": "config/mebahelelderscrollscore/structure_ambience.json",
+      "hash": "b9e1e475e39bf03da0baca560c26305f5f150b32",
+      "size": 1254,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mebahelelderscrollscore/structure_ambience.json"
+    },
+    {
+      "name": "weapon_coatings.json",
+      "path": "config/mebahelelderscrollscore/weapon_coatings.json",
+      "hash": "d40f46c5d15b9ca05d6c354229f86320ddb17b98",
+      "size": 633,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mebahelelderscrollscore/weapon_coatings.json"
     },
     {
       "name": "medieval_nether.json",
@@ -2584,6 +2821,13 @@
       "hash": "08c6d66f55e462dcefacb0ace8f8b5dab277782c",
       "size": 2444,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/memorysettings.json"
+    },
+    {
+      "name": "settings.ini",
+      "path": "config/mezz_config/client/default/settings.ini",
+      "hash": "1f22cd48de02f98b8deda413d9f51a9b520e787c",
+      "size": 1414,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/mezz_config/client/default/settings.ini"
     },
     {
       "name": "midnightlib.json",
@@ -2626,6 +2870,13 @@
       "hash": "7e4d498194b4cfea3ac311623fe09a3fa2927860",
       "size": 814,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/modmenu.json"
+    },
+    {
+      "name": "moogs_structures.json",
+      "path": "config/moogs_structures.json",
+      "hash": "529c5973da2dc834013d91680d8b8264b71e2c57",
+      "size": 487,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/moogs_structures.json"
     },
     {
       "name": "moonlight-client.json",
@@ -2754,9 +3005,30 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/nyfsspiders-common.toml"
     },
     {
+      "name": "aquamirae-client.toml",
+      "path": "config/obscuria/aquamirae-client.toml",
+      "hash": "e23290723cbc3988d8f1a6ed9f2f62db541b3c75",
+      "size": 531,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/obscuria/aquamirae-client.toml"
+    },
+    {
+      "name": "aquamirae-common.toml",
+      "path": "config/obscuria/aquamirae-common.toml",
+      "hash": "8215f008e5549d39e607ff9bd5b626b7a2207700",
+      "size": 4093,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/obscuria/aquamirae-common.toml"
+    },
+    {
+      "name": "aquamirae-early.json",
+      "path": "config/obscuria/aquamirae-early.json",
+      "hash": "77f111958ee739709fb443d871aa74856c7041d7",
+      "size": 31,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/obscuria/aquamirae-early.json"
+    },
+    {
       "name": "packetfixer.properties",
       "path": "config/packetfixer.properties",
-      "hash": "ed1dc5e35f8dbab3ae2f3b615781cbf9fe2ed994",
+      "hash": "7df72398821a8a85fae072c5a0e6e53b0ee8114b",
       "size": 3403,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/packetfixer.properties"
     },
@@ -2777,8 +3049,8 @@
     {
       "name": "config.json",
       "path": "config/particlerain/config.json",
-      "hash": "8b6759ee031d303cbec0891f346b03cc3a01b965",
-      "size": 1163,
+      "hash": "9446a028f725952b57f12ecde1ebb52776738b25",
+      "size": 1154,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/particlerain/config.json"
     },
     {
@@ -2819,8 +3091,8 @@
     {
       "name": "physics_client_config.json",
       "path": "config/physicsmod/physics_client_config.json",
-      "hash": "b619be24e9e1813dd1b082e95e148b6321d3a1b6",
-      "size": 5062,
+      "hash": "c85c615b7fcd33f0dd6354e2efe76070bd337d91",
+      "size": 5180,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/physicsmod/physics_client_config.json"
     },
     {
@@ -2936,6 +3208,13 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/punchy/punchy_tuning.json"
     },
     {
+      "name": "triggerable-keybindings.json",
+      "path": "config/punchy/triggerable-keybindings.json",
+      "hash": "17405d52f7d75553e77bf5d5c9abb8c22c83b040",
+      "size": 101,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/punchy/triggerable-keybindings.json"
+    },
+    {
       "name": "puzzle.json",
       "path": "config/puzzle.json",
       "hash": "3c08905e4a3a9f34dac2fe9e690233baaf1073f8",
@@ -2950,13 +3229,6 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/replaymod.json"
     },
     {
-      "name": "resourceful-config-web.json",
-      "path": "config/resourceful-config-web.json",
-      "hash": "13e0217903b26eb257db0385f44051870d850399",
-      "size": 196,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/resourceful-config-web.json"
-    },
-    {
       "name": "resourcify.json",
       "path": "config/resourcify.json",
       "hash": "c9fb5ff03771a69d32badb5d695bf86b1ee81c88",
@@ -2966,8 +3238,8 @@
     {
       "name": "_respackopts.conf",
       "path": "config/respackopts/_respackopts.conf",
-      "hash": "f8cb9fe523bc5d961151e92743f3bc06cc1dea72",
-      "size": 89,
+      "hash": "8fb87cc154724edf95e202f963188ef40ffa4af3",
+      "size": 186,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/respackopts/_respackopts.conf"
     },
     {
@@ -3011,6 +3283,20 @@
       "hash": "8c49e1460cb48a77370d1ebba69d7c9c206886d2",
       "size": 3256,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/saintsdragons/camera_tuning.json"
+    },
+    {
+      "name": "clientcommon.toml",
+      "path": "config/saintsdragons/client/clientcommon.toml",
+      "hash": "e6b2ed16624ba30f57d4034917d504f182f7caef",
+      "size": 233,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/saintsdragons/client/clientcommon.toml"
+    },
+    {
+      "name": "camera_tuning.json",
+      "path": "config/saintsdragons/client/dragon_rider_camera/camera_tuning.json",
+      "hash": "82e1508e7740a9c9ae19ff362f84d5e52e734501",
+      "size": 1185,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/saintsdragons/client/dragon_rider_camera/camera_tuning.json"
     },
     {
       "name": "cindervane.json",
@@ -3062,6 +3348,90 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/saintsdragons/dragon_attributes/volitans.json"
     },
     {
+      "name": "atroxiia.json",
+      "path": "config/saintsdragons/server/dragon_attributes/atroxiia.json",
+      "hash": "ce537290e10503fecbf20f1c5d500f26daffad99",
+      "size": 926,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/saintsdragons/server/dragon_attributes/atroxiia.json"
+    },
+    {
+      "name": "cindervane.json",
+      "path": "config/saintsdragons/server/dragon_attributes/cindervane.json",
+      "hash": "d51e5d9cd5d26480dddcfcfdb174881174932880",
+      "size": 753,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/saintsdragons/server/dragon_attributes/cindervane.json"
+    },
+    {
+      "name": "draconian_swarm.json",
+      "path": "config/saintsdragons/server/dragon_attributes/draconian_swarm.json",
+      "hash": "1ee5a1518962eb6a01e7cea98d052c41985ee266",
+      "size": 714,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/saintsdragons/server/dragon_attributes/draconian_swarm.json"
+    },
+    {
+      "name": "ignivorus.json",
+      "path": "config/saintsdragons/server/dragon_attributes/ignivorus.json",
+      "hash": "b63c55c1c7ce034be84938ecbe7ef2b55da35dc7",
+      "size": 1268,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/saintsdragons/server/dragon_attributes/ignivorus.json"
+    },
+    {
+      "name": "nulljaw.json",
+      "path": "config/saintsdragons/server/dragon_attributes/nulljaw.json",
+      "hash": "f16ea3edb2edb45f7458fe6d8a1e418c3c090e04",
+      "size": 807,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/saintsdragons/server/dragon_attributes/nulljaw.json"
+    },
+    {
+      "name": "raevyx.json",
+      "path": "config/saintsdragons/server/dragon_attributes/raevyx.json",
+      "hash": "cb05329b2fbac161ff78c86cd2a60faeeacca32f",
+      "size": 1063,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/saintsdragons/server/dragon_attributes/raevyx.json"
+    },
+    {
+      "name": "stegonaut.json",
+      "path": "config/saintsdragons/server/dragon_attributes/stegonaut.json",
+      "hash": "9d2e8a3536597f365075aa10dcaa52ab9989a58f",
+      "size": 444,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/saintsdragons/server/dragon_attributes/stegonaut.json"
+    },
+    {
+      "name": "varasuchus.json",
+      "path": "config/saintsdragons/server/dragon_attributes/varasuchus.json",
+      "hash": "09378a12c8073b3f27215903766859ae8899348b",
+      "size": 794,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/saintsdragons/server/dragon_attributes/varasuchus.json"
+    },
+    {
+      "name": "volitans.json",
+      "path": "config/saintsdragons/server/dragon_attributes/volitans.json",
+      "hash": "5403ef4e9f39cd5d3c47dea7e354ac0c6292a27f",
+      "size": 1437,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/saintsdragons/server/dragon_attributes/volitans.json"
+    },
+    {
+      "name": "servercommon.toml",
+      "path": "config/saintsdragons/server/servercommon.toml",
+      "hash": "bb22cfdc8376d1869e645e277de5b2ef100b50db",
+      "size": 285,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/saintsdragons/server/servercommon.toml"
+    },
+    {
+      "name": "spawning.toml",
+      "path": "config/saintsdragons/server/spawning.toml",
+      "hash": "6a061f4f082580983b7c170853a26c37b084c250",
+      "size": 1026,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/saintsdragons/server/spawning.toml"
+    },
+    {
+      "name": "tools_and_armor.toml",
+      "path": "config/saintsdragons/server/tools_and_armor.toml",
+      "hash": "b2e63a939156773184ef2f78844463a21598bb82",
+      "size": 2467,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/saintsdragons/server/tools_and_armor.toml"
+    },
+    {
       "name": "saintsdragonsspawning.toml",
       "path": "config/saintsdragonsspawning.toml",
       "hash": "4b1da556f0b2edd2cfc4052b26be8a8e82a6bb23",
@@ -3092,9 +3462,72 @@
     {
       "name": "config.toml",
       "path": "config/simplybows/config.toml",
-      "hash": "4419c3d903364d949a488361325fba530f2bcb37",
-      "size": 6341,
+      "hash": "3c1a693a88cf4578d856fa1ef88d12043164aa44",
+      "size": 7818,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/simplybows/config.toml"
+    },
+    {
+      "name": "compatibility.toml",
+      "path": "config/simplyswords/compatibility.toml",
+      "hash": "5040fe9878b3effc19a554a449de633aed6dd0cf",
+      "size": 11974,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/simplyswords/compatibility.toml"
+    },
+    {
+      "name": "gem_powers.toml",
+      "path": "config/simplyswords/gem_powers.toml",
+      "hash": "568e9210b1e95509d9d8ff2639f6d64502a7a02a",
+      "size": 3651,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/simplyswords/gem_powers.toml"
+    },
+    {
+      "name": "general.toml",
+      "path": "config/simplyswords/general.toml",
+      "hash": "d2fefc65cc6bb3fde306b657918babb64b2cf538",
+      "size": 873,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/simplyswords/general.toml"
+    },
+    {
+      "name": "gui.toml",
+      "path": "config/simplyswords/gui.toml",
+      "hash": "69205c83e7995a6e5c7f0722da1b85d9e808430e",
+      "size": 106,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/simplyswords/gui.toml"
+    },
+    {
+      "name": "loot.toml",
+      "path": "config/simplyswords/loot.toml",
+      "hash": "06ae15d9c0b56021316983f0ef82f5c64a4e152b",
+      "size": 1314,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/simplyswords/loot.toml"
+    },
+    {
+      "name": "status_effects.toml",
+      "path": "config/simplyswords/status_effects.toml",
+      "hash": "acad40876fdc4838448733d488bd5fe6031984cc",
+      "size": 85,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/simplyswords/status_effects.toml"
+    },
+    {
+      "name": "unique_effects.toml",
+      "path": "config/simplyswords/unique_effects.toml",
+      "hash": "8103096cd41be491bb2e256c0510191c536b9f06",
+      "size": 16376,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/simplyswords/unique_effects.toml"
+    },
+    {
+      "name": "weapon_attributes.toml",
+      "path": "config/simplyswords/weapon_attributes.toml",
+      "hash": "3d94fbb2bac9951c2e067f38d5cdd81c42f7eab2",
+      "size": 4777,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/simplyswords/weapon_attributes.toml"
+    },
+    {
+      "name": "backupconfig.json",
+      "path": "config/simplyswords_extra/backupconfig.json",
+      "hash": "ffea216e6054b4f375275f639b620c00399610f8",
+      "size": 71,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/simplyswords_extra/backupconfig.json"
     },
     {
       "name": "loot_config.json5",
@@ -3167,10 +3600,17 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/skinlayers.json"
     },
     {
+      "name": "smooth_f5.json",
+      "path": "config/smooth_f5.json",
+      "hash": "e1604a94b4121c7f0982012fbb7570a213c70012",
+      "size": 161,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/smooth_f5.json"
+    },
+    {
       "name": "smoothswapping.json",
       "path": "config/smoothswapping.json",
-      "hash": "845ccd1f96cf635d7adbe528481364bdcbce3335",
-      "size": 72,
+      "hash": "955d5041657a94f3838e327e634f4f1c43855f57",
+      "size": 166,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/smoothswapping.json"
     },
     {
@@ -3190,7 +3630,7 @@
     {
       "name": "sodium-fingerprint.json",
       "path": "config/sodium-fingerprint.json",
-      "hash": "2dd41d1b4e1f6ab2f8185df453e94194924b49bf",
+      "hash": "6809d636ac5b9d49da30ba176c5cc2743a18a2b6",
       "size": 427,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/sodium-fingerprint.json"
     },
@@ -3225,8 +3665,8 @@
     {
       "name": "sound_rates.properties",
       "path": "config/sound_physics_remastered/sound_rates.properties",
-      "hash": "cafcffd2074ed6f3e34e9cb112f14960999dc8fc",
-      "size": 114857,
+      "hash": "8953420f90af4bb5e1e5c1264788b2cf1974aaf8",
+      "size": 124536,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/sound_physics_remastered/sound_rates.properties"
     },
     {
@@ -3316,15 +3756,22 @@
     {
       "name": "supplementaries-common.json",
       "path": "config/supplementaries-common.json",
-      "hash": "80100b827f64ffe6ee544ab19b15e2fc30dddb24",
-      "size": 10172,
+      "hash": "4bfcb1076d13cbc5bc82907336abe474e5d63120",
+      "size": 10210,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/supplementaries-common.json"
+    },
+    {
+      "name": "README.txt",
+      "path": "config/swinginglanterns/README.txt",
+      "hash": "5222e7d6fd568daf731d97aacc2ae418c154fd18",
+      "size": 3214,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/swinginglanterns/README.txt"
     },
     {
       "name": "lantern_overrides.json",
       "path": "config/swinginglanterns/lantern_overrides.json",
-      "hash": "0542b36d17aac9c1f2ef234e758976746c94ab63",
-      "size": 67,
+      "hash": "f723fce14763c3b5200c2e5b26c4d4edaa453ccc",
+      "size": 1563,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/swinginglanterns/lantern_overrides.json"
     },
     {
@@ -3337,8 +3784,8 @@
     {
       "name": "swinginglanterns.json",
       "path": "config/swinginglanterns/swinginglanterns.json",
-      "hash": "351539d900f8ddd2020667b7742f91b6f9b12812",
-      "size": 621,
+      "hash": "8340d2d2da6df67cbed84306eafe94983df6d5a8",
+      "size": 1322,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/swinginglanterns/swinginglanterns.json"
     },
     {
@@ -3470,8 +3917,8 @@
     {
       "name": "vs_eureka.toml",
       "path": "config/valkyrienskies/vs_eureka.toml",
-      "hash": "c555b47070fbbdb81071bcd144aa9dc8ce53acb2",
-      "size": 4405,
+      "hash": "0d51b64d11a6210881fa37e845c4ee7bdf395568",
+      "size": 4507,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/valkyrienskies/vs_eureka.toml"
     },
     {
@@ -3664,828 +4111,9 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/wildernature.json"
     },
     {
-      "name": ".unpack_finished",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/.unpack_finished",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "size": 0,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/.unpack_finished"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/af/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/af/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ar/strings.json",
-      "hash": "eb7aca3e7bf344549878fcb30c7f50e66c9c04cd",
-      "size": 4566,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/ar/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ast/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/ast/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/az/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/az/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ba/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/ba/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/be/strings.json",
-      "hash": "c60574caff3a7a6dd8846a49bf80fc25c41f394c",
-      "size": 4057,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/be/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/bg/strings.json",
-      "hash": "c0e34950ff125d70db2890a5bc2bc79286dfa4be",
-      "size": 3965,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/bg/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/br-FR/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/br-FR/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/brb/strings.json",
-      "hash": "4d12e8bb0d0e00eaa8dc3ee1e417776fdee97643",
-      "size": 32279,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/brb/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/bs/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/bs/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ca/strings.json",
-      "hash": "a3b7bdfec7a09c4e38f50f198624768e29b0b5d6",
-      "size": 554,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/ca/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/cs/strings.json",
-      "hash": "6b9e4dad49b46fb700b18d0aa75d8461cd3b5c90",
-      "size": 33420,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/cs/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/cy/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/cy/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/da/strings.json",
-      "hash": "0364013945a196df3d24a984753d19f80608f8ef",
-      "size": 3017,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/da/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/de/strings.json",
-      "hash": "02afc3e33312a76a16d423b54bc8ebc0cf682140",
-      "size": 34421,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/de/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/de-AT/strings.json",
-      "hash": "02afc3e33312a76a16d423b54bc8ebc0cf682140",
-      "size": 34421,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/de-AT/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/de-CH/strings.json",
-      "hash": "cc296ccb2a3a69a2bdb33d8f3137b7137619336d",
-      "size": 34058,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/de-CH/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/el/strings.json",
-      "hash": "2322030c3ec0723fe5a5990b11dcda6c9b7d3f3f",
-      "size": 399,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/el/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/en-AU/strings.json",
-      "hash": "33271dc0b40bc0d7a24b9f61d3131e3ae55a808a",
-      "size": 642,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/en-AU/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/en-CA/strings.json",
-      "hash": "d76eba76d98123e6d72a0240eab564145a273764",
-      "size": 712,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/en-CA/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/en-NZ/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/en-NZ/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/en-PT/strings.json",
-      "hash": "324bb32bb400cfa4815f577c188eba10692a87e0",
-      "size": 1992,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/en-PT/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/en-UD/strings.json",
-      "hash": "dae16763f8f3309d7e52511b8bf387501fc35548",
-      "size": 17531,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/en-UD/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/enp/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/enp/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/eo/strings.json",
-      "hash": "7c7e9812a5fea5ff44dafbad060d0631ed22ebbe",
-      "size": 1007,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/eo/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/es-AR/strings.json",
-      "hash": "bc9065046c72beada67cc91bde3d98770acbe288",
-      "size": 36277,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/es-AR/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/es-CL/strings.json",
-      "hash": "f025a25029b0a7eebf37b2dac8eed5e567869867",
-      "size": 36404,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/es-CL/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/es-ES/strings.json",
-      "hash": "1c5fc3b7478b635def45cc3103a9394fe6d35710",
-      "size": 36501,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/es-ES/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/es-MX/strings.json",
-      "hash": "1c5fc3b7478b635def45cc3103a9394fe6d35710",
-      "size": 36501,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/es-MX/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/es-UY/strings.json",
-      "hash": "1c5fc3b7478b635def45cc3103a9394fe6d35710",
-      "size": 36501,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/es-UY/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/es-VE/strings.json",
-      "hash": "00ce8803a69fae4dd4d65c55223ffc3dd6630fde",
-      "size": 36132,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/es-VE/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/et/strings.json",
-      "hash": "7c9f8fc602d158667a112341b013ea8a0f662e30",
-      "size": 5508,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/et/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/eu/strings.json",
-      "hash": "1e8a373d399d0a356eded4df368e06a6f18e8f63",
-      "size": 8587,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/eu/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/fa/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/fa/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/fi/strings.json",
-      "hash": "a66a02e0ab974728bb02470ceef4fa5a3ba91721",
-      "size": 1550,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/fi/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/fil/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/fil/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/fo/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/fo/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/fr/strings.json",
-      "hash": "4e6d4f6957d9042ba1075e0f94c0b4ac8828a91d",
-      "size": 35723,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/fr/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/fr-CA/strings.json",
-      "hash": "5f9029381123f5822e27d2da308adcd52d15a58c",
-      "size": 35762,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/fr-CA/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/fra-DE/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/fra-DE/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/fy-NL/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/fy-NL/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ga-IE/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/ga-IE/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/gd/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/gd/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/gl/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/gl/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/got/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/got/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/gv/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/gv/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/haw/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/haw/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/he/strings.json",
-      "hash": "bb1f9a33fb26ed2125279687066ce6647e588839",
-      "size": 71,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/he/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/hi/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/hi/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/hr/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/hr/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/hu/strings.json",
-      "hash": "9e67f756bbf76d9bb5971f0ec5a8bada354fcda7",
-      "size": 11082,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/hu/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/hy-AM/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/hy-AM/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/id/strings.json",
-      "hash": "396158aa200c2af801ba15826fa0356abb9f682c",
-      "size": 32493,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/id/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ido/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/ido/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ig/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/ig/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/is/strings.json",
-      "hash": "8c719af96631d6a6c2d70c8a487c67f617fc0ca9",
-      "size": 279,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/is/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/it/strings.json",
-      "hash": "2f6a5db7985579763165efa2affb651460bc9eef",
-      "size": 33942,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/it/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ja/strings.json",
-      "hash": "6616eb900ce6ebb4e5920c0925eeef7e3e37cfce",
-      "size": 24452,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/ja/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/jbo/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/jbo/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ka/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/ka/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/kab/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/kab/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/kk/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/kk/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/kn/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/kn/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ko/strings.json",
-      "hash": "e7c8c8054a0da08d45547dec13f082097f4b2626",
-      "size": 30621,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/ko/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ksh/strings.json",
-      "hash": "02afc3e33312a76a16d423b54bc8ebc0cf682140",
-      "size": 34421,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/ksh/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/kw/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/kw/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/la-LA/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/la-LA/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/lb/strings.json",
-      "hash": "5184eb63dcc1b5280d91902c7285d1a827643960",
-      "size": 288,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/lb/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/li/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/li/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/lol/strings.json",
-      "hash": "53a9f018460300fb51ef613e0cec43f536546e34",
-      "size": 22098,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/lol/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/lt/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/lt/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/lv/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/lv/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/mi/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/mi/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/mk/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/mk/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/mn/strings.json",
-      "hash": "5a1347a5588e481dd86ab92dc3ad84f316ff602a",
-      "size": 2954,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/mn/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/moh/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/moh/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ms/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/ms/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/mt/strings.json",
-      "hash": "235d227d4aeafb56c808c5257509d38c8c40e2c7",
-      "size": 1759,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/mt/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/nds/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/nds/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/nl/strings.json",
-      "hash": "4d12e8bb0d0e00eaa8dc3ee1e417776fdee97643",
-      "size": 32279,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/nl/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/nl-BE/strings.json",
-      "hash": "68f394011931604ae0623fb3fdbb77b300791f10",
-      "size": 32269,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/nl-BE/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/nn-NO/strings.json",
-      "hash": "bfd75f722dd1bcbda5b6ba8ace158f391fa7e89e",
-      "size": 29879,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/nn-NO/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/no/strings.json",
-      "hash": "bfd75f722dd1bcbda5b6ba8ace158f391fa7e89e",
-      "size": 29879,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/no/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/nuk/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/nuk/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/oc/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/oc/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/oj/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/oj/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/pl/strings.json",
-      "hash": "c3eb4e85056f1ecfe6c2fe62dcd8fb6c67bcfa71",
-      "size": 34723,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/pl/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/pt-BR/strings.json",
-      "hash": "9ded7fe8c66acc4cd043e1ba18eafd2c75f61fb8",
-      "size": 25690,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/pt-BR/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/pt-PT/strings.json",
-      "hash": "088167f7b1d4fec597fe4bab1ce83da896f4115e",
-      "size": 5382,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/pt-PT/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/qya-AA/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/qya-AA/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ro/strings.json",
-      "hash": "dbf641475bc55db3a776a6ca0088cdf835bc0e35",
-      "size": 1737,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/ro/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ru/strings.json",
-      "hash": "1be8e90bfec09a4d92d78cd496324b57f767f436",
-      "size": 44527,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/ru/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/se/strings.json",
-      "hash": "0e89ce1223b6b90c69c809a56441d3a9480eeccb",
-      "size": 826,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/se/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/sk/strings.json",
-      "hash": "3460136113848963844612776902d6fa4e6343c8",
-      "size": 10085,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/sk/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/sl/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/sl/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/so/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/so/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/sq/strings.json",
-      "hash": "08655754f4bf8e9ff1aed11cc550ed72f548ad4c",
-      "size": 6753,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/sq/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/sr/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/sr/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/strings.json",
-      "hash": "792c944c9a71d1ac89669ee6e0b624a31094b1e4",
-      "size": 31478,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/sv-SE/strings.json",
-      "hash": "1b9d0d7339e86e204314d6d7eb6ae0fb089527b4",
-      "size": 28182,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/sv-SE/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/swg/strings.json",
-      "hash": "02afc3e33312a76a16d423b54bc8ebc0cf682140",
-      "size": 34421,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/swg/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/szl/strings.json",
-      "hash": "c3eb4e85056f1ecfe6c2fe62dcd8fb6c67bcfa71",
-      "size": 34723,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/szl/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ta/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/ta/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/th/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/th/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/tlh-AA/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/tlh-AA/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/tr/strings.json",
-      "hash": "1154120fc7238ed77b82674268d4ea0b6da4fa0c",
-      "size": 17748,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/tr/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/tt-RU/strings.json",
-      "hash": "ff503a4bf90a11bb6ccc2bca6d0b2dd57bf42003",
-      "size": 106,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/tt-RU/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/tzl/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/tzl/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/uk/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/uk/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/val-ES/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/val-ES/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/vec/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/vec/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/vi/strings.json",
-      "hash": "2069d274a20fd8b178e30f1c5c4489e2e15a9d83",
-      "size": 5975,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/vi/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/yi/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/yi/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/yo/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-      "size": 3,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/yo/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/zh-CN/strings.json",
-      "hash": "daf2870641ffe834cee67eeec30c458a43c0eada",
-      "size": 31940,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/zh-CN/strings.json"
-    },
-    {
-      "name": "strings.json",
-      "path": "config/worldedit/.archive-unpack/2e1dd752/zh-TW/strings.json",
-      "hash": "8c8421d8d42a6da81087c5e70fb5e4b55851c0cb",
-      "size": 28368,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/.archive-unpack/2e1dd752/zh-TW/strings.json"
-    },
-    {
       "name": "worldedit.properties",
       "path": "config/worldedit/worldedit.properties",
-      "hash": "0a3a21ad5d97ce4cfd686277cb350d521e20eb44",
+      "hash": "b3b6036a051b69713131aaafef2c27a08e8e4710",
       "size": 2495,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/worldedit/worldedit.properties"
     },
@@ -4511,18 +4139,32 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/yigd.json"
     },
     {
-      "name": "yo_hooks_common.json",
-      "path": "config/yo_hooks_common.json",
-      "hash": "2c5938684f1790dd0ef433bc78748250cd4459b8",
-      "size": 88,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/yo_hooks_common.json"
+      "name": "overlaps.json",
+      "path": "config/yo_hooks/overlaps.json",
+      "hash": "6d97a385c3e102c0ce2aaf734329bc5348ac9292",
+      "size": 181,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/yo_hooks/overlaps.json"
     },
     {
-      "name": "yo_hooks_server.json",
-      "path": "config/yo_hooks_server.json",
+      "name": "yo_hooks-client.json",
+      "path": "config/yo_hooks/yo_hooks-client.json",
+      "hash": "605decda7154e40463cdda5104d8118090291208",
+      "size": 99,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/yo_hooks/yo_hooks-client.json"
+    },
+    {
+      "name": "yo_hooks-common.json",
+      "path": "config/yo_hooks/yo_hooks-common.json",
+      "hash": "2c5938684f1790dd0ef433bc78748250cd4459b8",
+      "size": 88,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/yo_hooks/yo_hooks-common.json"
+    },
+    {
+      "name": "yo_hooks-server.json",
+      "path": "config/yo_hooks/yo_hooks-server.json",
       "hash": "8f067c2f663d20312da1d9ac51c60449c45276d3",
       "size": 112,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/yo_hooks_server.json"
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/yo_hooks/yo_hooks-server.json"
     },
     {
       "name": "disabled_entities.json5",
@@ -4544,6 +4186,20 @@
       "hash": "f7c15b8df3d07346b0e83d8c1d7ce66123951ec7",
       "size": 1066,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/yungscavebiomes-fabric-1_20_1.toml"
+    },
+    {
+      "name": "default.json",
+      "path": "config/yyzsbackpack/control/default.json",
+      "hash": "3b6c1376e1fc04272d57351abb5dc3db94348322",
+      "size": 1698,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/yyzsbackpack/control/default.json"
+    },
+    {
+      "name": "inventorio.json",
+      "path": "config/yyzsbackpack/control/inventorio.json",
+      "hash": "d6609e46341406cf74acb16d12e525f1badc629d",
+      "size": 98,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/yyzsbackpack/control/inventorio.json"
     },
     {
       "name": "diamond.json",
@@ -4574,10 +4230,38 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/yyzsbackpack/materials/netherite.json"
     },
     {
+      "name": "default.json",
+      "path": "config/yyzsbackpack/offset/default.json",
+      "hash": "256ce14d6c92fe48ac1aeaaeb524f4e3ebd46a06",
+      "size": 383,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/yyzsbackpack/offset/default.json"
+    },
+    {
+      "name": "inventorio.json",
+      "path": "config/yyzsbackpack/offset/inventorio.json",
+      "hash": "ca928fdc2d3def069e6a19725c276d96e5f20345",
+      "size": 99,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/yyzsbackpack/offset/inventorio.json"
+    },
+    {
+      "name": "default.json",
+      "path": "config/yyzsbackpack/ui/default.json",
+      "hash": "46dcd19f4ada1f305a905aeedcf733d0bbabebf3",
+      "size": 1629,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/yyzsbackpack/ui/default.json"
+    },
+    {
+      "name": "inventorio.json",
+      "path": "config/yyzsbackpack/ui/inventorio.json",
+      "hash": "c08de82b342d52e1df89440d4c0e7a415ee03638",
+      "size": 93,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/yyzsbackpack/ui/inventorio.json"
+    },
+    {
       "name": "yyzsbackpack.json",
       "path": "config/yyzsbackpack/yyzsbackpack.json",
-      "hash": "6b946d27d23d25e5aacac70cf00f40e51f7282e0",
-      "size": 1860,
+      "hash": "89259d6626b5ad1e7168c5109ff2d8c446b61a80",
+      "size": 53,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/yyzsbackpack/yyzsbackpack.json"
     },
     {
@@ -4586,6 +4270,13 @@
       "hash": "cfa675b89b2ffad0cf10e131e8dabc6364844e11",
       "size": 201,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/zipline.json"
+    },
+    {
+      "name": "zoomify.json",
+      "path": "config/zoomify.json",
+      "hash": "d9a9878c8753f2580a0b43eb6afd7c6dfec31902",
+      "size": 708,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/config/zoomify.json"
     },
     {
       "name": ".keep",
@@ -4632,8 +4323,8 @@
     {
       "name": "colorpalette.json",
       "path": "journeymap/colorpalette.json",
-      "hash": "7c6331752e1d9a5b8c5bb11cc6a23631cdfacae1",
-      "size": 205264,
+      "hash": "bf5e59ea8dd17c09edced361d3f76cba2a88c9f0",
+      "size": 205466,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/journeymap/colorpalette.json"
     },
     {
@@ -4653,8 +4344,8 @@
     {
       "name": "journeymap.minimap.config",
       "path": "journeymap/config/5.10/journeymap.minimap.config",
-      "hash": "4b53b7b588e903c6c9f51ed717dda53927d0f97f",
-      "size": 1658,
+      "hash": "966510a107d271e8b54c6a591aa3cba820007be6",
+      "size": 1660,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/journeymap/config/5.10/journeymap.minimap.config"
     },
     {
@@ -5260,13 +4951,6 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/journeymap/icon/theme/flat/minimap/square/pur_topright.png"
     },
     {
-      "name": "journeymap.log",
-      "path": "journeymap/journeymap.log",
-      "hash": "7a9081475f985c25a120c31a80fba5413a44648a",
-      "size": 39424,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/journeymap/journeymap.log"
-    },
-    {
       "name": "(Fabric)Chiseled-Bookshelf-Visualizer-1.20-2.0.jar",
       "path": "mods/(Fabric)Chiseled-Bookshelf-Visualizer-1.20-2.0.jar",
       "hash": "8d61096ca676e1733bddb9aa30bd1680786aa8ed",
@@ -5274,11 +4958,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/(Fabric)Chiseled-Bookshelf-Visualizer-1.20-2.0.jar"
     },
     {
-      "name": "3d-armor-0.9.3-mod.jar",
-      "path": "mods/3d-armor-0.9.3-mod.jar",
-      "hash": "b7b11e3ad65f90da16c494da8e61f2a15cec3611",
-      "size": 353996,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/3d-armor-0.9.3-mod.jar"
+      "name": "3d-armor-0.9.4.2-mod.jar",
+      "path": "mods/3d-armor-0.9.4.2-mod.jar",
+      "hash": "8253b99b9d44c6935a273d5bc1f7f282e8a9cad1",
+      "size": 306454,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/3d-armor-0.9.4.2-mod.jar"
     },
     {
       "name": "AdditionalStructures-1.20.x-(v.4.2.2-fabric).jar",
@@ -5288,18 +4972,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/AdditionalStructures-1.20.x-(v.4.2.2-fabric).jar"
     },
     {
-      "name": "Aquamirae+6.jar",
-      "path": "mods/Aquamirae+6.jar",
-      "hash": "13feb2c346d372b3bec57f1ad2e151d87f65e5d6",
-      "size": 16111383,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Aquamirae+6.jar"
+      "name": "Arkan-Nyfs-Spiders-1.20.1-3.0.1-arkan.1.jar",
+      "path": "mods/Arkan-Nyfs-Spiders-1.20.1-3.0.1-arkan.1.jar",
+      "hash": "70aef23c6d75b9b350f098511f01f3ca014633be",
+      "size": 518099,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Arkan-Nyfs-Spiders-1.20.1-3.0.1-arkan.1.jar"
     },
     {
-      "name": "Armor_20of_20the_20Ages-fabric-1.20.1-1.3.12.jar",
-      "path": "mods/Armor_20of_20the_20Ages-fabric-1.20.1-1.3.12.jar",
-      "hash": "1dae968297d744c02599aa4faf7c6f0bf94ab76d",
-      "size": 335025,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Armor_20of_20the_20Ages-fabric-1.20.1-1.3.12.jar"
+      "name": "Armor of the Ages-fabric-1.20.1-1.3.15.jar",
+      "path": "mods/Armor of the Ages-fabric-1.20.1-1.3.15.jar",
+      "hash": "1a3f92321c2b149257f195b1e7e79cfcc7c99c63",
+      "size": 505824,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Armor%20of%20the%20Ages-fabric-1.20.1-1.3.15.jar"
     },
     {
       "name": "BOMD-1.7.5-1.20.1.jar",
@@ -5309,18 +4993,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/BOMD-1.7.5-1.20.1.jar"
     },
     {
-      "name": "BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar",
-      "path": "mods/BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar",
-      "hash": "22964ac6041bd356e40658eb50425ae730f1b071",
-      "size": 97597,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar"
+      "name": "BetterAdvancements-Fabric-1.20.1-0.6.0.73.jar",
+      "path": "mods/BetterAdvancements-Fabric-1.20.1-0.6.0.73.jar",
+      "hash": "3eedda2220fe6a01cc07abee3045c19669d11a93",
+      "size": 99935,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/BetterAdvancements-Fabric-1.20.1-0.6.0.73.jar"
     },
     {
-      "name": "Boids-1.1.1.jar",
-      "path": "mods/Boids-1.1.1.jar",
-      "hash": "4ea94aa16aae183caa4dc20793d9213374ae38d8",
-      "size": 26345,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Boids-1.1.1.jar"
+      "name": "Boids-2.0.3+1.20.1.jar",
+      "path": "mods/Boids-2.0.3+1.20.1.jar",
+      "hash": "8ea564d6d6ac0f7f6bfdfe13f830805a3e19bf7c",
+      "size": 106573,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Boids-2.0.3+1.20.1.jar"
     },
     {
       "name": "Bookshelf-Fabric-1.20.1-20.2.15.jar",
@@ -5344,11 +5028,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/BridgingMod-2.5.1+1.20.1.fabric-release.jar"
     },
     {
-      "name": "CameraOverhaul-v2.0.6-fabric_2Bmc_5B1.20.0-1.20.5_5D.jar",
-      "path": "mods/CameraOverhaul-v2.0.6-fabric_2Bmc_5B1.20.0-1.20.5_5D.jar",
-      "hash": "f607ee5446bc6cab6ba9b0522ec13884593bd046",
-      "size": 140784,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/CameraOverhaul-v2.0.6-fabric_2Bmc_5B1.20.0-1.20.5_5D.jar"
+      "name": "CameraOverhaul-v2.1.1-fabric+mc[1.20-1.20.5].jar",
+      "path": "mods/CameraOverhaul-v2.1.1-fabric+mc[1.20-1.20.5].jar",
+      "hash": "15c4290c10660dd36cd79b2df3ffdcc54d50ee9e",
+      "size": 140053,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/CameraOverhaul-v2.1.1-fabric+mc%5B1.20-1.20.5%5D.jar"
     },
     {
       "name": "Chimes-v2.1.1-1.20.1-Fabric.jar",
@@ -5386,11 +5070,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Controlling-fabric-1.20.1-12.0.2.jar"
     },
     {
-      "name": "CreativeCore_FABRIC_v2.12.34_mc1.20.1.jar",
-      "path": "mods/CreativeCore_FABRIC_v2.12.34_mc1.20.1.jar",
-      "hash": "d6fd7ceb95052431a01c139c9ed242aa40895fe7",
-      "size": 1212248,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/CreativeCore_FABRIC_v2.12.34_mc1.20.1.jar"
+      "name": "CreativeCore_FABRIC_v2.12.39_mc1.20.1.jar",
+      "path": "mods/CreativeCore_FABRIC_v2.12.39_mc1.20.1.jar",
+      "hash": "2ad4cad201d6fe91e40a6e938605d937ce541ac8",
+      "size": 1197255,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/CreativeCore_FABRIC_v2.12.39_mc1.20.1.jar"
     },
     {
       "name": "DarkPaintings-Fabric-1.20.1-17.0.6.jar",
@@ -5421,18 +5105,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/DisableCustomWorldsAdvice-4.1.jar"
     },
     {
-      "name": "DistantHorizons-3.0.3-b-1.20.1-fabric-forge.jar.replaced",
-      "path": "mods/DistantHorizons-3.0.3-b-1.20.1-fabric-forge.jar.replaced",
-      "hash": "90de462112b43f58686573c4e08bfe42e3352133",
-      "size": 29467253,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/DistantHorizons-3.0.3-b-1.20.1-fabric-forge.jar.replaced"
-    },
-    {
-      "name": "DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar",
-      "path": "mods/DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar",
-      "hash": "5667440fdca4d4543c345c9ba6fda2dda64928ca",
-      "size": 29561297,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar"
+      "name": "DistantHorizons-3.3.2-1.20.1-fabric-forge.jar",
+      "path": "mods/DistantHorizons-3.3.2-1.20.1-fabric-forge.jar",
+      "hash": "558f68866e29de192fd4d03097a81d4373826f69",
+      "size": 27634762,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/DistantHorizons-3.3.2-1.20.1-fabric-forge.jar"
     },
     {
       "name": "DustyDecoRefabricated-1.1-1.20.1+1.20.2.jar",
@@ -5463,39 +5140,39 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/EasyMagic-v8.0.1-1.20.1-Fabric.jar"
     },
     {
-      "name": "EndsPhantasm-1.20.1-1.1.1.jar",
-      "path": "mods/EndsPhantasm-1.20.1-1.1.1.jar",
-      "hash": "f391e4e180d10f8cbb80e8ce263698aca2a9b40c",
-      "size": 6068800,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/EndsPhantasm-1.20.1-1.1.1.jar"
+      "name": "EndsPhantasm-1.20.1-1.4.jar",
+      "path": "mods/EndsPhantasm-1.20.1-1.4.jar",
+      "hash": "655574abd5b6c3e112afc70a9fc14fc4fe19f53a",
+      "size": 6416645,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/EndsPhantasm-1.20.1-1.4.jar"
     },
     {
-      "name": "Enhanced Cats-1.20.1-1.20.3-0.8.jar",
-      "path": "mods/Enhanced Cats-1.20.1-1.20.3-0.8.jar",
-      "hash": "8dd43cdaa826de87ae60e8634714c46f8bc2aa91",
-      "size": 52989,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Enhanced%20Cats-1.20.1-1.20.3-0.8.jar"
+      "name": "EnhancedCats-1.20.1-1.0.jar",
+      "path": "mods/EnhancedCats-1.20.1-1.0.jar",
+      "hash": "6f4b76dabec0689032479f96bd7f25f1938c0d57",
+      "size": 1428681,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/EnhancedCats-1.20.1-1.0.jar"
     },
     {
-      "name": "EnhancedVisuals_FABRIC_v1.8.2_mc1.20.1.jar",
-      "path": "mods/EnhancedVisuals_FABRIC_v1.8.2_mc1.20.1.jar",
-      "hash": "5cd260b32fe7bdb445766a767b7d1e038b4c54f1",
-      "size": 4728243,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/EnhancedVisuals_FABRIC_v1.8.2_mc1.20.1.jar"
+      "name": "EnhancedVisuals_FABRIC_v1.8.30_mc1.20.1.jar",
+      "path": "mods/EnhancedVisuals_FABRIC_v1.8.30_mc1.20.1.jar",
+      "hash": "64c88222e0f26b96eafa1629120bc34586dd7112",
+      "size": 4729942,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/EnhancedVisuals_FABRIC_v1.8.30_mc1.20.1.jar"
     },
     {
-      "name": "Explorify v1.6.4 f15-88.mod.jar",
-      "path": "mods/Explorify v1.6.4 f15-88.mod.jar",
-      "hash": "5a9b99242bdb9437396f5a3c78decc567adab6a5",
-      "size": 951495,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Explorify%20v1.6.4%20f15-88.mod.jar"
+      "name": "Explorify v1.6.5.mod.jar",
+      "path": "mods/Explorify v1.6.5.mod.jar",
+      "hash": "5fb28be29200a41b034e423d87823eb19ad651cd",
+      "size": 767884,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Explorify%20v1.6.5.mod.jar"
     },
     {
-      "name": "FarmersDelight-1.20.1-2.4.1+refabricated.jar",
-      "path": "mods/FarmersDelight-1.20.1-2.4.1+refabricated.jar",
-      "hash": "b8dded252730b2d47655813dde9d743785c0b107",
-      "size": 8056758,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/FarmersDelight-1.20.1-2.4.1+refabricated.jar"
+      "name": "FarmersDelight-1.20.1-2.5.7+refabricated.jar",
+      "path": "mods/FarmersDelight-1.20.1-2.5.7+refabricated.jar",
+      "hash": "151ea7390909107b42c6d17e4d9d5f57486d9c89",
+      "size": 6117761,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/FarmersDelight-1.20.1-2.5.7+refabricated.jar"
     },
     {
       "name": "FarmersStructures-1.0.0-1.20_fabric.jar",
@@ -5519,11 +5196,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/FpsReducer2-fabric-1.20-2.5.jar"
     },
     {
-      "name": "IceAndFireCE-1.2.5-1.20.1-fabric.jar",
-      "path": "mods/IceAndFireCE-1.2.5-1.20.1-fabric.jar",
-      "hash": "6af34354d662468d676e5d653d4907b552b7f7d2",
-      "size": 20156785,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/IceAndFireCE-1.2.5-1.20.1-fabric.jar"
+      "name": "IceAndFireCE-1.2.7-1.20.1-fabric.jar",
+      "path": "mods/IceAndFireCE-1.2.7-1.20.1-fabric.jar",
+      "hash": "4e54f7f7b653900ef43511b9a5ae88a935b07a0a",
+      "size": 20162986,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/IceAndFireCE-1.2.7-1.20.1-fabric.jar"
     },
     {
       "name": "IllagerInvasion-v8.0.7-1.20.1-Fabric.jar",
@@ -5533,11 +5210,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/IllagerInvasion-v8.0.7-1.20.1-Fabric.jar"
     },
     {
-      "name": "ImmediatelyFast-Fabric-1.5.4_2B1.20.4.jar",
-      "path": "mods/ImmediatelyFast-Fabric-1.5.4_2B1.20.4.jar",
-      "hash": "bb9e7a507bb7a442cba451d79b5c1fde74aea07c",
-      "size": 354883,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/ImmediatelyFast-Fabric-1.5.4_2B1.20.4.jar"
+      "name": "ImmediatelyFast-Fabric-1.5.5+1.20.4.jar",
+      "path": "mods/ImmediatelyFast-Fabric-1.5.5+1.20.4.jar",
+      "hash": "9f0110b60dc752ca093f2fc10a72d221b6dc8ac3",
+      "size": 348818,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/ImmediatelyFast-Fabric-1.5.5+1.20.4.jar"
     },
     {
       "name": "ImmersiveThunder-1.20.1+1.2.2.jar",
@@ -5568,11 +5245,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/InvMoveCompats-0.5.0+1.20.4-Fabric.jar"
     },
     {
-      "name": "InventoryParticles-1.5.0_2B1.20.1_2Bfabric.jar",
-      "path": "mods/InventoryParticles-1.5.0_2B1.20.1_2Bfabric.jar",
-      "hash": "29cba93405b82a968065a2fe522e64d21a636796",
-      "size": 1544714,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/InventoryParticles-1.5.0_2B1.20.1_2Bfabric.jar"
+      "name": "InventoryParticles-3.2.0+1.20.1+fabric.jar",
+      "path": "mods/InventoryParticles-3.2.0+1.20.1+fabric.jar",
+      "hash": "26bcb0256d3104caefda290299b087421b64d0f0",
+      "size": 1735148,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/InventoryParticles-3.2.0+1.20.1+fabric.jar"
     },
     {
       "name": "ItemsDisplayed - v1.3-1.20.1.jar",
@@ -5582,25 +5259,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/ItemsDisplayed%20-%20v1.3-1.20.1.jar"
     },
     {
-      "name": "Kiwi-1.20.1-Fabric-11.10.2.jar",
-      "path": "mods/Kiwi-1.20.1-Fabric-11.10.2.jar",
-      "hash": "2609b9d0396112bd695c9ecc97f0bdb19b64a16b",
-      "size": 1548893,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Kiwi-1.20.1-Fabric-11.10.2.jar"
+      "name": "Kiwi-1.20.1-Fabric-11.10.3.jar",
+      "path": "mods/Kiwi-1.20.1-Fabric-11.10.3.jar",
+      "hash": "c3c1577b5b4283f793fbdee4395b2b1b01a22be3",
+      "size": 1549136,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Kiwi-1.20.1-Fabric-11.10.3.jar"
     },
     {
-      "name": "Longwings-v0.9.4-1.20.1-Fabric.jar",
-      "path": "mods/Longwings-v0.9.4-1.20.1-Fabric.jar",
-      "hash": "56a2da3fde4b442990f724b853a5ae529602b079",
-      "size": 1874045,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Longwings-v0.9.4-1.20.1-Fabric.jar"
-    },
-    {
-      "name": "MRU-1.0.4+1.20.1+fabric.jar",
-      "path": "mods/MRU-1.0.4+1.20.1+fabric.jar",
-      "hash": "fe62ff4ff3bc390f0e841bbd868ce219c5caca1e",
-      "size": 104277,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/MRU-1.0.4+1.20.1+fabric.jar"
+      "name": "Longwings-v0.9.5-1.20.1-Fabric.jar",
+      "path": "mods/Longwings-v0.9.5-1.20.1-Fabric.jar",
+      "hash": "d149a8e3033f67fd1da8505e3bc6e03b69dd79d0",
+      "size": 1903761,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Longwings-v0.9.5-1.20.1-Fabric.jar"
     },
     {
       "name": "MissingWilds-fabric-1.2.1+1.20.1.jar",
@@ -5610,32 +5280,46 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/MissingWilds-fabric-1.2.1+1.20.1.jar"
     },
     {
-      "name": "MoogsMissingVillages-1.20-2.0.0.jar",
-      "path": "mods/MoogsMissingVillages-1.20-2.0.0.jar",
-      "hash": "628e19691c814e26790aecb72ee463ea4b860393",
-      "size": 1582567,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/MoogsMissingVillages-1.20-2.0.0.jar"
+      "name": "MoogsEndStructures-universal-1.20-2.1.0.jar",
+      "path": "mods/MoogsEndStructures-universal-1.20-2.1.0.jar",
+      "hash": "a581935313f819fe67bbe810e03fb8a44b356089",
+      "size": 2546120,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/MoogsEndStructures-universal-1.20-2.1.0.jar"
     },
     {
-      "name": "MoogsNetherStructures-1.20-2.0.3.jar",
-      "path": "mods/MoogsNetherStructures-1.20-2.0.3.jar",
-      "hash": "053f75c1b8eb109ecfce5ee9acba8d6996970791",
-      "size": 1374253,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/MoogsNetherStructures-1.20-2.0.3.jar"
+      "name": "MoogsMissingVillages-universal-1.20-2.2.0.jar",
+      "path": "mods/MoogsMissingVillages-universal-1.20-2.2.0.jar",
+      "hash": "f806838fb5b9d34a03ae02c02e839bda809aa8cf",
+      "size": 982690,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/MoogsMissingVillages-universal-1.20-2.2.0.jar"
     },
     {
-      "name": "MoogsVoyagerStructures-1.20-5.0.4.jar",
-      "path": "mods/MoogsVoyagerStructures-1.20-5.0.4.jar",
-      "hash": "c7c384d91180b7a37064504a9839fa6f14801224",
-      "size": 2661209,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/MoogsVoyagerStructures-1.20-5.0.4.jar"
+      "name": "MoogsNetherStructures-universal-1.20-3.1.0.jar",
+      "path": "mods/MoogsNetherStructures-universal-1.20-3.1.0.jar",
+      "hash": "fcfef161397f7865e3a6642c5170cd13fd7ad9ef",
+      "size": 3321620,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/MoogsNetherStructures-universal-1.20-3.1.0.jar"
     },
     {
-      "name": "MossyLib-1.1.0_2B1.20.1_2Bfabric.jar",
-      "path": "mods/MossyLib-1.1.0_2B1.20.1_2Bfabric.jar",
-      "hash": "d9d4105572e4aa68603b0610aa5b6ceadb615cff",
-      "size": 188502,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/MossyLib-1.1.0_2B1.20.1_2Bfabric.jar"
+      "name": "MoogsStructureLib-fabric-1.20-3.3.1.jar",
+      "path": "mods/MoogsStructureLib-fabric-1.20-3.3.1.jar",
+      "hash": "7fee68efb20ac68b6131810c276c0d54b6acb34a",
+      "size": 434770,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/MoogsStructureLib-fabric-1.20-3.3.1.jar"
+    },
+    {
+      "name": "MoogsVoyagerStructures-universal-1.20-5.1.1.jar",
+      "path": "mods/MoogsVoyagerStructures-universal-1.20-5.1.1.jar",
+      "hash": "839c3f7538c9adf972d49d1d18db234bd2479950",
+      "size": 2444473,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/MoogsVoyagerStructures-universal-1.20-5.1.1.jar"
+    },
+    {
+      "name": "MossyLib-1.6.0+1.20.1+fabric.jar",
+      "path": "mods/MossyLib-1.6.0+1.20.1+fabric.jar",
+      "hash": "324554d0a7c27139f9568ae822be17dd9553d768",
+      "size": 189952,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/MossyLib-1.6.0+1.20.1+fabric.jar"
     },
     {
       "name": "Necronomicon-Fabric-1.6.0+1.20.1.jar",
@@ -5715,11 +5399,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/PuzzlesLib-v8.1.33-1.20.1-Fabric.jar"
     },
     {
-      "name": "Resourcify_20(1.20.1-fabric)-1.8.1.jar",
-      "path": "mods/Resourcify_20(1.20.1-fabric)-1.8.1.jar",
-      "hash": "93f8678f1e699e8d82e221dfcd0bc4ff6a66d5a0",
-      "size": 2592914,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Resourcify_20(1.20.1-fabric)-1.8.1.jar"
+      "name": "Resourcify (1.20.1-fabric)-1.8.6.jar",
+      "path": "mods/Resourcify (1.20.1-fabric)-1.8.6.jar",
+      "hash": "f060cb42bbabdc87e150db0bd291e6a438cf806b",
+      "size": 2946442,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Resourcify%20(1.20.1-fabric)-1.8.6.jar"
     },
     {
       "name": "Ribbits-1.20.1-Fabric-3.0.5.jar",
@@ -5743,11 +5427,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/ShowMeWhatYouGot-1.20-1.1.1.jar"
     },
     {
-      "name": "SimplyTooltips-fabric-0.1.3.jar",
-      "path": "mods/SimplyTooltips-fabric-0.1.3.jar",
-      "hash": "0d8749647009e3105f7270bc6ecf405fd65aa725",
-      "size": 5319689,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/SimplyTooltips-fabric-0.1.3.jar"
+      "name": "SimplyTooltips-fabric-0.1.5-1.20.1.jar",
+      "path": "mods/SimplyTooltips-fabric-0.1.5-1.20.1.jar",
+      "hash": "754b2989e11389f99a032b9031e28b90d8f63205",
+      "size": 5518319,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/SimplyTooltips-fabric-0.1.5-1.20.1.jar"
     },
     {
       "name": "SnowRealMagic-1.20.1-Fabric-10.7.0.jar",
@@ -5778,11 +5462,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/TerraBlender-fabric-1.20.1-3.0.1.10.jar"
     },
     {
-      "name": "TreeChop-1.20.1-fabric-0.18.8.jar",
-      "path": "mods/TreeChop-1.20.1-fabric-0.18.8.jar",
-      "hash": "cd9aedff5800e92fae9a8702ef524bcc331ea3b4",
-      "size": 478776,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/TreeChop-1.20.1-fabric-0.18.8.jar"
+      "name": "TreeChop-1.20.1-fabric-0.19.0.jar",
+      "path": "mods/TreeChop-1.20.1-fabric-0.19.0.jar",
+      "hash": "2b2821168355d9c96fcd26d59c4138ac9d155f00",
+      "size": 490611,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/TreeChop-1.20.1-fabric-0.19.0.jar"
     },
     {
       "name": "Tumbleweed-fabric-1.20.1-0.5.5.jar",
@@ -5834,11 +5518,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/YungsApi-1.20-Fabric-4.0.6.jar"
     },
     {
-      "name": "YungsBetterCaves-1.20.1-Fabric-2.0.5.jar",
-      "path": "mods/YungsBetterCaves-1.20.1-Fabric-2.0.5.jar",
-      "hash": "8f5d948518351030ab0e4eaaa3250672bd0dfb47",
-      "size": 526031,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/YungsBetterCaves-1.20.1-Fabric-2.0.5.jar"
+      "name": "YungsBetterCaves-1.20.1-Fabric-2.0.7.jar",
+      "path": "mods/YungsBetterCaves-1.20.1-Fabric-2.0.7.jar",
+      "hash": "4e61e501bfcc66e8478b9d8626b48ddf24a476bb",
+      "size": 1159879,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/YungsBetterCaves-1.20.1-Fabric-2.0.7.jar"
     },
     {
       "name": "YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
@@ -5925,32 +5609,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/YungsExtras-1.20-Fabric-4.0.3.jar"
     },
     {
-      "name": "YyzsBackpack-fabric-20.1.6.jar",
-      "path": "mods/YyzsBackpack-fabric-20.1.6.jar",
-      "hash": "8f258d7a9d2c6e9495a7a71aa277d890c4848a59",
-      "size": 173271,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/YyzsBackpack-fabric-20.1.6.jar"
-    },
-    {
-      "name": "[1.20.1-Fabric] Hybrid Aquatic 1.5.4.jar",
-      "path": "mods/[1.20.1-Fabric] Hybrid Aquatic 1.5.4.jar",
-      "hash": "5449e902be5d4faf4d94371a398720c9e6cb4224",
-      "size": 3382958,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/%5B1.20.1-Fabric%5D%20Hybrid%20Aquatic%201.5.4.jar"
-    },
-    {
-      "name": "[1.20.1] Hybrid Birds Fabric 1.1.0.jar",
-      "path": "mods/[1.20.1] Hybrid Birds Fabric 1.1.0.jar",
-      "hash": "f37a021fcc1e3163abb8da911c6d6a4cd6d74a1c",
-      "size": 1331089,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/%5B1.20.1%5D%20Hybrid%20Birds%20Fabric%201.1.0.jar"
-    },
-    {
-      "name": "[1.20.1][Fabric] RPG-HUD-3.10.jar",
-      "path": "mods/[1.20.1][Fabric] RPG-HUD-3.10.jar",
-      "hash": "0e53df3e59834f78901e0fec3945711fd416cd7a",
-      "size": 237855,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/%5B1.20.1%5D%5BFabric%5D%20RPG-HUD-3.10.jar"
+      "name": "[1.20.1][Fabric] RPG-HUD-3.13.jar",
+      "path": "mods/[1.20.1][Fabric] RPG-HUD-3.13.jar",
+      "hash": "7ec074d0b9e48de793c055973626be354e41cba1",
+      "size": 239710,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/%5B1.20.1%5D%5BFabric%5D%20RPG-HUD-3.13.jar"
     },
     {
       "name": "[fabric]ctov-3.4.14.jar",
@@ -5981,11 +5644,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/alexsmobsfabric-1.20.1-1.1.0.jar"
     },
     {
-      "name": "amendments-1.20-2.2.5-fabric.jar",
-      "path": "mods/amendments-1.20-2.2.5-fabric.jar",
-      "hash": "7c86a37978ad8e6d981124d45c7483745c579877",
-      "size": 1266546,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/amendments-1.20-2.2.5-fabric.jar"
+      "name": "amendments-1.20-2.2.6-fabric.jar",
+      "path": "mods/amendments-1.20-2.2.6-fabric.jar",
+      "hash": "b4a296ab4ac87b00b9dbb530b4514b642be22335",
+      "size": 1281333,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/amendments-1.20-2.2.6-fabric.jar"
     },
     {
       "name": "animalgarden-commonraven-1.0.1-fabric-1.20.1-0.92.6.jar",
@@ -6030,11 +5693,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/another_furniture-fabric-1.20.1-3.0.5.jar"
     },
     {
-      "name": "anvianslib-fabric-1.20-1.4.1.jar",
-      "path": "mods/anvianslib-fabric-1.20-1.4.1.jar",
-      "hash": "54c57849f39e4261bab850b0c61ac2c45ab25041",
-      "size": 30461,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/anvianslib-fabric-1.20-1.4.1.jar"
+      "name": "anvianslib-fabric-1.20-1.4.2.jar",
+      "path": "mods/anvianslib-fabric-1.20-1.4.2.jar",
+      "hash": "fe7901b313608ffc0b85ea9dca0a3c81abacbff3",
+      "size": 31495,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/anvianslib-fabric-1.20-1.4.2.jar"
     },
     {
       "name": "appleskin-fabric-mc1.20.1-2.5.2.jar",
@@ -6044,11 +5707,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/appleskin-fabric-mc1.20.1-2.5.2.jar"
     },
     {
-      "name": "aquariuslibs-1.0.1b-fabric-1.20.1-0.92.6-1.0.1.jar",
-      "path": "mods/aquariuslibs-1.0.1b-fabric-1.20.1-0.92.6-1.0.1.jar",
-      "hash": "d022f4f6626b0e7379a98a9ceb6bc6ba59d9810c",
-      "size": 168473,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/aquariuslibs-1.0.1b-fabric-1.20.1-0.92.6-1.0.1.jar"
+      "name": "aquamirae-fabric-1.20.1-7.1.14.jar",
+      "path": "mods/aquamirae-fabric-1.20.1-7.1.14.jar",
+      "hash": "cda9d4b09c6d00ad00c23c5af896adf0a8d2a0b9",
+      "size": 25905687,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/aquamirae-fabric-1.20.1-7.1.14.jar"
+    },
+    {
+      "name": "aquariuslibs-1.2.0-fabric-1.20.1-0.92.6.jar",
+      "path": "mods/aquariuslibs-1.2.0-fabric-1.20.1-0.92.6.jar",
+      "hash": "7bd86cbbf3cc74f260fe72451d069e574cda1d2e",
+      "size": 308314,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/aquariuslibs-1.2.0-fabric-1.20.1-0.92.6.jar"
     },
     {
       "name": "architectury-9.2.14-fabric.jar",
@@ -6058,18 +5728,32 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/architectury-9.2.14-fabric.jar"
     },
     {
+      "name": "arkan-connect-2.2.jar",
+      "path": "mods/arkan-connect-2.2.jar",
+      "hash": "c667376a13cda00bd5faf48c872e994f3b3e6cd5",
+      "size": 53035,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkan-connect-2.2.jar"
+    },
+    {
+      "name": "arkan-controlify-fork-1.2+controlify-2.1.2+1.20.1-fabric.jar",
+      "path": "mods/arkan-controlify-fork-1.2+controlify-2.1.2+1.20.1-fabric.jar",
+      "hash": "47899126a2ef6e5cdb38539f5fde4e2f005feac7",
+      "size": 4242375,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkan-controlify-fork-1.2+controlify-2.1.2+1.20.1-fabric.jar"
+    },
+    {
+      "name": "arkan-optimizer-0.3.2.jar",
+      "path": "mods/arkan-optimizer-0.3.2.jar",
+      "hash": "00d2a0105d8f8d0db3d5b40101f0c05e0be50030",
+      "size": 2550626,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkan-optimizer-0.3.2.jar"
+    },
+    {
       "name": "arkans-book-of-dragons-port-9.5.jar",
       "path": "mods/arkans-book-of-dragons-port-9.5.jar",
       "hash": "9a921cd8e929bcf74fb92c38b4992f4fff4f934c",
       "size": 3375392,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-book-of-dragons-port-9.5.jar"
-    },
-    {
-      "name": "arkans-controlify-fork-1.0+controlify-2.1.2+1.20.1-fabric.jar",
-      "path": "mods/arkans-controlify-fork-1.0+controlify-2.1.2+1.20.1-fabric.jar",
-      "hash": "7edffc08e998af5fba13d41a39c21c49ae2437ff",
-      "size": 4238608,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-controlify-fork-1.0+controlify-2.1.2+1.20.1-fabric.jar"
     },
     {
       "name": "arkans-damage-outline-2.0.jar",
@@ -6079,18 +5763,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-damage-outline-2.0.jar"
     },
     {
-      "name": "arkans-flight-combat-overhaul-8.16.jar",
-      "path": "mods/arkans-flight-combat-overhaul-8.16.jar",
-      "hash": "128eee18a5e1e0f1a471e32f9201b4f2b59d6322",
-      "size": 2107111,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-flight-combat-overhaul-8.16.jar"
+      "name": "arkans-flight-combat-overhaul-8.19.jar",
+      "path": "mods/arkans-flight-combat-overhaul-8.19.jar",
+      "hash": "2662cc1c2483d8ee54e89780af24e4ea2c3acd8b",
+      "size": 2102464,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-flight-combat-overhaul-8.19.jar"
     },
     {
-      "name": "arkans-id-loader-2.16.jar",
-      "path": "mods/arkans-id-loader-2.16.jar",
-      "hash": "0d9b5754a46ba16fa47382793c24c53712c50af4",
-      "size": 168104,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-id-loader-2.16.jar"
+      "name": "arkans-id-loader-4.8.jar",
+      "path": "mods/arkans-id-loader-4.8.jar",
+      "hash": "523cbeadbdd1e548f715f49ce5ef60d0d6b8dd8a",
+      "size": 357087,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-id-loader-4.8.jar"
     },
     {
       "name": "arkans-no-tree-punching-1.2.jar",
@@ -6114,11 +5798,11 @@
       "url": "https://github.com/arkandragons/Arkan-Updates/releases/download/v1.0.0-assets/arkans-physics-mod-1.1.jar"
     },
     {
-      "name": "arkans-player-animations-2.1.jar",
-      "path": "mods/arkans-player-animations-2.1.jar",
-      "hash": "7100ebbf9de537962eebf377cd922f5112df920e",
-      "size": 449857,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-player-animations-2.1.jar"
+      "name": "arkans-player-animations-2.3.jar",
+      "path": "mods/arkans-player-animations-2.3.jar",
+      "hash": "8cdea91c93cfe60250b246bd143728bca6350d53",
+      "size": 464297,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-player-animations-2.3.jar"
     },
     {
       "name": "arkans-revive-system-1.2.jar",
@@ -6128,13 +5812,6 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-revive-system-1.2.jar"
     },
     {
-      "name": "arkans-social-interactions-1.1.jar",
-      "path": "mods/arkans-social-interactions-1.1.jar",
-      "hash": "b1a490f2aa4609bfff83f1e7ae8f971ef099e8ef",
-      "size": 15823,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-social-interactions-1.1.jar"
-    },
-    {
       "name": "arrow-entity-loot-drop-1.2.1+1.20.1.jar",
       "path": "mods/arrow-entity-loot-drop-1.2.1+1.20.1.jar",
       "hash": "035c57ed15d8bcb0ba3737ac646c74862864da51",
@@ -6142,11 +5819,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arrow-entity-loot-drop-1.2.1+1.20.1.jar"
     },
     {
-      "name": "artifacts-fabric-9.5.15.jar",
-      "path": "mods/artifacts-fabric-9.5.15.jar",
-      "hash": "420561e2963aedf267ea617f059a69bba7b142c0",
-      "size": 960085,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/artifacts-fabric-9.5.15.jar"
+      "name": "artifacts-fabric-9.5.17.jar",
+      "path": "mods/artifacts-fabric-9.5.17.jar",
+      "hash": "c851630a411fa287ac64214ba73d1c978d805048",
+      "size": 960096,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/artifacts-fabric-9.5.17.jar"
     },
     {
       "name": "auto-elytra-2.1.3.jar",
@@ -6165,8 +5842,8 @@
     {
       "name": "awesomedungeon-fabric-1.20.1-3.2.0.jar",
       "path": "mods/awesomedungeon-fabric-1.20.1-3.2.0.jar",
-      "hash": "d610e2935f2eeb1859e59d0785a79f6889dd1ec0",
-      "size": 422699,
+      "hash": "18675285f91693522d2517a8889100ee509f3a52",
+      "size": 422180,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/awesomedungeon-fabric-1.20.1-3.2.0.jar"
     },
     {
@@ -6184,11 +5861,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/awesomedungeonnether-fabric-1.20.1-3.1.1.jar"
     },
     {
-      "name": "azurelib-fabric-1.20.1-3.1.9.jar",
-      "path": "mods/azurelib-fabric-1.20.1-3.1.9.jar",
-      "hash": "7ba6a484ac743f7f032f7bc0d1bea58a2ea79390",
-      "size": 1063022,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/azurelib-fabric-1.20.1-3.1.9.jar"
+      "name": "azurelib-fabric-1.20.1-3.1.12.jar",
+      "path": "mods/azurelib-fabric-1.20.1-3.1.12.jar",
+      "hash": "68b9204aba1272d1a619fba7b51dd9329a0dc5ee",
+      "size": 1069682,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/azurelib-fabric-1.20.1-3.1.12.jar"
     },
     {
       "name": "badpackets-fabric-0.4.3.jar",
@@ -6196,6 +5873,13 @@
       "hash": "87b7ef4e9c9bff0fd8cdcc79156e9c7ac7b26690",
       "size": 27655,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/badpackets-fabric-0.4.3.jar"
+    },
+    {
+      "name": "baguettelib-1.20.1-Fabric-2.0.5.jar",
+      "path": "mods/baguettelib-1.20.1-Fabric-2.0.5.jar",
+      "hash": "f0f868ab90e1cd23ce5dfe54736596adf6a0950f",
+      "size": 33490,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/baguettelib-1.20.1-Fabric-2.0.5.jar"
     },
     {
       "name": "balm-fabric-1.20.1-7.3.38.jar",
@@ -6261,18 +5945,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/bettercombat-fabric-1.9.0%252B1.20.1.jar"
     },
     {
-      "name": "bettersearch-fabric-1.20.1-1.4.2.jar",
-      "path": "mods/bettersearch-fabric-1.20.1-1.4.2.jar",
-      "hash": "e51070a83d4e4237aadc34b4e52cb81e951958ff",
-      "size": 313902,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/bettersearch-fabric-1.20.1-1.4.2.jar"
+      "name": "bettersearch-fabric-1.20.1-1.4.3.jar",
+      "path": "mods/bettersearch-fabric-1.20.1-1.4.3.jar",
+      "hash": "74c7e3a595328902048bbb6eb86fe1aebc989977",
+      "size": 341306,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/bettersearch-fabric-1.20.1-1.4.3.jar"
     },
     {
-      "name": "biolith-fabric-1.0.1-alpha.1.jar",
-      "path": "mods/biolith-fabric-1.0.1-alpha.1.jar",
-      "hash": "0a4de9ec0ba206349f6759a4fb1b996926b59cb7",
-      "size": 150625,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/biolith-fabric-1.0.1-alpha.1.jar"
+      "name": "biolith-fabric-1.0.1-beta.1.jar",
+      "path": "mods/biolith-fabric-1.0.1-beta.1.jar",
+      "hash": "a52e3880f50d50cd3b95b24348bb8b6a1f0ed673",
+      "size": 152913,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/biolith-fabric-1.0.1-beta.1.jar"
     },
     {
       "name": "birdsboids-1.3.1+1.20.1.jar",
@@ -6303,25 +5987,25 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/castle_dungeons-4.0.0-1.20-fabric.jar"
     },
     {
-      "name": "castleshift-0.1.0_2B1.20.1-fabric.jar",
-      "path": "mods/castleshift-0.1.0_2B1.20.1-fabric.jar",
-      "hash": "64cf6185a7a61f9d51b95f8de65fa362f8813478",
-      "size": 158612,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/castleshift-0.1.0_2B1.20.1-fabric.jar"
+      "name": "castleshift-0.3.0+1.20.1-fabric.jar",
+      "path": "mods/castleshift-0.3.0+1.20.1-fabric.jar",
+      "hash": "c28b16331bf9131e212e236c8d5c94b314390a3c",
+      "size": 168931,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/castleshift-0.3.0+1.20.1-fabric.jar"
     },
     {
-      "name": "cave_dust-1.4.1.jar",
-      "path": "mods/cave_dust-1.4.1.jar",
-      "hash": "08cf3dda0dafa14f00ba32a062c15739cf6bc014",
-      "size": 239387,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/cave_dust-1.4.1.jar"
+      "name": "cave_dust-3.0.1.jar",
+      "path": "mods/cave_dust-3.0.1.jar",
+      "hash": "4b8a19c8f311460a0f5e535a7d931bdd821593f5",
+      "size": 243901,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/cave_dust-3.0.1.jar"
     },
     {
-      "name": "chat_heads-0.15.0-fabric-1.20.jar",
-      "path": "mods/chat_heads-0.15.0-fabric-1.20.jar",
-      "hash": "d6e2d160ee5c91bf5ead70fb0ce4e600e0888439",
-      "size": 84380,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/chat_heads-0.15.0-fabric-1.20.jar"
+      "name": "chat_heads-0.15.7-fabric-1.20.jar",
+      "path": "mods/chat_heads-0.15.7-fabric-1.20.jar",
+      "hash": "f35f3a2258f69be0a49d098c790869419b3ac2ce",
+      "size": 86846,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/chat_heads-0.15.7-fabric-1.20.jar"
     },
     {
       "name": "cherishedworlds-fabric-6.1.7+1.20.1.jar",
@@ -6345,11 +6029,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/citadel-1.20.1-1.0.0.jar"
     },
     {
-      "name": "clientsort-fabric-2.2.1_2B1.20.1.jar",
-      "path": "mods/clientsort-fabric-2.2.1_2B1.20.1.jar",
-      "hash": "de50d019ba670ec8591591826df267c59dfa7001",
-      "size": 314152,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/clientsort-fabric-2.2.1_2B1.20.1.jar"
+      "name": "clientsort-fabric-3.82.1+1.20.1.jar",
+      "path": "mods/clientsort-fabric-3.82.1+1.20.1.jar",
+      "hash": "d95ae1f625760e176c7d3a4fdf48bbf979346a4c",
+      "size": 322477,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/clientsort-fabric-3.82.1+1.20.1.jar"
     },
     {
       "name": "cloth-config-11.1.136-fabric.jar",
@@ -6366,11 +6050,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/clutter-1.20-0.6.2.jar"
     },
     {
-      "name": "collective-1.20.1-8.13.jar",
-      "path": "mods/collective-1.20.1-8.13.jar",
-      "hash": "74b917dd99cd97b2f0480628a1b56958f5e0f5ad",
-      "size": 665169,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/collective-1.20.1-8.13.jar"
+      "name": "collective-1.20.1-8.40.jar",
+      "path": "mods/collective-1.20.1-8.40.jar",
+      "hash": "b1ea99ec3dd4ef5f5b688dbe378060e7b97a544a",
+      "size": 745947,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/collective-1.20.1-8.40.jar"
     },
     {
       "name": "combatroll-fabric-1.3.3+1.20.1.jar",
@@ -6387,11 +6071,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/comforts-fabric-6.4.0+1.20.1.jar"
     },
     {
-      "name": "connectiblechains-fabric-1.20.1-1.2.5.jar",
-      "path": "mods/connectiblechains-fabric-1.20.1-1.2.5.jar",
-      "hash": "229d091dcf59ee239edc6a481fdd94b76a51b8d8",
-      "size": 160200,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/connectiblechains-fabric-1.20.1-1.2.5.jar"
+      "name": "connectiblechains-fabric-1.20.1-2.2.5.jar",
+      "path": "mods/connectiblechains-fabric-1.20.1-2.2.5.jar",
+      "hash": "6296f996beb1aa5f7a07425d637768743c8ff79b",
+      "size": 203203,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/connectiblechains-fabric-1.20.1-2.2.5.jar"
     },
     {
       "name": "continuity-3.0.0+1.20.1.jar",
@@ -6415,25 +6099,25 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/coroutil-fabric-1.20.1-1.3.7.jar"
     },
     {
-      "name": "cosycritters-0.3.1_2B1.20.1-fabric.jar",
-      "path": "mods/cosycritters-0.3.1_2B1.20.1-fabric.jar",
-      "hash": "3f96503900ae759a6e61cf6483deb39d30e489df",
-      "size": 95787,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/cosycritters-0.3.1_2B1.20.1-fabric.jar"
+      "name": "cosycritters-0.3.3+1.20.1-fabric.jar",
+      "path": "mods/cosycritters-0.3.3+1.20.1-fabric.jar",
+      "hash": "9a5d02eb6733bde012d210f8a80cf6e1c2c8fcd3",
+      "size": 101854,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/cosycritters-0.3.3+1.20.1-fabric.jar"
     },
     {
-      "name": "crawlondemand-1.20-1.20.1-1.2.0_2Bfabric.jar",
-      "path": "mods/crawlondemand-1.20-1.20.1-1.2.0_2Bfabric.jar",
-      "hash": "2a2f018576d492811d938ba4a7d33cc9cf36f417",
-      "size": 24789,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/crawlondemand-1.20-1.20.1-1.2.0_2Bfabric.jar"
+      "name": "crawlondemand-1.20-1.20.1-1.3.0+fabric.jar",
+      "path": "mods/crawlondemand-1.20-1.20.1-1.3.0+fabric.jar",
+      "hash": "c9641c455e67d04a5e262f71883422beb8c4647f",
+      "size": 35198,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/crawlondemand-1.20-1.20.1-1.3.0+fabric.jar"
     },
     {
-      "name": "create-fabric-6.0.8.1_2Bbuild.1744-mc1.20.1.jar",
-      "path": "mods/create-fabric-6.0.8.1_2Bbuild.1744-mc1.20.1.jar",
+      "name": "create-fabric-6.0.8.1+build.1744-mc1.20.1.jar",
+      "path": "mods/create-fabric-6.0.8.1+build.1744-mc1.20.1.jar",
       "hash": "f750d019bc1230c8c7a8a4ccf549d1db192d7a69",
       "size": 32189889,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/create-fabric-6.0.8.1_2Bbuild.1744-mc1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/create-fabric-6.0.8.1+build.1744-mc1.20.1.jar"
     },
     {
       "name": "create-structures-0.1.1-1.20.1-FABRIC.jar",
@@ -6464,11 +6148,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/createaddition-fabric_2B1.20.1-1.3.4.jar"
     },
     {
-      "name": "createbigcannons-5.11.2-mc.1.20.1-fabric.jar",
-      "path": "mods/createbigcannons-5.11.2-mc.1.20.1-fabric.jar",
-      "hash": "11da711f3fbbcfa341c7174b9e4c32280dfa93ad",
-      "size": 6329896,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/createbigcannons-5.11.2-mc.1.20.1-fabric.jar"
+      "name": "createbigcannons-5.11.4-mc.1.20.1-fabric.jar",
+      "path": "mods/createbigcannons-5.11.4-mc.1.20.1-fabric.jar",
+      "hash": "f7510790076f42476a3dde022174c93f774221ca",
+      "size": 6346405,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/createbigcannons-5.11.4-mc.1.20.1-fabric.jar"
     },
     {
       "name": "creeperoverhaul-3.0.2-fabric.jar",
@@ -6555,11 +6239,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/dynamiccrosshair-9.10+1.20.1-fabric.jar"
     },
     {
-      "name": "effectual-fabric-1.3.1-1.20.1.jar",
-      "path": "mods/effectual-fabric-1.3.1-1.20.1.jar",
-      "hash": "bb932c61eb330ec9d8f38fbdb402fc96ce395e8a",
-      "size": 346807,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/effectual-fabric-1.3.1-1.20.1.jar"
+      "name": "e4all-fabric-2.1.2.jar",
+      "path": "mods/e4all-fabric-2.1.2.jar",
+      "hash": "2fcc0e9256da64410ebe26b45f0978a8646498a3",
+      "size": 913334,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/e4all-fabric-2.1.2.jar"
+    },
+    {
+      "name": "effectual-fabric-1.4.1-1.20.1.jar",
+      "path": "mods/effectual-fabric-1.4.1-1.20.1.jar",
+      "hash": "26d4f8564338e45d83c2b25d1bbea1f20afebcfa",
+      "size": 318248,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/effectual-fabric-1.4.1-1.20.1.jar"
     },
     {
       "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
@@ -6576,67 +6267,67 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/endermanoverhaul-fabric-1.20.1-1.0.4.jar"
     },
     {
-      "name": "entity_model_features-3.2.4-1.20.1-fabric.jar",
-      "path": "mods/entity_model_features-3.2.4-1.20.1-fabric.jar",
-      "hash": "648a454bb671322811ba204331d975cde88d22e1",
-      "size": 565302,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/entity_model_features-3.2.4-1.20.1-fabric.jar"
+      "name": "entity_model_features-3.3.9-1.20.1-fabric.jar",
+      "path": "mods/entity_model_features-3.3.9-1.20.1-fabric.jar",
+      "hash": "838d9bdd855966e53f2117cd4c7260e4d640895a",
+      "size": 638045,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/entity_model_features-3.3.9-1.20.1-fabric.jar"
     },
     {
-      "name": "entity_texture_features_1.20.1-fabric-7.1.jar",
-      "path": "mods/entity_texture_features_1.20.1-fabric-7.1.jar",
-      "hash": "481aa5c55f237b525b3d8aef11b56274910d92b2",
-      "size": 753298,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/entity_texture_features_1.20.1-fabric-7.1.jar"
+      "name": "entity_texture_features-7.2.4-1.20.1-fabric.jar",
+      "path": "mods/entity_texture_features-7.2.4-1.20.1-fabric.jar",
+      "hash": "e0913d6c4a655dace0db8d08c2e7a910394b6701",
+      "size": 791015,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/entity_texture_features-7.2.4-1.20.1-fabric.jar"
     },
     {
-      "name": "entityculling-fabric-1.10.0-mc1.20.1.jar",
-      "path": "mods/entityculling-fabric-1.10.0-mc1.20.1.jar",
-      "hash": "f99f5912e7f07b5b7cd4fa666e1e20d05e8412f3",
-      "size": 1570313,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/entityculling-fabric-1.10.0-mc1.20.1.jar"
+      "name": "entityculling-fabric-1.11.2-mc1.20.1.jar",
+      "path": "mods/entityculling-fabric-1.11.2-mc1.20.1.jar",
+      "hash": "fd43e8a962d7026fa5342c260fd3b3f98809913c",
+      "size": 1516669,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/entityculling-fabric-1.11.2-mc1.20.1.jar"
     },
     {
-      "name": "epic-knights-1.20.1-fabric-10.11.jar",
-      "path": "mods/epic-knights-1.20.1-fabric-10.11.jar",
-      "hash": "4e0b40362b0f34b6f6b77d50b5b5bcfffc703eaa",
-      "size": 2808300,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/epic-knights-1.20.1-fabric-10.11.jar"
+      "name": "epic-knights-1.20.1-fabric-10.15.jar",
+      "path": "mods/epic-knights-1.20.1-fabric-10.15.jar",
+      "hash": "ac6779c340a74dfab7c186979c66a6e8fc223ea4",
+      "size": 2798665,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/epic-knights-1.20.1-fabric-10.15.jar"
     },
     {
-      "name": "eureka-1201-1.6.1.jar",
-      "path": "mods/eureka-1201-1.6.1.jar",
-      "hash": "e786acf0003d378c2268a97c751f57c30b479f64",
-      "size": 451134,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/eureka-1201-1.6.1.jar"
+      "name": "eureka-1201-1.6.3.jar",
+      "path": "mods/eureka-1201-1.6.3.jar",
+      "hash": "ba8bd6327dccd5edc4b8d0767326f0bf4a5c7a3b",
+      "size": 451477,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/eureka-1201-1.6.3.jar"
     },
     {
-      "name": "exposure-fabric-1.20.1-1.9.20.jar",
-      "path": "mods/exposure-fabric-1.20.1-1.9.20.jar",
-      "hash": "7f76eeac53b2a7a26d52c3023e983ad41a57900b",
-      "size": 1997428,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/exposure-fabric-1.20.1-1.9.20.jar"
+      "name": "exposure-fabric-1.20.1-1.9.22.jar",
+      "path": "mods/exposure-fabric-1.20.1-1.9.22.jar",
+      "hash": "b66dc8a27aa61285a4c95abc1707ec7f6e791802",
+      "size": 1997230,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/exposure-fabric-1.20.1-1.9.22.jar"
     },
     {
-      "name": "extrasounds-1.5.4_2B1.20.1-fabric.jar",
-      "path": "mods/extrasounds-1.5.4_2B1.20.1-fabric.jar",
-      "hash": "b761f645bf54f113471321720dd524ab3613bf29",
-      "size": 370876,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/extrasounds-1.5.4_2B1.20.1-fabric.jar"
+      "name": "extrasounds-1.5.6+1.20.1-fabric.jar",
+      "path": "mods/extrasounds-1.5.6+1.20.1-fabric.jar",
+      "hash": "b17d0b37a5690c5f359c8dcc088c61b7ed56d624",
+      "size": 376762,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/extrasounds-1.5.6+1.20.1-fabric.jar"
     },
     {
-      "name": "fabric-api-0.92.9%2B1.20.1.jar",
-      "path": "mods/fabric-api-0.92.9%2B1.20.1.jar",
-      "hash": "89c79de1c8e17f3d34fded3a2fe401e7e60a707d",
-      "size": 2111565,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/fabric-api-0.92.9%252B1.20.1.jar"
+      "name": "fabric-api-0.92.12+1.20.1.jar",
+      "path": "mods/fabric-api-0.92.12+1.20.1.jar",
+      "hash": "3e9cdd3e2f827ca9a259df9eb8e31949437b6bd4",
+      "size": 2137232,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/fabric-api-0.92.12+1.20.1.jar"
     },
     {
-      "name": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
-      "path": "mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
-      "hash": "2bc17bb4275cc70a12e4ac35d139a71a30845720",
-      "size": 8076848,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar"
+      "name": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+      "path": "mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+      "hash": "62ae40a31b689b52fde399f2143d547a631e942c",
+      "size": 8142858,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar"
     },
     {
       "name": "fabric-medievalend-1.0.1.jar",
@@ -6646,18 +6337,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/fabric-medievalend-1.0.1.jar"
     },
     {
-      "name": "fairylights-1.1.4_fabric.jar",
-      "path": "mods/fairylights-1.1.4_fabric.jar",
-      "hash": "6de36088818fa945b027450a83edbe593381e715",
-      "size": 762660,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/fairylights-1.1.4_fabric.jar"
+      "name": "fairylights-1.1.5_fabric.jar",
+      "path": "mods/fairylights-1.1.5_fabric.jar",
+      "hash": "13c6e642d38d0a7aa8d1b9d1dc34cac0ceff985b",
+      "size": 762608,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/fairylights-1.1.5_fabric.jar"
     },
     {
-      "name": "fallingtrees-0.12-fabric-1.20.jar",
-      "path": "mods/fallingtrees-0.12-fabric-1.20.jar",
-      "hash": "08f3f26228b75b0dab315dd9ea664c0a1e9cc570",
-      "size": 4005714,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/fallingtrees-0.12-fabric-1.20.jar"
+      "name": "fallingtrees-fabric-1.20.1-0.14.0.jar",
+      "path": "mods/fallingtrees-fabric-1.20.1-0.14.0.jar",
+      "hash": "48f6708702422ca00ae24b1bf0174b485e17219b",
+      "size": 4083895,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/fallingtrees-fabric-1.20.1-0.14.0.jar"
     },
     {
       "name": "ferritecore-6.0.1-fabric.jar",
@@ -6674,11 +6365,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/firespreadtweaks-1.20.1-2.8.jar"
     },
     {
-      "name": "firstperson-fabric-2.6.3-mc1.20.1.jar",
-      "path": "mods/firstperson-fabric-2.6.3-mc1.20.1.jar",
-      "hash": "21673a68258d9ca7c255cbde7f2f817faa18670a",
-      "size": 1597960,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/firstperson-fabric-2.6.3-mc1.20.1.jar"
+      "name": "firstperson-fabric-2.7.2-mc1.20.1.jar",
+      "path": "mods/firstperson-fabric-2.7.2-mc1.20.1.jar",
+      "hash": "5c48256d458c36f626d76098a35d82adf8a5d017",
+      "size": 1618822,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/firstperson-fabric-2.7.2-mc1.20.1.jar"
     },
     {
       "name": "fishingreal-fabric-1.20.1-1.9.1-backport.jar",
@@ -6737,18 +6428,25 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/fpm-combat-fix-1.0.2.jar"
     },
     {
-      "name": "fwa_2B1.20.1-1.2.6.jar",
-      "path": "mods/fwa_2B1.20.1-1.2.6.jar",
-      "hash": "05bf7e3bbf9a6b81005664be04b656b8917258c9",
-      "size": 348372,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/fwa_2B1.20.1-1.2.6.jar"
+      "name": "fragmentum-5.0.0+1.20.1-fabric.jar",
+      "path": "mods/fragmentum-5.0.0+1.20.1-fabric.jar",
+      "hash": "2437bb21d1a584dd69577dd7e9bc94adf2b06cb2",
+      "size": 9681263,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/fragmentum-5.0.0+1.20.1-fabric.jar"
     },
     {
-      "name": "fzzy_config-0.7.6+1.20.1.jar",
-      "path": "mods/fzzy_config-0.7.6+1.20.1.jar",
-      "hash": "86a3f59b61583527f222c6fc2d7fcef555e1ac56",
-      "size": 2372585,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/fzzy_config-0.7.6+1.20.1.jar"
+      "name": "fwa+1.20.1-1.2.31.jar",
+      "path": "mods/fwa+1.20.1-1.2.31.jar",
+      "hash": "58324697d0713e69417b43f5d0580f7336feb445",
+      "size": 387115,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/fwa+1.20.1-1.2.31.jar"
+    },
+    {
+      "name": "fzzy_config-0.7.7+1.20.1.jar",
+      "path": "mods/fzzy_config-0.7.7+1.20.1.jar",
+      "hash": "1e2aa73a64385b5696b177f846ba26abb5b1f2e7",
+      "size": 2395040,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/fzzy_config-0.7.7+1.20.1.jar"
     },
     {
       "name": "gamemenuremovegfarb-fabric-mc1.19.4-2.1.2.jar",
@@ -6760,8 +6458,8 @@
     {
       "name": "geckolib-fabric-1.20.1-4.8.4.jar",
       "path": "mods/geckolib-fabric-1.20.1-4.8.4.jar",
-      "hash": "e405fa2399333ebc98ae0e4889ae5f1303efb061",
-      "size": 969015,
+      "hash": "c9a5016380d6d17134bc7322f4d67d6e9cbf4c68",
+      "size": 969016,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/geckolib-fabric-1.20.1-4.8.4.jar"
     },
     {
@@ -6793,6 +6491,13 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/handcrafted-fabric-1.20.1-3.0.6.jar"
     },
     {
+      "name": "hapi-fabric-1.20.1-1.1.2.jar",
+      "path": "mods/hapi-fabric-1.20.1-1.1.2.jar",
+      "hash": "87eba44f69debdb1978ffaa378627e95f1cbb969",
+      "size": 809021,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/hapi-fabric-1.20.1-1.1.2.jar"
+    },
+    {
       "name": "herdspanic-1.1.0.jar",
       "path": "mods/herdspanic-1.1.0.jar",
       "hash": "39c1aa58c165ef5930953ed1698156204280c281",
@@ -6807,6 +6512,20 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/hobbit_hill_village-0.0.4.jar"
     },
     {
+      "name": "hybrid_aquatic-fabric-1.20.1-1.7.3.jar",
+      "path": "mods/hybrid_aquatic-fabric-1.20.1-1.7.3.jar",
+      "hash": "e0df80db05e8dabcb12f036472c603ef3ff72f3c",
+      "size": 6131732,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/hybrid_aquatic-fabric-1.20.1-1.7.3.jar"
+    },
+    {
+      "name": "hybrid_birds-fabric-1.20.1-1.3.0.jar",
+      "path": "mods/hybrid_birds-fabric-1.20.1-1.3.0.jar",
+      "hash": "164b61a022e41eca74e5e95f6508db3127079d8f",
+      "size": 1856547,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/hybrid_birds-fabric-1.20.1-1.3.0.jar"
+    },
+    {
       "name": "ice_pillager_castle-4.0.jar",
       "path": "mods/ice_pillager_castle-4.0.jar",
       "hash": "8724f8adf669942dbe062b350da0ac32123390da",
@@ -6814,18 +6533,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/ice_pillager_castle-4.0.jar"
     },
     {
-      "name": "immersive_paintings-0.6.11+1.20.1-fabric.jar",
-      "path": "mods/immersive_paintings-0.6.11+1.20.1-fabric.jar",
-      "hash": "6468c87bae03d2a19aef7ae67d2bd8be356062de",
-      "size": 4853363,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/immersive_paintings-0.6.11+1.20.1-fabric.jar"
+      "name": "immersive_horse_riding-1.20.1-Fabric-2.0.0.jar",
+      "path": "mods/immersive_horse_riding-1.20.1-Fabric-2.0.0.jar",
+      "hash": "52c6e4bc37e3d032678c71bc445c1d92ac8e8ca5",
+      "size": 143510,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/immersive_horse_riding-1.20.1-Fabric-2.0.0.jar"
     },
     {
-      "name": "immersivehorseriding-1.20.1-Fabric-1.2.1.jar",
-      "path": "mods/immersivehorseriding-1.20.1-Fabric-1.2.1.jar",
-      "hash": "06212011c67b8784ff1118c4b62d17f03b62f205",
-      "size": 151454,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/immersivehorseriding-1.20.1-Fabric-1.2.1.jar"
+      "name": "immersive_paintings-0.6.13+1.20.1-fabric.jar",
+      "path": "mods/immersive_paintings-0.6.13+1.20.1-fabric.jar",
+      "hash": "839de77944a40daa20398156034e9fa2af26ae31",
+      "size": 4854362,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/immersive_paintings-0.6.13+1.20.1-fabric.jar"
     },
     {
       "name": "imst-2.1.0.jar",
@@ -6856,25 +6575,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/iris-1.7.6+mc1.20.1.jar"
     },
     {
-      "name": "jamlib-fabric-1.3.6_2B1.20.1.jar",
-      "path": "mods/jamlib-fabric-1.3.6_2B1.20.1.jar",
-      "hash": "430fdc45b11ea8a98f1f305e8f1f949848bf6e24",
-      "size": 239867,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/jamlib-fabric-1.3.6_2B1.20.1.jar"
+      "name": "jamlib-fabric-1.3.6+1.20.1-patch.1.jar",
+      "path": "mods/jamlib-fabric-1.3.6+1.20.1-patch.1.jar",
+      "hash": "d8e96e5f4a0a7e7d6a0a57852a893a797487272c",
+      "size": 240638,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/jamlib-fabric-1.3.6+1.20.1-patch.1.jar"
     },
     {
-      "name": "jei-1.20.1-fabric-15.20.0.129.jar",
-      "path": "mods/jei-1.20.1-fabric-15.20.0.129.jar",
-      "hash": "5f3633e768fabe6a9a99d1fb536b730f7c038b04",
-      "size": 1422496,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/jei-1.20.1-fabric-15.20.0.129.jar"
-    },
-    {
-      "name": "jmi-fabric-1.20.1-0.14-48.jar",
-      "path": "mods/jmi-fabric-1.20.1-0.14-48.jar",
-      "hash": "e6eaf8118cf9eecb9cb1e05ed81062e996a590b5",
-      "size": 70950,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/jmi-fabric-1.20.1-0.14-48.jar"
+      "name": "jei-1.20.1-fabric-15.62.0.214.jar",
+      "path": "mods/jei-1.20.1-fabric-15.62.0.214.jar",
+      "hash": "0dae60f7aa382c3cd3af3c2c6cb1e1cff5d0b7d6",
+      "size": 2263284,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/jei-1.20.1-fabric-15.62.0.214.jar"
     },
     {
       "name": "journeymap-1.20.1-5.10.3-fabric.jar",
@@ -6938,13 +6650,6 @@
       "hash": "eeab178cb91f18bc72f990c2097b5f0103f01c06",
       "size": 1114373,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/lambdynamiclights-4.4.0+1.20.1.jar"
-    },
-    {
-      "name": "lanserverproperties-1.11.1-fabric.jar",
-      "path": "mods/lanserverproperties-1.11.1-fabric.jar",
-      "hash": "875575b9764cf1f88d69e5035b9b7e166d672d22",
-      "size": 43918,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/lanserverproperties-1.11.1-fabric.jar"
     },
     {
       "name": "lazydfu-0.1.3.jar",
@@ -7019,8 +6724,8 @@
     {
       "name": "libraryferret-fabric-1.20.1-4.0.0.jar",
       "path": "mods/libraryferret-fabric-1.20.1-4.0.0.jar",
-      "hash": "ec87a635904ac0d52e619fa004e93c406cc0d671",
-      "size": 172458,
+      "hash": "edb71f2def846f544db328a87a0478a99b98b5cb",
+      "size": 226325,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/libraryferret-fabric-1.20.1-4.0.0.jar"
     },
     {
@@ -7164,25 +6869,32 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/mcw-trapdoors-1.1.5-mc1.20.1fabric.jar"
     },
     {
-      "name": "mebahel-creatures-draugr-1.8.5-fabric-1.20.1.jar",
-      "path": "mods/mebahel-creatures-draugr-1.8.5-fabric-1.20.1.jar",
-      "hash": "cd01c5d019052c659dc28911570249f1ad2f07fc",
-      "size": 8506001,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/mebahel-creatures-draugr-1.8.5-fabric-1.20.1.jar"
+      "name": "mebahel-creatures-draugr-2.1.3-fabric-1.20.1.jar",
+      "path": "mods/mebahel-creatures-draugr-2.1.3-fabric-1.20.1.jar",
+      "hash": "a65759755f120e0693391ff112fa72d9d2b1eabd",
+      "size": 6597028,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/mebahel-creatures-draugr-2.1.3-fabric-1.20.1.jar"
     },
     {
-      "name": "mebahel-creatures-dwarven-1.0.7-fabric-1.20.1.jar",
-      "path": "mods/mebahel-creatures-dwarven-1.0.7-fabric-1.20.1.jar",
-      "hash": "23e4a33cf0c84b214ee850f2bb73e0125da44a52",
-      "size": 4015477,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/mebahel-creatures-dwarven-1.0.7-fabric-1.20.1.jar"
+      "name": "mebahel-creatures-dwarven-1.3.3-fabric-1.20.1.jar",
+      "path": "mods/mebahel-creatures-dwarven-1.3.3-fabric-1.20.1.jar",
+      "hash": "fd8308a6ff9c93d22dcc3f0e5d551f646d4d16e0",
+      "size": 4419799,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/mebahel-creatures-dwarven-1.3.3-fabric-1.20.1.jar"
     },
     {
-      "name": "mebahels-api-1.0.20-fabric-1.20.1.jar",
-      "path": "mods/mebahels-api-1.0.20-fabric-1.20.1.jar",
-      "hash": "dc197f4745c28e2ca6caaac76f5e73daac51a5ef",
-      "size": 50933,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/mebahels-api-1.0.20-fabric-1.20.1.jar"
+      "name": "mebahel-elder-scrolls-core-1.4.0-fabric-1.20.1.jar",
+      "path": "mods/mebahel-elder-scrolls-core-1.4.0-fabric-1.20.1.jar",
+      "hash": "e65d713170a439a9dfd072f17f69a67394b6023a",
+      "size": 3008260,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/mebahel-elder-scrolls-core-1.4.0-fabric-1.20.1.jar"
+    },
+    {
+      "name": "mebahels-api-1.1.5-fabric-1.20.1.jar",
+      "path": "mods/mebahels-api-1.1.5-fabric-1.20.1.jar",
+      "hash": "a3e7a80c66b6fb78f576f6ab0c0da861655d8be3",
+      "size": 85531,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/mebahels-api-1.1.5-fabric-1.20.1.jar"
     },
     {
       "name": "medieval_buildings-1.20.1-1.1.3-fabric.jar",
@@ -7213,25 +6925,25 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/memorysettings-fabric-1.20.1-5.9.jar"
     },
     {
-      "name": "mes-1.4.6-1.20-fabric.jar",
-      "path": "mods/mes-1.4.6-1.20-fabric.jar",
-      "hash": "219d6795e87f68d73e2f5e4f313ad93d55f9f4b1",
-      "size": 1135808,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/mes-1.4.6-1.20-fabric.jar"
+      "name": "mezz_config-1.20.1-fabric-0.6.3.jar",
+      "path": "mods/mezz_config-1.20.1-fabric-0.6.3.jar",
+      "hash": "9065965e941d08111d83a7b6f42471bbecde8f1b",
+      "size": 347567,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/mezz_config-1.20.1-fabric-0.6.3.jar"
     },
     {
-      "name": "midnightlib-fabric-1.9.2_2B1.20.1.jar",
-      "path": "mods/midnightlib-fabric-1.9.2_2B1.20.1.jar",
-      "hash": "40abb8a47d30f387a3c2110fc23ea0c364034c09",
-      "size": 58575,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/midnightlib-fabric-1.9.2_2B1.20.1.jar"
+      "name": "midnightlib-fabric-1.9.3+1.20.1.jar",
+      "path": "mods/midnightlib-fabric-1.9.3+1.20.1.jar",
+      "hash": "fe3ad2975295cf1c5eaa47b83d84a9c7a4c00f8f",
+      "size": 59401,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/midnightlib-fabric-1.9.3+1.20.1.jar"
     },
     {
-      "name": "mob_explosion_griefing-1.1.0_1.20.x.jar",
-      "path": "mods/mob_explosion_griefing-1.1.0_1.20.x.jar",
-      "hash": "75e9ab5a6c3086713c25a4729162796b6c209480",
-      "size": 64769,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/mob_explosion_griefing-1.1.0_1.20.x.jar"
+      "name": "mob_explosion_griefing-2.1.0+1.20-1.20.2.jar",
+      "path": "mods/mob_explosion_griefing-2.1.0+1.20-1.20.2.jar",
+      "hash": "329ff313aff398c95ca903cfb27c95d397e372f8",
+      "size": 71940,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/mob_explosion_griefing-2.1.0+1.20-1.20.2.jar"
     },
     {
       "name": "modefite_item_definitions-1.0.3_2B1.20.1.jar",
@@ -7269,18 +6981,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/modmenu-badges-lib-2023.6.1.jar"
     },
     {
-      "name": "moogs_structure_lib-1.1.0-1.20-1.20.4-fabric.jar",
-      "path": "mods/moogs_structure_lib-1.1.0-1.20-1.20.4-fabric.jar",
-      "hash": "c103bae01ea0ae6a0a6965b7700958fc980aedee",
-      "size": 255203,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/moogs_structure_lib-1.1.0-1.20-1.20.4-fabric.jar"
-    },
-    {
-      "name": "moonlight-1.20-2.16.28-fabric.jar",
-      "path": "mods/moonlight-1.20-2.16.28-fabric.jar",
-      "hash": "bf9286b0eef1f2c9cca327bc25d4be3c6b240a83",
-      "size": 1364979,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/moonlight-1.20-2.16.28-fabric.jar"
+      "name": "moonlight-1.20-2.16.35-fabric.jar",
+      "path": "mods/moonlight-1.20-2.16.35-fabric.jar",
+      "hash": "6345b139bd00b9bf8255e4b7d2bbb1c9ba50f868",
+      "size": 1396709,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/moonlight-1.20-2.16.35-fabric.jar"
     },
     {
       "name": "morebannerfeatures-1.2.0-1.20.jar",
@@ -7290,11 +6995,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/morebannerfeatures-1.2.0-1.20.jar"
     },
     {
-      "name": "moreculling-1.20.1-0.24.5.jar",
-      "path": "mods/moreculling-1.20.1-0.24.5.jar",
-      "hash": "5110436d5f7867033744d2c065c44986730d79aa",
-      "size": 274506,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/moreculling-1.20.1-0.24.5.jar"
+      "name": "moreculling-1.20.1-0.24.6.jar",
+      "path": "mods/moreculling-1.20.1-0.24.6.jar",
+      "hash": "c99e1ede1b0a6b90467078a8abdd6259c83d77f4",
+      "size": 274523,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/moreculling-1.20.1-0.24.6.jar"
+    },
+    {
+      "name": "mru-1.0.40+1.20.1-fabric.jar",
+      "path": "mods/mru-1.0.40+1.20.1-fabric.jar",
+      "hash": "c2cca4f3bf1245052b2b66a5a850d1db48f18ad5",
+      "size": 156221,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/mru-1.0.40+1.20.1-fabric.jar"
     },
     {
       "name": "namepain-1.5.3+fabric-1.20.x.jar",
@@ -7304,11 +7016,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/namepain-1.5.3+fabric-1.20.x.jar"
     },
     {
-      "name": "neruina-3.2.2_2B1.20.1-fabric.jar",
-      "path": "mods/neruina-3.2.2_2B1.20.1-fabric.jar",
-      "hash": "d28e1bd766265e513eab7e5c2af25cc762a217eb",
-      "size": 843876,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/neruina-3.2.2_2B1.20.1-fabric.jar"
+      "name": "neruina-3.3.3+1.20.1-fabric.jar",
+      "path": "mods/neruina-3.3.3+1.20.1-fabric.jar",
+      "hash": "493da2aca0f516572e498894c0b2bf660ef3af59",
+      "size": 856653,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/neruina-3.3.3+1.20.1-fabric.jar"
     },
     {
       "name": "noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
@@ -7318,11 +7030,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/noisium-fabric-2.3.0+mc1.20-1.20.1.jar"
     },
     {
-      "name": "notenoughanimations-fabric-1.12.4-mc1.20.1.jar",
-      "path": "mods/notenoughanimations-fabric-1.12.4-mc1.20.1.jar",
-      "hash": "220aea191b2fc5045ff7121b07aedbe00e2ff4c6",
-      "size": 1944718,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/notenoughanimations-fabric-1.12.4-mc1.20.1.jar"
+      "name": "notenoughanimations-fabric-1.12.6-mc1.20.1.jar",
+      "path": "mods/notenoughanimations-fabric-1.12.6-mc1.20.1.jar",
+      "hash": "803d78d6d26356fe2f354725204df391e62abfc5",
+      "size": 1870496,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/notenoughanimations-fabric-1.12.6-mc1.20.1.jar"
     },
     {
       "name": "nyfsarcheryplus-fabric-1.20.1-1.1.1.jar",
@@ -7330,13 +7042,6 @@
       "hash": "7c00c111165d522049d5b25357a3e7b3611ec6b4",
       "size": 269424,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/nyfsarcheryplus-fabric-1.20.1-1.1.1.jar"
-    },
-    {
-      "name": "nyfsspiders-fabric-1.20.1-3.0.1.jar",
-      "path": "mods/nyfsspiders-fabric-1.20.1-3.0.1.jar",
-      "hash": "2014ccecc66ff5d7a51f216fcec4eee3b7b86998",
-      "size": 520501,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/nyfsspiders-fabric-1.20.1-3.0.1.jar"
     },
     {
       "name": "owo-lib-0.11.2+1.20.jar",
@@ -7353,18 +7058,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/packetfixer-3.3.2-1.18-1.20.4-merged.jar"
     },
     {
-      "name": "pandalib-0.2.1-fabric-1.20.jar",
-      "path": "mods/pandalib-0.2.1-fabric-1.20.jar",
-      "hash": "5105e3eeeb6d758e0da6d79b573543bb4ca7683d",
-      "size": 44473,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/pandalib-0.2.1-fabric-1.20.jar"
+      "name": "pandalib-fabric-1.20.1-0.6.2.jar",
+      "path": "mods/pandalib-fabric-1.20.1-0.6.2.jar",
+      "hash": "4688da30901b38334f7e1cbc472bd09e38ea9897",
+      "size": 7951065,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/pandalib-fabric-1.20.1-0.6.2.jar"
     },
     {
-      "name": "particlerain-4.0.0-beta.8_2B1.20.1-fabric.jar",
-      "path": "mods/particlerain-4.0.0-beta.8_2B1.20.1-fabric.jar",
-      "hash": "915ad37a21ecc59894055f5b003a82f0408a5572",
-      "size": 602284,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/particlerain-4.0.0-beta.8_2B1.20.1-fabric.jar"
+      "name": "particlerain-4.0.0-beta.11+1.20.1-fabric.jar",
+      "path": "mods/particlerain-4.0.0-beta.11+1.20.1-fabric.jar",
+      "hash": "7795ecee62779dcf42ffaf33410aa87dd7aa6f31",
+      "size": 621180,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/particlerain-4.0.0-beta.11+1.20.1-fabric.jar"
     },
     {
       "name": "particular-1.1.2+1.20.1.jar",
@@ -7395,11 +7100,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/pirates-1.20.1-1.9.3-fabric.jar"
     },
     {
-      "name": "placeableblazerods-1.20.1-3.9.jar",
-      "path": "mods/placeableblazerods-1.20.1-3.9.jar",
-      "hash": "e2c7c691182fddeb7d9f8bc78e9c7415cda71a1b",
-      "size": 38218,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/placeableblazerods-1.20.1-3.9.jar"
+      "name": "placeableblazerods-1.20.1-4.1.jar",
+      "path": "mods/placeableblazerods-1.20.1-4.1.jar",
+      "hash": "130c6c72e24e392eb3620ed049044054b01401ec",
+      "size": 38200,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/placeableblazerods-1.20.1-4.1.jar"
     },
     {
       "name": "placeholder-api-2.1.4+1.20.1.jar",
@@ -7423,11 +7128,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/plushies-1.4.0-fabric.jar"
     },
     {
-      "name": "polymorph-fabric-0.49.10+1.20.1.jar",
-      "path": "mods/polymorph-fabric-0.49.10+1.20.1.jar",
-      "hash": "2ffcd9f030e4bb1fe202710cbd945c7f44f880cf",
-      "size": 680833,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/polymorph-fabric-0.49.10+1.20.1.jar"
+      "name": "polymorph-fabric-0.49.11+1.20.1.jar",
+      "path": "mods/polymorph-fabric-0.49.11+1.20.1.jar",
+      "hash": "90669063d2abd60b62c0a92ecc64efb0d30a403c",
+      "size": 683213,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/polymorph-fabric-0.49.11+1.20.1.jar"
     },
     {
       "name": "poses-1.20.x-1.0.0.jar",
@@ -7437,11 +7142,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/poses-1.20.x-1.0.0.jar"
     },
     {
-      "name": "punchy-2.6.1-fabric-1.20.1.jar",
-      "path": "mods/punchy-2.6.1-fabric-1.20.1.jar",
-      "hash": "4a2cd6dd8c3864dfbbb3c18b29fc578310f1e3c8",
-      "size": 1746510,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/punchy-2.6.1-fabric-1.20.1.jar"
+      "name": "punchy-2.8a-fabric-1.20.1.jar",
+      "path": "mods/punchy-2.8a-fabric-1.20.1.jar",
+      "hash": "fddd8d6b5a039343d15671f3176d3051a74e64bf",
+      "size": 1849707,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/punchy-2.8a-fabric-1.20.1.jar"
     },
     {
       "name": "puzzle-fabric-2.3.0_2B1.20.1.jar",
@@ -7465,18 +7170,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/qraftys-end-villages-1.jar"
     },
     {
-      "name": "reds-more-structures-1.0.8-common.jar",
-      "path": "mods/reds-more-structures-1.0.8-common.jar",
-      "hash": "9b203c4a11c326781cfd4d2f5293dd3b9cd17377",
-      "size": 1364522,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/reds-more-structures-1.0.8-common.jar"
+      "name": "reds-more-structures-1.0.8R.jar",
+      "path": "mods/reds-more-structures-1.0.8R.jar",
+      "hash": "19fb07aa9a8acacd6dc019617c04aa365fb3a4ad",
+      "size": 1364521,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/reds-more-structures-1.0.8R.jar"
     },
     {
-      "name": "replaymod-1.20.1-2.6.13.jar",
-      "path": "mods/replaymod-1.20.1-2.6.13.jar",
-      "hash": "a7d1cf1041c1b869dbe25d98abe81138ef634936",
-      "size": 13075030,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/replaymod-1.20.1-2.6.13.jar"
+      "name": "replaymod-1.20.1-2.6.23.jar",
+      "path": "mods/replaymod-1.20.1-2.6.23.jar",
+      "hash": "5688462d17b171c8791308b5a4963057876b6188",
+      "size": 14739015,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/replaymod-1.20.1-2.6.23.jar"
     },
     {
       "name": "resourcefulconfig-fabric-1.20.1-2.1.3.jar",
@@ -7507,11 +7212,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/right-click-harvest-3.2.3+1.19.x-1.20.1-fabric.jar"
     },
     {
-      "name": "ritchiesprojectilelib-2.1.1-mc.1.20.1-fabric.jar",
-      "path": "mods/ritchiesprojectilelib-2.1.1-mc.1.20.1-fabric.jar",
+      "name": "ritchiesprojectilelib-2.1.1+mc.1.20.1-fabric.jar",
+      "path": "mods/ritchiesprojectilelib-2.1.1+mc.1.20.1-fabric.jar",
       "hash": "eb1201c6a6e6149a96914f5f713349dda29c6353",
       "size": 2532001,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/ritchiesprojectilelib-2.1.1-mc.1.20.1-fabric.jar"
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/ritchiesprojectilelib-2.1.1+mc.1.20.1-fabric.jar"
     },
     {
       "name": "ruined-equipment-2.3.1+1.20.1.jar",
@@ -7521,11 +7226,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/ruined-equipment-2.3.1+1.20.1.jar"
     },
     {
-      "name": "saintsdragons-1.20.1-0.7.2-FABRIC-ALPHA.jar",
-      "path": "mods/saintsdragons-1.20.1-0.7.2-FABRIC-ALPHA.jar",
-      "hash": "93826b2a0c2970db5a093445fdeb2ad6b787e567",
-      "size": 15299016,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/saintsdragons-1.20.1-0.7.2-FABRIC-ALPHA.jar"
+      "name": "saintsdragons-0.9.76+fabric-1.20.1.jar",
+      "path": "mods/saintsdragons-0.9.76+fabric-1.20.1.jar",
+      "hash": "59da2dba1d14ff3d60da7e63f72499bc3517d3e6",
+      "size": 30072531,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/saintsdragons-0.9.76+fabric-1.20.1.jar"
     },
     {
       "name": "screenshot_viewer-1.3.1-fabric-mc1.20.jar",
@@ -7542,18 +7247,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/seriousplayeranimations-1.1.1.jar"
     },
     {
-      "name": "simplybows-fabric-0.1.2.jar",
-      "path": "mods/simplybows-fabric-0.1.2.jar",
-      "hash": "bfb7c4bb764ea110cdd4df687c2b16e1f9ef4067",
-      "size": 7082662,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/simplybows-fabric-0.1.2.jar"
+      "name": "simplybows-0.1.4.jar",
+      "path": "mods/simplybows-0.1.4.jar",
+      "hash": "edcd84e28295a71364b0cdbe63f5cb155e9f1599",
+      "size": 7250327,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/simplybows-0.1.4.jar"
     },
     {
-      "name": "simplyswords-1.56.0-1.20.1.jar",
-      "path": "mods/simplyswords-1.56.0-1.20.1.jar",
-      "hash": "6243b46a0ce782f6071243cd2a604470aaf38d77",
-      "size": 15366470,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/simplyswords-1.56.0-1.20.1.jar"
+      "name": "simplyswords-fabric-1.70.2-1.20.1.jar",
+      "path": "mods/simplyswords-fabric-1.70.2-1.20.1.jar",
+      "hash": "902fd3ac7558bebb249f61572227d499f51b3bde",
+      "size": 15700827,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/simplyswords-fabric-1.70.2-1.20.1.jar"
     },
     {
       "name": "sittingplus-2.0.6-1.20.1-FABRIC.jar",
@@ -7563,18 +7268,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/sittingplus-2.0.6-1.20.1-FABRIC.jar"
     },
     {
-      "name": "skinlayers3d-fabric-1.11.0-mc1.20.1.jar",
-      "path": "mods/skinlayers3d-fabric-1.11.0-mc1.20.1.jar",
-      "hash": "46f749631d086f90adc2829d04af7cfe4a2d8ac1",
-      "size": 1973235,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/skinlayers3d-fabric-1.11.0-mc1.20.1.jar"
+      "name": "skinlayers3d-fabric-1.11.3-mc1.20.1.jar",
+      "path": "mods/skinlayers3d-fabric-1.11.3-mc1.20.1.jar",
+      "hash": "edb17dbda4ecf006ae685c62a196d82d1805f1a9",
+      "size": 1912385,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/skinlayers3d-fabric-1.11.3-mc1.20.1.jar"
     },
     {
-      "name": "smooth_f5-fabric-1.0.1.jar",
-      "path": "mods/smooth_f5-fabric-1.0.1.jar",
-      "hash": "bf69d3eee91122bfafd85448334cb24bc18bf29f",
-      "size": 7596,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/smooth_f5-fabric-1.0.1.jar"
+      "name": "smooth_f5-fabric-1.3.0.jar",
+      "path": "mods/smooth_f5-fabric-1.3.0.jar",
+      "hash": "dd1a3bba9b5597263dc71ad18c58c3bc30cd1e08",
+      "size": 83470,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/smooth_f5-fabric-1.3.0.jar"
     },
     {
       "name": "smoothswapping-0.9.3.2-1.20.1-fabric.jar",
@@ -7640,11 +7345,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/structureessentials-fabric-1.20.1-4.8.jar"
     },
     {
-      "name": "supplementaries-1.20-3.1.42-fabric.jar",
-      "path": "mods/supplementaries-1.20-3.1.42-fabric.jar",
-      "hash": "ba19170e8d9a3aa436ecfdfbb7b1030c0151b18c",
-      "size": 13484325,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/supplementaries-1.20-3.1.42-fabric.jar"
+      "name": "supplementaries-1.20-3.1.43-fabric.jar",
+      "path": "mods/supplementaries-1.20-3.1.43-fabric.jar",
+      "hash": "e297cedaf6d64e80579bd6974260ef8759a911c3",
+      "size": 13493444,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/supplementaries-1.20-3.1.43-fabric.jar"
     },
     {
       "name": "sushi_bar-0.2.2+1.20.jar",
@@ -7654,11 +7359,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/sushi_bar-0.2.2+1.20.jar"
     },
     {
-      "name": "swinginglanterns-1.20.1-1.20.6-1.4.0.jar",
-      "path": "mods/swinginglanterns-1.20.1-1.20.6-1.4.0.jar",
-      "hash": "417f1a27e7ef1aa3899eca2d32865f4ef4df2603",
-      "size": 381359,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/swinginglanterns-1.20.1-1.20.6-1.4.0.jar"
+      "name": "swinginglanterns-fabric-1.20.1-2.0.1.jar",
+      "path": "mods/swinginglanterns-fabric-1.20.1-2.0.1.jar",
+      "hash": "7e86802e78998066e523986f151f7f24d97ffd5f",
+      "size": 610775,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/swinginglanterns-fabric-1.20.1-2.0.1.jar"
     },
     {
       "name": "tectonic-3.0.17-fabric-1.20.1.jar",
@@ -7682,18 +7387,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/tia-1.20-1.1-fabric.jar"
     },
     {
-      "name": "tlc-fabric-1.0.1-1.20.X.jar",
-      "path": "mods/tlc-fabric-1.0.1-1.20.X.jar",
-      "hash": "f5ccb478e0bf9a8c38615858c830b75ee76767b1",
-      "size": 719244,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/tlc-fabric-1.0.1-1.20.X.jar"
+      "name": "tlc-fabric-1.20.X-1.2.0-eyeSpy.jar",
+      "path": "mods/tlc-fabric-1.20.X-1.2.0-eyeSpy.jar",
+      "hash": "95ea92c46002a9b4538870e61d97aaedf98d6f42",
+      "size": 712243,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/tlc-fabric-1.20.X-1.2.0-eyeSpy.jar"
     },
     {
-      "name": "tlib-fabric-1.4.1-1.20.1.jar",
-      "path": "mods/tlib-fabric-1.4.1-1.20.1.jar",
-      "hash": "9a28fa8e059f8c001d9ded87b6314171d161dfa8",
-      "size": 224489,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/tlib-fabric-1.4.1-1.20.1.jar"
+      "name": "tlib-fabric-1.5.0-1.20.1.jar",
+      "path": "mods/tlib-fabric-1.5.0-1.20.1.jar",
+      "hash": "a248be51cb14f49c5c0a32c540ca2333434f14b2",
+      "size": 232579,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/tlib-fabric-1.5.0-1.20.1.jar"
     },
     {
       "name": "totw_additions-1.3.0-1.20.x-fabric.jar",
@@ -7724,11 +7429,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/trinkets-3.7.2.jar"
     },
     {
-      "name": "trmt-0.5-1.20+1.20.1.jar",
-      "path": "mods/trmt-0.5-1.20+1.20.1.jar",
-      "hash": "237c535f757ad8c2c229609f0569afbff6d4853a",
-      "size": 126050,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/trmt-0.5-1.20+1.20.1.jar"
+      "name": "trmt-0.5.1-1.20.1-fabric.jar",
+      "path": "mods/trmt-0.5.1-1.20.1-fabric.jar",
+      "hash": "c85bd52edf7756c858c379443de357cdd3fdfe3d",
+      "size": 128041,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/trmt-0.5.1-1.20.1-fabric.jar"
     },
     {
       "name": "twoplayersonehorse-fabric-1.20.1-1.0.3.jar",
@@ -7738,11 +7443,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/twoplayersonehorse-fabric-1.20.1-1.0.3.jar"
     },
     {
-      "name": "underlay-1.0.0-hotfix.1-fabric-mc1.20.1.jar",
-      "path": "mods/underlay-1.0.0-hotfix.1-fabric-mc1.20.1.jar",
-      "hash": "d27c717f11b8e463ba880da346ca9676b3723940",
-      "size": 266967,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/underlay-1.0.0-hotfix.1-fabric-mc1.20.1.jar"
+      "name": "underlay-1.0.5-fabric-mc1.20.1.jar",
+      "path": "mods/underlay-1.0.5-fabric-mc1.20.1.jar",
+      "hash": "cfd5e6c09f85321eb70f60771c8d7ea97e930164",
+      "size": 299122,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/underlay-1.0.5-fabric-mc1.20.1.jar"
     },
     {
       "name": "uranus-2.2.6-1.20.1-fabric.jar",
@@ -7750,13 +7455,6 @@
       "hash": "0e78dd09c4ace864425a83deb07f6e3d95ec61a2",
       "size": 1029821,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/uranus-2.2.6-1.20.1-fabric.jar"
-    },
-    {
-      "name": "valkyrienskies-120-2.4.10.jar.replaced-20260909",
-      "path": "mods/valkyrienskies-120-2.4.10.jar.replaced-20260909",
-      "hash": "1b9ac6e5141bc5395f8ae6030b7c7caa18fcc233",
-      "size": 33267882,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/valkyrienskies-120-2.4.10.jar.replaced-20260909"
     },
     {
       "name": "valkyrienskies-120-2.4.11.jar",
@@ -7794,18 +7492,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/voicechat-fabric-1.20.1-2.6.12.jar"
     },
     {
-      "name": "vr_typewriter_daycounter_v1.jar",
-      "path": "mods/vr_typewriter_daycounter_v1.jar",
-      "hash": "f75846e10110251fdbc7ab18de9072848ff7a697",
-      "size": 51627,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/vr_typewriter_daycounter_v1.jar"
+      "name": "vr_typewriter_daycounter_v1.2.jar",
+      "path": "mods/vr_typewriter_daycounter_v1.2.jar",
+      "hash": "25bbcacf32aca6a3049b6e9434e14b723003d0d4",
+      "size": 59357,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/vr_typewriter_daycounter_v1.2.jar"
     },
     {
-      "name": "vs_sup_Fix-1.20.1-fabric-1.3.jar",
-      "path": "mods/vs_sup_Fix-1.20.1-fabric-1.3.jar",
-      "hash": "deefd67ddf62ed4a82c77d0fdaefe6a06db0fa74",
-      "size": 20472,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/vs_sup_Fix-1.20.1-fabric-1.3.jar"
+      "name": "vs_sup_fix-1.20.1-fabric-2.0.1.jar",
+      "path": "mods/vs_sup_fix-1.20.1-fabric-2.0.1.jar",
+      "hash": "67d57678eb5beb5003a1f941b202637664de5bb4",
+      "size": 30441,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/vs_sup_fix-1.20.1-fabric-2.0.1.jar"
     },
     {
       "name": "wardenhorn-1.11-fabric-mc1.20.1.jar",
@@ -7829,11 +7527,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/watut-fabric-1.20.1-1.0.1.jar"
     },
     {
-      "name": "waveycapes-fabric-1.9.2-mc1.20.1.jar",
-      "path": "mods/waveycapes-fabric-1.9.2-mc1.20.1.jar",
-      "hash": "401c52e83bc161ce0b117571a66582f957e76ee7",
-      "size": 1840730,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/waveycapes-fabric-1.9.2-mc1.20.1.jar"
+      "name": "waveycapes-fabric-1.11.2-mc1.20.1.jar",
+      "path": "mods/waveycapes-fabric-1.11.2-mc1.20.1.jar",
+      "hash": "958bca8f232752332d01a20fe7592721fe138506",
+      "size": 1787074,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/waveycapes-fabric-1.11.2-mc1.20.1.jar"
     },
     {
       "name": "waystones-fabric-1.20.1-14.1.20.jar",
@@ -7871,11 +7569,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar"
     },
     {
-      "name": "yo_hooks-fabric-4.0.0.jar",
-      "path": "mods/yo_hooks-fabric-4.0.0.jar",
-      "hash": "2d850e55c64bfb44fd8cff5088451773e212516d",
-      "size": 532123,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/yo_hooks-fabric-4.0.0.jar"
+      "name": "yo_hooks-fabric-5.0.1.jar",
+      "path": "mods/yo_hooks-fabric-5.0.1.jar",
+      "hash": "7282c887958d05b54c3dac64d59b26a806921b7d",
+      "size": 554702,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/yo_hooks-fabric-5.0.1.jar"
     },
     {
       "name": "youre-in-grave-danger-fabric-2.0.16.jar",
@@ -7885,11 +7583,18 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/youre-in-grave-danger-fabric-2.0.16.jar"
     },
     {
-      "name": "zipline-fabric-1.20.1-1.0.3.jar",
-      "path": "mods/zipline-fabric-1.20.1-1.0.3.jar",
-      "hash": "cddf1912bc44e30be599b6472f00525e7d01bd5e",
-      "size": 64110,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/zipline-fabric-1.20.1-1.0.3.jar"
+      "name": "yyzsbackpack-0.0.9-reborn+1.20.1.jar",
+      "path": "mods/yyzsbackpack-0.0.9-reborn+1.20.1.jar",
+      "hash": "c82c8677a4e95518edcf2795a0ac73d7da52c764",
+      "size": 357474,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/yyzsbackpack-0.0.9-reborn+1.20.1.jar"
+    },
+    {
+      "name": "zipline-fabric-1.20.1-1.3.0.jar",
+      "path": "mods/zipline-fabric-1.20.1-1.3.0.jar",
+      "hash": "d7b25204114ad7fa43661e7045b85f835ce4403f",
+      "size": 69540,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/zipline-fabric-1.20.1-1.3.0.jar"
     },
     {
       "name": ".keep",
@@ -36221,13 +35926,6 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/textures/gui/title/minecraft.png"
     },
     {
-      "name": "mojangstudios.png",
-      "path": "resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/textures/gui/title/mojangstudios.png",
-      "hash": "4a0293e3e9c15ae96a28cceae3dd0ef088f7ab5d",
-      "size": 140156,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/textures/gui/title/mojangstudios.png"
-    },
-    {
       "name": "toasts.png",
       "path": "resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/textures/gui/toasts.png",
       "hash": "4f67691dbac22d9f01766110be111bac2d807e45",
@@ -36625,13 +36323,6 @@
       "hash": "b7a1503470e315f9a268fedecd8c488d0a585a7e",
       "size": 309,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/textures/item/brick.png"
-    },
-    {
-      "name": "broken_elytra.png",
-      "path": "resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/textures/item/broken_elytra.png",
-      "hash": "9ffbec067d34a94c023e321fdf4b7d62f3860c98",
-      "size": 365,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/resourcepacks/Excalibur-ARKAN_V1.20/assets/minecraft/textures/item/broken_elytra.png"
     },
     {
       "name": "brown_candle.png",
@@ -45344,7 +45035,7 @@
     {
       "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt",
       "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt",
-      "hash": "63714323cab37a79ba28ee95c71fbf2b32d261f5",
+      "hash": "1d5e7825b5060639b2e1125b39ab66cdc0f97ddb",
       "size": 348,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt"
     },
@@ -45384,13 +45075,6 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/shaderpacks/iterationT%203.2.0.zip"
     },
     {
-      "name": "iterationT 3.2.0.zip.broken-no-title-define",
-      "path": "shaderpacks/iterationT 3.2.0.zip.broken-no-title-define",
-      "hash": "7088cb1dac10d6651ba7a1bcfa097ee9956e0d97",
-      "size": 42858972,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/shaderpacks/iterationT%203.2.0.zip.broken-no-title-define"
-    },
-    {
       "name": "photon-voxy-support.zip",
       "path": "shaderpacks/photon-voxy-support.zip",
       "hash": "52f0385a729331432680398f68bb0c3c3304d1a9",
@@ -45403,13 +45087,6 @@
       "hash": "2b6a5283c22ba94ff762bbedeec24c842385dc93",
       "size": 57,
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/shaderpacks/photon-voxy-support.zip.txt"
-    },
-    {
-      "name": "Zoomify-2.13.4+1.20.1.jar",
-      "path": "mods/Zoomify-2.13.4+1.20.1.jar",
-      "hash": "b4f5191b342f4c4535671c51ae292106f63ae373",
-      "size": 1064869,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/Zoomify-2.13.4%2B1.20.1.jar"
     }
   ]
 }

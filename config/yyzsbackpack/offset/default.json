@@ -1,0 +1,34 @@
+{
+  "offsetValues": {
+    "CraftingScreen": [
+      [
+        -180,
+        0
+      ]
+    ],
+    "BlastFurnaceScreen": [
+      [
+        -180,
+        0
+      ]
+    ],
+    "FurnaceScreen": [
+      [
+        -180,
+        0
+      ]
+    ],
+    "InventoryScreen": [
+      [
+        -180,
+        0
+      ]
+    ],
+    "SmokerScreen": [
+      [
+        -180,
+        0
+      ]
+    ]
+  }
+}

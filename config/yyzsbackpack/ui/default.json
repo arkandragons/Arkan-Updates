@@ -1,0 +1,142 @@
+{
+  "uiOffsets": {
+    "HorseInventoryScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "BrewingStandScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "CrafterScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "MerchantScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DispenserScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LoomScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "BlastFurnaceScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "NautilusInventoryScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StonecutterScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "FurnaceScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "EnchantmentScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "AnvilScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "SmithingScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "CraftingScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "ContainerScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "ShulkerBoxScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "CartographyTableScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "HopperScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "CreativeModeInventoryScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "InventoryScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "BeaconScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "SmokerScreen": [
+      [
+        0,
+        0
+      ]
+    ],
+    "GrindstoneScreen": [
+      [
+        0,
+        0
+      ]
+    ]
+  }
+}

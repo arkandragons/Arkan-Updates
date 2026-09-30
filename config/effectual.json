@@ -20,6 +20,7 @@
   "caveDustFrequency": 5,
   "runDust": true,
   "snowFootprints": false,
+  "snowResidue": true,
   "airTrail": true,
   "witherDecay": true,
   "minecartSparks": true

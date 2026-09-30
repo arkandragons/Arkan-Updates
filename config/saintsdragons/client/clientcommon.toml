@@ -1,0 +1,7 @@
+raevyxBeamFirstPersonEnabled = true
+firstPersonBankingCameraEnabled = true
+thirdPersonBankingCameraEnabled = true
+diveCameraWobbleEnabled = true
+diveSpeedLinesEnabled = true
+genericDiveLoopEnabled = true
+swarmBattleMusicVolume = 100

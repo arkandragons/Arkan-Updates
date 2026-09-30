@@ -1,0 +1,130 @@
+{
+  "enabled": true,
+  "lockpickDurabilityMultiplier": 1.0,
+  "difficultyDurabilityMultipliers": {
+    "novice": 2.0,
+    "apprentice": 1.0,
+    "adept": 0.75,
+    "expert": 0.5,
+    "master": 0.25
+  },
+  "structureLocks": {
+    "mebahelcreaturesdraugr:simple_grave": {
+      "chancePercent": 20.0,
+      "difficultyWeights": {
+        "novice": 75.0,
+        "apprentice": 20.0,
+        "adept": 5.0,
+        "expert": 0.0,
+        "master": 0.0
+      }
+    },
+    "mebahelcreaturesdraugr:ruined_church": {
+      "chancePercent": 25.0,
+      "difficultyWeights": {
+        "novice": 60.0,
+        "apprentice": 28.0,
+        "adept": 10.0,
+        "expert": 2.0,
+        "master": 0.0
+      }
+    },
+    "mebahelcreaturesdraugr:ruin": {
+      "chancePercent": 25.0,
+      "difficultyWeights": {
+        "novice": 60.0,
+        "apprentice": 28.0,
+        "adept": 10.0,
+        "expert": 2.0,
+        "master": 0.0
+      }
+    },
+    "mebahelcreaturesdraugr:draugr_tower": {
+      "chancePercent": 30.0,
+      "difficultyWeights": {
+        "novice": 45.0,
+        "apprentice": 30.0,
+        "adept": 18.0,
+        "expert": 6.0,
+        "master": 1.0
+      }
+    },
+    "mebahelcreaturesdraugr:draugr_fort": {
+      "chancePercent": 30.0,
+      "difficultyWeights": {
+        "novice": 25.0,
+        "apprentice": 30.0,
+        "adept": 25.0,
+        "expert": 15.0,
+        "master": 5.0
+      }
+    },
+    "mebahelcreaturesdraugr:draugr_crypt": {
+      "chancePercent": 35.0,
+      "difficultyWeights": {
+        "novice": 15.0,
+        "apprentice": 25.0,
+        "adept": 30.0,
+        "expert": 20.0,
+        "master": 10.0
+      }
+    },
+    "mebahelcreaturesdraugr:draugr_bastion": {
+      "chancePercent": 35.0,
+      "difficultyWeights": {
+        "novice": 5.0,
+        "apprentice": 15.0,
+        "adept": 25.0,
+        "expert": 30.0,
+        "master": 25.0
+      }
+    },
+    "mebahelcreaturesdwarven:raldbthar": {
+      "chancePercent": 30.0,
+      "difficultyWeights": {
+        "novice": 20.0,
+        "apprentice": 30.0,
+        "adept": 28.0,
+        "expert": 17.0,
+        "master": 5.0
+      }
+    },
+    "mebahelcreaturesdwarven:end_dwarven_observatory": {
+      "chancePercent": 35.0,
+      "difficultyWeights": {
+        "novice": 0.0,
+        "apprentice": 5.0,
+        "adept": 20.0,
+        "expert": 35.0,
+        "master": 40.0
+      }
+    },
+    "mebahelcreaturesdwarven:dwemer_tower": {
+      "chancePercent": 30.0,
+      "difficultyWeights": {
+        "novice": 35.0,
+        "apprentice": 32.0,
+        "adept": 22.0,
+        "expert": 9.0,
+        "master": 2.0
+      }
+    },
+    "mebahelcreaturesdwarven:blackreach": {
+      "chancePercent": 35.0,
+      "difficultyWeights": {
+        "novice": 5.0,
+        "apprentice": 15.0,
+        "adept": 25.0,
+        "expert": 30.0,
+        "master": 25.0
+      }
+    }
+  },
+  "bonusLootTables": {
+    "novice": "mebahelelderscrollscore:chests/lockpicking_bonus/novice",
+    "apprentice": "mebahelelderscrollscore:chests/lockpicking_bonus/apprentice",
+    "adept": "mebahelelderscrollscore:chests/lockpicking_bonus/adept",
+    "expert": "mebahelelderscrollscore:chests/lockpicking_bonus/expert",
+    "master": "mebahelelderscrollscore:chests/lockpicking_bonus/master"
+  }
+}

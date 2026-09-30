@@ -1,0 +1,333 @@
+{
+  "ingredients": {
+    "mebahelelderscrollscore:crimson_nirnroot": {
+      "potion": "mebahelelderscrollscore:crimson_nirnroot",
+      "effect_1": {
+        "effect": "minecraft:invisibility",
+        "duration": 3600,
+        "amplifier": 0
+      },
+      "effect_2": {
+        "effect": "minecraft:strength",
+        "duration": 3600,
+        "amplifier": 0
+      }
+    },
+    "mebahelelderscrollscore:nirnroot": {
+      "potion": "mebahelelderscrollscore:nirnroot",
+      "effect_1": {
+        "effect": "minecraft:invisibility",
+        "duration": 3600,
+        "amplifier": 0
+      },
+      "effect_2": {
+        "effect": "minecraft:resistance",
+        "duration": 3600,
+        "amplifier": 0
+      }
+    },
+    "mebahelelderscrollscore:dwarven_oil": {
+      "potion": "mebahelelderscrollscore:dwarven_oil",
+      "effect_1": {
+        "effect": "minecraft:haste",
+        "duration": 3600,
+        "amplifier": 0
+      },
+      "effect_2": {
+        "effect": "minecraft:weakness",
+        "duration": 600,
+        "amplifier": 0
+      }
+    },
+    "mebahelelderscrollscore:ectoplasm": {
+      "potion": "mebahelelderscrollscore:ectoplasm",
+      "effect_1": {
+        "effect": "minecraft:regeneration",
+        "duration": 900,
+        "amplifier": 0
+      },
+      "effect_2": {
+        "effect": "minecraft:slow_falling",
+        "duration": 3600,
+        "amplifier": 0
+      }
+    },
+    "mebahelelderscrollscore:glowing_wall_mushroom": {
+      "potion": "mebahelelderscrollscore:glowing_mushroom",
+      "effect_1": {
+        "effect": "minecraft:night_vision",
+        "duration": 3600,
+        "amplifier": 0
+      },
+      "effect_2": {
+        "effect": "minecraft:nausea",
+        "duration": 300,
+        "amplifier": 0
+      }
+    },
+    "mebahelelderscrollscore:fire_salt": {
+      "potion": "mebahelelderscrollscore:fire_salt",
+      "effect_1": {
+        "effect": "minecraft:fire_resistance",
+        "duration": 3600,
+        "amplifier": 0
+      },
+      "effect_2": {
+        "effect": "minecraft:regeneration",
+        "duration": 200,
+        "amplifier": 0
+      }
+    },
+    "mebahelelderscrollscore:hanging_moss": {
+      "potion": "mebahelelderscrollscore:hanging_moss",
+      "effect_1": {
+        "effect": "mebahelelderscrollscore:vitality",
+        "duration": 3600,
+        "amplifier": 0
+      },
+      "effect_2": {
+        "effect": "mebahelelderscrollscore:cure_poison",
+        "duration": 1,
+        "amplifier": 0
+      }
+    },
+    "mebahelelderscrollscore:deathbell": {
+      "potion": "mebahelelderscrollscore:deathbell",
+      "effect_1": {
+        "effect": "minecraft:poison",
+        "duration": 900,
+        "amplifier": 0
+      },
+      "effect_2": {
+        "effect": "minecraft:slowness",
+        "duration": 1800,
+        "amplifier": 0
+      }
+    }
+  },
+  "potions": {
+    "mebahelelderscrollscore:crimson_nirnroot": {
+      "effects": [
+        {
+          "effect": "minecraft:invisibility",
+          "duration": 3600,
+          "amplifier": 0
+        },
+        {
+          "effect": "minecraft:strength",
+          "duration": 3600,
+          "amplifier": 0
+        }
+      ],
+      "discoveries": [
+        "mebahelelderscrollscore:crimson_nirnroot"
+      ]
+    },
+    "mebahelelderscrollscore:nirnroot": {
+      "effects": [
+        {
+          "effect": "minecraft:invisibility",
+          "duration": 3600,
+          "amplifier": 0
+        },
+        {
+          "effect": "minecraft:resistance",
+          "duration": 3600,
+          "amplifier": 0
+        }
+      ],
+      "discoveries": [
+        "mebahelelderscrollscore:nirnroot"
+      ]
+    },
+    "mebahelelderscrollscore:combined_nirnroot": {
+      "effects": [
+        {
+          "effect": "minecraft:invisibility",
+          "duration": 3600,
+          "amplifier": 0
+        },
+        {
+          "effect": "minecraft:strength",
+          "duration": 3600,
+          "amplifier": 0
+        },
+        {
+          "effect": "minecraft:resistance",
+          "duration": 3600,
+          "amplifier": 0
+        }
+      ],
+      "discoveries": [
+        "mebahelelderscrollscore:crimson_nirnroot",
+        "mebahelelderscrollscore:nirnroot"
+      ]
+    },
+    "mebahelelderscrollscore:dwarven_oil": {
+      "effects": [
+        {
+          "effect": "minecraft:haste",
+          "duration": 3600,
+          "amplifier": 0
+        },
+        {
+          "effect": "minecraft:weakness",
+          "duration": 600,
+          "amplifier": 0
+        }
+      ],
+      "discoveries": [
+        "mebahelelderscrollscore:dwarven_oil"
+      ]
+    },
+    "mebahelelderscrollscore:ectoplasm": {
+      "effects": [
+        {
+          "effect": "minecraft:regeneration",
+          "duration": 900,
+          "amplifier": 0
+        },
+        {
+          "effect": "minecraft:slow_falling",
+          "duration": 3600,
+          "amplifier": 0
+        }
+      ],
+      "discoveries": [
+        "mebahelelderscrollscore:ectoplasm"
+      ]
+    },
+    "mebahelelderscrollscore:glowing_mushroom": {
+      "effects": [
+        {
+          "effect": "minecraft:night_vision",
+          "duration": 3600,
+          "amplifier": 0
+        },
+        {
+          "effect": "minecraft:nausea",
+          "duration": 300,
+          "amplifier": 0
+        }
+      ],
+      "discoveries": [
+        "mebahelelderscrollscore:glowing_wall_mushroom"
+      ]
+    },
+    "mebahelelderscrollscore:fire_salt": {
+      "effects": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "duration": 3600,
+          "amplifier": 0
+        },
+        {
+          "effect": "minecraft:regeneration",
+          "duration": 200,
+          "amplifier": 0
+        }
+      ],
+      "discoveries": [
+        "mebahelelderscrollscore:fire_salt"
+      ]
+    },
+    "mebahelelderscrollscore:hanging_moss": {
+      "effects": [
+        {
+          "effect": "mebahelelderscrollscore:vitality",
+          "duration": 3600,
+          "amplifier": 0
+        }
+      ],
+      "discoveries": [
+        "mebahelelderscrollscore:hanging_moss"
+      ]
+    },
+    "mebahelelderscrollscore:antidote": {
+      "effects": [
+        {
+          "effect": "mebahelelderscrollscore:cure_poison",
+          "duration": 1,
+          "amplifier": 0
+        }
+      ],
+      "discoveries": [
+        "mebahelelderscrollscore:hanging_moss"
+      ]
+    },
+    "mebahelelderscrollscore:deathbell": {
+      "effects": [
+        {
+          "effect": "minecraft:poison",
+          "duration": 900,
+          "amplifier": 0
+        },
+        {
+          "effect": "minecraft:slowness",
+          "duration": 1800,
+          "amplifier": 0
+        }
+      ],
+      "discoveries": [
+        "mebahelelderscrollscore:deathbell"
+      ]
+    }
+  },
+  "recipes": [
+    {
+      "input": "minecraft:awkward",
+      "ingredient": "mebahelelderscrollscore:crimson_nirnroot",
+      "output": "mebahelelderscrollscore:crimson_nirnroot"
+    },
+    {
+      "input": "minecraft:awkward",
+      "ingredient": "mebahelelderscrollscore:nirnroot",
+      "output": "mebahelelderscrollscore:nirnroot"
+    },
+    {
+      "input": "mebahelelderscrollscore:crimson_nirnroot",
+      "ingredient": "mebahelelderscrollscore:nirnroot",
+      "output": "mebahelelderscrollscore:combined_nirnroot"
+    },
+    {
+      "input": "mebahelelderscrollscore:nirnroot",
+      "ingredient": "mebahelelderscrollscore:crimson_nirnroot",
+      "output": "mebahelelderscrollscore:combined_nirnroot"
+    },
+    {
+      "input": "minecraft:awkward",
+      "ingredient": "mebahelelderscrollscore:dwarven_oil",
+      "output": "mebahelelderscrollscore:dwarven_oil"
+    },
+    {
+      "input": "minecraft:awkward",
+      "ingredient": "mebahelelderscrollscore:ectoplasm",
+      "output": "mebahelelderscrollscore:ectoplasm"
+    },
+    {
+      "input": "minecraft:awkward",
+      "ingredient": "mebahelelderscrollscore:glowing_wall_mushroom",
+      "output": "mebahelelderscrollscore:glowing_mushroom"
+    },
+    {
+      "input": "minecraft:awkward",
+      "ingredient": "mebahelelderscrollscore:fire_salt",
+      "output": "mebahelelderscrollscore:fire_salt"
+    },
+    {
+      "input": "minecraft:awkward",
+      "ingredient": "mebahelelderscrollscore:hanging_moss",
+      "output": "mebahelelderscrollscore:hanging_moss"
+    },
+    {
+      "input": "minecraft:poison",
+      "ingredient": "mebahelelderscrollscore:hanging_moss",
+      "output": "mebahelelderscrollscore:antidote"
+    },
+    {
+      "input": "minecraft:awkward",
+      "ingredient": "mebahelelderscrollscore:deathbell",
+      "output": "mebahelelderscrollscore:deathbell"
+    }
+  ]
+}

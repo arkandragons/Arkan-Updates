@@ -1,0 +1,9 @@
+{
+  "overlay_blocks": [],
+  "exclude_blocks": [],
+  "target_exclude_blocks": [],
+  "commands_op_level": 4,
+  "options": {
+    "place_on_replaceable_blocks": false
+  }
+}

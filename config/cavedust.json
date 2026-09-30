@@ -1,7 +1,6 @@
 {
-  "dimensionX": 5,
-  "dimensionY": 5,
-  "dimensionZ": 5,
+  "width": 10,
+  "height": 10,
   "velocityRandomness": 1,
   "caveDustEnabled": true,
   "seaLevelCheck": true,
@@ -9,6 +8,1796 @@
   "upperLimit": 64.0,
   "lowerLimit": -64.0,
   "particleMultiplier": 1,
+  "listNumber": 0,
   "particleMultiplierMultiplier": 10,
-  "particleID": 80
+  "list": [
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dolphin"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "pillar_spawn_indicator"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "spore"
+    },
+    {
+      "field_13353": "arkans_flight_combat_overhaul",
+      "field_13355": "remote_swing_topslash360"
+    },
+    {
+      "field_13353": "betterend",
+      "field_13355": "smaragdant_particle"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "volitans_water_breath"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_obsidian_tear"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "red_glow"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "wifi"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "dragonlord_jump_strike"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_explosion_star"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "shell_explosion_cloud"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_dark_fire_trail"
+    },
+    {
+      "field_13353": "endermanoverhaul",
+      "field_13355": "soul_fire"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "blood_tempest_katana_x_mark"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_mouth_emitter"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "enchant"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "wax_on"
+    },
+    {
+      "field_13353": "longwings",
+      "field_13355": "dripping_melon_brew"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "campfire_signal_smoke"
+    },
+    {
+      "field_13353": "betterend",
+      "field_13355": "jungle_spore"
+    },
+    {
+      "field_13353": "hybrid_aquatic",
+      "field_13355": "brine_bubble_pop"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_fireball_explosion"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "earthdive_indicator"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_magma_pillar_toon_explosion"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "gas_cloud"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "volitans_breath_emitter"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "current_down"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_charged_fire_trail"
+    },
+    {
+      "field_13353": "arkans_flight_combat_overhaul",
+      "field_13355": "remote_swing_topslash45"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "dragonlord_jump_spec"
+    },
+    {
+      "field_13353": "effectual",
+      "field_13355": "spark"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "blood_tempest_katana_lightning_strike"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "landing_lava"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "spark_burst"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "fire_breath_outer_flame"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_level_three_ground_ring"
+    },
+    {
+      "field_13353": "betterend",
+      "field_13355": "tenanea_petal"
+    },
+    {
+      "field_13353": "mebahelcreaturesdraugr",
+      "field_13355": "snowflake_hand_particle"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "totem_of_undying"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "volitans_poison_orb_emitter"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "flowing_milk_dripstone_lib_particle_type_fall"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "flak_cloud"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "quick_firing_breech_smoke"
+    },
+    {
+      "field_13353": "bc_particle",
+      "field_13355": "topslash360"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_nectar"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "obsidilith_anvil_indicator"
+    },
+    {
+      "field_13353": "endermanoverhaul",
+      "field_13355": "snow"
+    },
+    {
+      "field_13353": "simplyswords",
+      "field_13355": "dripping_blood"
+    },
+    {
+      "field_13353": "bookofdragons",
+      "field_13355": "nadder_breath"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "autocannon_plume"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "drop_mortar_plume"
+    },
+    {
+      "field_13353": "bookofdragons",
+      "field_13355": "magma_breath"
+    },
+    {
+      "field_13353": "iceandfire",
+      "field_13355": "ghost_appearance"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "platypus_sense"
+    },
+    {
+      "field_13353": "longwings",
+      "field_13355": "landing_apple_brew"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "draconian_nucleus_particle"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "poof"
+    },
+    {
+      "field_13353": "simplyswords",
+      "field_13355": "blood_spray"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "ambient_entity_effect"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "volitans_poison_flame"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "scrape"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "smelly"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "splinter_burst"
+    },
+    {
+      "field_13353": "farmersdelight",
+      "field_13355": "steam"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "volitans_breath_stream"
+    },
+    {
+      "field_13353": "effectual",
+      "field_13355": "metal_spark"
+    },
+    {
+      "field_13353": "bc_particle",
+      "field_13355": "topslash45"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "fire_breath_star"
+    },
+    {
+      "field_13353": "arkans_flight_combat_overhaul",
+      "field_13355": "remote_swing_topslash270"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "fungus_bubble"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "shocked"
+    },
+    {
+      "field_13353": "effectual",
+      "field_13355": "soul_glow"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "angry_villager"
+    },
+    {
+      "field_13353": "betternether",
+      "field_13355": "blue_falling_obsidian_weep"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "splash"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_skyfall_aura"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "soul_fire_flame"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "soul_flame"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "invert_dig"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "volitans_poison_ground_burst"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "witch"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "spit"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "magic_circle"
+    },
+    {
+      "field_13353": "betterend",
+      "field_13355": "portal_sphere"
+    },
+    {
+      "field_13353": "betternether",
+      "field_13355": "blue_dripping_obsidian_weep"
+    },
+    {
+      "field_13353": "arkans_flight_combat_overhaul",
+      "field_13355": "remote_swing_topslash180"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "guster_sand_spin_soul"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "squid_ink"
+    },
+    {
+      "field_13353": "iceandfire",
+      "field_13355": "pixie_dust"
+    },
+    {
+      "field_13353": "bookofdragons",
+      "field_13355": "zippleback_fire"
+    },
+    {
+      "field_13353": "betternether",
+      "field_13355": "blue_landing_obsidian_tear"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "enchanted_hit"
+    },
+    {
+      "field_13353": "longwings",
+      "field_13355": "dripping_berry_brew"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_lingering_fire"
+    },
+    {
+      "field_13353": "aquamirae",
+      "field_13355": "shine"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "glass_shard"
+    },
+    {
+      "field_13353": "bc_particle",
+      "field_13355": "topslash270"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "end_rod"
+    },
+    {
+      "field_13353": "longwings",
+      "field_13355": "splash_honey_water"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "white_ash"
+    },
+    {
+      "field_13353": "iceandfire",
+      "field_13355": "blood"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_crash_fire"
+    },
+    {
+      "field_13353": "arkans_flight_combat_overhaul",
+      "field_13355": "remote_swing_topslash90"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_fireball_bright_fire"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_dripstone_water"
+    },
+    {
+      "field_13353": "iceandfire",
+      "field_13355": "dread_torch"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "spore_indicator"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "firework"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "projectile_splash"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_charged_star_trail"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "glow"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_aftermath"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "raevyx_sonic_ring"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_dripstone_water"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "gauntlet_revive_sparkles"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "flame"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_ground_impact"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "item_snowball"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "nautilus"
+    },
+    {
+      "field_13353": "iceandfire",
+      "field_13355": "dread_portal"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "spore_blossom_air"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "volitans_poison_orb_trail"
+    },
+    {
+      "field_13353": "iceandfire",
+      "field_13355": "serpent_bubble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_lava"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "obsidilith_burst_indicator"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "blood_tempest_sword_ring"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "bubble_column_up"
+    },
+    {
+      "field_13353": "bookofdragons",
+      "field_13355": "blastwave"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "block_marker"
+    },
+    {
+      "field_13353": "hybrid_aquatic",
+      "field_13355": "brine_bubble"
+    },
+    {
+      "field_13353": "betternether",
+      "field_13355": "blue_landing_obsidian_weep"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "happy_villager"
+    },
+    {
+      "field_13353": "betterend",
+      "field_13355": "geyser_particle"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "steam_jet"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "bunfungus_transformation"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "second_lightning_strike"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "damage_indicator"
+    },
+    {
+      "field_13353": "yungscavebiomes",
+      "field_13355": "sandstorm"
+    },
+    {
+      "field_13353": "effectual",
+      "field_13355": "water_drip"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "raevyx_storm_aura"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "splash_spray"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "lightning_storm_night_gold"
+    },
+    {
+      "field_13353": "bookofdragons",
+      "field_13355": "whispering_fire"
+    },
+    {
+      "field_13353": "simplybows",
+      "field_13355": "japanese_wave"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_lingering_spec"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_skyfall_absorb"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "teeth_glint"
+    },
+    {
+      "field_13353": "phantasm",
+      "field_13355": "zzz"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "soul"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "block"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "basin_fluid"
+    },
+    {
+      "field_13353": "simplybows",
+      "field_13355": "long_firework"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "rod"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "fire_breath_burst"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "blood_tempest_katana_second_impact"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "debris_smoke_burst"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "large_smoke"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "void_blossom_spike_indicator"
+    },
+    {
+      "field_13353": "effectual",
+      "field_13355": "red_sand_dust"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "volitans_poison_breath"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "void_blossom_spike_wave_indicator"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "item_slime"
+    },
+    {
+      "field_13353": "effectual",
+      "field_13355": "mud_dust"
+    },
+    {
+      "field_13353": "arkans_flight_combat_overhaul",
+      "field_13355": "remote_swing_botslash360"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sculk_charge"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "air_flow"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "flak_smoke"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "downsparkle"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_skyfall_circle"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sweep_attack"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_fire_trail"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "fluid_blob"
+    },
+    {
+      "field_13353": "bookofdragons",
+      "field_13355": "zippleback_gas"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "portal"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "pollen"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "big_cannon_plume"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_fire_body_smoke"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "small_flame"
+    },
+    {
+      "field_13353": "missingwilds",
+      "field_13355": "firefly"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "volitans_poison_cloud"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_better_fire_trail"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "crit"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "eye_open"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "dragonlord_jump_ground_impact"
+    },
+    {
+      "field_13353": "bookofdragons",
+      "field_13355": "light_fury_breath"
+    },
+    {
+      "field_13353": "farmersdelight",
+      "field_13355": "sparkle"
+    },
+    {
+      "field_13353": "endermanoverhaul",
+      "field_13355": "dust"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "obsidilith_wave_indicator"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "glow_squid_ink"
+    },
+    {
+      "field_13353": "betterend",
+      "field_13355": "snowflake"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "soul_base"
+    },
+    {
+      "field_13353": "effectual",
+      "field_13355": "snow_dust"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "obsidilith_spike_indicator"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_nova_smoke"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "snowflake"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "flash"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "whale_splash"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_charged_emitter_trail"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "atroxiia_ice_burst"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "volitans_breath_bubbles"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_crash_circle"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_level_two_impact_ground"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_crash_ground"
+    },
+    {
+      "field_13353": "effectual",
+      "field_13355": "gravel_dust"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_charged_spec_trail"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_explosion_fire"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "fluid_drip"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "warped_spore"
+    },
+    {
+      "field_13353": "cavedust",
+      "field_13355": "cave_dust"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_level_three_splatter_large"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "landing_obsidian_tear"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "crimson_spore"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "leaf"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "shell_blast_wave"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_impact_emitter"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "soul"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_level_two_impact_small_explosion"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "vibration"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_level_two_impact_circle"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "blood_tempest_katana_glint"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_dripstone_lava"
+    },
+    {
+      "field_13353": "longwings",
+      "field_13355": "falling_melon_brew"
+    },
+    {
+      "field_13353": "betterend",
+      "field_13355": "sulphur_particle"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "guster_sand_shot_red"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "flowing_milk_dripstone_lib_particle_type_splash"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_fireball_fire_trail"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "heart"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "bubble_pop"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_level_three_toon_explosion"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "debris_smoke"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sculk_charge_pop"
+    },
+    {
+      "field_13353": "effectual",
+      "field_13355": "gold_glow"
+    },
+    {
+      "field_13353": "bc_particle",
+      "field_13355": "botslash360"
+    },
+    {
+      "field_13353": "effectual",
+      "field_13355": "snow_footprint"
+    },
+    {
+      "field_13353": "bc_particle",
+      "field_13355": "botslash90"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "pillar_spawn_indicator_2"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dust"
+    },
+    {
+      "field_13353": "endermanoverhaul",
+      "field_13355": "bubble"
+    },
+    {
+      "field_13353": "betternether",
+      "field_13355": "blue_falling_obsidian_tear"
+    },
+    {
+      "field_13353": "arkans_flight_combat_overhaul",
+      "field_13355": "remote_swing_botslash270"
+    },
+    {
+      "field_13353": "betterend",
+      "field_13355": "black_spore"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "guster_sand_shot"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sculk_soul"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_spore_blossom"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_skyfall_swirl"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "ash"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "fluid_particle"
+    },
+    {
+      "field_13353": "longwings",
+      "field_13355": "falling_apple_brew"
+    },
+    {
+      "field_13353": "yungscavebiomes",
+      "field_13355": "ancient_dust"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_level_three_ground_glitter"
+    },
+    {
+      "field_13353": "arkans_flight_combat_overhaul",
+      "field_13355": "remote_swing_botslash180"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_dust"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "cannon_blast_wave"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "lava"
+    },
+    {
+      "field_13353": "endermanoverhaul",
+      "field_13355": "frienderman"
+    },
+    {
+      "field_13353": "bc_particle",
+      "field_13355": "topstab"
+    },
+    {
+      "field_13353": "arkans_flight_combat_overhaul",
+      "field_13355": "remote_swing_topstab"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "hemolymph"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "bubble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sneeze"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_fireball_small_explosion"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_skyfall_sharp"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_water"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "worm_portal"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "petal"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "atroxiia_quake_smoke"
+    },
+    {
+      "field_13353": "effectual",
+      "field_13355": "air_trail"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_toon_explosion"
+    },
+    {
+      "field_13353": "iceandfire",
+      "field_13355": "dragon_flame"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "mycelium"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "underwater"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "raevyx_storm_star"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "cannon_smoke"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "skulk_boom"
+    },
+    {
+      "field_13353": "arkans_flight_combat_overhaul",
+      "field_13355": "remote_swing_botslash90"
+    },
+    {
+      "field_13353": "bc_particle",
+      "field_13355": "botslash270"
+    },
+    {
+      "field_13353": "aquamirae",
+      "field_13355": "ghost_shine"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "fire_breath_flicker"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_charged_more_spec_trail"
+    },
+    {
+      "field_13353": "mebahelcreaturesdraugr",
+      "field_13355": "ground_flame_particle"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "instant_effect"
+    },
+    {
+      "field_13353": "betterend",
+      "field_13355": "amber_sphere"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "air"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "cherry_leaves"
+    },
+    {
+      "field_13353": "effectual",
+      "field_13355": "mouth_steam"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "dragon_dust"
+    },
+    {
+      "field_13353": "betternether",
+      "field_13355": "landing_obsidian_weep"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "glowing_emitter"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "elder_guardian"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ground_crack_fissure"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "soul_expanding_perimeter"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "shell_explosion_smoke"
+    },
+    {
+      "field_13353": "betternether",
+      "field_13355": "dripping_obsidian_weep"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_fire_body_star"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_level_two_impact_explosion"
+    },
+    {
+      "field_13353": "illagerinvasion",
+      "field_13355": "magic_flame"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_fireball_ground_impact"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "rotation_indicator"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "shriek"
+    },
+    {
+      "field_13353": "betterend",
+      "field_13355": "infusion"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_lava"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "disappearing_swirl"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "glass_burst"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "second_impact_ring"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "raevyx_storm_emitter"
+    },
+    {
+      "field_13353": "hybrid_aquatic",
+      "field_13355": "sargassum"
+    },
+    {
+      "field_13353": "longwings",
+      "field_13355": "landing_berry_brew"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_ground_impact"
+    },
+    {
+      "field_13353": "betternether",
+      "field_13355": "blue_dripping_obsidian_tear"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "shrapnel_smoke"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_more_spec_trail"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "bear_freddy"
+    },
+    {
+      "field_13353": "ribbits",
+      "field_13355": "spell"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "sparkles"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_honey"
+    },
+    {
+      "field_13353": "iceandfire",
+      "field_13355": "dragon_frost"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "dragonlord_jump_fire"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "dragonlord_jump_emitter"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_honey"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_air_aftermath"
+    },
+    {
+      "field_13353": "bc_particle",
+      "field_13355": "botstab"
+    },
+    {
+      "field_13353": "bc_particle",
+      "field_13355": "botslash180"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "dragonlord_jump_smoke"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "leaf_burst"
+    },
+    {
+      "field_13353": "longwings",
+      "field_13355": "falling_berry_brew"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_charged_ember_trail"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "composter"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_level_two_impact_toon"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "still_milk_dripstone_lib_particle_type_hang"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "mossback_poison_fume"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_fire_spec"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "rainbow_flare"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "static_spark"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "volitans_breath_star"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_dripstone_lava"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "fluff"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "rain"
+    },
+    {
+      "field_13353": "yungscavebiomes",
+      "field_13355": "ice_shatter"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "soul_perimeter"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "fire_breath_backblast"
+    },
+    {
+      "field_13353": "longwings",
+      "field_13355": "falling_honey_water"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "fire_breath_flame"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "fluid_cloud"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "ground_rod"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "shrapnel_cloud"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "lightning_storm"
+    },
+    {
+      "field_13353": "longwings",
+      "field_13355": "falling_sugar_water"
+    },
+    {
+      "field_13353": "bookofdragons",
+      "field_13355": "fury_breath"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "volitans_poison_skull"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_charge_sparkle"
+    },
+    {
+      "field_13353": "yungscavebiomes",
+      "field_13355": "lost_caves_ambient"
+    },
+    {
+      "field_13353": "chimes",
+      "field_13355": "leaf"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "pillar_rune"
+    },
+    {
+      "field_13353": "mebahelcreaturesdraugr",
+      "field_13355": "flame_atronach_particle"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "wax_off"
+    },
+    {
+      "field_13353": "simplyswords",
+      "field_13355": "custom_bubble"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "raevyx_storm_fire_spec"
+    },
+    {
+      "field_13353": "bc_particle",
+      "field_13355": "topslash90"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_spec_trail"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "explosion"
+    },
+    {
+      "field_13353": "iceandfire",
+      "field_13355": "hydra_breath"
+    },
+    {
+      "field_13353": "longwings",
+      "field_13355": "splash_sugar_water"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "electric_spark"
+    },
+    {
+      "field_13353": "bookofdragons",
+      "field_13355": "fire_breath"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dust_color_transition"
+    },
+    {
+      "field_13353": "longwings",
+      "field_13355": "dripping_apple_brew"
+    },
+    {
+      "field_13353": "farmersdelight",
+      "field_13355": "star"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "reverse_portal"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_explosion_spec"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "still_milk_dripstone_lib_particle_type_splash"
+    },
+    {
+      "field_13353": "betternether",
+      "field_13355": "falling_obsidian_weep"
+    },
+    {
+      "field_13353": "betterend",
+      "field_13355": "firefly"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "landing_honey"
+    },
+    {
+      "field_13353": "effectual",
+      "field_13355": "sand_dust"
+    },
+    {
+      "field_13353": "simplybows",
+      "field_13355": "long_end_rod"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "note"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "explosion_emitter"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_nova_sparkle"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_fire_explosion"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_level_three_ground_smoke"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "guster_sand_spin"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "block"
+    },
+    {
+      "field_13353": "bookofdragons",
+      "field_13355": "skrill_breath"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "fire_breath_ember"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "flowing_milk_dripstone_lib_particle_type_hang"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "cannon_smoke_fallback"
+    },
+    {
+      "field_13353": "bc_particle",
+      "field_13355": "topslash180"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "entity_effect"
+    },
+    {
+      "field_13353": "endermanoverhaul",
+      "field_13355": "sand"
+    },
+    {
+      "field_13353": "effectual",
+      "field_13355": "snow_residue"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "item"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_fireball_orange_spec"
+    },
+    {
+      "field_13353": "mebahelcreaturesdwarven",
+      "field_13355": "steam_particle"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sonic_boom"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "still_milk_dripstone_lib_particle_type_fall"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "smoke_shell_smoke"
+    },
+    {
+      "field_13353": "aquamirae",
+      "field_13355": "ghost"
+    },
+    {
+      "field_13353": "arkans_flight_combat_overhaul",
+      "field_13355": "remote_swing_botstab"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_skyfall_charge"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "volitans_poison_explosion"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dragon_breath"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "egg_crack"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "blood_tempest_katana_first_impact"
+    },
+    {
+      "field_13353": "bc_particle",
+      "field_13355": "botslash45"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_lingering_better_fire"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_magma_pillars_impact"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "obsidilith_wave"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "spark"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "trail_smoke"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_small_explosion"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "enchant"
+    },
+    {
+      "field_13353": "effectual",
+      "field_13355": "entity_spark"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "fire_breath_smoke"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_explosion_layer"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "smoke"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "campfire_cosy_smoke"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ground_crack"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "fishing"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "bird_song"
+    },
+    {
+      "field_13353": "betterend",
+      "field_13355": "glowing_sphere"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "cube"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "ignivorus_level_three_splatter_small"
+    },
+    {
+      "field_13353": "arkans_flight_combat_overhaul",
+      "field_13355": "remote_swing_botslash45"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "obsidilith_burst"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_water"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "raevyx_storm_zap"
+    },
+    {
+      "field_13353": "iceandfire",
+      "field_13355": "siren_appearance"
+    },
+    {
+      "field_13353": "iceandfire",
+      "field_13355": "siren_music"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_obsidian_tear"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "debris_matter"
+    },
+    {
+      "field_13353": "longwings",
+      "field_13355": "landing_melon_brew"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "cloud"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "lightning_chain"
+    },
+    {
+      "field_13353": "saintsdragons",
+      "field_13355": "cindervane_crash_splatter"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "splinter"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "guster_sand_spin_red"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "dna"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "line"
+    },
+    {
+      "field_13353": "illagerinvasion",
+      "field_13355": "necromancer_buff"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "guster_sand_shot_soul"
+    },
+    {
+      "field_13353": "mebahelcreaturesdraugr",
+      "field_13355": "snowflake_particle"
+    },
+    {
+      "field_13353": "effectual",
+      "field_13355": "soul_spark"
+    },
+    {
+      "field_13353": "alexsmobs",
+      "field_13355": "sunbird_feather"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "effect"
+    },
+    {
+      "field_13353": "bosses_of_mass_destruction",
+      "field_13355": "obsidilith_spike"
+    }
+  ],
+  "newId": {
+    "field_13353": "cavedust",
+    "field_13355": "cave_dust"
+  }
 }

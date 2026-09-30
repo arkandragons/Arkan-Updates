@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "loverMaxHealthBonus": 2.0,
+  "warriorMeleeDamageBonus": 0.5,
+  "rangerRangedDamageBonus": 0.5,
+  "thiefSneakingSpeedBonusPercent": 20.0,
+  "striderStepHeight": 1.0,
+  "travelerMovementSpeedBonusPercent": 10.0
+}

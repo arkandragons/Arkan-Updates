@@ -94,3 +94,5 @@ turnAcceleration = 10.0
 turnSpeed = 3.0
 #Less stabilization at higher speed.
 unscaledInstability = 0.1
+#Time until disassembling skips aligning and forces disassembling
+disassemblingTimeUntilForced = 1000

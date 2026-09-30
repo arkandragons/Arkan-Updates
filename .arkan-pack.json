@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "packId": "arkan",
+  "displayName": "Arkan",
+  "edition": "standard",
+  "version": "1.0.0",
+  "minecraftVersion": "1.20.1",
+  "modLoader": "fabric",
+  "modLoaderVersion": "0.19.5",
+  "promotedFrom": "Arkan (Modded) n1",
+  "releasedAt": "2026-09-30T00:41:49.422-03:00"
+}

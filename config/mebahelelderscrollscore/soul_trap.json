@@ -1,0 +1,16 @@
+{
+  "defaultMobSouls": 10,
+  "soulRepairMenuPause": false,
+  "showSoulRepairConfirmationPopup": true,
+  "showSoulRepairTargetConfirmationPopup": true,
+  "mobSouls": {
+    "minecraft:zombie": 10,
+    "minecraft:skeleton": 10,
+    "minecraft:creeper": 15,
+    "minecraft:spider": 10,
+    "minecraft:enderman": 20,
+    "minecraft:blaze": 20,
+    "minecraft:wither": 160,
+    "minecraft:ender_dragon": 320
+  }
+}

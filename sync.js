@@ -20,10 +20,17 @@ const CONFIG = {
         'node_modules', 'package.json', 'package-lock.json', 'manifest-standard.json',
         'manifest-low.json', '.gitignore', 'journeymap/cache', 'logs', 'backups', '.bak',
         'config/nexars-drakoria-id-cache', 'config/worldedit/sessions',
+        'config/worldedit/.archive-unpack', 'config/jei/world/local',
         'config/.puzzle_cache', 'config/bclib/cache.json',
-        'config/voicechat/username-cache.json', 'data/servers_playtime.dat'
+        'config/voicechat/username-cache.json', 'config/inventory-particles/cache',
+        'config/arkans-axp-outbox', 'config/chunky/tasks',
+        'config/arkans-id-loader-levels.json', 'config/arkan_optimizer-history.json',
+        'config/arkans-worldgen-debug-report.txt', 'config/arkans-worldgen-debug.properties',
+        'config/resourceful-config-web.json', '.backup-', '.old', 'data/servers_playtime.dat'
     ]
 };
+
+const PACK_DESCRIPTOR_FILE = '.arkan-pack.json';
 
 const githubApi = axios.create({
     baseURL: 'https://api.github.com',
@@ -103,18 +110,40 @@ async function uploadAsset(releaseId, filePath, fileName) {
     console.log(`📤 Fazendo upload de ${fileName} (${(stats.size / 1024 / 1024).toFixed(2)} MB)...`);
     
     const fileData = fs.readFileSync(filePath);
-    await githubApi.post(url, fileData, {
-        headers: {
-            'Content-Type': 'application/octet-stream',
-            'Content-Length': stats.size
-        },
-        maxContentLength: Infinity,
-        maxBodyLength: Infinity
-    });
+    let lastError;
+    for (let attempt = 1; attempt <= 4; attempt += 1) {
+        try {
+            const { data: asset } = await githubApi.post(url, fileData, {
+                headers: {
+                    'Content-Type': 'application/octet-stream',
+                    'Content-Length': stats.size
+                },
+                maxContentLength: Infinity,
+                maxBodyLength: Infinity,
+                timeout: 10 * 60 * 1000
+            });
+            return asset;
+        } catch (error) {
+            lastError = error;
+            const status = error.response?.status;
+            if (status && status < 500 && status !== 429) throw error;
+            if (attempt === 4) break;
+            const delay = 1500 * (2 ** (attempt - 1));
+            console.log(`⏳ Upload interrompido (${status || 'rede'}); nova tentativa ${attempt + 1}/4...`);
+            await new Promise(resolve => setTimeout(resolve, delay));
+        }
+    }
+    throw lastError;
 }
 
 async function deleteAsset(assetId) {
     await githubApi.delete(`/repos/${CONFIG.OWNER}/${CONFIG.REPO}/releases/assets/${assetId}`);
+}
+
+async function labelAsset(assetId, hash) {
+    await githubApi.patch(`/repos/${CONFIG.OWNER}/${CONFIG.REPO}/releases/assets/${assetId}`, {
+        label: `sha1:${hash}`
+    });
 }
 
 /**
@@ -133,8 +162,21 @@ async function run() {
     const remoteAssets = release.assets;
     const localFiles = await getFiles(process.cwd());
     const largeFilesFound = [];
+    const pack = await fs.readJson(PACK_DESCRIPTOR_FILE);
+    if (
+        pack.schemaVersion !== 1 ||
+        pack.packId !== 'arkan' ||
+        pack.displayName !== 'Arkan' ||
+        pack.edition !== 'standard' ||
+        typeof pack.version !== 'string' ||
+        !pack.version
+    ) {
+        throw new Error(`Descritor canônico inválido: ${PACK_DESCRIPTOR_FILE}`);
+    }
 
     const manifest = {
+        schemaVersion: 2,
+        pack,
         version: Date.now().toString(),
         generatedAt: new Date().toISOString(),
         files: []
@@ -158,12 +200,13 @@ async function run() {
             const existingAsset = remoteAssets.find(a => a.name === fileName);
             
             if (existingAsset) {
-                // Se o tamanho for diferente, vamos atualizar (deleta e sobe de novo)
-                // Nota: O GitHub Assets não tem hash na API, comparamos tamanho por eficiência.
-                if (existingAsset.size !== file.size) {
-                    console.log(`🔄 Atualizando asset: ${fileName} (Mudança de tamanho detectada)`);
+                // Tamanho igual não prova conteúdo igual. O rótulo SHA-1 torna
+                // os assets grandes tão verificáveis quanto os arquivos Raw.
+                if (existingAsset.size !== file.size || existingAsset.label !== `sha1:${hash}`) {
+                    console.log(`🔄 Atualizando asset: ${fileName} (conteúdo não confirmado)`);
                     await deleteAsset(existingAsset.id);
-                    await uploadAsset(release.id, file.fullPath, fileName);
+                    const uploadedAsset = await uploadAsset(release.id, file.fullPath, fileName);
+                    await labelAsset(uploadedAsset.id, hash);
                     // Re-fetch assets info para pegar a nova URL
                     const updatedRelease = await getOrCreateRelease();
                     const newAsset = updatedRelease.assets.find(a => a.name === fileName);
@@ -174,7 +217,8 @@ async function run() {
                 }
             } else {
                 console.log(`➕ Novo arquivo grande detectado: ${fileName}`);
-                await uploadAsset(release.id, file.fullPath, fileName);
+                const uploadedAsset = await uploadAsset(release.id, file.fullPath, fileName);
+                await labelAsset(uploadedAsset.id, hash);
                 const updatedRelease = await getOrCreateRelease();
                 const newAsset = updatedRelease.assets.find(a => a.name === fileName);
                 url = newAsset.browser_download_url;
@@ -201,7 +245,9 @@ async function run() {
 
     // Atualizar manifestos
     await fs.writeJson('manifest-standard.json', manifest, { spaces: 2 });
-    // Por enquanto o low é igual ao standard, você pode adicionar lógica de filtro aqui
+    // A edição LOW permanece indisponível e continua espelhada somente para
+    // compatibilidade com Launchers antigos. Ela ganhará descritor próprio
+    // quando existir como pacote real.
     await fs.writeJson('manifest-low.json', manifest, { spaces: 2 });
 
     // Atualizar .gitignore automaticamente com os arquivos grandes

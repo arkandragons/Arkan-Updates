@@ -11,7 +11,7 @@
   "alwaysOpenScreen": false,
   "debug": true,
   "validate": false,
-  "validationThreshold": 8.0,
+  "validationThreshold": 8,
   "emotesFolderOnLogicalServer": false,
   "emotesDirectory": "emotes",
   "autoFixEmoteStop": true,
@@ -23,6 +23,12 @@
   "neverRemoveBadIcon": false,
   "exportBuiltin": false,
   "hideWarning": false,
-  "fastmenu": {},
+  "fastmenu": {
+    "0": {
+      "0": "150ee004-7831-42c9-9458-eda6e029f96a",
+      "1": "640f061b-2168-4143-91e7-ab39ebaf7b8d",
+      "2": "1969135f-d126-4aea-8224-520efb9b2949"
+    }
+  },
   "keys": {}
 }

@@ -1,0 +1,17 @@
+{
+  "smoothAcceleration": true,
+  "acceleration": 0.05,
+  "deceleration": 0.08,
+  "reverseSpeed": 0.25,
+  "turning": true,
+  "turnSpeed": 5.0,
+  "cameraSteering": false,
+  "lookWithCamera": true,
+  "cameraBobbing": true,
+  "thirdPersonBobbing": true,
+  "headBobIntensity": 0.14,
+  "headBobFrequency": 0.5,
+  "horseHeadBobbing": true,
+  "horseHeadBobIntensity": 0.14,
+  "horseHeadBobFrequency": 0.5
+}

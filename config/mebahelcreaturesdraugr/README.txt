@@ -1,170 +1,93 @@
 Mebahel's Draugr Creatures - Configuration Guide
 ================================================
 
-This file explains what each field in the configuration JSON files does.
-All configs are located in this folder.
-
+All configuration files are located in this folder and are regenerated with valid values when required.
+Health values use health points (2 health points = 1 heart). Percentages use values from 0 to 100.
 
 1) entity_health_config.json
---------------------------------
-Controls the FINAL max health (HP) of each entity.
-If a value is set to 0, the entity keeps its vanilla/default modded health.
-
-  - draugrEntityHealth
-    Max health for basic Draugr melee units.
-
-  - draugrArcherEntityHealth
-    Max health for Draugr Archers.
-
-  - draugrWightEntityHealth
-    Max health for Draugr Wights (elite melee + magic).
-
-  - draugrScourgeEntityHealth
-    Max health for Draugr Scourges (stronger spellcaster).
-
-  - draugrOverlordEntityHealth
-    Max health for the Draugr Overlord boss.
-
-  - skeletonWarriorEntityHealth
-    Max health for Skeleton Warriors.
-
-  - flameAtronachEntityHealth
-    Max health for Flame Atronachs.
-
-  - infernalDraugrEntityHealth
-    Max health for Infernal Draugrs.
-
+-----------------------------
+Sets maximum health. Valid range: 0 to 100000.
+  draugrEntityHealth: basic Draugr (default 30)
+  draugrArcherEntityHealth: Draugr Archer (default 30)
+  draugrWightEntityHealth: Draugr Wight (default 34)
+  draugrScourgeEntityHealth: Draugr Scourge (default 38)
+  draugrOverlordEntityHealth: Draugr Overlord (default 400)
+  skeletonWarriorEntityHealth: Skeleton Warrior (default 26)
+  skeletonWarriorHeadEntityHealth: Skeleton Warrior Head (default 8)
+  flameAtronachEntityHealth: Flame Atronach (default 32)
+  infernalDraugrEntityHealth: Infernal Draugr (default 42)
 
 2) entity_armor_config.json
---------------------------------
-Controls the FINAL armor value of each entity.
-Armor reduces incoming damage. Higher values = more tanky.
-If a value is set to 0, the entity keeps its vanilla/default modded armor.
-
-  - draugrEntityArmor
-    Armor for basic Draugr melee units.
-
-  - draugrArcherEntityArmor
-    Armor for Draugr Archers.
-
-  - draugrWightEntityArmor
-    Armor for Draugr Wights.
-
-  - draugrScourgeEntityArmor
-    Armor for Draugr Scourges.
-
-  - draugrOverlordEntityArmor
-    Armor for the Draugr Overlord boss.
-
-  - skeletonWarriorEntityArmor
-    Armor for Skeleton Warriors.
-
-  - flameAtronachEntityArmor
-    Armor for Flame Atronachs.
-
-  - infernalDraugrEntityArmor
-    Armor for Infernal Draugrs.
-
+----------------------------
+Sets armor points. Valid range: 0 to 1024.
+  draugrEntityArmor: basic Draugr (default 5)
+  draugrArcherEntityArmor: Draugr Archer (default 3)
+  draugrWightEntityArmor: Draugr Wight (default 5)
+  draugrScourgeEntityArmor: Draugr Scourge (default 3)
+  draugrOverlordEntityArmor: Draugr Overlord (default 15)
+  skeletonWarriorEntityArmor: Skeleton Warrior (default 4)
+  skeletonWarriorHeadEntityArmor: Skeleton Warrior Head (default 2)
+  flameAtronachEntityArmor: Flame Atronach (default 4)
+  infernalDraugrEntityArmor: Infernal Draugr (default 6)
 
 3) entity_damage_config.json
---------------------------------
-Controls damage values used by custom attacks.
-These values do NOT automatically affect vanilla damage unless your code applies them.
-Recommended range: 0 to 100.
-
-  - draugrEntityMeleeDamage
-    Melee damage for basic Draugr units.
-
-  - draugrArcherEntityBonusArrowDamage
-    Extra damage added on top of normal arrow damage for Draugr Archers.
-    Example: 2.0 => arrow damage + 2.0.
-
-  - draugrWightEntityMeleeDamage
-    Melee damage for Draugr Wights.
-
-  - draugrWightEntityFrostbiteDamage
-    Bonus / special damage dealt by the Wight frostbite attack.
-
-  - draugrScourgeEntityFrostbiteDamage
-    Damage dealt by the Scourge frostbite magic.
-
-  - draugrScourgeEntityIceSpikeDamage
-    Damage dealt by the Scourge ice spike projectile.
-
-  - draugrOverlordEntityMeleeDamage
-    Melee damage for the Draugr Overlord.
-
-  - draugrOverlordEntitySpinDamage
-    Damage dealt by the Overlord spin attack.
-
-  - draugrOverlordEntityGroundStrikeDamage
-    Damage dealt by the Overlord ground strike / slam attack.
-
-  - skeletonWarriorEntityMeleeDamage
-    Melee damage for Skeleton Warriors.
-
-  - flameAtronachEntityDamage
-    Damage dealt by Flame Atronach attacks.
-
-  - infernalDraugrEntityMeleeDamage
-    Melee damage for Infernal Draugrs.
-
-  - infernalDraugrEntityFireBoltDamage
-    Damage dealt by the Infernal Draugr fire bolt projectile.
-
+-----------------------------
+Sets attack damage. Valid range: 0 to 100.
+  draugrEntityMeleeDamage: basic Draugr melee damage (default 6)
+  draugrArcherEntityBonusArrowDamage: bonus added to arrow damage (default 0)
+  draugrWightEntityMeleeDamage: Wight melee damage (default 6)
+  draugrWightEntityFrostbiteDamage: Wight frostbite damage (default 2.5)
+  draugrScourgeEntityFrostbiteDamage: Scourge frostbite damage (default 3)
+  draugrScourgeEntityIceSpikeDamage: Scourge ice spike damage (default 9)
+  draugrOverlordEntityMeleeDamage: Overlord melee damage (default 12)
+  draugrOverlordEntitySpinDamage: Overlord spin damage (default 10)
+  draugrOverlordEntityGroundStrikeDamage: Overlord ground-strike damage (default 20)
+  skeletonWarriorEntityMeleeDamage: Skeleton Warrior melee damage (default 5)
+  flameAtronachEntityDamage: Flame Atronach attack damage (default 8)
+  infernalDraugrEntityMeleeDamage: Infernal Draugr melee damage (default 7)
+  infernalDraugrEntityFireBoltDamage: Infernal Draugr firebolt damage (default 8)
 
 4) combat_balancing_config.json
---------------------------------------
-Controls combat-related behaviours and probabilities for Draugr entities.
-
-  - draugrMinBlockProbability (float, default 8.0)
-    Minimum chance (in %) for a Draugr to decide to block after an attack
-    when its health is relatively high.
-    Example: 8.0 => at high HP, ~8% chance to block.
-
-  - draugrMaxBlockProbability (float, default 16.0)
-    Maximum chance (in %) for a Draugr to block when its HP is low.
-    The actual block chance interpolates between min and max based on current HP.
-    Higher values => more defensive behaviour at low HP.
-
-  - draugrSpawnWithPotionProbability (float, default 5.0)
-    Chance (in %) for a Draugr to spawn with a potion (heal/strength/resistance/etc.).
-    Valid range: 0 < value <= 100 (outside this range => reset to 5).
-    Example: 5.0 => roughly 1 Draugr out of 20 spawns with a potion.
-
-  - draugrRaidScalingDifficulty (boolean, default true)
-    If true, Draugr raids scale with difficulty / wave progression.
-    Typically used to make later waves stronger (more mobs).
-    true  => raids become harder as if a player as entered the nether in your world.
-    false => raids stay at a flat difficulty.
-
+--------------------------------
+  draugrMinBlockProbability: minimum Draugr/Wight block chance (default 8%)
+  draugrMaxBlockProbability: maximum Draugr/Wight block chance at low health (default 16%)
+  draugrOverlordMinBlockProbability: minimum Overlord block chance (default 10%)
+  draugrOverlordMaxBlockProbability: maximum Overlord block chance at low health (default 20%)
+  draugrSpawnWithPotionProbability: chance to spawn with a potion (default 5%, valid above 0 through 100)
+  draugrRaidScalingDifficulty: enables raid difficulty scaling (default true)
+  flameAtronachSummonDurationInSecond: summoned Atronach lifetime in seconds (default 120)
+  infernalDraugrMeleeDodgeProbability: chance to dodge melee attacks (default 10%, valid above 0 through 100)
 
 5) spawn_rate_config.json
+-------------------------
+Spawn weights range from 0 to 10. Higher values increase spawn frequency; 0 disables natural spawning.
+All fields default to 10: draugrSpawnRate, draugrArcherSpawnRate, draugrWightSpawnRate,
+draugrScourgeSpawnRate, skeletonWarriorSpawnRate, flameAtronachSpawnRate, and infernalDraugrSpawnRate.
+
+6) multiplayer_chest_config.json
 ---------------------------------
-Controls the relative rarity / spawn frequency of each custom mob.
-All values must be between 0 and 10.
-These are NOT direct percentages but weights used in spawn checks.
-Higher value => more likely to spawn when conditions are met.
+  turnOnMultiplayerDraugrChest: enables multiplayer Draugr chest behavior (default true)
 
-  - draugrSpawnRate (int, default 10)
-    Spawn weight for basic Draugr melee mobs.
-    0 => effectively never spawns.
-    10 => maximum spawn frequency for this mob type.
+7) spell_caster_trap_config.json
+---------------------------------
+Contains playerTraps and dungeonTraps groups. Each group has firebolt, frostbite, and frostSpike entries.
+  damage: projectile damage (valid 0 to 100)
+  range: target acquisition range in blocks (valid 1 to 128)
+  cooldownTicks: delay between attacks (20 ticks = 1 second; valid 1 to 72000)
+  soulsPerShot: souls consumed per projectile; present only under playerTraps and must be 0 or greater
+Player defaults: firebolt 7 damage, 24 range, 120 ticks, 4 souls; frostbite 3 damage, 18 range, 150 ticks, 1 soul; frostSpike 8 damage, 24 range, 120 ticks, 5 souls.
+Dungeon defaults: firebolt 7 damage, 24 range, 80 ticks; frostbite 3 damage, 18 range, 100 ticks; frostSpike 8 damage, 24 range, 80 ticks. Dungeon traps consume no souls.
 
-  - draugrArcherSpawnRate (int, default 10)
-    Spawn weight for Draugr Archers.
-
-  - draugrWightSpawnRate (int, default 10)
-    Spawn weight for Draugr Wights (stronger unit).
-
-  - draugrScourgeSpawnRate (int, default 10)
-    Spawn weight for Draugr Scourges (rare/elite unit).
-
-  - skeletonWarriorSpawnRate (int, default 10)
-    Spawn weight for Skeleton Warriors.
-
-Notes on spawn rates:
-  - All these values are combined with vanilla spawn conditions (light level, biome, etc.).
-  - Setting a value to 0 is a simple way to completely disable a mob type.
-  - Values > 10 are automatically reset to defaults when the config loads.
+8) draugr_raid_config.json
+----------------------------
+Customizes the number and content of Draugr Raid waves.
+  normalDifficultyWaves: waves used before the Nether difficulty upgrade.
+  netherDifficultyWaves: waves used after the Nether difficulty upgrade.
+Each entry in a list represents one wave. Adding or removing entries changes the number of waves. At least one wave is required.
+  mobCount: total number of regular enemies spawned in the wave (0 to 500).
+  draugrWeight, skeletonWarriorWeight, draugrArcherWeight, draugrWightWeight, draugrScourgeWeight: relative chances of selecting each enemy.
+A weight of 0 disables that enemy for the wave. Larger weights make it more common compared with the other enabled enemies.
+  overlordCount: number of Draugr Overlords added to the wave (0 to 500). This is separate from mobCount.
+A wave may contain only Overlords by setting mobCount to 0 and overlordCount above 0.
+Default configuration preserves the original 3 normal waves, 4 Nether-level waves, enemy selection chances, and final Overlord.
 

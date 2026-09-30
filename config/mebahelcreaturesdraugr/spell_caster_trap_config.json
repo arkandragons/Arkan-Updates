@@ -1,0 +1,39 @@
+{
+  "playerTraps": {
+    "firebolt": {
+      "soulsPerShot": 4,
+      "damage": 7.0,
+      "range": 24.0,
+      "cooldownTicks": 120
+    },
+    "frostbite": {
+      "soulsPerShot": 1,
+      "damage": 3.0,
+      "range": 18.0,
+      "cooldownTicks": 150
+    },
+    "frostSpike": {
+      "soulsPerShot": 5,
+      "damage": 8.0,
+      "range": 24.0,
+      "cooldownTicks": 120
+    }
+  },
+  "dungeonTraps": {
+    "firebolt": {
+      "damage": 7.0,
+      "range": 24.0,
+      "cooldownTicks": 80
+    },
+    "frostbite": {
+      "damage": 3.0,
+      "range": 18.0,
+      "cooldownTicks": 100
+    },
+    "frostSpike": {
+      "damage": 8.0,
+      "range": 24.0,
+      "cooldownTicks": 80
+    }
+  }
+}

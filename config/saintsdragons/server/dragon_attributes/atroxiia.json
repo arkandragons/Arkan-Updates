@@ -1,0 +1,48 @@
+{
+  "max_health": 200.0,
+  "armor": 10.0,
+  "flying_speed": 0.0,
+  "abilities": {
+    "swipe": {
+      "damage": 12.0
+    },
+    "helheim_quake": {
+      "damage": 25.0,
+      "knockback": 0.75,
+      "secondary_knockback": 1.8,
+      "stun_duration_ticks": 100.0
+    },
+    "underwater_bite": {
+      "damage": 10.0
+    },
+    "precise_strike": {
+      "damage": 9.0,
+      "knockback": 0.75,
+      "stun_duration_ticks": 40.0
+    },
+    "devastating_sweep": {
+      "damage": 13.0,
+      "knockback": 1.65
+    },
+    "slam": {
+      "damage": 16.0
+    },
+    "gungnir_stab": {
+      "damage": 40.0
+    },
+    "frost_impact": {
+      "enabled": true
+    },
+    "slither": {
+      "damage": 5.0
+    }
+  },
+  "extra": {
+    "taming_chance_hearty": 33.3333,
+    "egg_hatch_time_ticks_normal": 24000.0,
+    "taming_stun_health": 60.0,
+    "taming_chance_base": 20.0,
+    "legacy_taming": false,
+    "aggressive_wild": false
+  }
+}

@@ -6,6 +6,11 @@
   "requestTimeoutMs": 5000,
   "permissionLevel": 2,
   "profileUrlTemplate": "https://arkandragons.vercel.app/api/users/profile/{nickname}",
-  "assetBaseUrl": "",
-  "userAgent": "ArkansIdLoader/2.14"
+  "assetBaseUrl": "https://arkandragons.vercel.app",
+  "userAgent": "ArkanIDLoader/4.8",
+  "arkanLevelEnabled": true,
+  "arkanXpPerLevel": 15,
+  "arkanLevelMax": 1000000,
+  "arkanLevelSiteSyncEnabled": true,
+  "arkanLevelPollSeconds": 60
 }

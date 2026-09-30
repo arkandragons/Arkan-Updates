@@ -1,0 +1,3044 @@
+{
+  "add_fishing_loot": true,
+  "biomes": {
+    "generateSeagrassBed": true,
+    "generateTropicalRiver": true,
+    "generateTidePools": true,
+    "generateSulfuricCave": true,
+    "enableBiomes": true,
+    "generateDeepWarmOcaen": true,
+    "generateDeepCoralReef": true,
+    "generateRedMeadow": true
+  },
+  "worldgen_features": {
+    "generateRiverPlants": true,
+    "generateThermalVents": true,
+    "generateBrinePools": true,
+    "generateMounds": true,
+    "generateFloatingSargassum": true,
+    "generateSargassum": true,
+    "generateBullKelp": true,
+    "generateDelesseria": true
+  },
+  "spawn_configuration": [
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:african_butterflyfish",
+      "biomes": "hapi:tropical_rivers",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:african_butterflyfish",
+      "biomes": "hapi:jungle",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:african_butterflyfish",
+      "biomes": "hapi:marshes",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:african_butterflyfish",
+      "biomes": "hapi:mangroves",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:golden_dorado",
+      "biomes": "hapi:tropical_rivers",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:golden_dorado",
+      "biomes": "hapi:jungle",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:tetra",
+      "biomes": "hapi:jungle",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:tetra",
+      "biomes": "hapi:marshes",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:tetra",
+      "biomes": "hapi:mangroves",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:tetra",
+      "biomes": "hapi:tropical_rivers",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:tetra",
+      "biomes": "hapi:caves",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:pupfish",
+      "biomes": "minecraft:is_badlands",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:tiger_barb",
+      "biomes": "hapi:jungle",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:tiger_barb",
+      "biomes": "hapi:swamp",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:tiger_barb",
+      "biomes": "hapi:mangroves",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:tiger_barb",
+      "biomes": "hapi:marshes",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:tiger_barb",
+      "biomes": "hapi:tropical_rivers",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:gourami",
+      "biomes": "hapi:jungle",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:gourami",
+      "biomes": "hapi:mangroves",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:gourami",
+      "biomes": "hapi:marshes",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:gourami",
+      "biomes": "hapi:tropical_rivers",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:pleco",
+      "biomes": "hapi:swamp",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:pleco",
+      "biomes": "hapi:mangroves",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:pleco",
+      "biomes": "hapi:jungle",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:pleco",
+      "biomes": "hapi:tropical_rivers",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:pleco",
+      "biomes": "hapi:marshes",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:discus",
+      "biomes": "hapi:jungle",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:discus",
+      "biomes": "hapi:mangroves",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:discus",
+      "biomes": "hapi:tropical_rivers",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:corydora",
+      "biomes": "hapi:jungle",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:corydora",
+      "biomes": "hapi:tropical_rivers",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 4,
+      "max_group_size": 8,
+      "type": "hybrid_aquatic:piranha",
+      "biomes": "hapi:jungle",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 4,
+      "max_group_size": 8,
+      "type": "hybrid_aquatic:piranha",
+      "biomes": "hapi:tropical_rivers",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:cichlid",
+      "biomes": "hapi:jungle",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:cichlid",
+      "biomes": "hapi:mangroves",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:cichlid",
+      "biomes": "hapi:tropical_rivers",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:danio",
+      "biomes": "hapi:jungle",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:danio",
+      "biomes": "hapi:mangroves",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:danio",
+      "biomes": "hapi:marshes",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:danio",
+      "biomes": "hapi:tropical_rivers",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:betta",
+      "biomes": "hapi:swamp",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:betta",
+      "biomes": "hapi:mangroves",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:betta",
+      "biomes": "hapi:marshes",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:carp",
+      "biomes": "hapi:rivers",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sunfish",
+      "biomes": "hapi:rivers",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:trout",
+      "biomes": "hapi:cold_rivers",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:trout",
+      "biomes": "minecraft:is_river",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:shiner",
+      "biomes": "hapi:cold_rivers",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:shiner",
+      "biomes": "minecraft:is_river",
+      "group": "hybrid_aquatic:river_fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:manta_ray",
+      "biomes": "hapi:temperate_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:manta_ray",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:manta_ray",
+      "biomes": "hapi:warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:flashlight_fish",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:flashlight_fish",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:flashlight_fish",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:flashlight_fish",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:squirrelfish",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:squirrelfish",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:squirrelfish",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:squirrelfish",
+      "biomes": "hapi:red_meadow",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:squirrelfish",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:flying_fish",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:flying_fish",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:damselfish",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:damselfish",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:damselfish",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:mackerel",
+      "biomes": "hapi:cold_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:mackerel",
+      "biomes": "hapi:temperate_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:herring",
+      "biomes": "hapi:shallow_cold_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 4,
+      "max_group_size": 12,
+      "type": "hybrid_aquatic:herring",
+      "biomes": "hapi:shallow_temperate_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 4,
+      "min_group_size": 1,
+      "max_group_size": 4,
+      "type": "hybrid_aquatic:needlefish",
+      "biomes": "hapi:shallow_temperate_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 4,
+      "min_group_size": 1,
+      "max_group_size": 4,
+      "type": "hybrid_aquatic:needlefish",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 4,
+      "min_group_size": 1,
+      "max_group_size": 4,
+      "type": "hybrid_aquatic:needlefish",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 4,
+      "type": "hybrid_aquatic:mahi",
+      "biomes": "hapi:deep_lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 4,
+      "type": "hybrid_aquatic:mahi",
+      "biomes": "hapi:deep_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 4,
+      "type": "hybrid_aquatic:tuna",
+      "biomes": "hapi:deep_temperate_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 4,
+      "type": "hybrid_aquatic:tuna",
+      "biomes": "hapi:deep_lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 4,
+      "type": "hybrid_aquatic:tuna",
+      "biomes": "hapi:deep_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 4,
+      "type": "hybrid_aquatic:rockfish",
+      "biomes": "hapi:shallow_temperate_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 4,
+      "type": "hybrid_aquatic:rockfish",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 4,
+      "type": "hybrid_aquatic:rockfish",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:sea_bass",
+      "biomes": "hapi:shallow_temperate_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:sea_bass",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:sea_bass",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:barracuda",
+      "biomes": "hapi:shallow_temperate_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:barracuda",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:barracuda",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 3,
+      "max_group_size": 8,
+      "type": "hybrid_aquatic:garden_eel",
+      "biomes": "hapi:shallow_lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 3,
+      "max_group_size": 8,
+      "type": "hybrid_aquatic:garden_eel",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 3,
+      "max_group_size": 8,
+      "type": "hybrid_aquatic:garden_eel",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:opah",
+      "biomes": "hapi:deep_temperate_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:opah",
+      "biomes": "hapi:deep_lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:opah",
+      "biomes": "hapi:deep_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:wrasse",
+      "biomes": "hapi:shallow_temperate_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:seahorse",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:seahorse",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:seadragon",
+      "biomes": "hapi:shallow_temperate_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:seadragon",
+      "biomes": "hapi:deep_lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:seadragon",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:lionfish",
+      "biomes": "hapi:red_meadow",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:lionfish",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:stonefish",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:stonefish",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:stingray",
+      "biomes": "hapi:shallow_lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:stingray",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:stingray",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:stingray",
+      "biomes": "hapi:red_meadow",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:stingray",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:blowfish",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:blowfish",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:blowfish",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 4,
+      "min_group_size": 1,
+      "max_group_size": 4,
+      "type": "hybrid_aquatic:surgeonfish",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 4,
+      "min_group_size": 1,
+      "max_group_size": 4,
+      "type": "hybrid_aquatic:surgeonfish",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:clownfish",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:boxfish",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:boxfish",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:triggerfish",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:triggerfish",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:triggerfish",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:trevally",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:trevally",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:trevally",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:trevally",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 4,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:parrotfish",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 4,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:parrotfish",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:moray_eel",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:moray_eel",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:ocean_sunfish",
+      "biomes": "hapi:deep_temperate_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:ocean_sunfish",
+      "biomes": "hapi:deep_lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:ocean_sunfish",
+      "biomes": "hapi:deep_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:ratfish",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:ratfish",
+      "biomes": "hapi:all_trenches",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:snailfish",
+      "biomes": "hapi:all_trenches",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:oarfish",
+      "biomes": "hapi:deep_lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:oarfish",
+      "biomes": "hapi:lukewarm_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:oarfish",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:oarfish",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:oarfish",
+      "biomes": "hapi:deep_temperate_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:oarfish",
+      "biomes": "hapi:deep_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:anglerfish",
+      "biomes": "hapi:all_trenches",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:fangtooth",
+      "biomes": "hapi:all_trenches",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:viperfish",
+      "biomes": "hapi:all_trenches",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:hatchetfish",
+      "biomes": "hapi:all_trenches",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:blobfish",
+      "biomes": "hapi:all_trenches",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:tripod_fish",
+      "biomes": "hapi:all_trenches",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 4,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:john_dory",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 4,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:john_dory",
+      "biomes": "hapi:deep_warm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 4,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:john_dory",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 4,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:john_dory",
+      "biomes": "hapi:lukewarm_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 4,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:john_dory",
+      "biomes": "hapi:deep_lukewarm_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 4,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:john_dory",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 4,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:john_dory",
+      "biomes": "hapi:deep_temperate_oceans",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:barreleye",
+      "biomes": "hapi:lukewarm_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:barreleye",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:barreleye",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:dragonfish",
+      "biomes": "hapi:lukewarm_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:dragonfish",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:dragonfish",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_angel",
+      "biomes": "hapi:frozen_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_angel",
+      "biomes": "hapi:cold_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_angel",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:coelacanth",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:coelacanth",
+      "biomes": "hapi:lukewarm_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:coelacanth",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:coelacanth",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:slickhead",
+      "biomes": "hapi:cold_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:slickhead",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:fish"
+    },
+    {
+      "weight": 11,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:arrow_squid",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 11,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:arrow_squid",
+      "biomes": "hapi:temperate_oceans",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:giant_squid",
+      "biomes": "hapi:cold_trench",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:giant_squid",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:giant_squid",
+      "biomes": "hapi:lukewarm_trench",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:giant_squid",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:colossal_squid",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:colossal_squid",
+      "biomes": "hapi:cold_trench",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:colossal_squid",
+      "biomes": "hapi:frozen_trench",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 11,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:firefly_squid",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 11,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:firefly_squid",
+      "biomes": "hapi:lukewarm_trench",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 11,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:firefly_squid",
+      "biomes": "hapi:warm_oceans",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 11,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:firefly_squid",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 11,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:firefly_squid",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 11,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:cuttlefish",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 11,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:cuttlefish",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 11,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:cuttlefish",
+      "biomes": "hapi:shallow_temperate_oceans",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 11,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:octopus",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 11,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:octopus",
+      "biomes": "hapi:red_meadow",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 11,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:octopus",
+      "biomes": "hapi:shallow_lukewarm_oceans",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 11,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:octopus",
+      "biomes": "hapi:shallow_temperate_oceans",
+      "group": "hybrid_aquatic:cephalopod"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:barrel_jellyfish",
+      "biomes": "hapi:shallow_temperate_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:barrel_jellyfish",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:barrel_jellyfish",
+      "biomes": "hapi:red_meadow",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:barrel_jellyfish",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:barrel_jellyfish",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 2,
+      "max_group_size": 5,
+      "type": "hybrid_aquatic:moon_jellyfish",
+      "biomes": "hapi:shallow_temperate_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 2,
+      "max_group_size": 5,
+      "type": "hybrid_aquatic:moon_jellyfish",
+      "biomes": "hapi:shallow_lukewarm_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 2,
+      "max_group_size": 5,
+      "type": "hybrid_aquatic:moon_jellyfish",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 2,
+      "max_group_size": 5,
+      "type": "hybrid_aquatic:moon_jellyfish",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 2,
+      "max_group_size": 5,
+      "type": "hybrid_aquatic:moon_jellyfish",
+      "biomes": "hapi:red_meadow",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 2,
+      "max_group_size": 5,
+      "type": "hybrid_aquatic:moon_jellyfish",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 5,
+      "min_group_size": 2,
+      "max_group_size": 5,
+      "type": "hybrid_aquatic:moon_jellyfish",
+      "biomes": "hapi:sandy_beaches",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:cepheidae_jellyfish",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:cepheidae_jellyfish",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:cepheidae_jellyfish",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:cepheidae_jellyfish",
+      "biomes": "hapi:shallow_temperate_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:blue_jellyfish",
+      "biomes": "hapi:cold_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:blue_jellyfish",
+      "biomes": "hapi:temperate_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 4,
+      "type": "hybrid_aquatic:sea_nettle",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 4,
+      "type": "hybrid_aquatic:sea_nettle",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 4,
+      "type": "hybrid_aquatic:sea_nettle",
+      "biomes": "hapi:temperate_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:nomura_jellyfish",
+      "biomes": "hapi:frozen_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:nomura_jellyfish",
+      "biomes": "hapi:cold_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:lions_mane_jellyfish",
+      "biomes": "hapi:frozen_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:lions_mane_jellyfish",
+      "biomes": "hapi:cold_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:box_jellyfish",
+      "biomes": "hapi:mangroves",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:box_jellyfish",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:box_jellyfish",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:box_jellyfish",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:box_jellyfish",
+      "biomes": "hapi:sandy_beaches",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:crown_jellyfish",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:crown_jellyfish",
+      "biomes": "hapi:lukewarm_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:crown_jellyfish",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:crown_jellyfish",
+      "biomes": "hapi:cold_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:crown_jellyfish",
+      "biomes": "hapi:frozen_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:big_red_jellyfish",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:big_red_jellyfish",
+      "biomes": "hapi:lukewarm_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:big_red_jellyfish",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:big_red_jellyfish",
+      "biomes": "hapi:cold_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:big_red_jellyfish",
+      "biomes": "hapi:frozen_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:cosmic_jellyfish",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:cosmic_jellyfish",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:cosmic_jellyfish",
+      "biomes": "hapi:lukewarm_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:cosmic_jellyfish",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:cosmic_jellyfish",
+      "biomes": "hapi:cold_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:cosmic_jellyfish",
+      "biomes": "hapi:frozen_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:comb_jelly",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:comb_jelly",
+      "biomes": "hapi:all_trenches",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:comb_jelly",
+      "biomes": "minecraft:is_deep_ocean",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:firework_jellyfish",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:firework_jellyfish",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:firework_jellyfish",
+      "biomes": "hapi:lukewarm_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:firework_jellyfish",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:firework_jellyfish",
+      "biomes": "hapi:cold_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:firework_jellyfish",
+      "biomes": "hapi:frozen_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:mauve_stinger",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:mauve_stinger",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:mauve_stinger",
+      "biomes": "hapi:lukewarm_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:mauve_stinger",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:mauve_stinger",
+      "biomes": "hapi:cold_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:mauve_stinger",
+      "biomes": "hapi:frozen_trench",
+      "group": "hybrid_aquatic:jelly"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:great_white_shark",
+      "biomes": "hapi:deep_temperate_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:great_white_shark",
+      "biomes": "hapi:deep_lukewarm_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:great_white_shark",
+      "biomes": "hapi:deep_warm_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:sand_tiger_shark",
+      "biomes": "hapi:shallow_temperate_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:sand_tiger_shark",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:sand_tiger_shark",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:sand_tiger_shark",
+      "biomes": "hapi:shallow_lukewarm_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:hammerhead_shark",
+      "biomes": "hapi:temperate_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:hammerhead_shark",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:hammerhead_shark",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:hammerhead_shark",
+      "biomes": "hapi:shallow_lukewarm_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:hound_shark",
+      "biomes": "hapi:shallow_temperate_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:hound_shark",
+      "biomes": "hapi:shallow_lukewarm_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:thresher_shark",
+      "biomes": "hapi:deep_temperate_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:thresher_shark",
+      "biomes": "hapi:deep_lukewarm_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:thresher_shark",
+      "biomes": "hapi:deep_warm_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:bull_shark",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:bull_shark",
+      "biomes": "hapi:warm_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:whale_shark",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:whale_shark",
+      "biomes": "hapi:warm_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:basking_shark",
+      "biomes": "hapi:deep_temperate_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:basking_shark",
+      "biomes": "hapi:deep_cold_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:basking_shark",
+      "biomes": "hapi:frozen_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:frilled_shark",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:frilled_shark",
+      "biomes": "hapi:lukewarm_trench",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:frilled_shark",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:sixgill_shark",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:sixgill_shark",
+      "biomes": "hapi:lukewarm_trench",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:sixgill_shark",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:sleeper_shark",
+      "biomes": "hapi:frozen_trench",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:sleeper_shark",
+      "biomes": "hapi:cold_trench",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:goblin_shark",
+      "biomes": "hapi:cold_trench",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:goblin_shark",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:goblin_shark",
+      "biomes": "hapi:lukewarm_trench",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 1,
+      "type": "hybrid_aquatic:goblin_shark",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:lantern_shark",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:lantern_shark",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:lantern_shark",
+      "biomes": "hapi:deep_temperate_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:lantern_shark",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:lantern_shark",
+      "biomes": "hapi:deep_lukewarm_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:lantern_shark",
+      "biomes": "hapi:lukewarm_trench",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:lantern_shark",
+      "biomes": "hapi:deep_warm_oceans",
+      "group": "hybrid_aquatic:shark"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:otter",
+      "biomes": "hapi:rivers",
+      "group": "hybrid_aquatic:mammal"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:otter",
+      "biomes": "hapi:sandy_beaches",
+      "group": "hybrid_aquatic:mammal"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:otter",
+      "biomes": "hapi:rocky_beaches",
+      "group": "hybrid_aquatic:mammal"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:dugong",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:mammal"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:manatee",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:mammal"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:manatee",
+      "biomes": "hapi:mangroves",
+      "group": "hybrid_aquatic:mammal"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:manatee",
+      "biomes": "hapi:tropical_rivers",
+      "group": "hybrid_aquatic:mammal"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:orca",
+      "biomes": "hapi:frozen_oceans",
+      "group": "hybrid_aquatic:mammal"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:orca",
+      "biomes": "hapi:cold_oceans",
+      "group": "hybrid_aquatic:mammal"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:orca",
+      "biomes": "hapi:temperate_oceans",
+      "group": "hybrid_aquatic:mammal"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:dungeness_crab",
+      "biomes": "hapi:sandy_beaches",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:fiddler_crab",
+      "biomes": "hapi:swamp",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:fiddler_crab",
+      "biomes": "hapi:mangroves",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:fiddler_crab",
+      "biomes": "hapi:marshes",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:ghost_crab",
+      "biomes": "hapi:sandy_beaches",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:horseshoe_crab",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:horseshoe_crab",
+      "biomes": "hapi:red_meadow",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:horseshoe_crab",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:horseshoe_crab",
+      "biomes": "hapi:shallow_lukewarm_oceans",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:horseshoe_crab",
+      "biomes": "hapi:sandy_beaches",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:lightfoot_crab",
+      "biomes": "hapi:rocky_beaches",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:flower_crab",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:flower_crab",
+      "biomes": "hapi:red_meadow",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:flower_crab",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:flower_crab",
+      "biomes": "hapi:shallow_lukewarm_oceans",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:flower_crab",
+      "biomes": "hapi:mangroves",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:flower_crab",
+      "biomes": "hapi:marshes",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:vampire_crab",
+      "biomes": "hapi:jungle",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:vampire_crab",
+      "biomes": "hapi:tropical_rivers",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:shrimp",
+      "biomes": "hapi:tropical_rivers",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:shrimp",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:shrimp",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:shrimp",
+      "biomes": "hapi:red_meadow",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:shrimp",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 2,
+      "max_group_size": 3,
+      "type": "hybrid_aquatic:shrimp",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:lobster",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:lobster",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:lobster",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:lobster",
+      "biomes": "hapi:red_meadow",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:lobster",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:lobster",
+      "biomes": "hapi:shallow_lukewarm_oceans",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:decorator_crab",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:decorator_crab",
+      "biomes": "hapi:red_meadow",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:crayfish",
+      "biomes": "hapi:tropical_rivers",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:crayfish",
+      "biomes": "hapi:cold_rivers",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:crayfish",
+      "biomes": "hapi:rivers",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:coconut_crab",
+      "biomes": "hapi:sandy_beaches",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:hermit_crab",
+      "biomes": "hapi:sandy_beaches",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:hermit_crab",
+      "biomes": "hapi:red_meadow",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:hermit_crab",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:hermit_crab",
+      "biomes": "hapi:shallow_lukewarm_oceans",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:yeti_crab",
+      "biomes": "hapi:has_thermal_vents",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:yeti_crab",
+      "biomes": "hapi:frozen_trench",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:yeti_crab",
+      "biomes": "hapi:cold_trench",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:giant_isopod",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:giant_isopod",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:giant_isopod",
+      "biomes": "hapi:temperate_oceans",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:giant_isopod",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:giant_isopod",
+      "biomes": "hapi:cold_trench",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:giant_isopod",
+      "biomes": "hapi:cold_oceans",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:spider_crab",
+      "biomes": "hapi:deep_reef",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:spider_crab",
+      "biomes": "hapi:warm_trench",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:spider_crab",
+      "biomes": "hapi:temperate_oceans",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:spider_crab",
+      "biomes": "hapi:temperate_trench",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:spider_crab",
+      "biomes": "hapi:cold_trench",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:spider_crab",
+      "biomes": "hapi:cold_oceans",
+      "group": "hybrid_aquatic:crustacean"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_slug",
+      "biomes": "hapi:shallow_cold_oceans",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_slug",
+      "biomes": "hapi:shallow_temperate_oceans",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_slug",
+      "biomes": "hapi:lukewarm_oceans",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_slug",
+      "biomes": "hapi:shallow_warm_oceans",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_slug",
+      "biomes": "hapi:seagrass_bed",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_slug",
+      "biomes": "hapi:red_meadow",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_slug",
+      "biomes": "hapi:coral_reef",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 1,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:scalyfoot_snail",
+      "biomes": "hapi:has_thermal_vents",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:starfish",
+      "biomes": "minecraft:is_ocean",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:starfish",
+      "biomes": "minecraft:is_deep_ocean",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:starfish",
+      "biomes": "hapi:all_trenches",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 2,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:starfish",
+      "biomes": "hapi:sandy_beaches",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_cucumber",
+      "biomes": "minecraft:is_ocean",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_cucumber",
+      "biomes": "minecraft:is_deep_ocean",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_cucumber",
+      "biomes": "hapi:red_meadow",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_cucumber",
+      "biomes": "hapi:all_trenches",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_urchin",
+      "biomes": "minecraft:is_ocean",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_urchin",
+      "biomes": "minecraft:is_deep_ocean",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_urchin",
+      "biomes": "hapi:red_meadow",
+      "group": "hybrid_aquatic:critter"
+    },
+    {
+      "weight": 3,
+      "min_group_size": 1,
+      "max_group_size": 2,
+      "type": "hybrid_aquatic:sea_urchin",
+      "biomes": "hapi:all_trenches",
+      "group": "hybrid_aquatic:critter"
+    }
+  ],
+  "data_version": 8,
+  "enable_wandering_trader_trades": true,
+  "enable_villager_trades": true
+}

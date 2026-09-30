@@ -1,0 +1,10 @@
+dragonGriefingEnabled = true
+fireDragonBlockIgnitionEnabled = true
+screenShakeEnabled = true
+barrelRollEnabled = true
+stegonautBuffsEnabled = true
+dragonBreedingEnabled = true
+hungerDecayEnabled = true
+happinessDecayEnabled = true
+wikiReminderEnabled = true
+ivyRestockInterval = 24000

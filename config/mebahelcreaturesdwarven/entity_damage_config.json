@@ -1,0 +1,11 @@
+{
+  "dwemerSphereEntityMeleeDamage": 8.0,
+  "dwemerSphereEntityBonusArrowDamage": 2.0,
+  "dwemerCenturionEntityMeleeDamage": 9.0,
+  "dwemerCenturionEntitySteamDamage": 5.0,
+  "dwemerCenturionEntityAreaDamage": 4.0,
+  "dwemerCenturionEntityDualAreaDamage": 8.0,
+  "dwemerSpiderEntityMeleeDamage": 6.0,
+  "dwemerSpiderGuardianEntityMeleeDamage": 6.0,
+  "dwemerSpiderGuardianEntityJumpDamage": 10.0
+}

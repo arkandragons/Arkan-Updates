@@ -1,0 +1,48 @@
+{
+  "_note": "Client-side dragon rider camera distances. Edit them here or in the in-game config screen.",
+  "raevyx": {
+    "grounded_distance": 15.0,
+    "air_or_water_distance": 22.0
+  },
+  "stegonaut": {
+    "grounded_distance": 8.0,
+    "air_or_water_distance": 8.0
+  },
+  "nulljaw": {
+    "grounded_distance": 3.0,
+    "air_or_water_distance": 8.0
+  },
+  "default": {
+    "grounded_distance": 15.0,
+    "air_or_water_distance": 15.0,
+    "bank_shift_max": 5.5,
+    "zoom_smoothing": 0.05,
+    "lateral_shift_smoothing": 0.15,
+    "vertical_shift_smoothing": 0.12,
+    "grounded_vertical_shift": 0.0,
+    "air_or_water_vertical_shift": 0.0,
+    "grounded_pitch_offset": 0.0,
+    "air_or_water_pitch_offset": 0.0,
+    "pitch_smoothing": 0.15
+  },
+  "cindervane": {
+    "grounded_distance": 7.0,
+    "air_or_water_distance": 25.0
+  },
+  "varasuchus": {
+    "grounded_distance": 10.0,
+    "air_or_water_distance": 20.0
+  },
+  "ignivorus": {
+    "grounded_distance": 25.0,
+    "air_or_water_distance": 30.0
+  },
+  "volitans": {
+    "grounded_distance": 12.0,
+    "air_or_water_distance": 20.0
+  },
+  "atroxiia": {
+    "grounded_distance": 10.0,
+    "air_or_water_distance": 10.0
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "controlPoss": {
+    "HorseInventoryScreen": [
+      [
+        139,
+        80
+      ]
+    ],
+    "BrewingStandScreen": [
+      [
+        139,
+        80
+      ]
+    ],
+    "CrafterScreen": [
+      [
+        139,
+        80
+      ]
+    ],
+    "MerchantScreen": [
+      [
+        139,
+        80
+      ]
+    ],
+    "DispenserScreen": [
+      [
+        139,
+        80
+      ]
+    ],
+    "LoomScreen": [
+      [
+        105,
+        80
+      ]
+    ],
+    "BlastFurnaceScreen": [
+      [
+        139,
+        80
+      ]
+    ],
+    "NautilusInventoryScreen": [
+      [
+        139,
+        80
+      ]
+    ],
+    "StonecutterScreen": [
+      [
+        139,
+        80
+      ]
+    ],
+    "FurnaceScreen": [
+      [
+        139,
+        80
+      ]
+    ],
+    "EnchantmentScreen": [
+      [
+        139,
+        80
+      ]
+    ],
+    "AnvilScreen": [
+      [
+        139,
+        80
+      ]
+    ],
+    "SmithingScreen": [
+      [
+        139,
+        81
+      ]
+    ],
+    "CraftingScreen": [
+      [
+        139,
+        80
+      ]
+    ],
+    "ContainerScreen": [
+      [
+        139,
+        80
+      ],
+      [
+        139,
+        12
+      ]
+    ],
+    "ShulkerBoxScreen": [
+      [
+        139,
+        80
+      ],
+      [
+        139,
+        12
+      ]
+    ],
+    "CartographyTableScreen": [
+      [
+        139,
+        80
+      ]
+    ],
+    "HopperScreen": [
+      [
+        139,
+        80
+      ]
+    ],
+    "InventoryScreen": [
+      [
+        139,
+        80
+      ]
+    ],
+    "BeaconScreen": [
+      [
+        188,
+        96
+      ]
+    ],
+    "SmokerScreen": [
+      [
+        139,
+        80
+      ]
+    ],
+    "GrindstoneScreen": [
+      [
+        139,
+        80
+      ]
+    ]
+  }
+}

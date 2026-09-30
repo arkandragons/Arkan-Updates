@@ -1,0 +1,69 @@
+{
+  "normalDifficultyWaves": [
+    {
+      "mobCount": 5,
+      "draugrWeight": 15,
+      "skeletonWarriorWeight": 5,
+      "draugrArcherWeight": 3,
+      "draugrWightWeight": 4,
+      "draugrScourgeWeight": 0,
+      "overlordCount": 0
+    },
+    {
+      "mobCount": 7,
+      "draugrWeight": 14,
+      "skeletonWarriorWeight": 4,
+      "draugrArcherWeight": 2,
+      "draugrWightWeight": 5,
+      "draugrScourgeWeight": 0,
+      "overlordCount": 0
+    },
+    {
+      "mobCount": 9,
+      "draugrWeight": 13,
+      "skeletonWarriorWeight": 3,
+      "draugrArcherWeight": 1,
+      "draugrWightWeight": 6,
+      "draugrScourgeWeight": 0,
+      "overlordCount": 1
+    }
+  ],
+  "netherDifficultyWaves": [
+    {
+      "mobCount": 7,
+      "draugrWeight": 15,
+      "skeletonWarriorWeight": 5,
+      "draugrArcherWeight": 3,
+      "draugrWightWeight": 4,
+      "draugrScourgeWeight": 2,
+      "overlordCount": 0
+    },
+    {
+      "mobCount": 9,
+      "draugrWeight": 14,
+      "skeletonWarriorWeight": 4,
+      "draugrArcherWeight": 2,
+      "draugrWightWeight": 5,
+      "draugrScourgeWeight": 3,
+      "overlordCount": 0
+    },
+    {
+      "mobCount": 11,
+      "draugrWeight": 13,
+      "skeletonWarriorWeight": 3,
+      "draugrArcherWeight": 1,
+      "draugrWightWeight": 6,
+      "draugrScourgeWeight": 4,
+      "overlordCount": 0
+    },
+    {
+      "mobCount": 13,
+      "draugrWeight": 12,
+      "skeletonWarriorWeight": 2,
+      "draugrArcherWeight": 1,
+      "draugrWightWeight": 7,
+      "draugrScourgeWeight": 5,
+      "overlordCount": 1
+    }
+  ]
+}

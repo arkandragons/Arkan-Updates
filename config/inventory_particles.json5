@@ -1,4 +1,31 @@
 {
+  "whitelists": {
+    "cursor_config": {
+      "mode": "disabled",
+      "items": ""
+    },
+    "hovered_slot_config": {
+      "mode": "disabled",
+      "items": ""
+    },
+    "all_slots_config": {
+      "mode": "disabled",
+      "items": ""
+    },
+    "gui_action_config": {
+      "mode": "disabled",
+      "items": ""
+    }
+  },
+  "family_generation": {
+    "mods_mode": "blacklist",
+    "mods": "",
+    "items_mode": "blacklist",
+    "items": ""
+  },
+  "cache": {
+    "invalidate_mode": "manual_invalidate"
+  },
   "particle": {
     "max_particles": 5000,
     "particle_transparency": 1.0,
@@ -34,28 +61,13 @@
       "cooldown_coefficient": 1.0
     }
   },
-  "whitelists": {
-    "cursor_config": {
-      "mode": "disabled",
-      "items": ""
-    },
-    "hovered_slot_config": {
-      "mode": "disabled",
-      "items": ""
-    },
-    "all_slots_config": {
-      "mode": "disabled",
-      "items": ""
-    },
-    "gui_action_config": {
-      "mode": "disabled",
-      "items": ""
-    }
-  },
+  "test_2_1_0": true,
   "test_1_2_2": true,
   "main": {
     "mod_enabled": true,
     "debug_mode_enabled": false,
     "nbt_debug_mode_enabled": false
-  }
+  },
+  "test_2_3_0": true,
+  "test_2_2_0": true
 }

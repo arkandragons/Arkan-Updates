@@ -1,0 +1,9 @@
+{
+  "smoothStartupProgress": true,
+  "showLoadingGuidance": true,
+  "responsiveResourceReload": true,
+  "responsiveWorldLoading": true,
+  "resourceTaskBudgetMs": 40,
+  "eventPumpIntervalMs": 100,
+  "worldFrameIntervalMs": 33
+}
