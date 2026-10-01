@@ -12,8 +12,8 @@
     "promotedFrom": "Arkan (Modded) n1",
     "releasedAt": "2026-09-30T00:41:49.422-03:00"
   },
-  "version": "1790741465531",
-  "generatedAt": "2026-09-30T04:11:05.531Z",
+  "version": "1790856126828",
+  "generatedAt": "2026-10-01T12:02:06.828Z",
   "files": [
     {
       "name": ".arkan-pack.json",
@@ -5728,11 +5728,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/architectury-9.2.14-fabric.jar"
     },
     {
-      "name": "arkan-connect-2.2.jar",
-      "path": "mods/arkan-connect-2.2.jar",
-      "hash": "c667376a13cda00bd5faf48c872e994f3b3e6cd5",
-      "size": 53035,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkan-connect-2.2.jar"
+      "name": "arkan-connect-2.11.jar",
+      "path": "mods/arkan-connect-2.11.jar",
+      "hash": "e9890eda513d019d16eeaad52b6a01cfe53604a7",
+      "size": 55614,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkan-connect-2.11.jar"
     },
     {
       "name": "arkan-controlify-fork-1.2+controlify-2.1.2+1.20.1-fabric.jar",
@@ -5770,11 +5770,11 @@
       "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-flight-combat-overhaul-8.19.jar"
     },
     {
-      "name": "arkans-id-loader-4.8.jar",
-      "path": "mods/arkans-id-loader-4.8.jar",
-      "hash": "523cbeadbdd1e548f715f49ce5ef60d0d6b8dd8a",
-      "size": 357087,
-      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-id-loader-4.8.jar"
+      "name": "arkans-id-loader-4.10.jar",
+      "path": "mods/arkans-id-loader-4.10.jar",
+      "hash": "c06b807b6120594c4264726843daa089084c5922",
+      "size": 359730,
+      "url": "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/mods/arkans-id-loader-4.10.jar"
     },
     {
       "name": "arkans-no-tree-punching-1.2.jar",
