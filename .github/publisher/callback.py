@@ -5,6 +5,7 @@ import hmac
 import json
 import pathlib
 import urllib.request
+import time
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--url", required=True)
@@ -29,6 +30,14 @@ request = urllib.request.Request(
     method="POST",
     headers={"Content-Type": "application/json", "X-Arkan-Publisher-Signature": f"sha256={signature}"},
 )
-with urllib.request.urlopen(request, timeout=30) as response:
-    if response.status not in (200, 204):
-        raise SystemExit(f"callback failed: {response.status}")
+last_error = None
+for attempt in range(6):
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            if response.status in (200, 204):
+                raise SystemExit(0)
+            last_error = f"HTTP {response.status}"
+    except Exception as error:
+        last_error = str(error)
+    time.sleep(min(30, 2 ** attempt))
+raise SystemExit(f"callback failed after retries: {last_error}")
