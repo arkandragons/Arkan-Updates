@@ -1,4 +1,4 @@
-name: Promote Standard instance
+name: Promote canonical Launcher edition
 
 on:
   workflow_dispatch:
@@ -21,7 +21,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: arkan-standard-promotion
+  group: arkan-canonical-promotion
   cancel-in-progress: false
 
 jobs:
@@ -42,7 +42,7 @@ jobs:
           fetch-depth: 1
           sparse-checkout: |
             .github/publisher
-            manifest-standard.json
+            manifest-*.json
           sparse-checkout-cone-mode: false
 
       - name: Download private descriptor
@@ -64,7 +64,7 @@ jobs:
             --inventory inventory.json \
             --repository "$GITHUB_REPOSITORY" \
             --mode "${{ inputs.mode }}" \
-            --current-manifest manifest-standard.json \
+            --current-manifest "${{ steps.descriptor.outputs.manifest_filename }}" \
             --output generated-manifest.json
 
       - name: Publish immutable release assets
@@ -73,20 +73,22 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           REVISION="${{ steps.descriptor.outputs.revision }}"
-          gh release create "standard-$REVISION" instance.zip inventory.json generated-manifest.json \
-            --title "Arkan Standard $REVISION" \
+          EDITION="${{ steps.descriptor.outputs.edition_id }}"
+          gh release create "$EDITION-$REVISION" instance.zip inventory.json generated-manifest.json \
+            --title "Arkan ${{ steps.descriptor.outputs.edition_name }} $REVISION" \
             --notes "Publicação canônica validada. Promotion: ${{ inputs.promotion_id }}"
 
-      - name: Move Standard pointer last
+      - name: Move edition pointer last
         if: inputs.mode == 'publish'
         run: |
-          cp generated-manifest.json manifest-standard.json
-          git config user.name "Arkan Standard Publisher"
+          MANIFEST="${{ steps.descriptor.outputs.manifest_filename }}"
+          cp generated-manifest.json "$MANIFEST"
+          git config user.name "Arkan Canonical Publisher"
           git config user.email "publisher@arkandragons.com"
-          git add manifest-standard.json
-          git commit -m "release: promote Arkan Standard ${{ steps.descriptor.outputs.revision }}"
+          git add "$MANIFEST"
+          git commit -m "release: promote ${{ steps.descriptor.outputs.edition_id }} ${{ steps.descriptor.outputs.revision }}"
           git push origin HEAD:main
-          python .github/publisher/verify_public_manifest.py manifest-standard.json
+          python .github/publisher/verify_public_manifest.py "$MANIFEST"
 
       - name: Report validation success
         if: success() && inputs.mode == 'validate'
