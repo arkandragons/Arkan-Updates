@@ -9,6 +9,7 @@ import re
 import stat
 import zipfile
 
+MAX_ARCHIVE = 1_900_000_000
 MAX_FILES = 100_000
 MAX_UNCOMPRESSED = 64 * 1024**3
 MAX_FILE = 4 * 1024**3
@@ -107,6 +108,8 @@ else:
 
 for path, metadata in ((archive_path, descriptor.get("archive") or {}), (inventory_path, descriptor.get("inventory") or {})):
     size = path.stat().st_size
+    if path == archive_path and size > MAX_ARCHIVE:
+        raise SystemExit("archive exceeds GitHub Release asset limit")
     if size != int(metadata.get("size", -1)):
         raise SystemExit(f"size mismatch: {path.name}")
     if digest_file(path) != str(metadata.get("sha256", "")).lower():
