@@ -75,7 +75,7 @@ jobs:
           REVISION="${{ steps.descriptor.outputs.revision }}"
           EDITION="${{ steps.descriptor.outputs.edition_id }}"
           gh release create "$EDITION-$REVISION" instance.zip inventory.json generated-manifest.json \
-            --title "Arkan ${{ steps.descriptor.outputs.edition_name }} $REVISION" \
+            --title "Arkan $EDITION $REVISION" \
             --notes "Publicação canônica validada. Promotion: ${{ inputs.promotion_id }}"
 
       - name: Move edition pointer last
