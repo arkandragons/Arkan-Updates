@@ -199,6 +199,22 @@ for required in (".arkan-pack.json", "options.txt"):
 if not any(name.startswith("mods/") and name.endswith(".jar") for name in actual):
     raise SystemExit("no managed mods found")
 
+runtime = descriptor.get("runtime")
+if not isinstance(pack_descriptor, dict) or not isinstance(runtime, dict):
+    raise SystemExit("pack descriptor or runtime rejected")
+expected_pack = {
+    "packId": "arkan",
+    "edition": edition_id,
+    "minecraftVersion": runtime.get("minecraftVersion"),
+    "modLoader": runtime.get("loader"),
+    "modLoaderVersion": runtime.get("loaderVersion"),
+}
+for field, expected_value in expected_pack.items():
+    if pack_descriptor.get(field) != expected_value:
+        raise SystemExit(f"pack descriptor mismatch: {field}")
+if not isinstance(pack_descriptor.get("version"), str) or not pack_descriptor["version"].strip():
+    raise SystemExit("pack descriptor version rejected")
+
 revision = str(descriptor["revision"])
 tag = f"{edition_id}-{revision}"
 bundle_url = f"https://github.com/{args.repository}/releases/download/{tag}/instance.zip"
