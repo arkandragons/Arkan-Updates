@@ -12,6 +12,17 @@ for key, pattern in required.items():
     value = str(data.get(key, ""))
     if not re.fullmatch(pattern, value, re.I):
         raise SystemExit(f"invalid descriptor field: {key}")
+edition = data.get("edition") or {}
+edition_id = str(edition.get("id", ""))
+manifest_filename = str(edition.get("manifestFilename", ""))
+if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", edition_id):
+    raise SystemExit("invalid edition id")
+if manifest_filename != f"manifest-{edition_id}.json":
+    raise SystemExit("invalid edition manifest")
+print(f"edition_id={edition_id}")
+print(f"edition_name={edition.get('displayName', edition_id)}")
+print(f"manifest_filename={manifest_filename}")
+
 for name in ("archive", "inventory"):
     entry = data.get(name) or {}
     key = str(entry.get("key", ""))
