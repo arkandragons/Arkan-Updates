@@ -20,13 +20,13 @@ if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", edition_id):
 if manifest_filename != f"manifest-{edition_id}.json":
     raise SystemExit("invalid edition manifest")
 print(f"edition_id={edition_id}")
-print(f"edition_name={edition.get('displayName', edition_id)}")
 print(f"manifest_filename={manifest_filename}")
 
 for name in ("archive", "inventory"):
     entry = data.get(name) or {}
     key = str(entry.get("key", ""))
-    if not key.startswith(f"launcher-promotions/{data['promotionId']}/"):
+    expected_key = f"launcher-promotions/{data['promotionId']}/" + ("instance.zip" if name == "archive" else "inventory.json")
+    if key != expected_key:
         raise SystemExit(f"invalid staging key: {name}")
     print(f"{name}_key={key}")
 print(f"revision={data['revision']}")
