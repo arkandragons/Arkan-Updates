@@ -7,7 +7,7 @@ import urllib.request
 
 local = pathlib.Path(sys.argv[1]).read_bytes()
 expected = hashlib.sha256(local).hexdigest()
-url = "https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/manifest-standard.json"
+url = f"https://raw.githubusercontent.com/arkandragons/Arkan-Updates/main/{path.name}"
 for attempt in range(12):
     request = urllib.request.Request(url + f"?verify={time.time_ns()}", headers={"Cache-Control": "no-cache"})
     try:
