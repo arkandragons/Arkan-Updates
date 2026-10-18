@@ -39,6 +39,11 @@ def digest_stream(stream):
     return size, sha1.hexdigest(), sha256.hexdigest()
 
 
+def digest_file(path):
+    with open(path, "rb") as stream:
+        return digest_stream(stream)[2]
+
+
 def canonical_path(raw):
     if not isinstance(raw, str) or not raw or "\\" in raw or raw.startswith("/") or re.match(r"^[A-Za-z]:", raw):
         raise ValueError(f"invalid path: {raw!r}")
@@ -81,19 +86,30 @@ current_path = pathlib.Path(args.current_manifest)
 descriptor = load_json(descriptor_path)
 inventory = load_json(inventory_path)
 
-if descriptor.get("protocol") != 1 or descriptor.get("edition") != "standard":
+edition = descriptor.get("edition") or {}
+edition_id = str(edition.get("id", ""))
+display_name = str(edition.get("displayName", edition_id))
+manifest_filename = str(edition.get("manifestFilename", ""))
+if descriptor.get("protocol") != 2 or not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", edition_id):
     raise SystemExit("descriptor protocol or edition rejected")
+if manifest_filename != f"manifest-{edition_id}.json" or current_path.name != manifest_filename:
+    raise SystemExit("edition manifest path rejected")
 if not re.fullmatch(r"\d{10,20}", str(descriptor.get("revision", ""))):
     raise SystemExit("invalid canonical revision")
-expected_pointer = str(descriptor.get("expectedCurrentManifestSha256", "")).lower()
-if hashlib.sha256(current_path.read_bytes()).hexdigest() != expected_pointer:
-    raise SystemExit("CURRENT_MANIFEST_CHANGED")
+expected_pointer = descriptor.get("expectedCurrentManifestSha256")
+if expected_pointer is None:
+    if current_path.exists():
+        raise SystemExit("CURRENT_MANIFEST_CHANGED")
+else:
+    expected_pointer = str(expected_pointer).lower()
+    if not current_path.exists() or digest_file(current_path) != expected_pointer:
+        raise SystemExit("CURRENT_MANIFEST_CHANGED")
 
 for path, metadata in ((archive_path, descriptor.get("archive") or {}), (inventory_path, descriptor.get("inventory") or {})):
     size = path.stat().st_size
     if size != int(metadata.get("size", -1)):
         raise SystemExit(f"size mismatch: {path.name}")
-    if hashlib.sha256(path.read_bytes()).hexdigest() != str(metadata.get("sha256", "")).lower():
+    if digest_file(path) != str(metadata.get("sha256", "")).lower():
         raise SystemExit(f"sha256 mismatch: {path.name}")
 
 files = inventory.get("files") if isinstance(inventory, dict) else None
@@ -181,20 +197,21 @@ if not any(name.startswith("mods/") and name.endswith(".jar") for name in actual
     raise SystemExit("no managed mods found")
 
 revision = str(descriptor["revision"])
-tag = f"standard-{revision}"
+tag = f"{edition_id}-{revision}"
 bundle_url = f"https://github.com/{args.repository}/releases/download/{tag}/instance.zip"
 inventory_url = f"https://github.com/{args.repository}/releases/download/{tag}/inventory.json"
 generated = {
     "version": revision,
     "generatedAt": dt.datetime.now(dt.timezone.utc).isoformat().replace("+00:00", "Z"),
-    "edition": "standard",
+    "edition": edition_id,
+    "editionName": display_name,
     "runtime": descriptor.get("runtime"),
     "pack": pack_descriptor,
     "bundle": {
         "format": "zip",
         "url": bundle_url,
         "size": archive_path.stat().st_size,
-        "sha256": hashlib.sha256(archive_path.read_bytes()).hexdigest(),
+        "sha256": digest_file(archive_path),
         "inventoryUrl": inventory_url,
         "fileCount": len(actual),
         "totalUncompressedBytes": declared_total,
@@ -202,4 +219,4 @@ generated = {
     "files": [actual[name] for name in sorted(actual, key=lambda value: value.casefold())],
 }
 pathlib.Path(args.output).write_text(json.dumps(generated, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-print(f"validated {len(actual)} files for Standard revision {revision}")
+print(f"validated {len(actual)} files for {display_name} ({edition_id}) revision {revision}")
