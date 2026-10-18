@@ -46,10 +46,10 @@ jobs:
           sparse-checkout-cone-mode: false
 
       - name: Download private descriptor
+        id: descriptor
         run: |
           aws s3 cp "s3://$R2_BUCKET/${{ inputs.descriptor_key }}" promotion.json --endpoint-url "https://$R2_ACCOUNT_ID.r2.cloudflarestorage.com"
           python .github/publisher/prepare_inputs.py promotion.json >> "$GITHUB_OUTPUT"
-        id: descriptor
 
       - name: Download staged artifacts
         run: |
@@ -75,8 +75,7 @@ jobs:
           REVISION="${{ steps.descriptor.outputs.revision }}"
           gh release create "standard-$REVISION" instance.zip inventory.json generated-manifest.json \
             --title "Arkan Standard $REVISION" \
-            --notes "Publicação canônica validada. Promotion: ${{ inputs.promotion_id }}" \
-            --verify-tag
+            --notes "Publicação canônica validada. Promotion: ${{ inputs.promotion_id }}"
 
       - name: Move Standard pointer last
         if: inputs.mode == 'publish'
@@ -89,13 +88,20 @@ jobs:
           git push origin HEAD:main
           python .github/publisher/verify_public_manifest.py manifest-standard.json
 
-      - name: Report success
-        if: success()
+      - name: Report validation success
+        if: success() && inputs.mode == 'validate'
         run: |
-          STATE="${{ inputs.mode == 'publish' && 'published' || 'ready' }}"
           python .github/publisher/callback.py \
             --url "$CALLBACK_URL" --secret "$CALLBACK_SECRET" \
-            --promotion "${{ inputs.promotion_id }}" --state "$STATE" \
+            --promotion "${{ inputs.promotion_id }}" --state ready \
+            --run-id "$GITHUB_RUN_ID"
+
+      - name: Report publication success
+        if: success() && inputs.mode == 'publish'
+        run: |
+          python .github/publisher/callback.py \
+            --url "$CALLBACK_URL" --secret "$CALLBACK_SECRET" \
+            --promotion "${{ inputs.promotion_id }}" --state published \
             --run-id "$GITHUB_RUN_ID" --manifest generated-manifest.json
 
       - name: Report failure
