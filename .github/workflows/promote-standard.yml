@@ -91,6 +91,7 @@ jobs:
           python .github/publisher/verify_public_manifest.py "$MANIFEST"
 
       - name: Report validation success
+        id: callback_validation
         if: success() && inputs.mode == 'validate'
         run: |
           python .github/publisher/callback.py \
@@ -99,6 +100,7 @@ jobs:
             --run-id "$GITHUB_RUN_ID"
 
       - name: Report publication success
+        id: callback_publication
         if: success() && inputs.mode == 'publish'
         run: |
           python .github/publisher/callback.py \
@@ -107,9 +109,9 @@ jobs:
             --run-id "$GITHUB_RUN_ID" --manifest generated-manifest.json
 
       - name: Report failure
-        if: failure()
+        if: failure() && steps.callback_validation.outcome != 'failure' && steps.callback_publication.outcome != 'failure'
         run: |
           python .github/publisher/callback.py \
             --url "$CALLBACK_URL" --secret "$CALLBACK_SECRET" \
-            --promotion "${{ inputs.promotion_id }}" --state failed \
+            --promotion "${{ inputs.promotion_id }}" --state ${{ inputs.mode == 'validate' && 'rejected' || 'failed' }} \
             --run-id "$GITHUB_RUN_ID" --failure "GitHub Actions recusou ou não concluiu a promoção."
