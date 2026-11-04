@@ -15,13 +15,20 @@ parser.add_argument("--state", required=True)
 parser.add_argument("--run-id", required=True)
 parser.add_argument("--manifest")
 parser.add_argument("--failure")
+parser.add_argument("--failure-file")
 args = parser.parse_args()
 
 payload = {"promotionId": args.promotion, "state": args.state, "runId": args.run_id}
 if args.manifest and pathlib.Path(args.manifest).exists():
     payload["manifestSha256"] = hashlib.sha256(pathlib.Path(args.manifest).read_bytes()).hexdigest()
-if args.failure:
-    payload["failure"] = {"message": args.failure}
+failure_message = args.failure
+if args.failure_file and pathlib.Path(args.failure_file).exists():
+    lines = pathlib.Path(args.failure_file).read_text(encoding="utf-8", errors="replace").splitlines()
+    details = next((line.strip() for line in reversed(lines) if line.strip()), "")
+    if details:
+        failure_message = details[:500]
+if failure_message:
+    payload["failure"] = {"message": failure_message}
 body = json.dumps(payload, separators=(",", ":"), ensure_ascii=False).encode()
 signature = hmac.new(args.secret.encode(), body, hashlib.sha256).hexdigest()
 request = urllib.request.Request(

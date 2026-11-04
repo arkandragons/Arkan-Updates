@@ -97,6 +97,9 @@ if manifest_filename != f"manifest-{edition_id}.json" or current_path.name != ma
     raise SystemExit("edition manifest path rejected")
 if not re.fullmatch(r"\d{10,20}", str(descriptor.get("revision", ""))):
     raise SystemExit("invalid canonical revision")
+canonical_version = str(descriptor.get("canonicalVersion", ""))
+if not re.fullmatch(r"(?:0|[1-9]\d*)\.(?:0|[1-9]\d*)\.(?:0|[1-9]\d*)", canonical_version):
+    raise SystemExit("invalid canonical version")
 expected_pointer = descriptor.get("expectedCurrentManifestSha256")
 if expected_pointer is None:
     if current_path.exists():
@@ -220,7 +223,9 @@ tag = f"{edition_id}-{revision}"
 bundle_url = f"https://github.com/{args.repository}/releases/download/{tag}/instance.zip"
 inventory_url = f"https://github.com/{args.repository}/releases/download/{tag}/inventory.json"
 generated = {
+    "schemaVersion": 2,
     "version": revision,
+    "canonicalVersion": canonical_version,
     "generatedAt": dt.datetime.now(dt.timezone.utc).isoformat().replace("+00:00", "Z"),
     "edition": edition_id,
     "editionName": display_name,

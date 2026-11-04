@@ -65,7 +65,8 @@ jobs:
             --repository "$GITHUB_REPOSITORY" \
             --mode "${{ inputs.mode }}" \
             --current-manifest "${{ steps.descriptor.outputs.manifest_filename }}" \
-            --output generated-manifest.json
+            --output generated-manifest.json \
+            2>publisher-error.txt || { cat publisher-error.txt; exit 1; }
 
       - name: Publish immutable release assets
         if: inputs.mode == 'publish'
@@ -114,4 +115,5 @@ jobs:
           python .github/publisher/callback.py \
             --url "$CALLBACK_URL" --secret "$CALLBACK_SECRET" \
             --promotion "${{ inputs.promotion_id }}" --state ${{ inputs.mode == 'validate' && 'rejected' || 'failed' }} \
-            --run-id "$GITHUB_RUN_ID" --failure "GitHub Actions recusou ou não concluiu a promoção."
+            --run-id "$GITHUB_RUN_ID" --failure "GitHub Actions recusou ou não concluiu a promoção." \
+            --failure-file publisher-error.txt

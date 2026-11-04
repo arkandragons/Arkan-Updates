@@ -56,6 +56,7 @@ def write_fixture(root, mutate=None):
             "manifestFilename": "manifest-standard.json",
         },
         "revision": "202610180001",
+        "canonicalVersion": "2.0.1",
         "expectedCurrentManifestSha256": None,
         "runtime": RUNTIME,
         "archive": {"size": archive.stat().st_size, "sha256": sha256(archive)},
@@ -94,8 +95,13 @@ def run_validator(root, mutate=None):
 class ValidatePackDescriptorContractTests(unittest.TestCase):
     def test_accepts_matching_identity_and_runtime(self):
         with tempfile.TemporaryDirectory() as temp:
-            result = run_validator(pathlib.Path(temp))
+            root = pathlib.Path(temp)
+            result = run_validator(root)
+            manifest = json.loads((root / "generated-manifest.json").read_text(encoding="utf-8"))
         self.assertEqual(result.returncode, 0, result.stderr)
+        self.assertEqual(manifest["schemaVersion"], 2)
+        self.assertEqual(manifest["canonicalVersion"], "2.0.1")
+        self.assertEqual(manifest["version"], "202610180001")
 
     def test_rejects_mismatched_identity_or_runtime(self):
         cases = [
